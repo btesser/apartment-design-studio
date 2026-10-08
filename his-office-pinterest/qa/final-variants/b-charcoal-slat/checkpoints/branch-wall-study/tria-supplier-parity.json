@@ -1,0 +1,325 @@
+{
+  "source_file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend",
+  "source_sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+  "supplier_file": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-official-48x27-woodgrain-white.glb",
+  "supplier_sha256": "1122e1e218a4d351b58138637b8d18ada1ec66d2345e7cb2f035dc93e123dbdc",
+  "layout_sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a",
+  "method": "Independent Blender importer reads original supplier GLB after caching current evaluated meshes. Vertex order/topology and expected world-space translation (axis conversion from importer, desktop depth centering, seated upper/middle adjustment) compared directly; no artifact saved.",
+  "checks": [
+    {
+      "mesh": "standing-main-desk::desktop_bracket_right",
+      "supplier_mesh": "desktop_bracket_right",
+      "lift_group": "desktop",
+      "supplier_vertices": 13506,
+      "actual_vertices": 13506,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_rail_front",
+      "supplier_mesh": "frame_rail_front",
+      "lift_group": "desktop",
+      "supplier_vertices": 23788,
+      "actual_vertices": 23788,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_middle_stage",
+      "supplier_mesh": "lifting_column_right_middle_stage",
+      "lift_group": "middle",
+      "supplier_vertices": 18432,
+      "actual_vertices": 18432,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_cover_right",
+      "supplier_mesh": "frame_cover_right",
+      "lift_group": "desktop",
+      "supplier_vertices": 25620,
+      "actual_vertices": 25620,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::cable_door_lid",
+      "supplier_mesh": "cable_door_lid",
+      "lift_group": "desktop",
+      "supplier_vertices": 7839,
+      "actual_vertices": 7839,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.4901161193847656e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_left_front",
+      "supplier_mesh": "leveling_glide_left_front",
+      "lift_group": "fixed",
+      "supplier_vertices": 9734,
+      "actual_vertices": 9734,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.228781230931777e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_inner_stage",
+      "supplier_mesh": "lifting_column_right_inner_stage",
+      "lift_group": "desktop",
+      "supplier_vertices": 18116,
+      "actual_vertices": 18116,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.1920928955078125e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_right_rear",
+      "supplier_mesh": "leveling_glide_right_rear",
+      "lift_group": "fixed",
+      "supplier_vertices": 9721,
+      "actual_vertices": 9721,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.2013700229374393e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_head",
+      "supplier_mesh": "lifting_column_left_head",
+      "lift_group": "desktop",
+      "supplier_vertices": 45337,
+      "actual_vertices": 45337,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_outer_stage",
+      "supplier_mesh": "lifting_column_right_outer_stage",
+      "lift_group": "fixed",
+      "supplier_vertices": 33137,
+      "actual_vertices": 33137,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_middle_stage",
+      "supplier_mesh": "lifting_column_left_middle_stage",
+      "lift_group": "middle",
+      "supplier_vertices": 18432,
+      "actual_vertices": 18432,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::desktop_bracket_left",
+      "supplier_mesh": "desktop_bracket_left",
+      "lift_group": "desktop",
+      "supplier_vertices": 13506,
+      "actual_vertices": 13506,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_end_right",
+      "supplier_mesh": "frame_end_right",
+      "lift_group": "desktop",
+      "supplier_vertices": 79872,
+      "actual_vertices": 79872,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_rail_rear",
+      "supplier_mesh": "frame_rail_rear",
+      "lift_group": "desktop",
+      "supplier_vertices": 23792,
+      "actual_vertices": 23792,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_left_rear",
+      "supplier_mesh": "leveling_glide_left_rear",
+      "lift_group": "fixed",
+      "supplier_vertices": 9764,
+      "actual_vertices": 9764,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.2013700229374393e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::cable_door",
+      "supplier_mesh": "cable_door",
+      "lift_group": "desktop",
+      "supplier_vertices": 6358,
+      "actual_vertices": 6358,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.4901161193847656e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_head",
+      "supplier_mesh": "lifting_column_right_head",
+      "lift_group": "desktop",
+      "supplier_vertices": 45337,
+      "actual_vertices": 45337,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_cover_left",
+      "supplier_mesh": "frame_cover_left",
+      "lift_group": "desktop",
+      "supplier_vertices": 25620,
+      "actual_vertices": 25620,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_outer_stage",
+      "supplier_mesh": "lifting_column_left_outer_stage",
+      "lift_group": "fixed",
+      "supplier_vertices": 33137,
+      "actual_vertices": 33137,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.384185791015625e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::felt_cable_organizer",
+      "supplier_mesh": "felt_cable_organizer",
+      "lift_group": "desktop",
+      "supplier_vertices": 3244,
+      "actual_vertices": 3244,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::keypad",
+      "supplier_mesh": "keypad",
+      "lift_group": "desktop",
+      "supplier_vertices": 35847,
+      "actual_vertices": 35847,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_right_front",
+      "supplier_mesh": "leveling_glide_right_front",
+      "lift_group": "fixed",
+      "supplier_vertices": 9731,
+      "actual_vertices": 9731,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.228781230931777e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::foot_left",
+      "supplier_mesh": "foot_left",
+      "lift_group": "fixed",
+      "supplier_vertices": 12236,
+      "actual_vertices": 12236,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.228781230931777e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::control_box",
+      "supplier_mesh": "control_box",
+      "lift_group": "desktop",
+      "supplier_vertices": 63714,
+      "actual_vertices": 63714,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_end_left",
+      "supplier_mesh": "frame_end_left",
+      "lift_group": "desktop",
+      "supplier_vertices": 79872,
+      "actual_vertices": 79872,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::cable_door_brush",
+      "supplier_mesh": "cable_door_brush",
+      "lift_group": "desktop",
+      "supplier_vertices": 24,
+      "actual_vertices": 24,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::foot_right",
+      "supplier_mesh": "foot_right",
+      "lift_group": "fixed",
+      "supplier_vertices": 12236,
+      "actual_vertices": 12236,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.228781230931777e-07,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::desktop",
+      "supplier_mesh": "desktop",
+      "lift_group": "desktop",
+      "supplier_vertices": 16787,
+      "actual_vertices": 16787,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::keypad_controls",
+      "supplier_mesh": "keypad_controls",
+      "lift_group": "desktop",
+      "supplier_vertices": 8894,
+      "actual_vertices": 8894,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 2.9802322387695312e-08,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_inner_stage",
+      "supplier_mesh": "lifting_column_left_inner_stage",
+      "lift_group": "desktop",
+      "supplier_vertices": 18116,
+      "actual_vertices": 18116,
+      "face_indices_identical": true,
+      "max_world_point_deviation_m": 1.1920928955078125e-07,
+      "pass": true
+    }
+  ],
+  "all_supplier_components_unscaled_and_correctly_positioned": true,
+  "supplier_top_width_depth_m": [
+    1.2000001668930054,
+    0.685000091791153
+  ],
+  "published_top_width_depth_m": [
+    1.19888,
+    0.6858
+  ],
+  "catalog_CAD_rounding_disclosed": true,
+  "limits": [
+    "Two-micrometre comparison tolerance is export/import numerical precision, not site or vendor manufacturing accuracy.",
+    "CAD geometry is supplier Woodgrain/White example; BlackOak/Charcoal finish is a selected material substitution. Product dimensions rounded differently by catalogue and CAD are disclosed."
+  ],
+  "review_status": "CHECKPOINT ONLY \u2014 Branch wall study; superseded composition and confirmed owned-chair/equipment revision pending. No final room-fit or60cmroute claim."
+}

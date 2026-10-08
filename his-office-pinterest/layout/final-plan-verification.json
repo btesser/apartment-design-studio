@@ -1,0 +1,13 @@
+{
+  "checkpoint": "Root-approved UPLIFT checkpoint; replacement-desk decision pending",
+  "pages": 1,
+  "text_outside_page": [],
+  "canonical_layout_file": "/workspace/his-office-pinterest/model/layout.json",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "png_sha256": "2210b8c054e74737170badfb979d7f6efc0f24289bf3e1ba73b15fcb5b507a81",
+  "pdf_sha256": "b073df3015cee2ab934294bc0a60289b727220e2320da0ef4d1bf1df8cd4d7e9",
+  "item_count": 12,
+  "bench_model_height_m": 0.734925,
+  "bench_catalog_nominal_height_m": 0.73,
+  "note": "Support/top contact height refined; X/Y floor plan unchanged. Final plan source now canonical model/layout.json."
+}

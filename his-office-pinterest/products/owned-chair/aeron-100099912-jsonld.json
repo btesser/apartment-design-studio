@@ -1,0 +1,2968 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "ProductGroup",
+  "productGroupID": "2195348",
+  "name": "Aeron Chair",
+  "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/2195348.html?lang=en_US",
+  "variesBy": [
+    "https://schema.org/size"
+  ],
+  "hasVariant": [
+    {
+      "@type": "Product",
+      "sku": "100099912",
+      "name": "Aeron Chair, Graphite / Graphite, Size C - Large, Adjustable Posturefit SL, Basic, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099912.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 1930,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/b1583500-e3a1-4be4-868c-2d98cb4824fa/W/AeronChair_100099912_Front.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249084",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249084.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2260,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/758ec127-6426-4698-83ae-eabadc0d27ce/W/HM_AER_2195348_100248968_black_black_a.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249085",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Basic Back Support, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249085.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2365,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34228ff4-437b-4762-aa80-46fb288b05c2/W/HM_AER_61568.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103238",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size C - Large, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103238.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2685,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/e7b499a7-f400-4ce3-81bc-70fd12c672c6/W/AeronChair_100102850_Front.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249082",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Basic Back Support, Basic, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249082.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2260,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/758ec127-6426-4698-83ae-eabadc0d27ce/W/HM_AER_2195348_100248968_black_black_a.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249083",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Basic Back Support, Basic, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249083.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2260,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/758ec127-6426-4698-83ae-eabadc0d27ce/W/HM_AER_2195348_100248968_black_black_a.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103236",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size B - Medium, Adjustable Lumbar Support, Basic, Fixed Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103236.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2200,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/22ae8a4b-9ca1-489a-8b58-3620ed602f52/W/AeronChair_100103236_Front.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249080",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Basic Back Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249080.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2230,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34228ff4-437b-4762-aa80-46fb288b05c2/W/HM_AER_61568.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103237",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size B - Medium, Basic Back Support, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103237.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2495,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/bbf3cbae-b418-420c-8df5-e9f066c80d96/W/AeronChair_100103237_Front.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249081",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Basic Back Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249081.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2230,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34228ff4-437b-4762-aa80-46fb288b05c2/W/HM_AER_61568.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249088",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Adjustable Lumbar Support, Basic, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249088.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2070,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/dda00b61-9c97-4ae7-8bb3-89ca1a0c4316/W/HM_AER_2195348_100248980_black_black_a.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100081367",
+      "name": "Aeron Chair, Graphite / Graphite, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100081367.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2045,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/01193289-0116-41d5-9849-54aec731dcc4/W/HM_2195348_100077411_graphite_f.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249089",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Adjustable Lumbar Support, Basic, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249089.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2070,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/dda00b61-9c97-4ae7-8bb3-89ca1a0c4316/W/HM_AER_2195348_100248980_black_black_a.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249086",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Basic Back Support, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249086.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2365,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34228ff4-437b-4762-aa80-46fb288b05c2/W/HM_AER_61568.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249087",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Basic Back Support, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249087.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2365,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34228ff4-437b-4762-aa80-46fb288b05c2/W/HM_AER_61568.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100080029",
+      "name": "Aeron Chair, Graphite / Graphite, Size C - Large, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100080029.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2440,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/1008c72d-64bd-4146-905e-3e54dfd39b53/W/HM_2195348_100069170_graphite_f-tif.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103474",
+      "name": "Aeron Chair, Graphite / Graphite, Size B - Medium, Basic Back Support, Basic, Height-Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103474.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2155,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/01193289-0116-41d5-9849-54aec731dcc4/W/HM_2195348_100077411_graphite_f.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103475",
+      "name": "Aeron Chair, Mineral / Satin Aluminum, Size B - Medium, Basic Back Support, Basic, Height-Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103475.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2390,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/e2e77f53-1ef9-45e9-8985-48177964f6a6/W/AeronChair_100103475_Front.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Satin Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103472",
+      "name": "Aeron Chair, Graphite / Polished Aluminum, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103472.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2450,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34fe2aeb-7b54-462e-a346-34fdcce9d34e/W/HM_2195348_100100021_graphite_polished_f.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103473",
+      "name": "Aeron Chair, Graphite / Polished Aluminum, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103473.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2315,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/34fe2aeb-7b54-462e-a346-34fdcce9d34e/W/HM_2195348_100100021_graphite_polished_f.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249095",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Adjustable Lumbar Support, Basic, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249095.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2205,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/b02524b6-908f-4edd-b317-f72ed37b4965/W/HM_AER_2195348_100248986_black_black_a.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249096",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Adjustable Lumbar Support, Basic, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249096.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2205,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/b02524b6-908f-4edd-b317-f72ed37b4965/W/HM_AER_2195348_100248986_black_black_a.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103249",
+      "name": "Aeron Chair, Mineral / Satin Aluminum, Size B - Medium, Basic Back Support, Basic, Fixed Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103249.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2255,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/e1e2e907-c030-44da-9eb2-8e1343e5e152/W/AeronChair_100103249_Front.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Satin Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249093",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249093.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2175,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/f9a6f36e-9277-4a5f-ab9c-767730885c8d/W/HM_AER_2195348_100248983_black_black_a.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249094",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Adjustable Lumbar Support, Basic, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249094.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2205,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/b02524b6-908f-4edd-b317-f72ed37b4965/W/HM_AER_2195348_100248986_black_black_a.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103005",
+      "name": "Aeron Chair, Mineral / Satin Aluminum, Size B - Medium, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103005.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2730,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/9eb6f19e-5dd9-4015-8b20-47268fab7c87/W/HM_2195348_100069177_mineral_f.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Satin Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103247",
+      "name": "Aeron Chair, Graphite / Polished Aluminum, Size A - Small, Adjustable Lumbar Support, Basic, Height-Adjustable Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103247.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2205,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/b07c9dab-3dbb-4378-b4ed-a5f0f7144507/W/AeronChair_100103247_Front.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249091",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249091.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2175,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/f9a6f36e-9277-4a5f-ab9c-767730885c8d/W/HM_AER_2195348_100248983_black_black_a.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103248",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size A - Small, Adjustable Lumbar Support, Basic, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103248.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2255,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/fc1a9825-a37d-4bda-8dba-a5db54f123e7/W/AeronChair_100103248_Front.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249092",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249092.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2175,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/f9a6f36e-9277-4a5f-ab9c-767730885c8d/W/HM_AER_2195348_100248983_black_black_a.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103245",
+      "name": "Aeron Chair, Mineral / Satin Aluminum, Size A - Small, Basic Back Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103245.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2440,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/fedfac2a-cd6f-4782-b09a-065e51eaf19e/W/REK_18126_20160811174043689.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Satin Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103004",
+      "name": "Aeron Chair, Graphite / Polished Aluminum, Size B - Medium, Adjustable Lumbar Support, Basic, Fixed Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103004.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2070,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/5512d221-4e28-48ee-855c-783bf5d01d50/W/AeronChair_100103004_Front.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103246",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size A - Small, Adjustable Lumbar Support, Basic, Height-Adjustable Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103246.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2335,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/e5d4f216-04bc-4a8c-932c-a38840cce5da/W/AeronChair_100103794_Front.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100105665",
+      "name": "Aeron Chair, Graphite / Graphite, Size B - Medium, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100105665.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2360,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/1008c72d-64bd-4146-905e-3e54dfd39b53/W/HM_2195348_100069170_graphite_f-tif.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249090",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Adjustable Lumbar Support, Basic, Fixed Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249090.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2070,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/dda00b61-9c97-4ae7-8bb3-89ca1a0c4316/W/HM_AER_2195348_100248980_black_black_a.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100080047",
+      "name": "Aeron Chair, Graphite / Graphite, Size A - Small, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100080047.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2115,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/1008c72d-64bd-4146-905e-3e54dfd39b53/W/HM_2195348_100069170_graphite_f-tif.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249097",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249097.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2310,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/8e705f8c-e572-4aff-b02d-6cc2dee5e458/W/HM_AER_61571.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249098",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249098.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2310,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/8e705f8c-e572-4aff-b02d-6cc2dee5e458/W/HM_AER_61571.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103243",
+      "name": "Aeron Chair, Graphite / Polished Aluminum, Size A - Small, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103243.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2575,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/9f5a6fa1-f88b-4a27-ac79-15ddbe64889a/W/HM_2195348_100069185_graphite_polished_all_f.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103244",
+      "name": "Aeron Chair, Graphite / Graphite, Size A - Small, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103244.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2360,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/1008c72d-64bd-4146-905e-3e54dfd39b53/W/HM_2195348_100069170_graphite_f-tif.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100099909",
+      "name": "Aeron Chair, Mineral / Satin Aluminum, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099909.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2470,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/3c19a51c-19a3-4010-bef9-61e0dbfde38f/W/AeronChair_100099909_Front.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Satin Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103218",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size C - Large, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Fixed Arms, Leather, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103218.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2570,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/48206add-6dbf-498c-bf16-9ff35822d5fc/W/AeronChair_100102616_Front.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249062",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size B - Medium, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249062.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2465,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/c0933629-7a01-44a8-9834-430446046b31/W/HM_AER_61524.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103219",
+      "name": "Aeron Chair, Mineral / Polished Aluminum, Size B - Medium, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Fixed Arms, Standard, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103219.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2305,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/ec681b33-a782-4ee7-b78b-a9f6ed229956/W/AeronChair_100103219_Front.png",
+      "size": "Size B - Medium",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Polished Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fixed Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249063",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249063.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2465,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/c0933629-7a01-44a8-9834-430446046b31/W/HM_AER_61524.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103216",
+      "name": "Aeron Chair, Mineral / Satin Aluminum, Size C - Large, Adjustable Lumbar Support, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Standard, Multi-Surface Caster with Quiet Roll",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103216.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2520,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/5a2ffaca-3f0a-4a3b-8366-8deca84d3ef5/W/AeronChair_100103216_Front.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Mineral / Satin Aluminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Lumbar Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Standard"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Multi-Surface Caster with Quiet Roll"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249060",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size C - Large, Adjustable Posturefit SL, Basic, Height-Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249060.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2360,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/30c81dc5-1c24-49c6-b2b3-3f51e13f4b58/W/HM_AER_2195348_100249004_black_black_a.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Basic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103217",
+      "name": "Aeron Chair, Graphite / Graphite, Size C - Large, Basic Back Support, Tilt Limiter and Seat Angle, Fully Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103217.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2340,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/f531c91b-7bb8-4837-8d82-d63f5d49748f/W/HM_2195348_100099566_graphite_f.png",
+      "size": "Size C - Large",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Fully Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100103459",
+      "name": "Aeron Chair, Graphite / Graphite, Size A - Small, Basic Back Support, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103459.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2205,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/f531c91b-7bb8-4837-8d82-d63f5d49748f/W/HM_2195348_100099566_graphite_f.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Graphite / Graphite"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Basic Back Support"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "sku": "100249061",
+      "name": "Aeron Chair, Black / Onyx Ultra Matte, Size A - Small, Adjustable Posturefit SL, Tilt Limiter and Seat Angle, Height-Adjustable Arms, Leather, Carpet Caster",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249061.html?lang=en_US",
+        "priceCurrency": "USD",
+        "price": 2465,
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+      },
+      "image": "https://images.hermanmiller.group/asset/c0933629-7a01-44a8-9834-430446046b31/W/HM_AER_61524.png",
+      "size": "Size A - Small",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Frame / Base",
+          "value": "Black / Onyx Ultra Matte"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Back Support",
+          "value": "Adjustable Posturefit SL"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tilt",
+          "value": "Tilt Limiter and Seat Angle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arms",
+          "value": "Height-Adjustable Arms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Armpad",
+          "value": "Leather"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Caster",
+          "value": "Carpet Caster"
+        }
+      ]
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103456.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103457.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103212.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103454.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103213.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103455.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249068.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249069.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249066.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249067.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249064.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249065.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103210.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103452.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103694.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099911.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103211.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103453.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103695.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100074857.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103450.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103693.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099913.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249073.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249074.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103227.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249071.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249072.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103467.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103226.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103468.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249070.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103466.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249079.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249077.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249078.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249075.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249076.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103463.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099900.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099904.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103438.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249040.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103439.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249041.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102589.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103436.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103437.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102587.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102588.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102585.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103432.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102586.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103433.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249048.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249049.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249046.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249047.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100078390.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249044.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249045.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249042.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249043.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102583.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103431.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102581.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102582.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102580.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103207.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103449.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249051.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103208.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249052.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103205.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103447.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103206.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103448.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249050.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102598.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103203.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103445.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102599.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103204.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103446.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102596.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103201.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103443.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102597.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103202.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103444.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249059.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249057.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100080243.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249058.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249055.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249056.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103209.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249053.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249054.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102594.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103441.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103683.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102595.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103200.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103442.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102592.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103681.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102593.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103682.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102590.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102591.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102569.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103658.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102567.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103656.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102568.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103657.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102565.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103412.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103654.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102566.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103413.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103655.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103652.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103653.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249026.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249027.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249024.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249025.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249022.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249023.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249020.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249021.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249028.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249029.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103650.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103651.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103669.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249030.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102578.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102579.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103668.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102576.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102577.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102574.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103421.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102575.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249037.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249038.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249035.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249036.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249033.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249034.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249031.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249032.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100249039.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102572.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102573.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102570.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100102571.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103079.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100083952.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103080.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100073910.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103087.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103088.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100091328.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103059.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103056.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103057.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103296.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103297.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103060.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103065.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103066.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103063.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103039.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100077466.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100077461.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103035.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103274.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103275.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100105694.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103272.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100077469.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103270.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103271.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100088127.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103289.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100077477.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100077472.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103281.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100090456.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103258.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103259.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100105678.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103256.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103015.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100103257.html?lang=en_US"
+    },
+    {
+      "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100077482.html?lang=en_US"
+    }
+  ],
+  "description": "The Aeron Chair revolutionized office seating with its defining design qualities: the pioneering 8Z Pellicle suspension material and its patented PostureFit SL back support, which affords the ideal sitting position\u2014chest open, shoulders back, pelvis tilted slightly forward. Combining a deep knowledge of human-centered design with cutting-edge technology, the Aeron Chair is engineered with state-of-the-art adjustability, including the arms, seat height, and recline, to help you maintain the optimal posture so you can focus on the task at hand. It\u2019s offered in three sizes, bringing the greatest comfort to the widest range of users.",
+  "image": "https://images.hermanmiller.group/asset/b1583500-e3a1-4be4-868c-2d98cb4824fa/W/AeronChair_100099912_Front.png",
+  "brand": {
+    "@type": "Brand",
+    "name": "Herman Miller"
+  }
+}

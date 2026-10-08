@@ -1,0 +1,79 @@
+{
+  "plan": "layout/final-furnished-plan.png",
+  "final_geometry_qa_ready": false,
+  "final_images_accepted": false,
+  "layout_source": "model/layout.json",
+  "qa_source": "qa/final-variants/QA-REPORT.json",
+  "operation_notes": [
+    "Two independent worktops face the existing workwall: vendor-sized Tria standing desk plus clear140\u00d760cm project bench. One primary task chair can transfer between them.",
+    "Office items go in the LEFT five-drawer ALEX; folded clothes in the three-drawer STORKLINTA. Three GREJIG racks are conditional inside the unrecorded closet.",
+    "Tuck the task chair before fully opening clothes drawers or moving past that area. Drawer access and maximum chair pullback are sequential uses.",
+    "Keep the entry-to-rear route, closet approach, window, radiator and sealed fireplace visible and clear. Review the final model for physical fit."
+  ],
+  "fit_comparison": [
+    [
+      "Earlier two-chair plan",
+      "50cm nominal route;55cm failed"
+    ],
+    [
+      "Final one-chair plan",
+      "Final independent route result pending"
+    ],
+    [
+      "Dresser fully open + chair pulled back",
+      "Sequential use; tuck chair for drawer access"
+    ]
+  ],
+  "fit_note": "Scan outline uncertainty is about5\u201312cm. Modeled nominal routes are planning checks, not site or accessibility guarantees.",
+  "operation_summary": "Final numerical operation proof will be cited after the final variant model review.",
+  "variants": {
+    "B": {
+      "renders": {
+        "a": "variants/b-charcoal-slat/model/renders/room-a.jpg",
+        "b": "variants/b-charcoal-slat/model/renders/room-b.jpg",
+        "c": "variants/b-charcoal-slat/model/renders/room-c.jpg"
+      },
+      "concepts": {
+        "a": "variants/b-charcoal-slat/images/concept-a.png",
+        "b": "variants/b-charcoal-slat/images/concept-b.png",
+        "c": "variants/b-charcoal-slat/images/concept-c.png"
+      }
+    },
+    "C": {
+      "renders": {
+        "a": "variants/c-ink-studio/model/renders/room-a.jpg",
+        "b": "variants/c-ink-studio/model/renders/room-b.jpg",
+        "c": "variants/c-ink-studio/model/renders/room-c.jpg"
+      },
+      "concepts": {
+        "a": "variants/c-ink-studio/images/concept-a.png",
+        "b": "variants/c-ink-studio/images/concept-b.png",
+        "c": "variants/c-ink-studio/images/concept-c.png"
+      }
+    }
+  },
+  "view_titles": {
+    "a": "Across the workwall",
+    "b": "Toward the worktops",
+    "c": "Brick, storage and visitor seat"
+  },
+  "source_files": [
+    "products/selected-products.json",
+    "products/proposal-complements/cool-complements.json",
+    "products/wall-finish-candidates/wall-finish-proposals.json",
+    "research/dark-proposals/dark-direction-proposals.json",
+    "images/reference-boards/dark-reference-boards.sources.json"
+  ],
+  "owned_task_chair": {
+    "id": "herman-miller-owned",
+    "name": "Owned gray Herman Miller XL",
+    "price_USD": 0,
+    "line_total_USD": 0,
+    "quantity": 1,
+    "owned": true,
+    "official_image_file": "products/owned-chair/model-confirmation-pending.jpg",
+    "source_url": null,
+    "dimensions_note": "Exact model / footprint / photo pending.",
+    "note": "One owned ergonomic chair; no chair purchase. Final fit uses its confirmed geometry."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "stage": "Composition proposal before revised Blender model",
+  "status": "New common composition for two separate user-selected B/C directions; products and additions await fit verification. Sparse earlier wall studies superseded.",
+  "brief": "Make the entire office feel designed: one anchored workspace, a lit storage console and a calm visitor corner.",
+  "zones": [
+    {
+      "id": "work",
+      "title": "An anchored work area",
+      "description": "Two independent desk surfaces read as one workspace inside a dark wrap on the existing workwall and adjacent window wall. A gray felt/slate mat grounds the primary worktop. Keep its standing-height envelope clear. Over the fixed project bench, center a shallow black115cm ledge with small books/plant groups, then hang the exact Richmond landscape print above it. One owned Mineral Aeron serves both surfaces."
+    },
+    {
+      "id": "console",
+      "title": "A lit clothes-storage console",
+      "description": "The dark three-drawer chest becomes an intentional console: one opal-glass decorative lamp and a modest tray. White opal/lightgray repeat the owned Honeywell/Aeron highlights; leave useful top space and tuck the task chair for drawer access."
+    },
+    {
+      "id": "lounge",
+      "title": "A calm visitor corner",
+      "description": "The gray-blue boucl\u00e9 chair and quiet graphic Rift rug tie the cool walls together. A modest palm gives the brick-side corner a vertical green layer only if its actual foliage clears the chair, closet and door routes. The brown wicker cat tree is retained as a natural counterpoint."
+    }
+  ],
+  "alternatives": {
+    "B": {
+      "name": "Charcoal + Slat Bay",
+      "wall": "PeppercornSW7674 #585858 wraps workwall and adjacent windowwall. FIVE60cm BlackAsh/BlackFelt panels form a bounded3m-wide\u00d72.4m-high bay across BOTHdesk sections. Keep white ceiling/trim and existing brick.",
+      "panels_USD": 974.75
+    },
+    "C": {
+      "name": "Ink Studio",
+      "wall": "NavalSW6244 #2F3D4C wraps the same two existing walls. Smooth matte paint; no copied Pin grooves or extra shelves. The shared ledge/art, console and lounge composition creates the depth."
+    }
+  },
+  "retained_architecture": [
+    "Room outline and openings",
+    "Existing white ceiling/trim",
+    "Existing brick and sealed fireplace",
+    "Oak floor",
+    "Window, radiator, pipe and built-in shelf nook"
+  ],
+  "retained_products": [
+    "Owned Mineral/lightgray HermanMillerAeron Large/SizeC",
+    "Owned white Honeywell02E openhead lamp",
+    "Owned brown MUTTROS threebasket cat tree"
+  ],
+  "new_core_budget_USD": 2070.1,
+  "pricing_note": "New decorative pieces additional; Bpanels974.75USD extra. Paint, fixing, installation, tax/shipping not yet priced. Owned items excluded.",
+  "approval_note": "User requested a cohesive composition before further modeling. Root will show this concrete proposal, then fit-check and implement within the requested scope.",
+  "geometry_note": "Plan sketch uses actual source outline and current canonical anchors. New small decor/plant/shelf placements are proposals until independent fit checks. This proposal contains original source photos and diagrams, no fabricated room renders."
+}

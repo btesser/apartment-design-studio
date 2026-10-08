@@ -1,0 +1,76 @@
+{
+  "status": "Preserved UPLIFT checkpoint; root evaluating replacement standing desk before final rendering",
+  "source_unchanged_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "files": [
+    {
+      "file": "his-office-pinterest-door-leaves.glb",
+      "bytes": 167544,
+      "sha256": "4f7caa9e247a24c28b920fef94ff5bfc0b6a4aafd23046ad81ab6b8b48fda382"
+    },
+    {
+      "file": "scene_tools.py",
+      "bytes": 7847,
+      "sha256": "0ade01ca7240515a0c11e7a30c162487a5e12ae0fe204362449ce69baa973e2f"
+    },
+    {
+      "file": "layout.json",
+      "bytes": 11205,
+      "sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a"
+    },
+    {
+      "file": "render_revision.py",
+      "bytes": 2103,
+      "sha256": "543a7e9c9d1a381fb3e23027b22e3998c13244e8d612a91c1b4501a00b44fbfc"
+    },
+    {
+      "file": "chosen_products.py",
+      "bytes": 6585,
+      "sha256": "bd7ac275ccd5923988d7ef93daf9e0b6b01e6a8018651d7012bd39f67d19e331"
+    },
+    {
+      "file": "build_revision.py",
+      "bytes": 7939,
+      "sha256": "a26158ee76df03c4c1b1afa673581957235fb726dfa496257a60883ee2eb1b46"
+    },
+    {
+      "file": "his-office-pinterest-furniture.glb",
+      "bytes": 12064316,
+      "sha256": "a5fccee982da2aa92f8e188b6b91064da49367a22460897c1af6967794001907"
+    },
+    {
+      "file": "camera-poses.json",
+      "bytes": 4048,
+      "sha256": "d54317d9dd0e72c002e19c65a339e88724e9fe2c2c0071085b29724deb64e0ca"
+    },
+    {
+      "file": "his-office-pinterest-design.blend",
+      "bytes": 26427295,
+      "sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606"
+    },
+    {
+      "file": "revision-recipe.json",
+      "bytes": 2133,
+      "sha256": "8b8c967ed0daf0edf45eda3398374485b978238306680dbcac09b2b80a7718d3"
+    },
+    {
+      "file": "his-office-pinterest-design.glb",
+      "bytes": 12965372,
+      "sha256": "5f207af52e6674e44cbf47a67bd6211a2b2e6b448294096e3e10945b883352a8"
+    },
+    {
+      "file": "revision-build-report.json",
+      "bytes": 5221,
+      "sha256": "0332c976525396923bcedfa687e5c62c07704022ac761fb220a444ffb8a17e73"
+    },
+    {
+      "file": "his-office-pinterest-shell.glb",
+      "bytes": 739892,
+      "sha256": "04736dbd200cd78829215a72bcb3ff0d4a96a4db69855f979e8a92449989bc90"
+    },
+    {
+      "file": "previews/room-a.jpg",
+      "bytes": 347843,
+      "sha256": "c9a8889c679cff58e42f7d1b3f0a3b66daeacdaeda8f6e68198312515972586e"
+    }
+  ]
+}

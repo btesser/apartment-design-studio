@@ -1,0 +1,192 @@
+{
+  "limits": [
+    "ALEX50cm extension is a hypothetical conservative planning envelope, not a verified manufacturer drawer travel. Actual hardware/extension needs measurement.",
+    "STORKLINTA27.6225cm travel retailer-verified.",
+    "No triangle/height proof here; floor envelopes, generic5\u201312cm room accuracy applies.",
+    "Passing connected route does not establish comfortable standing between an open drawer and a pulled-back chair. Primary chair should be tucked for comfortable clothes access."
+  ],
+  "ALEX_assumed_extension_m": 0.5,
+  "STORKLINTA_verified_extension_m": 0.276225,
+  "ALEX_open_drawer_to_primary_caster_min_horizontal_gap_m": 0.23947999999999947,
+  "dresser_open_drawer_to_primary_caster_gap_working_m": 0.7935425,
+  "dresser_open_drawer_to_primary_caster_gap_primary_pullback_m": 0.3435425000000001,
+  "visitor_front_to_closed_second_bench_front_gap_m": 1.2594750000000001,
+  "visitor_to_entry_planning_rectangle_x_gap_m": 0.32932500000000076,
+  "visitor_rear_to_conservative_hearth_gap_m": 0.08947499999999975,
+  "variants": [
+    {
+      "variant": "working_both_closed",
+      "continuous_route_checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.7013051660379706
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.319511871507228
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.946644962855749
+          ]
+        }
+      ],
+      "unintended_floor_scenario_overlaps_m2": []
+    },
+    {
+      "variant": "working_ALEX_open_assumed50cm",
+      "continuous_route_checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.417031225836304
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.036488605317808
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.6651056749019393
+          ]
+        }
+      ],
+      "unintended_floor_scenario_overlaps_m2": []
+    },
+    {
+      "variant": "pulledback_ALEX_open_assumed50cm",
+      "continuous_route_checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.9719070198862263,
+            0.0014904790350986133
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.577954797790611
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.193508715606279
+          ]
+        }
+      ],
+      "unintended_floor_scenario_overlaps_m2": []
+    },
+    {
+      "variant": "working_clothes_drawer_open_verified27_6225cm",
+      "continuous_route_checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.370293779580987
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.9748159909896623
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.5884158177622307
+          ]
+        }
+      ],
+      "unintended_floor_scenario_overlaps_m2": []
+    },
+    {
+      "variant": "pulledback_clothes_drawer_open_verified27_6225cm",
+      "continuous_route_checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.357872836959225,
+            3.695144153202083
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.29683824689798327,
+            3.379205268394111
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.24260154203108145,
+            3.073484073686679
+          ]
+        }
+      ],
+      "unintended_floor_scenario_overlaps_m2": []
+    }
+  ],
+  "item_count": 12,
+  "checkpoint": "Root-approved UPLIFT checkpoint; any subsequent desk substitution requires refreshed checks",
+  "proposal_layout_sha256": "e0c07d3d7d357afd294f7eb7440781a38e63a9d7c840ead9bf4786cdbfecd13d",
+  "canonical_layout_file": "/workspace/his-office-pinterest/model/layout.json",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a"
+}

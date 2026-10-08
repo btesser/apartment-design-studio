@@ -1,0 +1,274 @@
+{
+  "created_UTC": "2026-10-08T18:51:01.263383+00:00",
+  "authoring": "Full original photographs typeset in ReportLab PDF, rasterized with pdftoppm at150DPI. No cropping, retouching, substitutions or original pixel edits.",
+  "original_images_modified": false,
+  "source_photographs": {
+    "products/photos/uplift-live-edge-pheasantwood-front.jpg": {
+      "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+      "image_source_url": "https://images.ctfassets.net/t27d8cst70un/26dZz6pXZvbkmYgmnD8JCo/ca9431f07851e327bdcb95da3c0ac38c/live-edge-pheasantwood-front.jpg",
+      "product_or_pin_url": "https://www.upliftdesk.com/desktop-lookbook/",
+      "role": "OWNED UPLIFT V2 \u2014 exact finish",
+      "full_original_contained": true
+    },
+    "products/photos/uplift-v2-c-frame-industrial-official.png": {
+      "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280x1280/products/818/6352/desk-build-v2-frame-60-metallic__28533.1579303493.png?c=2",
+      "product_or_pin_url": "https://www.upliftdesk.com/desktop-lookbook/",
+      "role": "OWNED UPLIFT V2 \u2014 exact finish",
+      "full_original_contained": true
+    },
+    "products/photos/honeywell-B0C3BVYTXP-MAIN.jpg": {
+      "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8",
+      "image_source_url": "https://m.media-amazon.com/images/I/41jkWMsi6EL._AC_SL1500_.jpg",
+      "product_or_pin_url": "https://honeywellsmartlighting.com/products/02e-pro",
+      "role": "OWNED Honeywell 02E Pro \u2014 white",
+      "full_original_contained": true
+    },
+    "products/photos/muttros-B0HHRC6XBC-MAIN.jpg": {
+      "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749",
+      "image_source_url": "https://m.media-amazon.com/images/I/81sFaB2T43L._AC_SL1500_.jpg",
+      "product_or_pin_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+      "role": "OWNED MUTTROS \u2014 brown / three baskets",
+      "full_original_contained": true
+    },
+    "products/photos/lagkapten-top-black.jpg": {
+      "sha256": "ed8e765f79aad7d8b10af94e9d65e8256b3bc61e9795cb27e3bdd8819fe982a9",
+      "image_source_url": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__0977796_pe813779_s5.jpg",
+      "product_or_pin_url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+      "role": "CLEAR project bench \u2014 LAGKAPTEN top",
+      "full_original_contained": true
+    },
+    "products/photos/alex-black-drawers.jpg": {
+      "sha256": "a9cd20196a7a4998a87c0eddc64a827f16dd6b03f5fbbf34e1d3bd6f1f31ede9",
+      "image_source_url": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0977786_pe813770_s5.jpg",
+      "product_or_pin_url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+      "role": "ONE LEFT ALEX + TWO RIGHT ADILS",
+      "full_original_contained": true
+    },
+    "products/photos/adils-black-leg.jpg": {
+      "sha256": "6a19fbca3e1eea8f807fa12dddfd8466e42f5e2e1e5b6f5da2ce86ffb9c58f28",
+      "image_source_url": "https://www.ikea.com/us/en/images/products/adils-leg-black__0734618_pe739551_s5.jpg",
+      "product_or_pin_url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+      "role": "ONE LEFT ALEX + TWO RIGHT ADILS",
+      "full_original_contained": true
+    },
+    "products/photos/branch-pro-selected.jpg": {
+      "sha256": "4998c1152afd03dc1a2fd908f2c53e5275759f835117feedef62891f60c0e0b7",
+      "image_source_url": "https://cdn.shopify.com/s/files/1/0124/5662/4187/files/ERGPRO_RENDER1_-1.jpg?v=1774561270",
+      "product_or_pin_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "role": "ONE primary Branch Ergonomic Chair Pro",
+      "full_original_contained": true
+    },
+    "products/photos/ekenaset-beige.jpg": {
+      "sha256": "ff5129dc3b471fbc30f7544429cc1368d49e89427f767b3b73c04c3e807b22e0",
+      "image_source_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
+      "product_or_pin_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/",
+      "role": "EKEN\u00c4SET \u2014 Kilanda light beige",
+      "full_original_contained": true
+    },
+    "products/photos/ruggable-impasto-taupe-6x9.jpg": {
+      "sha256": "9fb0a2573a6bececb8811b44438cd1e33ebe8d0f5a152aaadcd0bc1aa3bed14c",
+      "image_source_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-69_12e09309-6359-4602-876f-81c9a9893eaf.jpg?v=1771369540",
+      "product_or_pin_url": "https://ruggable.com/products/impasto-taupe-rug?variant=42112443547703",
+      "role": "Ruggable Impasto Taupe \u2014 exact 6\u00d79",
+      "full_original_contained": true
+    },
+    "products/photos/storklinta-low-drawers.jpg": {
+      "sha256": "caa0d86f3551c1d5ed00e5863ba706d7e93d3105b57bd566b4387b262d3c6833",
+      "image_source_url": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function__1344034_pe949705_s5.jpg",
+      "product_or_pin_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function-80559292/",
+      "role": "STORKLINTA \u2014 oak clothes drawers",
+      "full_original_contained": true
+    },
+    "products/photos/art-abstract-scenery-100x70.jpg": {
+      "sha256": "d23725c60d53e444e0592ed8bd7712e0cc52a16dfa3e57a51642efe4d487dad2",
+      "image_source_url": "https://media.desenio.com/site_images/685b32d320f7978d2595cbb3_1774051928_14699-1.jpg",
+      "product_or_pin_url": "https://desenio.com/p/posters-prints/art-prints/abstract-scenery-no1-print/",
+      "role": "ONE Abstract Scenery No1 Print",
+      "full_original_contained": true
+    },
+    "products/photos/black-frame-landscape.jpg": {
+      "sha256": "02c2cb64ab2dc5f0f747f3e7613ea0022fed70e1ce8035c5981da24cd5b31c58",
+      "image_source_url": "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg",
+      "product_or_pin_url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+      "role": "Thin BLACK wood frame \u2014 landscape",
+      "full_original_contained": true
+    },
+    "research/pins/walnut-simple.jpg": {
+      "sha256": "a524c4754a76a21a50a0967bddf652e4a76940b7644ebca702cb8428badc5b5d",
+      "image_source_url": "https://i.pinimg.com/736x/ac/bd/31/acbd316ef29d47c2b2d9316e45c48936.jpg",
+      "product_or_pin_url": "https://www.pinterest.com/pin/461196818109099025/",
+      "role": "PINTEREST INSPIRATION ONLY",
+      "full_original_contained": true
+    }
+  },
+  "boards": [
+    {
+      "title": "Warm architectural studio \u2014 owned pieces + real workbench",
+      "cells": [
+        {
+          "name": "OWNED UPLIFT V2 \u2014 exact finish",
+          "dim": "Owned top: 42\u00d730 in / 106.68\u00d776.2 cm",
+          "note": "Pheasantwood barkline FRONT, square back, two nickel grommets. Industrial steel C-frame. Catalogue image shows another width: keep the modeled 42-inch top.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-front.jpg",
+            "/workspace/his-office-pinterest/products/photos/uplift-v2-c-frame-industrial-official.png"
+          ],
+          "url": "https://www.upliftdesk.com/desktop-lookbook/",
+          "credit": "UPLIFT official original photographs",
+          "split": "vertical"
+        },
+        {
+          "name": "OWNED Honeywell 02E Pro \u2014 white",
+          "dim": "Overall D\u00d7W\u00d7H: 61.01\u00d728.80\u00d7196.85 cm",
+          "note": "Two narrow LED bars form an OPEN rectangular head with EMPTY CENTER. Slim white upright, white U-shaped floor base. Do not fill the head with a diffuser.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-MAIN.jpg"
+          ],
+          "url": "https://honeywellsmartlighting.com/products/02e-pro",
+          "credit": "Exact Honeywell ASIN B0C3BVYTXP photo",
+          "split": "vertical"
+        },
+        {
+          "name": "OWNED MUTTROS \u2014 brown / three baskets",
+          "dim": "Height 149.86 cm; base 59.94\u00d755.88 cm",
+          "note": "Brown wicker baskets and branching wood, condo and hammock. Keep brown material. Lifestyle cats, plant and room props remain reference context only.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-MAIN.jpg"
+          ],
+          "url": "https://www.amazon.com/dp/B0HHRC6XBC",
+          "credit": "Exact MUTTROS ASIN B0HHRC6XBC photo",
+          "split": "vertical"
+        },
+        {
+          "name": "CLEAR project bench \u2014 LAGKAPTEN top",
+          "dim": "Black-brown top: 140\u00d760 cm",
+          "note": "Real selected component 804.870.16. Keep the project bench EMPTY: no second fixed monitor, keyboard, task chair or decorative clutter. Separate from height-adjustable UPLIFT.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/lagkapten-top-black.jpg"
+          ],
+          "url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+          "credit": "IKEA original selected tabletop photograph",
+          "split": "vertical"
+        },
+        {
+          "name": "ONE LEFT ALEX + TWO RIGHT ADILS",
+          "dim": "ALEX 36\u00d758\u00d770 cm; legs H70 cm",
+          "note": "Black-brown FIVE-DRAWER ALEX 604.735.48 on LEFT / \u2212X. TWO black ADILS 702.179.73 at RIGHT. Photos are components; use the modeled assembly and knee bay.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/alex-black-drawers.jpg",
+            "/workspace/his-office-pinterest/products/photos/adils-black-leg.jpg"
+          ],
+          "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+          "credit": "IKEA original drawer/leg photos",
+          "split": "horizontal"
+        },
+        {
+          "name": "ONE primary Branch Ergonomic Chair Pro",
+          "dim": "Black mesh; caster base \u00d870.10 cm",
+          "note": "ONE daily ergonomic task chair at the UPLIFT workstation. Black mesh back, black seat and five-star rolling base. No second permanent task chair.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/branch-pro-selected.jpg"
+          ],
+          "url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+          "credit": "Branch original selected BLACK variant photo",
+          "split": "vertical"
+        }
+      ]
+    },
+    {
+      "title": "Quiet neutral finishes \u2014 exact products + ONE inspiration Pin",
+      "cells": [
+        {
+          "name": "EKEN\u00c4SET \u2014 Kilanda light beige",
+          "dim": "Nominal W\u00d7D\u00d7H: 64\u00d778\u00d776 cm",
+          "note": "Warm light-beige woven upholstery, dark brown wood arms/legs. Keep visitor chair at the final modeled position and facing. No teal or blue upholstery.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/ekenaset-beige.jpg"
+          ],
+          "url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/",
+          "credit": "IKEA original selected Kilanda photograph",
+          "split": "vertical"
+        },
+        {
+          "name": "Ruggable Impasto Taupe \u2014 exact 6\u00d79",
+          "dim": "182.88\u00d7274.32 cm; Flatwoven + Standard Pad",
+          "note": "Quiet distressed taupe / ivory textile. Use the actual selected pattern and modeled rug rotation/footprint. No previous blue geometric motif.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/ruggable-impasto-taupe-6x9.jpg"
+          ],
+          "url": "https://ruggable.com/products/impasto-taupe-rug?variant=42112443547703",
+          "credit": "Ruggable original selected 6\u00d79 photograph",
+          "split": "vertical"
+        },
+        {
+          "name": "STORKLINTA \u2014 oak clothes drawers",
+          "dim": "Nominal W\u00d7D\u00d7H: 70\u00d748\u00d775 cm",
+          "note": "Three oak-effect flush drawers. Retain final footprint. Wall fixing unlocks drawers; installation fit needs verification. Original lifestyle background/props are not room contents.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/storklinta-low-drawers.jpg"
+          ],
+          "url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function-80559292/",
+          "credit": "IKEA original selected dresser photograph",
+          "split": "vertical"
+        },
+        {
+          "name": "ONE Abstract Scenery No1 Print",
+          "dim": "LANDSCAPE paper: 100 cm wide \u00d7 70 cm high",
+          "note": "Only this artwork: horizontal ABOVE THE CLEAR PROJECT BENCH. Use the exact cream / muted-brown artwork. Keep the fireplace and UPLIFT wall free of art.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/art-abstract-scenery-100x70.jpg"
+          ],
+          "url": "https://desenio.com/p/posters-prints/art-prints/abstract-scenery-no1-print/",
+          "credit": "Desenio original selected landscape artwork",
+          "split": "vertical"
+        },
+        {
+          "name": "Thin BLACK wood frame \u2014 landscape",
+          "dim": "Picture opening: 100\u00d770 cm horizontally",
+          "note": "Retailer photo is portrait: use only its narrow black frame material/profile, in the modeled landscape orientation. Do not reproduce placeholder lettering or add another picture.",
+          "images": [
+            "/workspace/his-office-pinterest/products/photos/black-frame-landscape.jpg"
+          ],
+          "url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+          "credit": "Desenio original frame photo \u2014 profile only",
+          "split": "vertical"
+        },
+        {
+          "name": "PINTEREST INSPIRATION ONLY",
+          "dim": "Public Pin 461196818109099025",
+          "note": "Borrow quiet composition, warm wood and one wide art focal point ONLY. Do NOT copy this room, desk, chair, lamp, plant or dimensions. The target 3D model controls all geometry and furniture positions.",
+          "images": [
+            "/workspace/his-office-pinterest/research/pins/walnut-simple.jpg"
+          ],
+          "url": "https://www.pinterest.com/pin/461196818109099025/",
+          "credit": "Original public Pin image; photographer not verified",
+          "split": "vertical"
+        }
+      ]
+    }
+  ],
+  "outputs": {
+    "images/product-board-1.png": {
+      "sha256": "6d1afc0a3b361304f537a90b33804743e9c06a7e878f9fb1d2cb5fb2e112cc37",
+      "pixel_dimensions": [
+        3000,
+        2500
+      ],
+      "source_pdf_page": 1
+    },
+    "images/product-board-2.png": {
+      "sha256": "46b83eeabeb2c4b095530adc54cf1fd9eab7878f1b0f9ae864c4e8655fd9702f",
+      "pixel_dimensions": [
+        3000,
+        2500
+      ],
+      "source_pdf_page": 2
+    }
+  },
+  "source_pdf": {
+    "file": "images/product-reference-boards.pdf",
+    "sha256": "ac77cb22852dfa83c248507a776da8d6282524d2542f5746d0a2417817c37611"
+  },
+  "script_sha256": "c3f93cb856db5b5d07b7e090bc5c3409dddd26673a8aaeb6753c22bff43457b8"
+}

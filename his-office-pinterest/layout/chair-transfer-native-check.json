@@ -1,0 +1,605 @@
+{
+  "source_file": "/workspace/his-office-pinterest/model/his-office-pinterest-design.blend",
+  "source_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "layout_file": "/workspace/his-office-pinterest/model/layout.json",
+  "layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "waypoints_blender_xy_m": [
+    [
+      -6.82,
+      -0.85
+    ],
+    [
+      -6.82,
+      -0.95
+    ],
+    [
+      -5.4225,
+      -0.95
+    ],
+    [
+      -5.4225,
+      -0.6
+    ]
+  ],
+  "chair_start_center_m": [
+    -6.82,
+    -0.85
+  ],
+  "bench_seated_center_m": [
+    -5.4225,
+    -0.6
+  ],
+  "floor_z_m": 1.575,
+  "chair_caster_diameter_m": 0.70104,
+  "floor_obstacles": [
+    {
+      "name": "secondary-workspace::official alex-drawers part0",
+      "group": "secondary-workspace",
+      "world_bounds_m": [
+        [
+          -6.230000019073486,
+          -0.3400000035762787,
+          1.5750000476837158
+        ],
+        [
+          -5.87000036239624,
+          0.23999999463558197,
+          2.2750000953674316
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "secondary-workspace::right black ADILS leg",
+      "group": "secondary-workspace",
+      "world_bounds_m": [
+        [
+          -4.975000381469727,
+          -0.31300002336502075,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          -0.2630000114440918,
+          2.2750000953674316
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "secondary-workspace::black adjustment foot",
+      "group": "secondary-workspace",
+      "world_bounds_m": [
+        [
+          -4.975000381469727,
+          -0.31300002336502075,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          -0.2630000114440918,
+          1.5929999351501465
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "secondary-workspace::right black ADILS leg.001",
+      "group": "secondary-workspace",
+      "world_bounds_m": [
+        [
+          -4.975000381469727,
+          0.16300000250339508,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          0.21300001442432404,
+          2.2750000953674316
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "secondary-workspace::black adjustment foot.001",
+      "group": "secondary-workspace",
+      "world_bounds_m": [
+        [
+          -4.975000381469727,
+          0.16300000250339508,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          0.21300001442432404,
+          1.5929999351501465
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part1",
+      "group": "clothes-dresser",
+      "world_bounds_m": [
+        [
+          -6.948081016540527,
+          -2.7181637287139893,
+          1.62911856174469
+        ],
+        [
+          -6.252070903778076,
+          -2.272712230682373,
+          1.8514132499694824
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part3",
+      "group": "clothes-dresser",
+      "world_bounds_m": [
+        [
+          -6.949249744415283,
+          -2.7497124671936035,
+          1.5750000476837158
+        ],
+        [
+          -6.2507500648498535,
+          -2.27028751373291,
+          2.3243000507354736
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "visitor-chair::sloping front wooden leg",
+      "group": "visitor-chair",
+      "world_bounds_m": [
+        [
+          -5.045674800872803,
+          -1.7750654220581055,
+          1.5750000476837158
+        ],
+        [
+          -5.005674839019775,
+          -1.609475016593933,
+          2.1976261138916016
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "visitor-chair::sloping rear wooden leg",
+      "group": "visitor-chair",
+      "world_bounds_m": [
+        [
+          -5.045674800872803,
+          -2.3905248641967773,
+          1.5756086111068726
+        ],
+        [
+          -5.005674839019775,
+          -2.2280399799346924,
+          2.3031392097473145
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "visitor-chair::sloping front wooden leg.001",
+      "group": "visitor-chair",
+      "world_bounds_m": [
+        [
+          -4.454325199127197,
+          -1.7750654220581055,
+          1.5750000476837158
+        ],
+        [
+          -4.41432523727417,
+          -1.609475016593933,
+          2.1976261138916016
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "visitor-chair::sloping rear wooden leg.001",
+      "group": "visitor-chair",
+      "world_bounds_m": [
+        [
+          -4.454325199127197,
+          -2.3905248641967773,
+          1.5756086111068726
+        ],
+        [
+          -4.41432523727417,
+          -2.2280399799346924,
+          2.3031392097473145
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "C-frame steel foot",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -7.436999797821045,
+          -0.48151999711990356,
+          1.5820001363754272
+        ],
+        [
+          -7.367000102996826,
+          0.21952001750469208,
+          1.6160000562667847
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Foot glide",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -7.430999755859375,
+          -0.4659999907016754,
+          1.5750000476837158
+        ],
+        [
+          -7.373000144958496,
+          -0.4259999692440033,
+          1.5859999656677246
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Foot glide.001",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -7.430999755859375,
+          0.164000004529953,
+          1.5750000476837158
+        ],
+        [
+          -7.373000144958496,
+          0.20399999618530273,
+          1.5859999656677246
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "V2 lower slim stage",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -7.424999713897705,
+          -0.030999992042779922,
+          1.6000001430511475
+        ],
+        [
+          -7.379000186920166,
+          0.025000009685754776,
+          1.9100000858306885
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "C-frame steel foot.001",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -6.532999515533447,
+          -0.48151999711990356,
+          1.5820001363754272
+        ],
+        [
+          -6.4629998207092285,
+          0.21952001750469208,
+          1.6160000562667847
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Foot glide.002",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -6.526999473571777,
+          -0.4659999907016754,
+          1.5750000476837158
+        ],
+        [
+          -6.468999862670898,
+          -0.4259999692440033,
+          1.5859999656677246
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Foot glide.003",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -6.526999473571777,
+          0.164000004529953,
+          1.5750000476837158
+        ],
+        [
+          -6.468999862670898,
+          0.20399999618530273,
+          1.5859999656677246
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "V2 lower slim stage.001",
+      "group": "uplift-main-desk",
+      "world_bounds_m": [
+        [
+          -6.520999431610107,
+          -0.030999992042779922,
+          1.6000001430511475
+        ],
+        [
+          -6.474999904632568,
+          0.025000009685754776,
+          1.9100000858306885
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "U-base closed crossbar",
+      "group": "honeywell-lamp",
+      "world_bounds_m": [
+        [
+          -7.793499946594238,
+          -0.47099998593330383,
+          1.5750000476837158
+        ],
+        [
+          -7.546500205993652,
+          -0.4009999930858612,
+          1.5989999771118164
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "U-base open prong",
+      "group": "honeywell-lamp",
+      "world_bounds_m": [
+        [
+          -7.7935004234313965,
+          -0.44099998474121094,
+          1.5750000476837158
+        ],
+        [
+          -7.7144999504089355,
+          -0.003000006079673767,
+          1.5989999771118164
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "U-base open prong.001",
+      "group": "honeywell-lamp",
+      "world_bounds_m": [
+        [
+          -7.625500202178955,
+          -0.44099998474121094,
+          1.5750000476837158
+        ],
+        [
+          -7.546499729156494,
+          -0.003000006079673767,
+          1.5989999771118164
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Slim rectangular upright",
+      "group": "honeywell-lamp",
+      "world_bounds_m": [
+        [
+          -7.689499855041504,
+          -0.41999998688697815,
+          1.5989999771118164
+        ],
+        [
+          -7.650500297546387,
+          -0.3699999749660492,
+          3.5310001373291016
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Triple thickness brown fleece base",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.8897199630737305,
+          -1.2793999910354614,
+          1.5750000476837158
+        ],
+        [
+          -7.290280342102051,
+          -0.7206000089645386,
+          1.6131000518798828
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "kept-muttros-cat-tree::arched hollow condo wall",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.7893900871276855,
+          -1.3093900680541992,
+          1.6131000518798828
+        ],
+        [
+          -7.390610218048096,
+          -0.910610020160675,
+          1.9179000854492188
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Condo dark floor",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.772000312805176,
+          -1.2920000553131104,
+          1.6175999641418457
+        ],
+        [
+          -7.4079999923706055,
+          -0.9280000329017639,
+          1.6326000690460205
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Natural wood branch0-0",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.7429728507995605,
+          -1.193000078201294,
+          1.6434653997421265
+        ],
+        [
+          -7.647027492523193,
+          -1.1069998741149902,
+          1.9265347719192505
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Natural wood branch1-0",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.527914047241211,
+          -0.8628930449485779,
+          1.6181875467300415
+        ],
+        [
+          -7.43708610534668,
+          -0.7671069502830505,
+          1.8868125677108765
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "Natural wood branch3-0",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.512882232666016,
+          -0.8467878103256226,
+          1.7395755052566528
+        ],
+        [
+          -7.444118499755859,
+          -0.7132121324539185,
+          1.9104245901107788
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    },
+    {
+      "name": "kept-muttros-cat-tree::Sisal rope winding.002",
+      "group": "muttros-cat-tree",
+      "world_bounds_m": [
+        [
+          -7.526608943939209,
+          -0.8688459992408752,
+          1.6218836307525635
+        ],
+        [
+          -7.430403232574463,
+          -0.7711535692214966,
+          1.818591833114624
+        ]
+      ],
+      "floor_selection_note": "Conservative wholeXY part AABB if part enters lowest20cm abovefloor; excludes overhead desktop but includes whole low-reaching leg/condo projection."
+    }
+  ],
+  "native_swept_AABB_candidates": [
+    {
+      "segment": 1,
+      "waypoint_from_m": [
+        -6.82,
+        -0.85
+      ],
+      "waypoint_to_m": [
+        -6.82,
+        -0.95
+      ],
+      "candidate_pairs": [
+        [
+          "branch-pro-task-chair-1::Mesh_0",
+          "Height keypad"
+        ]
+      ]
+    },
+    {
+      "segment": 2,
+      "waypoint_from_m": [
+        -6.82,
+        -0.95
+      ],
+      "waypoint_to_m": [
+        -5.4225,
+        -0.95
+      ],
+      "candidate_pairs": []
+    },
+    {
+      "segment": 3,
+      "waypoint_from_m": [
+        -5.4225,
+        -0.95
+      ],
+      "waypoint_to_m": [
+        -5.4225,
+        -0.6
+      ],
+      "candidate_pairs": [
+        [
+          "branch-pro-task-chair-1::Mesh_0",
+          "secondary-workspace::black-brown tabletop"
+        ]
+      ]
+    }
+  ],
+  "native_sample_count": 96,
+  "native_maximum_center_step_m": 0.02,
+  "native_surface_intersections": [],
+  "native_no_sampled_unintended_intersections": true,
+  "limits": [
+    "Whole scene surface-BVH tests at <=20mm path samples; not a mathematical continuum proof for overlapping swept candidates.",
+    "Surface tests do not establish every possible fully contained solid.",
+    "No user body, moving caster swivel, compressed rug, cable slack or force/friction model.",
+    "Dresser and ALEX drawers remain closed during chair transfer; sequential clothes-drawer operation still required.",
+    "Nominal measured/model furniture positions; actual scan uncertainty and owned-product proxy limits remain."
+  ]
+}

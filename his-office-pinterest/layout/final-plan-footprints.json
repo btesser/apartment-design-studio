@@ -1,0 +1,234 @@
+{
+  "layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "coordinate_system": "Blender native metric Z-up",
+  "footprints": [
+    {
+      "id": "uplift-main-desk",
+      "center_xy_m": [
+        -6.95,
+        -0.131
+      ],
+      "world_bbox_xy_m": [
+        -7.4834000000000005,
+        -6.4166,
+        -0.512,
+        0.25
+      ],
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "branch-primary",
+      "center_xy_m": [
+        -6.82,
+        -0.85
+      ],
+      "world_bbox_xy_m": [
+        -7.1375,
+        -6.5025,
+        -1.1548,
+        -0.5451999999999999
+      ],
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "secondary-workspace",
+      "center_xy_m": [
+        -5.55,
+        -0.05
+      ],
+      "world_bbox_xy_m": [
+        -6.25,
+        -4.85,
+        -0.35,
+        0.25
+      ],
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "honeywell-lamp",
+      "center_xy_m": [
+        -7.67,
+        -0.24
+      ],
+      "world_bbox_xy_m": [
+        -7.814018,
+        -7.525982,
+        -0.5450539999999999,
+        0.065054
+      ],
+      "front_blender_vector": null,
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "muttros-cat-tree",
+      "center_xy_m": [
+        -7.59,
+        -1.0
+      ],
+      "world_bbox_xy_m": [
+        -7.88972,
+        -7.29028,
+        -1.2793999999999999,
+        -0.7206
+      ],
+      "front_blender_vector": null,
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "clothes-dresser",
+      "center_xy_m": [
+        -6.6,
+        -2.51
+      ],
+      "world_bbox_xy_m": [
+        -6.949249999999999,
+        -6.25075,
+        -2.7497125,
+        -2.2702875
+      ],
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "visitor-chair",
+      "center_xy_m": [
+        -4.73,
+        -2.0
+      ],
+      "world_bbox_xy_m": [
+        -5.050675,
+        -4.409325000000001,
+        -2.3905250000000002,
+        -1.609475
+      ],
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "rug",
+      "center_xy_m": [
+        -6.1,
+        -1.1
+      ],
+      "world_bbox_xy_m": [
+        -7.4716,
+        -4.7284,
+        -2.0144,
+        -0.1856000000000001
+      ],
+      "front_blender_vector": null,
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "grejig-1",
+      "center_xy_m": [
+        -3.48,
+        -0.54
+      ],
+      "world_bbox_xy_m": [
+        -3.615,
+        -3.3449999999999998,
+        -0.8300000000000001,
+        -0.25000000000000006
+      ],
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "floor_z_m": 1.575,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "grejig-2",
+      "center_xy_m": [
+        -3.48,
+        -0.54
+      ],
+      "world_bbox_xy_m": [
+        -3.615,
+        -3.3449999999999998,
+        -0.8300000000000001,
+        -0.25000000000000006
+      ],
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "floor_z_m": 1.7449999999999999,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "grejig-3",
+      "center_xy_m": [
+        -3.48,
+        -0.54
+      ],
+      "world_bbox_xy_m": [
+        -3.615,
+        -3.3449999999999998,
+        -0.8300000000000001,
+        -0.25000000000000006
+      ],
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "floor_z_m": 1.915,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    },
+    {
+      "id": "abstract-scenery-art",
+      "center_xy_m": [
+        -5.55,
+        0.225
+      ],
+      "world_bbox_xy_m": [
+        -6.0626999999999995,
+        -5.0373,
+        0.21357,
+        0.23643
+      ],
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "floor_z_m": 3.2,
+      "dimensions_authority": "layout.json; world_axis_dimensions_m takes precedence, else dimensions rotated by rotation_z_deg"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "Provisionalwallstudy/Branchchaircheckpoint; waiting factualownedHermanMillerchairmodel",
+  "files": [
+    {
+      "file": "scene_tools.py",
+      "sha256": "0ade01ca7240515a0c11e7a30c162487a5e12ae0fe204362449ce69baa973e2f",
+      "bytes": 7847
+    },
+    {
+      "file": "preview-provenance.json",
+      "sha256": "f9227f9002413dfc3817472361f96d4d07b375c75c1a12de9ff1564b7fb6d15c",
+      "bytes": 523
+    },
+    {
+      "file": "primitives.py",
+      "sha256": "35c9ed685cc73c69f228ef5a32e6ec6bf8ad36e63b8e6d1d8d58ad7cf38276c8",
+      "bytes": 4471
+    },
+    {
+      "file": "layout.json",
+      "sha256": "d6b669b8ce998fc4b3930049895360071bff9313609f4f4ec0c05888ca269e94",
+      "bytes": 11232
+    },
+    {
+      "file": "his-office-design.blend",
+      "sha256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+      "bytes": 102726521
+    },
+    {
+      "file": "tria-component-map.json",
+      "sha256": "e72857fa887d0772c0704e9c0a70dde36fca79ba7128ed56211396675dc1f02f",
+      "bytes": 5986
+    },
+    {
+      "file": "camera-poses.json",
+      "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+      "bytes": 2555
+    },
+    {
+      "file": "his-office-furniture.glb",
+      "sha256": "ac5632ed3c40c0d5a9acb10268d1ca2ffe00b8f9210174d2b015aac6bafbead9",
+      "bytes": 40245736
+    },
+    {
+      "file": "build_variant.py",
+      "sha256": "e87c76ac8ce230a42079b4e7433b44de497ac7ff40fe4bf3a04857054480425b",
+      "bytes": 20942
+    },
+    {
+      "file": "read_wall_bounds.py",
+      "sha256": "ac740e7fe6b0c91cbefc2815cbfb0698db8ff8b5ac4c7441014e035d335e825a",
+      "bytes": 445
+    },
+    {
+      "file": "audit_variant_references.py",
+      "sha256": "838b9d5418f1976a959fc8bfaca749c828fc0ced1e34a1b948cc137974b7a548",
+      "bytes": 12201
+    },
+    {
+      "file": "his-office-door-leaves.glb",
+      "sha256": "cc08f1748c1ed21e2eddcf1344ef1de40c16065ca10fa569bf5dcabf28a111b6",
+      "bytes": 167548
+    },
+    {
+      "file": "his-office-shell.glb",
+      "sha256": "9938c965236bd9dbb7a4f8231c8cdcd14cdcabd5cecaeffe4b614969bb3f9069",
+      "bytes": 740124
+    },
+    {
+      "file": "his-office-design.glb",
+      "sha256": "54532b4e0e887ad65018771991dd7ca5bb1aaf85958481a61bf6e7ef8ff0c99c",
+      "bytes": 41147156
+    },
+    {
+      "file": "model-manifest.json",
+      "sha256": "bd91760c006975ef6d97dc211660d75e2bb0db761a7ba56a2bf9e474daa28fa3",
+      "bytes": 3532
+    },
+    {
+      "file": "render_variant.py",
+      "sha256": "794ef6e588e345533e8baefcebc6842482cf6dac1adf7b075e96756066a48125",
+      "bytes": 1978
+    },
+    {
+      "file": "previews/room-a.jpg",
+      "sha256": "e4ee7f5829f8a16bb561a85d36c391c464fc7c2b7ff95a8dcb91ce89ca360e51",
+      "bytes": 398834
+    }
+  ]
+}

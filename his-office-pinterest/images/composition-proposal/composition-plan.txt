@@ -1,0 +1,7 @@
+Read-only composition proposal, diagram rather than room render.
+Furniture/architecture: source layout and measured feature anchors.
+Owned Mineral Aeron C: confirmed catalog envelope at saved chair anchor; replacement is not yet built.
+Root wall proposals: B5 panels3m across both desks + Peppercorn wrap; C smooth Naval wrap.
+Only provisional additions: MOSSLANDA115x12cm above bench, chest table lamp/tray, modest visitor/brick plant if fit.
+No source files changed, no Blender modeling, no metric clearance/installation claims.
+See composition-plan.json for exact coordinates, source hashes, status and limits.

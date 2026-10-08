@@ -1,0 +1,1689 @@
+{
+  "title": "His office \u00b7 B and C alternatives",
+  "units": "metres",
+  "coordinates": "GLTF Y-up; native frame preserved without normalization",
+  "status": "working model checkpoint",
+  "variants": [
+    {
+      "id": "b-charcoal-slat",
+      "label": "B \u00b7 Charcoal + slat",
+      "description": "Peppercorn charcoal work wall with a 1.8 \u00d7 2.4 m black slat accent behind the project bench.",
+      "model_source": "variants/b-charcoal-slat/model/his-office-design.blend",
+      "model_sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+      "layout_sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a",
+      "camera_sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+      "config": {
+        "room": {
+          "floor": 1.575,
+          "ceiling": 4.595,
+          "width": 4.9,
+          "depth": 3.1,
+          "area": 14.028,
+          "polygon": [
+            [
+              -7.98,
+              2.79
+            ],
+            [
+              -3.08,
+              2.79
+            ],
+            [
+              -3.08,
+              1.35
+            ],
+            [
+              -3.78,
+              1.35
+            ],
+            [
+              -3.78,
+              -0.31
+            ],
+            [
+              -7.98,
+              -0.31
+            ]
+          ],
+          "bounds": [
+            -7.98,
+            -3.08,
+            -0.31,
+            2.79
+          ],
+          "eyeHeight": 1.55
+        },
+        "views": [
+          {
+            "id": "room-a",
+            "filename": "renders/room-a.jpg",
+            "eye_blender_m": [
+              -3.4600000381469727,
+              -2.3399999141693115,
+              3.125
+            ],
+            "look_direction_blender": [
+              -0.8195406794548035,
+              0.5559120178222656,
+              -0.13897785544395447
+            ],
+            "eye_gltf_m": [
+              -3.4600000381469727,
+              3.125,
+              2.3399999141693115
+            ],
+            "target_gltf_m": [
+              -4.279540538787842,
+              2.9860222339630127,
+              1.784087896347046
+            ],
+            "eye": [
+              -3.4600000381469727,
+              3.125,
+              2.3399999141693115
+            ],
+            "target": [
+              -4.279540538787842,
+              2.9860222339630127,
+              1.784087896347046
+            ],
+            "lens_mm": 24.0,
+            "sensor_width_mm": 36.0,
+            "horizontal_FOV_deg": 73.73979529168804,
+            "pixels": [
+              1440,
+              1000
+            ],
+            "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+            "label": "From the entry",
+            "description": "See the primary desk, clear project bench, lamp and window."
+          },
+          {
+            "id": "room-b",
+            "filename": "renders/room-b.jpg",
+            "eye_blender_m": [
+              -7.480000019073486,
+              -2.2699999809265137,
+              3.125
+            ],
+            "look_direction_blender": [
+              0.814118504524231,
+              0.5604891777038574,
+              -0.1518644094467163
+            ],
+            "eye_gltf_m": [
+              -7.480000019073486,
+              3.125,
+              2.2699999809265137
+            ],
+            "target_gltf_m": [
+              -6.665881633758545,
+              2.973135471343994,
+              1.7095108032226562
+            ],
+            "eye": [
+              -7.480000019073486,
+              3.125,
+              2.2699999809265137
+            ],
+            "target": [
+              -6.665881633758545,
+              2.973135471343994,
+              1.7095108032226562
+            ],
+            "lens_mm": 24.0,
+            "sensor_width_mm": 36.0,
+            "horizontal_FOV_deg": 73.73979529168804,
+            "pixels": [
+              1440,
+              1000
+            ],
+            "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+            "label": "Rear door side",
+            "description": "Look toward the clear project bench, closet and entrance."
+          },
+          {
+            "id": "room-c",
+            "filename": "renders/room-c.jpg",
+            "eye_blender_m": [
+              -4.179999828338623,
+              -0.3499999940395355,
+              3.125
+            ],
+            "look_direction_blender": [
+              -0.7090439796447754,
+              -0.6834601163864136,
+              -0.17360593378543854
+            ],
+            "eye_gltf_m": [
+              -4.179999828338623,
+              3.125,
+              0.3499999940395355
+            ],
+            "target_gltf_m": [
+              -4.889043807983398,
+              2.9513940811157227,
+              1.0334601402282715
+            ],
+            "eye": [
+              -4.179999828338623,
+              3.125,
+              0.3499999940395355
+            ],
+            "target": [
+              -4.889043807983398,
+              2.9513940811157227,
+              1.0334601402282715
+            ],
+            "lens_mm": 24.0,
+            "sensor_width_mm": 36.0,
+            "horizontal_FOV_deg": 73.73979529168804,
+            "pixels": [
+              1440,
+              1000
+            ],
+            "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+            "label": "Work wall corner",
+            "description": "Review the brick arch, visitor chair and folded-clothes storage."
+          }
+        ],
+        "assets": {
+          "shell": "b-charcoal-slat/his-office-shell.glb",
+          "doors": "b-charcoal-slat/his-office-door-leaves.glb",
+          "furniture": "b-charcoal-slat/his-office-furniture.glb"
+        },
+        "footprints": [
+          {
+            "id": "standing-main-desk",
+            "kind": "kept_desk",
+            "polygon": [
+              [
+                -7.515,
+                0.47350000000000003
+              ],
+              [
+                -6.315,
+                0.47350000000000003
+              ],
+              [
+                -6.315,
+                -0.21150000000000002
+              ],
+              [
+                -7.515,
+                -0.21150000000000002
+              ]
+            ],
+            "center": [
+              -6.915,
+              0.131
+            ],
+            "facing": [
+              0,
+              1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "branch-primary",
+            "kind": "task_chair",
+            "polygon": [
+              [
+                -7.170520000000001,
+                1.20052
+              ],
+              [
+                -6.46948,
+                1.20052
+              ],
+              [
+                -6.46948,
+                0.49948
+              ],
+              [
+                -7.170520000000001,
+                0.49948
+              ]
+            ],
+            "center": [
+              -6.82,
+              0.85
+            ],
+            "facing": [
+              0,
+              -1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "secondary-workspace",
+            "kind": "secondary_desk",
+            "polygon": [
+              [
+                -6.25,
+                0.37
+              ],
+              [
+                -4.85,
+                0.37
+              ],
+              [
+                -4.85,
+                -0.22999999999999998
+              ],
+              [
+                -6.25,
+                -0.22999999999999998
+              ]
+            ],
+            "center": [
+              -5.55,
+              0.07
+            ],
+            "facing": [
+              0,
+              1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "honeywell-lamp",
+            "kind": "kept_lamp",
+            "polygon": [
+              [
+                -7.814018,
+                0.5450539999999999
+              ],
+              [
+                -7.525982,
+                0.5450539999999999
+              ],
+              [
+                -7.525982,
+                -0.065054
+              ],
+              [
+                -7.814018,
+                -0.065054
+              ]
+            ],
+            "center": [
+              -7.67,
+              0.24
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "muttros-cat-tree",
+            "kind": "kept_cat_tree",
+            "polygon": [
+              [
+                -7.88972,
+                1.2793999999999999
+              ],
+              [
+                -7.29028,
+                1.2793999999999999
+              ],
+              [
+                -7.29028,
+                0.7206
+              ],
+              [
+                -7.88972,
+                0.7206
+              ]
+            ],
+            "center": [
+              -7.59,
+              1.0
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "muttros-cat-tree-provisional-reach",
+            "kind": "provisional_branch_reach",
+            "polygon": [
+              [
+                -7.9399999999999995,
+                1.55
+              ],
+              [
+                -7.24,
+                1.55
+              ],
+              [
+                -7.24,
+                0.44999999999999996
+              ],
+              [
+                -7.9399999999999995,
+                0.44999999999999996
+              ]
+            ],
+            "center": [
+              -7.59,
+              1.0
+            ],
+            "facing": null,
+            "provisional": true,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "clothes-dresser",
+            "kind": "clothes_dresser",
+            "polygon": [
+              [
+                -6.949249999999999,
+                2.7497125
+              ],
+              [
+                -6.25075,
+                2.7497125
+              ],
+              [
+                -6.25075,
+                2.2702875
+              ],
+              [
+                -6.949249999999999,
+                2.2702875
+              ]
+            ],
+            "center": [
+              -6.6,
+              2.51
+            ],
+            "facing": [
+              0,
+              -1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "visitor-chair",
+            "kind": "lounge_chair",
+            "polygon": [
+              [
+                -5.0554375,
+                2.3698875
+              ],
+              [
+                -4.404562500000001,
+                2.3698875
+              ],
+              [
+                -4.404562500000001,
+                1.6301125
+              ],
+              [
+                -5.0554375,
+                1.6301125
+              ]
+            ],
+            "center": [
+              -4.73,
+              2.0
+            ],
+            "facing": [
+              0,
+              -1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "rug",
+            "kind": "rug",
+            "polygon": [
+              [
+                -7.4716,
+                2.0144
+              ],
+              [
+                -4.7284,
+                2.0144
+              ],
+              [
+                -4.7284,
+                0.1856000000000001
+              ],
+              [
+                -7.4716,
+                0.1856000000000001
+              ]
+            ],
+            "center": [
+              -6.1,
+              1.1
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "grejig-1",
+            "kind": "closet_shoe_rack",
+            "polygon": [
+              [
+                -3.3449999999999998,
+                0.8300000000000001
+              ],
+              [
+                -3.3449999999999998,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.8300000000000001
+              ]
+            ],
+            "center": [
+              -3.48,
+              0.54
+            ],
+            "facing": [
+              1,
+              0
+            ],
+            "provisional": true,
+            "hiddenWhenDoorsClosed": true,
+            "walkBlocker": false
+          },
+          {
+            "id": "grejig-2",
+            "kind": "closet_shoe_rack",
+            "polygon": [
+              [
+                -3.3449999999999998,
+                0.8300000000000001
+              ],
+              [
+                -3.3449999999999998,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.8300000000000001
+              ]
+            ],
+            "center": [
+              -3.48,
+              0.54
+            ],
+            "facing": [
+              1,
+              0
+            ],
+            "provisional": true,
+            "hiddenWhenDoorsClosed": true,
+            "walkBlocker": false
+          },
+          {
+            "id": "grejig-3",
+            "kind": "closet_shoe_rack",
+            "polygon": [
+              [
+                -3.3449999999999998,
+                0.8300000000000001
+              ],
+              [
+                -3.3449999999999998,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.8300000000000001
+              ]
+            ],
+            "center": [
+              -3.48,
+              0.54
+            ],
+            "facing": [
+              1,
+              0
+            ],
+            "provisional": true,
+            "hiddenWhenDoorsClosed": true,
+            "walkBlocker": false
+          },
+          {
+            "id": "richmond-art",
+            "kind": "art",
+            "polygon": [
+              [
+                -6.0626999999999995,
+                -0.21414
+              ],
+              [
+                -5.0373,
+                -0.21414
+              ],
+              [
+                -5.0373,
+                -0.237
+              ],
+              [
+                -6.0626999999999995,
+                -0.237
+              ]
+            ],
+            "center": [
+              -5.55,
+              -0.22557
+            ],
+            "facing": [
+              0,
+              1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          }
+        ],
+        "products": [
+          {
+            "id": "standing-main-desk",
+            "kind": "kept_desk",
+            "name": "Branch Tria Standing Desk, Black Oak/Charcoal, nominal48\u00d727in",
+            "dimensions_m": [
+              1.2,
+              0.685,
+              0.74
+            ],
+            "orientation": "Faces into the room from the work wall",
+            "front_blender_vector": [
+              0,
+              -1,
+              0
+            ],
+            "note": "worktop height is shown at seated setting"
+          },
+          {
+            "id": "branch-primary",
+            "kind": "task_chair",
+            "name": "Primary task chair",
+            "dimensions_m": [
+              0.635,
+              0.6096,
+              1.04648
+            ],
+            "orientation": "Faces toward the work wall",
+            "front_blender_vector": [
+              0,
+              1,
+              0
+            ],
+            "note": "caster base 70 cm"
+          },
+          {
+            "id": "secondary-workspace",
+            "kind": "secondary_desk",
+            "name": "Clear project bench",
+            "dimensions_m": [
+              1.4,
+              0.6,
+              0.734925
+            ],
+            "orientation": "Faces into the room from the work wall",
+            "front_blender_vector": [
+              0,
+              -1,
+              0
+            ],
+            "note": "worktop height is shown at seated setting"
+          },
+          {
+            "id": "honeywell-lamp",
+            "kind": "kept_lamp",
+            "name": "Honeywell 02E floor lamp",
+            "dimensions_m": [
+              0.288036,
+              0.610108,
+              1.9685
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "long open head runs along the window wall"
+          },
+          {
+            "id": "muttros-cat-tree",
+            "kind": "kept_cat_tree",
+            "name": "MUTTROS cat tree",
+            "dimensions_m": [
+              0.59944,
+              0.5588,
+              1.4986
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "upper branch reach is approximate; branches run along the window wall"
+          },
+          {
+            "id": "clothes-dresser",
+            "kind": "clothes_dresser",
+            "name": "Folded-clothes drawers",
+            "dimensions_m": [
+              0.6985,
+              0.479425,
+              0.7493
+            ],
+            "orientation": "Faces toward the work wall",
+            "front_blender_vector": [
+              0,
+              1,
+              0
+            ],
+            "note": ""
+          },
+          {
+            "id": "visitor-chair",
+            "kind": "lounge_chair",
+            "name": "Visitor armchair",
+            "dimensions_m": [
+              0.650875,
+              0.739775,
+              0.7493
+            ],
+            "orientation": "Faces toward the work wall",
+            "front_blender_vector": [
+              0,
+              1,
+              0
+            ],
+            "note": ""
+          },
+          {
+            "id": "rug",
+            "kind": "rug",
+            "name": "Rift rug",
+            "dimensions_m": [
+              2.7432,
+              1.8288,
+              0.005175
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "long edge runs parallel to the two work surfaces"
+          },
+          {
+            "id": "grejig-1",
+            "kind": "closet_shoe_rack",
+            "name": "IKEA GREJIG stackable shoe rack",
+            "dimensions_m": [
+              0.58,
+              0.27,
+              0.17
+            ],
+            "orientation": "Faces toward the room entrance",
+            "front_blender_vector": [
+              1,
+              0,
+              0
+            ],
+            "note": "closet interior fit is unverified; hidden with recorded closed doors"
+          },
+          {
+            "id": "grejig-2",
+            "kind": "closet_shoe_rack",
+            "name": "IKEA GREJIG stackable shoe rack",
+            "dimensions_m": [
+              0.58,
+              0.27,
+              0.17
+            ],
+            "orientation": "Faces toward the room entrance",
+            "front_blender_vector": [
+              1,
+              0,
+              0
+            ],
+            "note": "closet interior fit is unverified; hidden with recorded closed doors"
+          },
+          {
+            "id": "grejig-3",
+            "kind": "closet_shoe_rack",
+            "name": "IKEA GREJIG stackable shoe rack",
+            "dimensions_m": [
+              0.58,
+              0.27,
+              0.17
+            ],
+            "orientation": "Faces toward the room entrance",
+            "front_blender_vector": [
+              1,
+              0,
+              0
+            ],
+            "note": "closet interior fit is unverified; hidden with recorded closed doors"
+          },
+          {
+            "id": "richmond-art",
+            "kind": "art",
+            "name": "Desenio Dan Hobday Richmond print, native landscape100W\u00d770Hcm",
+            "dimensions_m": [
+              1.0254,
+              0.02286,
+              0.7254
+            ],
+            "orientation": "Faces into the room from the work wall",
+            "front_blender_vector": [
+              0,
+              -1,
+              0
+            ],
+            "note": "installed on the work wall above the project bench"
+          }
+        ],
+        "workwall_finish": {
+          "paint": "PeppercornSW7674",
+          "screen_sRGB": [
+            88,
+            88,
+            88
+          ],
+          "panel_count": 3,
+          "panel_W_D_H_m": [
+            0.6,
+            0.022,
+            2.4
+          ],
+          "bay_W_H_m": [
+            1.8,
+            2.4
+          ],
+          "panel_bottom_z_m": 1.575,
+          "panel_top_z_m": 3.9749999999999996,
+          "ceiling_upper_band_m": 0.62,
+          "baseboard": "No separate workwall baseboard geometry recorded in source; onsite mounting detail unmeasured",
+          "slat_profile_proxy_m": [
+            0.027,
+            0.013
+          ],
+          "felt_thickness_proxy_m": 0.009,
+          "slat_pitch_proxy_m": 0.04
+        },
+        "notes": "Room outline follows the metric scan. Reconstructed wall locations have approximately 5\u201312 cm uncertainty. Product profiles are simplified. Door hinges and closet fit require an on-site check.",
+        "desk": {
+          "width": 1.2,
+          "depth": 0.685,
+          "operatingHeight": 0.74,
+          "confidence": "Branch Tria electric standing desk; supplier CAD dimensions",
+          "dimension_note": "Official supplier CAD1:1; desktop1200x685mm vs published1198.88x685.8mm rounding disclosed; top operating height740mm assumed"
+        },
+        "catStand": {
+          "baseWidth": 0.59944,
+          "baseDepth": 0.5588,
+          "listedHeight": 1.4986,
+          "branchEnvelope": [
+            0.7,
+            1.1,
+            1.4986
+          ],
+          "branchEnvelopeConfidence": "Provisional; full projecting reach is unverified"
+        }
+      }
+    },
+    {
+      "id": "c-ink-studio",
+      "label": "C \u00b7 Ink studio",
+      "description": "Naval ink-blue paint across the work wall, without paneling. The same functional furniture layout.",
+      "model_source": "variants/c-ink-studio/model/his-office-design.blend",
+      "model_sha256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+      "layout_sha256": "d6b669b8ce998fc4b3930049895360071bff9313609f4f4ec0c05888ca269e94",
+      "camera_sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+      "config": {
+        "room": {
+          "floor": 1.575,
+          "ceiling": 4.595,
+          "width": 4.9,
+          "depth": 3.1,
+          "area": 14.028,
+          "polygon": [
+            [
+              -7.98,
+              2.79
+            ],
+            [
+              -3.08,
+              2.79
+            ],
+            [
+              -3.08,
+              1.35
+            ],
+            [
+              -3.78,
+              1.35
+            ],
+            [
+              -3.78,
+              -0.31
+            ],
+            [
+              -7.98,
+              -0.31
+            ]
+          ],
+          "bounds": [
+            -7.98,
+            -3.08,
+            -0.31,
+            2.79
+          ],
+          "eyeHeight": 1.55
+        },
+        "views": [
+          {
+            "id": "room-a",
+            "filename": "renders/room-a.jpg",
+            "eye_blender_m": [
+              -3.4600000381469727,
+              -2.3399999141693115,
+              3.125
+            ],
+            "look_direction_blender": [
+              -0.8195406794548035,
+              0.5559120178222656,
+              -0.13897785544395447
+            ],
+            "eye_gltf_m": [
+              -3.4600000381469727,
+              3.125,
+              2.3399999141693115
+            ],
+            "target_gltf_m": [
+              -4.279540538787842,
+              2.9860222339630127,
+              1.784087896347046
+            ],
+            "eye": [
+              -3.4600000381469727,
+              3.125,
+              2.3399999141693115
+            ],
+            "target": [
+              -4.279540538787842,
+              2.9860222339630127,
+              1.784087896347046
+            ],
+            "lens_mm": 24.0,
+            "sensor_width_mm": 36.0,
+            "horizontal_FOV_deg": 73.73979529168804,
+            "pixels": [
+              1440,
+              1000
+            ],
+            "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+            "label": "From the entry",
+            "description": "See the primary desk, clear project bench, lamp and window."
+          },
+          {
+            "id": "room-b",
+            "filename": "renders/room-b.jpg",
+            "eye_blender_m": [
+              -7.480000019073486,
+              -2.2699999809265137,
+              3.125
+            ],
+            "look_direction_blender": [
+              0.814118504524231,
+              0.5604891777038574,
+              -0.1518644094467163
+            ],
+            "eye_gltf_m": [
+              -7.480000019073486,
+              3.125,
+              2.2699999809265137
+            ],
+            "target_gltf_m": [
+              -6.665881633758545,
+              2.973135471343994,
+              1.7095108032226562
+            ],
+            "eye": [
+              -7.480000019073486,
+              3.125,
+              2.2699999809265137
+            ],
+            "target": [
+              -6.665881633758545,
+              2.973135471343994,
+              1.7095108032226562
+            ],
+            "lens_mm": 24.0,
+            "sensor_width_mm": 36.0,
+            "horizontal_FOV_deg": 73.73979529168804,
+            "pixels": [
+              1440,
+              1000
+            ],
+            "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+            "label": "Rear door side",
+            "description": "Look toward the clear project bench, closet and entrance."
+          },
+          {
+            "id": "room-c",
+            "filename": "renders/room-c.jpg",
+            "eye_blender_m": [
+              -4.179999828338623,
+              -0.3499999940395355,
+              3.125
+            ],
+            "look_direction_blender": [
+              -0.7090439796447754,
+              -0.6834601163864136,
+              -0.17360593378543854
+            ],
+            "eye_gltf_m": [
+              -4.179999828338623,
+              3.125,
+              0.3499999940395355
+            ],
+            "target_gltf_m": [
+              -4.889043807983398,
+              2.9513940811157227,
+              1.0334601402282715
+            ],
+            "eye": [
+              -4.179999828338623,
+              3.125,
+              0.3499999940395355
+            ],
+            "target": [
+              -4.889043807983398,
+              2.9513940811157227,
+              1.0334601402282715
+            ],
+            "lens_mm": 24.0,
+            "sensor_width_mm": 36.0,
+            "horizontal_FOV_deg": 73.73979529168804,
+            "pixels": [
+              1440,
+              1000
+            ],
+            "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+            "label": "Work wall corner",
+            "description": "Review the brick arch, visitor chair and folded-clothes storage."
+          }
+        ],
+        "assets": {
+          "shell": "c-ink-studio/his-office-shell.glb",
+          "doors": "c-ink-studio/his-office-door-leaves.glb",
+          "furniture": "c-ink-studio/his-office-furniture.glb"
+        },
+        "footprints": [
+          {
+            "id": "standing-main-desk",
+            "kind": "kept_desk",
+            "polygon": [
+              [
+                -7.515,
+                0.47350000000000003
+              ],
+              [
+                -6.315,
+                0.47350000000000003
+              ],
+              [
+                -6.315,
+                -0.21150000000000002
+              ],
+              [
+                -7.515,
+                -0.21150000000000002
+              ]
+            ],
+            "center": [
+              -6.915,
+              0.131
+            ],
+            "facing": [
+              0,
+              1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "branch-primary",
+            "kind": "task_chair",
+            "polygon": [
+              [
+                -7.170520000000001,
+                1.20052
+              ],
+              [
+                -6.46948,
+                1.20052
+              ],
+              [
+                -6.46948,
+                0.49948
+              ],
+              [
+                -7.170520000000001,
+                0.49948
+              ]
+            ],
+            "center": [
+              -6.82,
+              0.85
+            ],
+            "facing": [
+              0,
+              -1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "secondary-workspace",
+            "kind": "secondary_desk",
+            "polygon": [
+              [
+                -6.25,
+                0.37
+              ],
+              [
+                -4.85,
+                0.37
+              ],
+              [
+                -4.85,
+                -0.22999999999999998
+              ],
+              [
+                -6.25,
+                -0.22999999999999998
+              ]
+            ],
+            "center": [
+              -5.55,
+              0.07
+            ],
+            "facing": [
+              0,
+              1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "honeywell-lamp",
+            "kind": "kept_lamp",
+            "polygon": [
+              [
+                -7.814018,
+                0.5450539999999999
+              ],
+              [
+                -7.525982,
+                0.5450539999999999
+              ],
+              [
+                -7.525982,
+                -0.065054
+              ],
+              [
+                -7.814018,
+                -0.065054
+              ]
+            ],
+            "center": [
+              -7.67,
+              0.24
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "muttros-cat-tree",
+            "kind": "kept_cat_tree",
+            "polygon": [
+              [
+                -7.88972,
+                1.2793999999999999
+              ],
+              [
+                -7.29028,
+                1.2793999999999999
+              ],
+              [
+                -7.29028,
+                0.7206
+              ],
+              [
+                -7.88972,
+                0.7206
+              ]
+            ],
+            "center": [
+              -7.59,
+              1.0
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "muttros-cat-tree-provisional-reach",
+            "kind": "provisional_branch_reach",
+            "polygon": [
+              [
+                -7.9399999999999995,
+                1.55
+              ],
+              [
+                -7.24,
+                1.55
+              ],
+              [
+                -7.24,
+                0.44999999999999996
+              ],
+              [
+                -7.9399999999999995,
+                0.44999999999999996
+              ]
+            ],
+            "center": [
+              -7.59,
+              1.0
+            ],
+            "facing": null,
+            "provisional": true,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "clothes-dresser",
+            "kind": "clothes_dresser",
+            "polygon": [
+              [
+                -6.949249999999999,
+                2.7497125
+              ],
+              [
+                -6.25075,
+                2.7497125
+              ],
+              [
+                -6.25075,
+                2.2702875
+              ],
+              [
+                -6.949249999999999,
+                2.2702875
+              ]
+            ],
+            "center": [
+              -6.6,
+              2.51
+            ],
+            "facing": [
+              0,
+              -1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "visitor-chair",
+            "kind": "lounge_chair",
+            "polygon": [
+              [
+                -5.0554375,
+                2.3698875
+              ],
+              [
+                -4.404562500000001,
+                2.3698875
+              ],
+              [
+                -4.404562500000001,
+                1.6301125
+              ],
+              [
+                -5.0554375,
+                1.6301125
+              ]
+            ],
+            "center": [
+              -4.73,
+              2.0
+            ],
+            "facing": [
+              0,
+              -1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": true
+          },
+          {
+            "id": "rug",
+            "kind": "rug",
+            "polygon": [
+              [
+                -7.4716,
+                2.0144
+              ],
+              [
+                -4.7284,
+                2.0144
+              ],
+              [
+                -4.7284,
+                0.1856000000000001
+              ],
+              [
+                -7.4716,
+                0.1856000000000001
+              ]
+            ],
+            "center": [
+              -6.1,
+              1.1
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "grejig-1",
+            "kind": "closet_shoe_rack",
+            "polygon": [
+              [
+                -3.3449999999999998,
+                0.8300000000000001
+              ],
+              [
+                -3.3449999999999998,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.8300000000000001
+              ]
+            ],
+            "center": [
+              -3.48,
+              0.54
+            ],
+            "facing": [
+              1,
+              0
+            ],
+            "provisional": true,
+            "hiddenWhenDoorsClosed": true,
+            "walkBlocker": false
+          },
+          {
+            "id": "grejig-2",
+            "kind": "closet_shoe_rack",
+            "polygon": [
+              [
+                -3.3449999999999998,
+                0.8300000000000001
+              ],
+              [
+                -3.3449999999999998,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.8300000000000001
+              ]
+            ],
+            "center": [
+              -3.48,
+              0.54
+            ],
+            "facing": [
+              1,
+              0
+            ],
+            "provisional": true,
+            "hiddenWhenDoorsClosed": true,
+            "walkBlocker": false
+          },
+          {
+            "id": "grejig-3",
+            "kind": "closet_shoe_rack",
+            "polygon": [
+              [
+                -3.3449999999999998,
+                0.8300000000000001
+              ],
+              [
+                -3.3449999999999998,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.25000000000000006
+              ],
+              [
+                -3.615,
+                0.8300000000000001
+              ]
+            ],
+            "center": [
+              -3.48,
+              0.54
+            ],
+            "facing": [
+              1,
+              0
+            ],
+            "provisional": true,
+            "hiddenWhenDoorsClosed": true,
+            "walkBlocker": false
+          },
+          {
+            "id": "richmond-art",
+            "kind": "art",
+            "polygon": [
+              [
+                -6.0626999999999995,
+                -0.23614000000000002
+              ],
+              [
+                -5.0373,
+                -0.23614000000000002
+              ],
+              [
+                -5.0373,
+                -0.259
+              ],
+              [
+                -6.0626999999999995,
+                -0.259
+              ]
+            ],
+            "center": [
+              -5.55,
+              -0.24757
+            ],
+            "facing": [
+              0,
+              1
+            ],
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          }
+        ],
+        "products": [
+          {
+            "id": "standing-main-desk",
+            "kind": "kept_desk",
+            "name": "Branch Tria Standing Desk, Black Oak/Charcoal, nominal48\u00d727in",
+            "dimensions_m": [
+              1.2,
+              0.685,
+              0.74
+            ],
+            "orientation": "Faces into the room from the work wall",
+            "front_blender_vector": [
+              0,
+              -1,
+              0
+            ],
+            "note": "worktop height is shown at seated setting"
+          },
+          {
+            "id": "branch-primary",
+            "kind": "task_chair",
+            "name": "Primary task chair",
+            "dimensions_m": [
+              0.635,
+              0.6096,
+              1.04648
+            ],
+            "orientation": "Faces toward the work wall",
+            "front_blender_vector": [
+              0,
+              1,
+              0
+            ],
+            "note": "caster base 70 cm"
+          },
+          {
+            "id": "secondary-workspace",
+            "kind": "secondary_desk",
+            "name": "Clear project bench",
+            "dimensions_m": [
+              1.4,
+              0.6,
+              0.734925
+            ],
+            "orientation": "Faces into the room from the work wall",
+            "front_blender_vector": [
+              0,
+              -1,
+              0
+            ],
+            "note": "worktop height is shown at seated setting"
+          },
+          {
+            "id": "honeywell-lamp",
+            "kind": "kept_lamp",
+            "name": "Honeywell 02E floor lamp",
+            "dimensions_m": [
+              0.288036,
+              0.610108,
+              1.9685
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "long open head runs along the window wall"
+          },
+          {
+            "id": "muttros-cat-tree",
+            "kind": "kept_cat_tree",
+            "name": "MUTTROS cat tree",
+            "dimensions_m": [
+              0.59944,
+              0.5588,
+              1.4986
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "upper branch reach is approximate; branches run along the window wall"
+          },
+          {
+            "id": "clothes-dresser",
+            "kind": "clothes_dresser",
+            "name": "Folded-clothes drawers",
+            "dimensions_m": [
+              0.6985,
+              0.479425,
+              0.7493
+            ],
+            "orientation": "Faces toward the work wall",
+            "front_blender_vector": [
+              0,
+              1,
+              0
+            ],
+            "note": ""
+          },
+          {
+            "id": "visitor-chair",
+            "kind": "lounge_chair",
+            "name": "Visitor armchair",
+            "dimensions_m": [
+              0.650875,
+              0.739775,
+              0.7493
+            ],
+            "orientation": "Faces toward the work wall",
+            "front_blender_vector": [
+              0,
+              1,
+              0
+            ],
+            "note": ""
+          },
+          {
+            "id": "rug",
+            "kind": "rug",
+            "name": "Rift rug",
+            "dimensions_m": [
+              2.7432,
+              1.8288,
+              0.005175
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "long edge runs parallel to the two work surfaces"
+          },
+          {
+            "id": "grejig-1",
+            "kind": "closet_shoe_rack",
+            "name": "IKEA GREJIG stackable shoe rack",
+            "dimensions_m": [
+              0.58,
+              0.27,
+              0.17
+            ],
+            "orientation": "Faces toward the room entrance",
+            "front_blender_vector": [
+              1,
+              0,
+              0
+            ],
+            "note": "closet interior fit is unverified; hidden with recorded closed doors"
+          },
+          {
+            "id": "grejig-2",
+            "kind": "closet_shoe_rack",
+            "name": "IKEA GREJIG stackable shoe rack",
+            "dimensions_m": [
+              0.58,
+              0.27,
+              0.17
+            ],
+            "orientation": "Faces toward the room entrance",
+            "front_blender_vector": [
+              1,
+              0,
+              0
+            ],
+            "note": "closet interior fit is unverified; hidden with recorded closed doors"
+          },
+          {
+            "id": "grejig-3",
+            "kind": "closet_shoe_rack",
+            "name": "IKEA GREJIG stackable shoe rack",
+            "dimensions_m": [
+              0.58,
+              0.27,
+              0.17
+            ],
+            "orientation": "Faces toward the room entrance",
+            "front_blender_vector": [
+              1,
+              0,
+              0
+            ],
+            "note": "closet interior fit is unverified; hidden with recorded closed doors"
+          },
+          {
+            "id": "richmond-art",
+            "kind": "art",
+            "name": "Desenio Dan Hobday Richmond print, native landscape100W\u00d770Hcm",
+            "dimensions_m": [
+              1.0254,
+              0.02286,
+              0.7254
+            ],
+            "orientation": "Faces into the room from the work wall",
+            "front_blender_vector": [
+              0,
+              -1,
+              0
+            ],
+            "note": "installed on the work wall above the project bench"
+          }
+        ],
+        "workwall_finish": {
+          "paint": "NavalSW6244",
+          "screen_sRGB": [
+            47,
+            61,
+            76
+          ],
+          "panels": false
+        },
+        "notes": "Room outline follows the metric scan. Reconstructed wall locations have approximately 5\u201312 cm uncertainty. Product profiles are simplified. Door hinges and closet fit require an on-site check.",
+        "desk": {
+          "width": 1.2,
+          "depth": 0.685,
+          "operatingHeight": 0.74,
+          "confidence": "Branch Tria electric standing desk; supplier CAD dimensions",
+          "dimension_note": "Official supplier CAD1:1; desktop1200x685mm vs published1198.88x685.8mm rounding disclosed; top operating height740mm assumed"
+        },
+        "catStand": {
+          "baseWidth": 0.59944,
+          "baseDepth": 0.5588,
+          "listedHeight": 1.4986,
+          "branchEnvelope": [
+            0.7,
+            1.1,
+            1.4986
+          ],
+          "branchEnvelopeConfidence": "Provisional; full projecting reach is unverified"
+        }
+      }
+    }
+  ]
+}

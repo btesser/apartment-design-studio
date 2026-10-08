@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "scope": "Independent read-only source-photo audit. No images modified and no model built.",
+  "coordinate_convention": "Pixel boxes use top-left origin and half-open right/bottom endpoints. Blender UV has bottom-left origin.",
+  "rug": {
+    "file": "/workspace/his-office-pinterest/products/photos/ruggable-impasto-taupe-6x9.jpg",
+    "sha256": "9fb0a2573a6bececb8811b44438cd1e33ebe8d0f5a152aaadcd0bc1aa3bed14c",
+    "pixel_dimensions_W_H": [
+      2400,
+      3000
+    ],
+    "read_only": true,
+    "pixels_edited": false,
+    "visually_inspected": true,
+    "selected_product": "Ruggable Impasto Taupe Flatwoven 6×9 ft + Standard Pad",
+    "nominal_body_dimensions_m": [
+      1.8288,
+      2.7432
+    ],
+    "rug_body_pixel_box_left_top_right_bottom_half_open": [
+      286,
+      138,
+      2121,
+      2852
+    ],
+    "rug_body_pixel_dimensions_W_H": [
+      1835,
+      2714
+    ],
+    "body_pixel_aspect_ratio_W_over_H": 0.676123802505527,
+    "nominal_product_aspect_ratio_W_over_H": 0.6666666666666666,
+    "normalized_UV_body_edges": {
+      "u_min": 0.11916666666666667,
+      "u_max": 0.88375,
+      "v_min": 0.04933333333333334,
+      "v_max": 0.954
+    },
+    "recommended_normalized_UV_pixel_centers": {
+      "u_min": 0.119375,
+      "u_max": 0.8835416666666667,
+      "v_min": 0.04949999999999999,
+      "v_max": 0.9538333333333333
+    },
+    "recommended_UV_quad_order_lower_left_lower_right_upper_right_upper_left": [
+      [
+        0.119375,
+        0.04949999999999999
+      ],
+      [
+        0.8835416666666667,
+        0.04949999999999999
+      ],
+      [
+        0.8835416666666667,
+        0.9538333333333333
+      ],
+      [
+        0.119375,
+        0.9538333333333333
+      ]
+    ],
+    "mapping": "Map full rectangular product body once across rug top; source image vertical axis follows 9ft length and horizontal axis follows 6ft width. Preserve thin beige binding. Keep image as sRGB; use EXTEND to avoid tiling.",
+    "excluded": "White studio background outside x286..2120/y138..2851 and gray bottom contact shadow beginning at y2852.",
+    "edge_evidence": {
+      "central_top_pixel_RGB": {
+        "y137": [
+          246,
+          245,
+          241
+        ],
+        "y138": [
+          204,
+          201,
+          192
+        ]
+      },
+      "central_bottom_row_pixel_RGB": {
+        "y2851": [
+          207,
+          202,
+          196
+        ],
+        "y2852": [
+          216,
+          213,
+          208
+        ]
+      },
+      "central_right_pixel_RGB": {
+        "x2120": [
+          204,
+          202,
+          190
+        ],
+        "x2121": [
+          222,
+          219,
+          212
+        ],
+        "x2122": [
+          241,
+          240,
+          238
+        ]
+      },
+      "inspection_note": "Full-resolution row/column RGB profiles and visible continuous beige binding distinguish product body from white background/shadow; JPEG antialias transition is 1–2 pixels."
+    },
+    "source_aspect_limit": "Photo body aspect differs from nominal 6:9 by about 1.4%; use manufacturer 6×9ft model dimensions while mapping the full photographed rug body. Do not crop the design further to force source pixels into a 2:3 ratio.",
+    "material_guidance": "Matte flatwoven low-pile surface, roughness about0.85–0.95; shallow fine textile bump, restrained intensity. Photograph carries beige/taupe/ivory variation."
+  },
+  "art": {
+    "file": "/workspace/his-office-pinterest/products/photos/art-abstract-scenery-100x70.jpg",
+    "sha256": "d23725c60d53e444e0592ed8bd7712e0cc52a16dfa3e57a51642efe4d487dad2",
+    "pixel_dimensions_W_H": [
+      2000,
+      1400
+    ],
+    "read_only": true,
+    "pixels_edited": false,
+    "visually_inspected": true,
+    "selected_product": "Desenio Abstract Scenery No1 Print, 70×100cm mounted landscape",
+    "paper_dimensions_m_W_H": [
+      1.0,
+      0.7
+    ],
+    "image_aspect_ratio_W_over_H": 1.4285714285714286,
+    "paper_aspect_ratio_W_over_H": 1.4285714285714286,
+    "aspect_ratio_exact_match": true,
+    "recommended_UV_quad_order_lower_left_lower_right_upper_right_upper_left": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "paper_white_border_preserved": true,
+    "mapping": "Map entire unmodified 2000×1400 image across the entire 100×70cm landscape paper. No UV crop and no 90-degree rotation.",
+    "printed_border": "Visible white area on all four edges is part of the selected print paper. Preserve it inside the frame opening; do not remove it as a studio margin or add another wide mat.",
+    "printed_border_observation_px": "About140px each side; JPEG transition adds small edge artifacts. This observation is descriptive and must not be used to crop the UVs.",
+    "orientation_cue": "Cream sky occupies upper field; darker muted brown abstract landscape/horizon occupies lower field.",
+    "material_guidance": "Paper diffuse/roughness about0.8–0.95; retain original sRGB image without multiplication by beige tint. Frame can surround the full paper with restrained slim black profile."
+  },
+  "visitor": {
+    "file": "/workspace/his-office-pinterest/products/photos/ekenaset-beige.jpg",
+    "sha256": "ff5129dc3b471fbc30f7544429cc1368d49e89427f767b3b73c04c3e807b22e0",
+    "pixel_dimensions_W_H": [
+      1400,
+      1400
+    ],
+    "read_only": true,
+    "pixels_edited": false,
+    "visually_inspected": true,
+    "selected_product": "IKEA EKENÄSET Kilanda light beige",
+    "upholstery_appearance": "Light warm greige/beige fine woven upholstery, with small irregular texture and soft highlights. Avoid teal, strong orange/sand saturation, glossy finish, or long corduroy ribs.",
+    "wood_appearance": "Dark brown espresso/walnut finish with subtle warm reddish-brown grain. Arm tops catch light; legs remain darker. Use a separate wood material from upholstery.",
+    "photo_samples": {
+      "upholstery_back_midtones": {
+        "pixel_box_left_top_right_bottom_half_open": [
+          700,
+          150,
+          1100,
+          500
+        ],
+        "median_sRGB_8bit": [
+          205.0,
+          194.0,
+          185.0
+        ],
+        "median_sRGB_0to1": [
+          0.803921568627451,
+          0.7607843137254902,
+          0.7254901960784313
+        ],
+        "median_linear_RGB": [
+          0.6104955708078648,
+          0.5394794890121071,
+          0.4851499400560704
+        ]
+      },
+      "upholstery_seat_lit": {
+        "pixel_box_left_top_right_bottom_half_open": [
+          280,
+          680,
+          600,
+          790
+        ],
+        "median_sRGB_8bit": [
+          200.0,
+          189.0,
+          179.0
+        ],
+        "median_sRGB_0to1": [
+          0.7843137254901961,
+          0.7411764705882353,
+          0.7019607843137254
+        ],
+        "median_linear_RGB": [
+          0.5775804404296506,
+          0.5088813208549338,
+          0.45078578283822346
+        ]
+      },
+      "wood_arm": {
+        "pixel_box_left_top_right_bottom_half_open": [
+          980,
+          383,
+          1190,
+          405
+        ],
+        "median_sRGB_8bit": [
+          72.0,
+          64.0,
+          61.0
+        ],
+        "median_sRGB_0to1": [
+          0.2823529411764706,
+          0.25098039215686274,
+          0.23921568627450981
+        ],
+        "median_linear_RGB": [
+          0.06480326669290577,
+          0.05126945837404324,
+          0.046665086336880095
+        ]
+      },
+      "wood_front_leg": {
+        "pixel_box_left_top_right_bottom_half_open": [
+          924,
+          915,
+          948,
+          1150
+        ],
+        "median_sRGB_8bit": [
+          50.0,
+          35.0,
+          30.0
+        ],
+        "median_sRGB_0to1": [
+          0.19607843137254902,
+          0.13725490196078433,
+          0.11764705882352941
+        ],
+        "median_linear_RGB": [
+          0.03189603307301153,
+          0.016807375752887384,
+          0.012983032342173012
+        ]
+      }
+    },
+    "suggested_starting_materials": {
+      "fabric_base_color_linear_RGB": [
+        0.59,
+        0.52,
+        0.46
+      ],
+      "fabric_roughness": 0.9,
+      "fabric_bump_strength": 0.12,
+      "fabric_bump_distance_m": 0.00025,
+      "wood_base_color_linear_RGB": [
+        0.045,
+        0.025,
+        0.019
+      ],
+      "wood_roughness": 0.5
+    },
+    "sample_limit": "Photograph samples include lighting and camera response. Values guide a visual approximation, not calibrated manufacturer albedo. Listed linear RGB is suitable for Blender Python node default_value; the separate sRGB values are for display/reference."
+  },
+  "unchanged_photo_hashes_after_audit": {
+    "rug": "9fb0a2573a6bececb8811b44438cd1e33ebe8d0f5a152aaadcd0bc1aa3bed14c",
+    "art": "d23725c60d53e444e0592ed8bd7712e0cc52a16dfa3e57a51642efe4d487dad2",
+    "visitor": "ff5129dc3b471fbc30f7544429cc1368d49e89427f767b3b73c04c3e807b22e0"
+  },
+  "all_photos_unchanged": true
+}

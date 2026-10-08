@@ -1,0 +1,25 @@
+READ-ONLY REFERENCE TEXTURE AUDIT
+
+RUG — Ruggable Impasto Taupe 6×9ft
+Source: /workspace/his-office-pinterest/products/photos/ruggable-impasto-taupe-6x9.jpg
+Image2400×3000; full rug-body box [286,138,2121,2852) in top-left pixel coordinates.
+Preserve thin beige binding; exclude surrounding white margin and bottom gray shadow.
+Recommended Blender UV min=(0.119375,0.0495), max=(0.883541667,0.953833333).
+Map vertical photo axis to9ft length and horizontal axis to6ft width, once across entire rug top.
+Nominal model1.8288×2.7432m. Body-photo ratio is about1.4% different; keep complete photographed body.
+
+ART — Abstract Scenery No1
+Source: /workspace/his-office-pinterest/products/photos/art-abstract-scenery-100x70.jpg
+Image2000×1400 matches100×70cm paper ratio exactly.
+UV=(0,0)–(1,1) on full1.00×0.70m landscape paper. Preserve printed white border.
+Keep cream sky above the muted brown abstract landscape. No painted-image crop and no extra wide mat.
+
+VISITOR — EKENÄSET Kilanda light beige
+Source: /workspace/his-office-pinterest/products/photos/ekenaset-beige.jpg
+Fine warm greige woven fabric, matte; dark espresso/walnut wood frame.
+Blender starting fabric linearRGB=(0.59,0.52,0.46), roughness0.90, fine bump strength0.12/distance0.00025m.
+Wood starting linearRGB=(0.045,0.025,0.019), roughness0.50. Match photo appearance under final scene lights.
+Photo samples include illumination; they are visual guidance, not calibrated manufacturer albedo.
+
+All three photos were visually inspected and read only. Their SHA256 hashes remain unchanged.
+Machine-readable UV values, source hashes, sample boxes, and appearance guidance: reference-texture-audit.json.

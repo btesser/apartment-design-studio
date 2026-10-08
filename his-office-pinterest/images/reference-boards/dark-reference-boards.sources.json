@@ -1,0 +1,456 @@
+{
+  "created_UTC": "2026-10-08T19:17:05.468837+00:00",
+  "usage": {
+    "B": [
+      "shared-products-1",
+      "finishes-B-2"
+    ],
+    "C": [
+      "shared-products-1",
+      "finishes-C-2"
+    ]
+  },
+  "status": "User approved two separate directions B and C; root selected shared products; no purchases. Final target model geometry governs each image generation.",
+  "original_photographs_modified": false,
+  "authoring": "ReportLab original-photo containment + verified-color vector swatches, rasterized by pdftoppm at150DPI. No original photo crops, recoloring or pixel edits.",
+  "shared_cells": [
+    {
+      "name": "SELECTED Branch Tria \u2014 Black Oak / Charcoal",
+      "dim": "Nominal desktop47.2\u00d727in / 119.89\u00d768.58cm \u2014 $749",
+      "note": "Use the final model\u2019s vendor CAD dimensions and frame. Black-oak woodgrain top, charcoal three-stage steel legs, felt underdesk organizer. Catalogue room/lamp/decor are reference context only.",
+      "images": [
+        "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-blackoak-charcoal-official.jpg"
+      ],
+      "url": "https://www.branchfurniture.com/products/tria-standing-desk?variant=43180424921123",
+      "credit": "Branch original exact Black Oak / Charcoal photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "OWNED Honeywell 02E Pro \u2014 WHITE",
+      "dim": "Overall D\u00d7W\u00d7H61.01\u00d728.80\u00d7196.85cm \u2014 owned",
+      "note": "Two narrow LED bars form an OPEN rectangular head with EMPTY CENTER. Slim white upright, white U-shaped base. Preserve its model position, orientation and outer size.",
+      "images": [
+        "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-MAIN.jpg"
+      ],
+      "url": "https://honeywellsmartlighting.com/products/02e-pro",
+      "credit": "Exact Honeywell ASINB0C3BVYTXP original photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "OWNED MUTTROS \u2014 BROWN / three wicker baskets",
+      "dim": "H149.86cm; base59.94\u00d755.88cm \u2014 owned",
+      "note": "Natural brown wicker and branching wood; retain condo and hammock. Preserve final modeled branches and basket orientation. Source cats, plant and room props are context only.",
+      "images": [
+        "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-MAIN.jpg"
+      ],
+      "url": "https://www.amazon.com/dp/B0HHRC6XBC",
+      "credit": "Exact MUTTROS ASINB0HHRC6XBC original photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "CLEAR project bench \u2014 LAGKAPTEN top",
+      "dim": "Black-brown140\u00d760cm tabletop804.870.16 \u2014 $49.99",
+      "note": "Real black-brown tabletop. Keep this work surface EMPTY: no second fixed monitor, keyboard or permanent task chair. It remains independent of the primary standing desk.",
+      "images": [
+        "/workspace/his-office-pinterest/products/photos/lagkapten-top-black.jpg"
+      ],
+      "url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+      "credit": "IKEA original selected black-brown tabletop photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "ONE LEFT ALEX + TWO RIGHT black ADILS",
+      "dim": "ALEX36\u00d758\u00d770cm \u2014 $115; TWO legs \u2014 $15 total",
+      "note": "Black-brown FIVE-DRAWER ALEX604.735.48 at LEFT / \u2212X. TWO black ADILS702.179.73 at RIGHT. Use the measured final assembly and knee bay; photos show the separate real components.",
+      "images": [
+        "/workspace/his-office-pinterest/products/photos/alex-black-drawers.jpg",
+        "/workspace/his-office-pinterest/products/photos/adils-black-leg.jpg"
+      ],
+      "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+      "credit": "IKEA original selected drawer unit and leg photographs",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "ONE Branch Ergonomic Chair Pro \u2014 BLACK",
+      "dim": "Caster base\u00d870.10cm \u2014 $499 / quantityONE",
+      "note": "Black mesh back, black seat and rolling five-star base. One primary work chair can transfer between worktops. Preserve its target position and facing; no second permanent task chair.",
+      "images": [
+        "/workspace/his-office-pinterest/products/photos/branch-pro-selected.jpg"
+      ],
+      "url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "credit": "Branch original selected BLACK variant photograph",
+      "split": "horizontal",
+      "swatch": null
+    }
+  ],
+  "finish_cells": [
+    {
+      "name": "EKEN\u00c4SET \u2014 Axvall dark gray-blue boucl\u00e9",
+      "dim": "W65.09\u00d7D73.98\u00d7H74.93cm \u2014 $399",
+      "note": "Exact506.243.26 new chair shape: textured gray-blue boucl\u00e9, walnut-effect wood arms/legs. Use actual form in the target model; preserve its position and facing.",
+      "images": [
+        "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg"
+      ],
+      "url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+      "credit": "IKEA original selected Axvall gray-blue photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "Rift Charcoal \u2014 selected6\u00d79 Flatwoven",
+      "dim": "182.88\u00d7274.32cm \u2014 $369 with Standard Pad",
+      "note": "Use this exact6\u00d79 broken-stripe pattern, charcoal ground, gray/cream/muted-brown accents. Keep the model rug rotation and footprint. Do not substitute a blue/taupe rug or stretch the pattern.",
+      "images": [
+        "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg"
+      ],
+      "url": "https://ruggable.com/products/rift-charcoal-rug?variant=42130480070711",
+      "credit": "Ruggable original selected6\u00d79 variant photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "STORKLINTA \u2014 dark-brown/oak clothes drawers",
+      "dim": "W69.85\u00d7D47.94\u00d7H74.93cm \u2014 $149.99",
+      "note": "Three flush dark-brown/oak-effect drawers, exact605.592.93. Preserve footprint and placement. Anchor to wall per IKEA instructions; verify brick fixing on site.",
+      "images": [
+        "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg"
+      ],
+      "url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/",
+      "credit": "IKEA original whole-product selected dresser photograph",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "ONE Dan Hobday \u2014 Richmond Print",
+      "dim": "Native LANDSCAPE paper100W\u00d770Hcm \u2014 $107",
+      "note": "Use the exact unchanged slate/charcoal/olive/ivory/brown artwork and horizontal orientation. One picture ABOVE THE PROJECT BENCH at the final model anchor. Keep fireplace and primary-desk wall free of other art.",
+      "images": [
+        "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg"
+      ],
+      "url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+      "credit": "Desenio original exact100\u00d770cm landscape artwork",
+      "split": "horizontal",
+      "swatch": null
+    },
+    {
+      "name": "Thin BLACK wood frame \u2014 landscape",
+      "dim": "Picture opening100\u00d770cm horizontally \u2014 $101.15",
+      "note": "Use only the narrow black frame material/profile. Retailer photograph is portrait, while the actual model/artwork are horizontal. Do not copy placeholder lettering or add a second picture.",
+      "images": [
+        "/workspace/his-office-pinterest/products/photos/black-frame-landscape.jpg"
+      ],
+      "url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+      "credit": "Desenio original frame photograph \u2014 profile only",
+      "split": "horizontal",
+      "swatch": null
+    }
+  ],
+  "variant_wall_cells": {
+    "B": {
+      "name": "B ONLY \u2014 Black Ash slats + Peppercorn",
+      "dim": "3panels60W\u00d7240H\u00d72.2Dcm \u2014 $584.85 before extras",
+      "note": "Install the bounded1.8m-wide slat bay VERTICALLY behind the project bench, exactly as modeled. Surrounding workwall: PeppercornSW7674 / #585858. The original close-up is angled, not an installation direction.",
+      "images": [
+        "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-2.jpg"
+      ],
+      "url": "https://woodupp.com/products/akupanel-acoustic-panel-natural-wood-black-ash-black-felt-240-x-60-cm",
+      "credit": "WoodUpp original Black Ash veneer / black felt detail",
+      "split": "horizontal",
+      "swatch": {
+        "name": "Peppercorn SW7674",
+        "hex": "#585858",
+        "rgb": [
+          88,
+          88,
+          88
+        ],
+        "url": "https://www.sherwin-williams.com/en-us/color/color-family/neutral-paint-colors/SW7674-peppercorn"
+      }
+    },
+    "C": {
+      "name": "C ONLY \u2014 Naval SW6244 matte paint",
+      "dim": "Verified screen reference RGB47,61,76 / #2F3D4C",
+      "note": "Deep NAVY across the EXISTING smooth workwall, as modeled. No slats, grooves or floating shelves copied from the Pin. Keep white ceiling and existing brick. Paint line/quantity and physical color sample remain to be checked.",
+      "images": [],
+      "url": "https://www.sherwin-williams.com/en-us/color/color-family/blue-paint-colors/SW6244-naval",
+      "credit": "Sherwin-Williams official ColorSnap RGB / HEX data",
+      "split": "horizontal",
+      "swatch": {
+        "name": "Naval SW6244",
+        "hex": "#2F3D4C",
+        "rgb": [
+          47,
+          61,
+          76
+        ],
+        "url": "https://www.sherwin-williams.com/en-us/color/color-family/blue-paint-colors/SW6244-naval"
+      }
+    }
+  },
+  "source_photographs": {
+    "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-blackoak-charcoal-official.jpg": {
+      "sha256": "9e6d08eb15c794ad42fc1170cc5c7d6e7a1772129d8f392686a36345c9ff3f08",
+      "source_image_url": "https://www.branchfurniture.com/cdn/shop/files/Tria_SD_2026June_Branch_0026_V1_1_-_Copy.webp",
+      "product_or_Pin_url": "https://www.branchfurniture.com/products/tria-standing-desk?variant=43180424921123",
+      "role": "SELECTED Branch Tria \u2014 Black Oak / Charcoal",
+      "pixel_dimensions": [
+        1080,
+        1080
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-MAIN.jpg": {
+      "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8",
+      "source_image_url": "https://m.media-amazon.com/images/I/41jkWMsi6EL._AC_SL1500_.jpg",
+      "product_or_Pin_url": "https://honeywellsmartlighting.com/products/02e-pro",
+      "role": "OWNED Honeywell 02E Pro \u2014 WHITE",
+      "pixel_dimensions": [
+        480,
+        1500
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-MAIN.jpg": {
+      "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749",
+      "source_image_url": "https://m.media-amazon.com/images/I/81sFaB2T43L._AC_SL1500_.jpg",
+      "product_or_Pin_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+      "role": "OWNED MUTTROS \u2014 BROWN / three wicker baskets",
+      "pixel_dimensions": [
+        1500,
+        1500
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/lagkapten-top-black.jpg": {
+      "sha256": "ed8e765f79aad7d8b10af94e9d65e8256b3bc61e9795cb27e3bdd8819fe982a9",
+      "source_image_url": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__0977796_pe813779_s5.jpg",
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+      "role": "CLEAR project bench \u2014 LAGKAPTEN top",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/alex-black-drawers.jpg": {
+      "sha256": "a9cd20196a7a4998a87c0eddc64a827f16dd6b03f5fbbf34e1d3bd6f1f31ede9",
+      "source_image_url": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0977786_pe813770_s5.jpg",
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+      "role": "ONE LEFT ALEX + TWO RIGHT black ADILS",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/adils-black-leg.jpg": {
+      "sha256": "6a19fbca3e1eea8f807fa12dddfd8466e42f5e2e1e5b6f5da2ce86ffb9c58f28",
+      "source_image_url": "https://www.ikea.com/us/en/images/products/adils-leg-black__0734618_pe739551_s5.jpg",
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/adils-leg-black-70217973/",
+      "role": "ONE LEFT ALEX + TWO RIGHT black ADILS",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/branch-pro-selected.jpg": {
+      "sha256": "4998c1152afd03dc1a2fd908f2c53e5275759f835117feedef62891f60c0e0b7",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0124/5662/4187/files/ERGPRO_RENDER1_-1.jpg?v=1774561270",
+      "product_or_Pin_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "role": "ONE Branch Ergonomic Chair Pro \u2014 BLACK",
+      "pixel_dimensions": [
+        2016,
+        2016
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg": {
+      "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb",
+      "source_image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+      "role": "EKEN\u00c4SET \u2014 Axvall dark gray-blue boucl\u00e9",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg": {
+      "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/rift-charcoal-A-FLW-MG021-69_bcff7915-f8fa-4462-9e70-1b107a2ea316.jpg?v=1773089745",
+      "product_or_Pin_url": "https://ruggable.com/products/rift-charcoal-rug?variant=42130480070711",
+      "role": "Rift Charcoal \u2014 selected6\u00d79 Flatwoven",
+      "pixel_dimensions": [
+        2400,
+        3000
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg": {
+      "sha256": "476e45c2d8457c3ad3532c1c9acb1a03262d832248bc5cba834a77ea9f467d2f",
+      "source_image_url": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1590138_pe1038779_s5.jpg",
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/",
+      "role": "STORKLINTA \u2014 dark-brown/oak clothes drawers",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg": {
+      "sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+      "source_image_url": "https://media.desenio.com/site_images/69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+      "product_or_Pin_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+      "role": "ONE Dan Hobday \u2014 Richmond Print",
+      "pixel_dimensions": [
+        2000,
+        1400
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/photos/black-frame-landscape.jpg": {
+      "sha256": "02c2cb64ab2dc5f0f747f3e7613ea0022fed70e1ce8035c5981da24cd5b31c58",
+      "source_image_url": "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg",
+      "product_or_Pin_url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+      "role": "Thin BLACK wood frame \u2014 landscape",
+      "pixel_dimensions": [
+        1000,
+        1404
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-2.jpg": {
+      "sha256": "c6b274f7d2859262641435cac7ebdec7b433df263683f125675f81f7f80f1cb8",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0956/1561/5323/files/1013_akupanel_tonal_black_ash_black_felt_03.jpg?v=1777062017",
+      "product_or_Pin_url": "https://woodupp.com/products/akupanel-acoustic-panel-natural-wood-black-ash-black-felt-240-x-60-cm",
+      "role": "B ONLY \u2014 Black Ash slats + Peppercorn",
+      "pixel_dimensions": [
+        1639,
+        2048
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/research/dark-proposals/pins/slat-ceiling.jpg": {
+      "sha256": "9c86e4b92b2adc988a20a0ce06b588d517b7c6c6c471acfababbd26bedb2c800",
+      "source_image_url": "https://i.pinimg.com/736x/7a/73/a8/7a73a8fe90a76fc2da6345bf27cfa4db.jpg",
+      "product_or_Pin_url": "https://www.pinterest.com/pin/787637422367116916/",
+      "role": "B Pinterest inspiration only",
+      "pixel_dimensions": [
+        736,
+        1104
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    },
+    "/workspace/his-office-pinterest/research/dark-proposals/pins/navy-two-desks.jpg": {
+      "sha256": "fcc957fb7865960d56cfba397c20dc6a6213247dc81a3fe3571f31172bcc4925",
+      "source_image_url": "https://i.pinimg.com/736x/cf/0e/fc/cf0efcf5528e251ee1410401552896db.jpg",
+      "product_or_Pin_url": "https://www.pinterest.com/pin/380976449749094962/",
+      "role": "C Pinterest inspiration only",
+      "pixel_dimensions": [
+        736,
+        1107
+      ],
+      "full_original_contained": true,
+      "original_pixels_edited": false
+    }
+  },
+  "official_paint_swatches": [
+    {
+      "name": "Peppercorn SW7674",
+      "hex": "#585858",
+      "rgb": [
+        88,
+        88,
+        88
+      ],
+      "url": "https://www.sherwin-williams.com/en-us/color/color-family/neutral-paint-colors/SW7674-peppercorn"
+    },
+    {
+      "name": "Naval SW6244",
+      "hex": "#2F3D4C",
+      "rgb": [
+        47,
+        61,
+        76
+      ],
+      "url": "https://www.sherwin-williams.com/en-us/color/color-family/blue-paint-colors/SW6244-naval"
+    }
+  ],
+  "outputs": {
+    "shared-products-1": {
+      "file": "/workspace/his-office-pinterest/images/reference-boards/shared-products-1.png",
+      "sha256": "f108e3955d4d21ad2064f2d9f4b2360647a4a997616778a925f3d834d44827da",
+      "pixel_dimensions": [
+        3000,
+        2500
+      ],
+      "source_pdf_page": 1
+    },
+    "finishes-B-2": {
+      "file": "/workspace/his-office-pinterest/images/reference-boards/finishes-B-2.png",
+      "sha256": "88d659de5ca103e4d14ca484b76ea448d94d35e311e373bdbe42c98c89d4c388",
+      "pixel_dimensions": [
+        3000,
+        2917
+      ],
+      "source_pdf_page": 2
+    },
+    "finishes-C-2": {
+      "file": "/workspace/his-office-pinterest/images/reference-boards/finishes-C-2.png",
+      "sha256": "bbae49a68bdbf321f9bc348ed0b95a31f7fce2c6a89f2b92013797c57bc813a9",
+      "pixel_dimensions": [
+        3000,
+        2917
+      ],
+      "source_pdf_page": 3
+    }
+  },
+  "PDF": {
+    "file": "/workspace/his-office-pinterest/images/reference-boards/dark-reference-boards.pdf",
+    "sha256": "619871fd40284c647572f12edf0de8af603b0773e4e75d53f1481ce29931d188"
+  },
+  "script_sha256": "a60a367c8c7b547348b68a63f10d2a5aa93f34cb7ead7db2e08020e742db7854",
+  "imagegen_reference_aliases": {
+    "product-board-1.png": {
+      "file": "/workspace/his-office-pinterest/images/product-board-1.png",
+      "source": "/workspace/his-office-pinterest/images/reference-boards/shared-products-1.png",
+      "sha256": "f108e3955d4d21ad2064f2d9f4b2360647a4a997616778a925f3d834d44827da",
+      "original_board_png_bytes_unchanged": true
+    },
+    "product-board-2-b.png": {
+      "file": "/workspace/his-office-pinterest/images/product-board-2-b.png",
+      "source": "/workspace/his-office-pinterest/images/reference-boards/finishes-B-2.png",
+      "sha256": "88d659de5ca103e4d14ca484b76ea448d94d35e311e373bdbe42c98c89d4c388",
+      "original_board_png_bytes_unchanged": true
+    },
+    "product-board-2-c.png": {
+      "file": "/workspace/his-office-pinterest/images/product-board-2-c.png",
+      "source": "/workspace/his-office-pinterest/images/reference-boards/finishes-C-2.png",
+      "sha256": "bbae49a68bdbf321f9bc348ed0b95a31f7fce2c6a89f2b92013797c57bc813a9",
+      "original_board_png_bytes_unchanged": true
+    }
+  },
+  "source_metadata_corrections": {
+    "ADILS_product_url": "Corrected ADILS productURL from shared ALEX parentcell to exact ADILS official USpage. Board/PDF/photo bytes unchanged."
+  }
+}

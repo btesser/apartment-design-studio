@@ -1,0 +1,68 @@
+{
+  "timestamp_utc": "2026-10-08T18:54:51.715200+00:00",
+  "status": "FROZEN UPLIFT CHECKPOINT ONLY; final desk selection pending",
+  "verdict": "PASS FOR NOMINAL MODELED FIT; FIELD VERIFICATION REQUIRED",
+  "source_scene_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "native_meshes": 265,
+  "exported_integrated_mesh_nodes": 263,
+  "exported_furniture_mesh_nodes": 181,
+  "omitted_native_meshes": [
+    "Sky outside window",
+    "Provisional rack floor support \u2014 closet unrecorded"
+  ],
+  "canonical_product_roots": 12,
+  "unintended_component_surface_intersections": 0,
+  "protected_meshes_exact_world_geometry_uv_parity": 156,
+  "owned_and_fixed_materials_exact_parity": true,
+  "available_used_image_nodes": 31,
+  "chair_45cm_pullback_and_lateral_transfer_to_clear_bench_no_sampled_intersections": true,
+  "desk_height_swept_clearance_pass": true,
+  "proofs": [
+    {
+      "file": "proposal-scope-check.json",
+      "sha256": "769bd8c0f58a42d3c43010e2bb8318a7647aa05480c3914defa8056d4fa16fa8"
+    },
+    {
+      "file": "protected-source-parity.json",
+      "sha256": "c9edf9a95f6f456e39439b6e0e50738be64cd94d5fae47406076d4ea401042b9"
+    },
+    {
+      "file": "integrated-mesh-checks.json",
+      "sha256": "000be9829ef0a476e8f95746ea32cde33afeb2de5b460472355ff63716de6fa9"
+    },
+    {
+      "file": "export-parity.json",
+      "sha256": "42a3d2f9b88318eb206e8aa375ed3090fe77ef9ae955a7724cad16a784fbb6dd"
+    },
+    {
+      "file": "material-availability.json",
+      "sha256": "1d90a2d5a94a55858bb7c181a6fbd0158242cb6cd3b33745d42dc8415e8d203d"
+    },
+    {
+      "file": "operation-clearances.json",
+      "sha256": "338c432dbc7968ce66e9194009e1be228fec38588f09455532d3ee23df89349a"
+    },
+    {
+      "file": "desk-height-operation.json",
+      "sha256": "d30625dde87606ed5dcb2bc6b57bd3ba0932c2e5feabef284f6bf7910ca01139"
+    },
+    {
+      "file": "chair-pullback-operation.json",
+      "sha256": "d6cd145a2b24ab9a618c306e08b479eef7ba92b0dff0894dd27a2f2b42cb05ab"
+    },
+    {
+      "file": "chair-transfer-operation.json",
+      "sha256": "10d98cff8fb9272137b8433cc822c5774fa8cc28d519d1b34ea737fefcddbd6b"
+    }
+  ],
+  "limits": [
+    "Generalized room outline5\u201312cm; cat branch offsets and Honeywell U-base photo-derived/unpublished; numerical parity does not establish site accuracy.",
+    "Door leaves observed closed and swings inferred; nominal approach boxes are planning allowances.",
+    "STORKLINTA requires approved wall attachment/spacer or verified rear adjustment; modeled rear gap8.7cm.",
+    "Open dresser drawer and full chair pullback leave34cm nominal separation; tuck chair before dresser access.",
+    "Closet interior/hanging hems unrecorded; three racks conditional. The provisional2mmfloor support is intentionally absent from exports.",
+    "Thin rug support/contact compression and real chair/desk dynamics not simulated.",
+    "No final render, generated-image or browser claim at this checkpoint. Any selected replacement desk requires new canonical model and focused fit/height-operation review."
+  ]
+}

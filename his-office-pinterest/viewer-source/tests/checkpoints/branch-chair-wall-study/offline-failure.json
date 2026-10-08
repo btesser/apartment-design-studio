@@ -1,0 +1,8 @@
+{
+  "source": "Embedded standalone, network blocked",
+  "errors": [],
+  "requests": [],
+  "checks": [],
+  "variants": [],
+  "failure": "page.setContent: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - setting frame content, waiting until \"load\"\u001b[22m\n\n    at /workspace/his-office-pinterest/viewer-source/tests/browser.mjs:19:21"
+}

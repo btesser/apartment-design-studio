@@ -1,0 +1,137 @@
+{
+  "stage": "Research stage complete. User selected B and C as two separate modeled alternatives.",
+  "created_local_date": "2026-10-08",
+  "user_search_url": "https://www.pinterest.com/search/pins/?q=office%20design%20desk%20against%20wall&rs=typed",
+  "access_limit": "The exact search page returned a dynamic shell without public Pin results. These are related public Pins individually fetched and visually inspected; no logged-in or personalized feed was read.",
+  "source_limit": "Original public Pin image pixels are retained. Images establish aesthetic references, not creator ownership, verified installed products, surveyed dimensions or apartment layout.",
+  "room_constraints": [
+    "Usable area approximately14.03m\u00b2; overall4.90x3.10m irregular outline, ceiling3.02m.",
+    "Main white wall approximately4.2m behind two independent desk positions is the only proposed accent plane.",
+    "Keep brick rear wall, left window/door/radiator, right closet door and entry geometry.",
+    "Primary desk must be a quality standing desk; the owned42x30in Pheasantwood UPLIFT may be retained or replaced after fit/product selection. Keep white Honeywell02E lamp and natural MUTTROS cat tree.",
+    "Keep a fixed IKEA project bench as the second genuine work surface, plus folded-clothes/shoe/office storage and visitor chair.",
+    "One primary rolling chair may transfer between worktops only if the fit check permits; do not force two permanent chairs into the room."
+  ],
+  "proposals": [
+    {
+      "id": "A",
+      "name": "Graphite Studio",
+      "tagline": "Dark mineral texture. Clear worktops. Crisp light.",
+      "hero_label": "dark-cement-paper",
+      "palette": [
+        [
+          "Graphite",
+          "#292D33"
+        ],
+        [
+          "Slate",
+          "#535C66"
+        ],
+        [
+          "Silver",
+          "#B8BDC3"
+        ],
+        [
+          "Kept timber",
+          "#594637"
+        ],
+        [
+          "Mist",
+          "#C6CBD0"
+        ]
+      ],
+      "vibe": "Quiet mineral texture, charcoal furniture and one restrained black-and-white print.",
+      "work_wall": "Matte charcoal texture on the 4.2 m desk wall. A quiet peel-and-stick finish gives the simplest flexible accent; retain the exposed brick.",
+      "room_translation": "A quality primary standing desk and fixed project bench share the work wall. Closed drawers, a charcoal rug and a compact gray visitor chair keep the center open.",
+      "lighting": "Use the existing overhead light with a neutral/cool presentation and retain the white ceiling. Keep the white Honeywell task lamp. An optional wall wash creates evening atmosphere.",
+      "tradeoff": "Most flexible treatment. Select a quiet finish and test adhesion against the actual wall.",
+      "caption": "Inspiration image; actual room geometry and products will be modeled after your choice.",
+      "pin_url": "https://www.pinterest.com/pin/488922103315018879/",
+      "image_source_url": "https://i.pinimg.com/736x/7e/a0/b6/7ea0b681287492b121c0555d738aa31b.jpg",
+      "original_image_path": "/workspace/his-office-pinterest/research/dark-proposals/pins/dark-cement-paper.jpg",
+      "original_image_sha256": "83777a7d81dba0822d6c6fb8afff1fdfe8eb6aaee7cd3bf917fd953bbbe7a01e"
+    },
+    {
+      "id": "B",
+      "name": "Charcoal + Slat Bay",
+      "tagline": "Architectural texture. Black metal. Studio mood.",
+      "hero_label": "slat-ceiling",
+      "palette": [
+        [
+          "Charcoal",
+          "#232930"
+        ],
+        [
+          "Smoked wood",
+          "#43423F"
+        ],
+        [
+          "Steel",
+          "#929DA8"
+        ],
+        [
+          "Kept timber",
+          "#594637"
+        ],
+        [
+          "Stone",
+          "#9DA2A7"
+        ]
+      ],
+      "vibe": "A dark slat bay gives the strongest architectural vibe. Cool charcoal and steel-gray textiles keep the room crisp.",
+      "work_wall": "A bounded 1.2\u20131.8 m slat feature behind the fixed project bench, with charcoal across the surrounding desk wall. Define its edges cleanly within the 3.02 m room height.",
+      "room_translation": "Keep the primary standing desk clear as it rises. Pair both work surfaces with quiet art, a charcoal rug, closed storage and a compact gray visitor chair.",
+      "lighting": "Use the existing overhead light with a neutral/cool presentation and retain the white ceiling. Keep the white Honeywell lamp. Optional wall-wash light reveals the slat texture in the evening.",
+      "tradeoff": "Panel thickness, edges and real mounting details are finalized after your choice. Treat wood panels as a fitted wall treatment.",
+      "caption": "Inspiration image; keep the owned white lamp and natural cat tree colors.",
+      "pin_url": "https://www.pinterest.com/pin/787637422367116916/",
+      "image_source_url": "https://i.pinimg.com/736x/7a/73/a8/7a73a8fe90a76fc2da6345bf27cfa4db.jpg",
+      "original_image_path": "/workspace/his-office-pinterest/research/dark-proposals/pins/slat-ceiling.jpg",
+      "original_image_sha256": "9c86e4b92b2adc988a20a0ce06b588d517b7c6c6c471acfababbd26bedb2c800"
+    },
+    {
+      "id": "C",
+      "name": "Ink Studio",
+      "tagline": "Blue-black backdrop. Quiet graphic contrast.",
+      "hero_label": "navy-two-desks",
+      "palette": [
+        [
+          "Ink",
+          "#182937"
+        ],
+        [
+          "Blue slate",
+          "#3B5060"
+        ],
+        [
+          "Fog",
+          "#A9B3BD"
+        ],
+        [
+          "Kept timber",
+          "#594637"
+        ],
+        [
+          "Pearl",
+          "#D0D4D8"
+        ]
+      ],
+      "vibe": "Deep blue-black creates a cool, distinct identity. Gray textiles and one pale graphic artwork sharpen the contrast.",
+      "work_wall": "Deep ink across the 4.2 m desk wall, using matte paint or a quiet verified peel-and-stick finish. Leave the brick wall exposed.",
+      "room_translation": "A primary standing desk and fixed project bench form a clear horizontal work strip. Closed drawers, a quiet gray rug and a compact visitor chair keep the room usable.",
+      "lighting": "Use the existing overhead light with a neutral/cool presentation and retain the white ceiling. Keep the white Honeywell task lamp. An optional wall wash creates evening atmosphere.",
+      "tradeoff": "Most expressive color choice. Compare a physical sample in daylight and under the room\u2019s overhead light.",
+      "caption": "Inspiration image; actual room geometry and products will be modeled after your choice.",
+      "pin_url": "https://www.pinterest.com/pin/380976449749094962/",
+      "image_source_url": "https://i.pinimg.com/736x/cf/0e/fc/cf0efcf5528e251ee1410401552896db.jpg",
+      "original_image_path": "/workspace/his-office-pinterest/research/dark-proposals/pins/navy-two-desks.jpg",
+      "original_image_sha256": "fcc957fb7865960d56cfba397c20dc6a6213247dc81a3fe3571f31172bcc4925"
+    }
+  ],
+  "selection_status": "User selected B: Charcoal + Slat Bay and C: Ink Studio; each is to be modeled separately.",
+  "user_chosen_direction_ids": [
+    "B",
+    "C"
+  ],
+  "next_stage": "Fit and product specification for each alternative, then Blender model and image generation. This research stage created no dark room model."
+}

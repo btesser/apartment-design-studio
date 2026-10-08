@@ -1,0 +1,188 @@
+{
+  "source_file": "/workspace/his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend",
+  "source_sha256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+  "layout_sha256": "d6b669b8ce998fc4b3930049895360071bff9313609f4f4ec0c05888ca269e94",
+  "nominal_overall_top_height_range_m": [
+    0.6477,
+    1.24206
+  ],
+  "displayed_top_height_m": 0.74,
+  "method": "Supplier-tagged upper parts and generic monitor/keyboard translate by full stroke; middle stages by half; own feet/outer stages fixed. Conservative complete swept bounds first;49 height samples plus seated/mid/endpoints for candidates. No source pose or artifact saved.",
+  "moving_parts": [
+    {
+      "mesh": "uplift-main-desk::generic equipment assumption::monitor stand",
+      "height_factor": 1
+    },
+    {
+      "mesh": "uplift-main-desk::generic equipment assumption::monitor stem",
+      "height_factor": 1
+    },
+    {
+      "mesh": "uplift-main-desk::generic equipment assumption::monitor frame",
+      "height_factor": 1
+    },
+    {
+      "mesh": "uplift-main-desk::generic equipment assumption::dark display",
+      "height_factor": 1
+    },
+    {
+      "mesh": "uplift-main-desk::generic equipment assumption::keyboard",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::control_box",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::frame_end_left",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::cable_door_brush",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::desktop",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::keypad_controls",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_inner_stage",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_middle_stage",
+      "height_factor": 0.5
+    },
+    {
+      "mesh": "standing-main-desk::desktop_bracket_right",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::frame_rail_front",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::frame_cover_right",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_inner_stage",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::cable_door_lid",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_head",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::desktop_bracket_left",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::frame_end_right",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::frame_rail_rear",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_middle_stage",
+      "height_factor": 0.5
+    },
+    {
+      "mesh": "standing-main-desk::frame_cover_left",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::cable_door",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_head",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::felt_cable_organizer",
+      "height_factor": 1
+    },
+    {
+      "mesh": "standing-main-desk::keypad",
+      "height_factor": 1
+    }
+  ],
+  "whole_range_swept_candidates": [],
+  "heights_sampled_m": [
+    0.6477,
+    0.6600825,
+    0.6724650000000001,
+    0.6848475,
+    0.69723,
+    0.7096125000000001,
+    0.721995,
+    0.7343775,
+    0.74,
+    0.7467600000000001,
+    0.7591425,
+    0.771525,
+    0.7839075,
+    0.79629,
+    0.8086725,
+    0.821055,
+    0.8334375,
+    0.84582,
+    0.8582025,
+    0.870585,
+    0.8829675,
+    0.89535,
+    0.9077325,
+    0.920115,
+    0.9324975,
+    0.9448799999999999,
+    0.9572624999999999,
+    0.969645,
+    0.9820275,
+    0.99441,
+    1.0067925,
+    1.019175,
+    1.0315575,
+    1.04394,
+    1.0563224999999998,
+    1.068705,
+    1.0810875,
+    1.09347,
+    1.1058525,
+    1.1182349999999999,
+    1.1306175,
+    1.143,
+    1.1553825,
+    1.167765,
+    1.1801475,
+    1.19253,
+    1.2049124999999998,
+    1.217295,
+    1.2296775,
+    1.24206
+  ],
+  "surface_intersections": [],
+  "excluded_pending_task_chair_meshes": [
+    "branch-pro-task-chair-1::Mesh_0",
+    "branch-pro-task-chair-1::Back | Plane001"
+  ],
+  "scope": "Unchanged external furniture/room checkpoint only; owned chair geometry pending",
+  "all_tested_external_clearance_pass": true,
+  "limits": [
+    "Mechanical internals, actuator travel, cable flex/slack, loading, stability, real user body and chair settings are not simulated.",
+    "Sampled overlapping swept candidates cannot prove every intermediate state; disjoint whole-range bounds rule out overlap for those proxy parts.",
+    "Cat branch offsets and lamp U-base detail remain unpublished/photo-derived field checks.",
+    "Internal monitor/table support fit is assessed separately by the static assembly check."
+  ],
+  "review_status": "CHECKPOINT ONLY \u2014 Branch wall study; superseded composition and confirmed owned-chair/equipment revision pending. No final room-fit or60cmroute claim."
+}

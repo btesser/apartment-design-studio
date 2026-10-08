@@ -1,0 +1,418 @@
+{
+  "structure_world_geometry": {
+    "Observed single-window glazing": "600782086eff63a7ce11931311d8fff2422fc4b8f08b8fdc48fdac80ba4a6774",
+    "Observed single-window vertical trim": "0f2ac4f337d486d5d92f74cddea425dd60abea06158f4336cd24ee6577e2c542",
+    "Observed single-window vertical trim.001": "49d4ccdb097927793446b87aaabbc068e8d197e8891175755700c7ad9f66c527",
+    "Observed single-window horizontal trim": "6692bbf4cfbf65c9844cbd8ae3f6aa29dc0fe241444835a798a6b58d1f91c141",
+    "Observed single-window horizontal trim.001": "92dc64187f826b8cb13cd086bba135fed5d357defd448977a03c0c1b9021d0cc",
+    "Observed single-window horizontal trim.002": "bfd9f57fcead6d8ad5df174400976fe3864326b5b8e6b04140679627ea5d0e34",
+    "Observed single-window projecting sill": "cbc3f0abb5cb6898c7363fa5aa760f02313063e9104e308fb725c5fd556d4963",
+    "Observed single-window sill apron": "4d8efaf6b80bba647d3e420b6506ef452f246487c186b778432682cc3738a13d",
+    "Existing closet frame jamb": "f8e086fccbc0ab8f91f096a4e774551a9c0a269fad0d1f7f15f1e5ca5549f96e",
+    "Existing closet frame jamb.001": "92f2692af085091b4fec03aaf73bd5b17ae52e4bf322048e74c4947d4a0794ad",
+    "Existing closet frame header": "d440fc7482efbc75e6ea0475fc38516e4cf937095fcbdcdecc07e0eb18693307",
+    "Existing closet transom": "1259420afe76c544e98122da056236a84f044106ddc793888fcba27bd200bcb4",
+    "Existing overhead cupboard frame jamb": "613744923a657582e55b751bba0f4b42dc91c03641f41e80387a241a1391a628",
+    "Existing overhead cupboard frame jamb.001": "2a81667b3309e60ac94a81434c62bae3932a868e87ab09fc716a1c1df33825b2",
+    "Existing overhead cupboard frame header": "d65d51f0620c715e7a13e71b99f837d886c4478d8ec72640a850008650e5cce4",
+    "Existing overhead cupboard panel": "6a6bb22a2420c29076102205eb35f5cb1fe04e8dc23e757647b3da4766ce3785",
+    "Existing cupboard metal latch": "a102d05bd408611433241622b50fe3a283a2b6e495c22dc3c954a80341f54a3e",
+    "Existing living-entry frame jamb": "acf32509de0f873aafaad85422f1993d3e85edf76ea89699b87207faf6382b24",
+    "Existing living-entry frame jamb.001": "8bbc62b4ca2ec06f747a9584470d5e18abfd10b02cb5ca14e0e2c27f03aa215b",
+    "Existing living-entry frame header": "996862c24d1fa8a362ea121b20b53c365729b13fec9a4911606c182291003027",
+    "Existing exterior-door frame jamb": "d04aff98a7bfe98edafd6b374792bb953f7d2557a7ae49dfc64a4378db90ed32",
+    "Existing exterior-door frame jamb.001": "48861f0215b2d1903ee983833075c334cb8aac65f019e5f271975c9148951d88",
+    "Existing exterior-door frame header": "4ed5024c7324e45e6721aa5ab5e7501b1b490099559d8b60379a919d965b60df",
+    "Existing cast-iron radiator section": "150d483f65cfb73c89a7b0714cffcbf1ca0fe9a983e799443a1733053a5cec39",
+    "Existing cast-iron radiator section.001": "8aef36a9b523612b1f74260d7de1adfc7056e0760808c5a3336a73f6a514f8a3",
+    "Existing cast-iron radiator section.002": "3d8d42947644e1781592dd540fd886c492f2ab74205468687fd86f9929278927",
+    "Existing cast-iron radiator section.003": "d7433ee52a475f869171b3e64146798ea50a96cd08ee1c682e7f3919ed4d7c4f",
+    "Existing cast-iron radiator section.004": "77d8cadd4f91c242f2bdabe3dd29fc3b159bcee4b9671a090e7b0b540b54fa84",
+    "Existing cast-iron radiator section.005": "55d7abcb1fa9ddfb17b79417e3497eeda9db512a7d72f840bbecac96a358049b",
+    "Existing cast-iron radiator section.006": "7923248bce8fe0846909b0a5bbef0cbc45eca82509ea6d8c8b58d1964de8f9ea",
+    "Existing cast-iron radiator section.007": "6dda97aacfe1904f2aa24b3fcee2d1543becc59f74d2927765345756360aa508",
+    "Existing cast-iron radiator section.008": "a03f7808ff4039d9f8ac254ef147fff5e38c94d317c421c44bc968f723e12608",
+    "Existing radiator foot": "a64fdffb4976a7c12cd01fc2d3659b163e431d34af08a212e8481c0206522556",
+    "Existing radiator foot.001": "4378d292a49b8264f449a774797471554400a6a446501a4113f7fe24b2b1f336",
+    "Existing radiator horizontal connection": "a3c7566c72caeb7e278a4405fff3c19bf99f4cf6c0be8a9b0cba4cc6f0309ab1",
+    "Existing radiator horizontal connection.001": "55b00cd5b8e724ca680ffbed307aac5eebce69810780e7d033eb8592b461c6a3",
+    "Existing built-in shelf white back": "dcf15403f7a18cab9178927f3b115bb5767784757bc0a5f962a2eac1ba36f36b",
+    "Existing built-in shelf board": "caa89c7d83d19bda2891c331dd3d3fde0f9fb4f8ce3c2a2627c42b1f2c426b59",
+    "Existing built-in shelf board.001": "7996a37aeec632dc2af0e17feb79d2481ad5bae58443e27f748d68ef8917c70d",
+    "Existing built-in shelf board.002": "7795250652d8e94a8553150faf03c3972c12a1d81e067fd0d1c415e2f58d01d3",
+    "Existing built-in shelf board.003": "f307738c399bd53b6e2af6eb4c620e534a7b635286fe53badeeb6da8afe6ae86",
+    "Existing built-in shelf board.004": "aec5031753e7b491fe3f5ede410914c2e3a9e6822d9234429f4185ad12e84548",
+    "Existing built-in shelf board.005": "23f831e2b0bfb5fafda173651547e047837a5fbd02e213f443f1a2d0cee13e91",
+    "Existing rear vertical white pipe": "8a37def527bd87c3d23e5c170926c4568de4e6ce78cc5e1979f9d6d939883b87",
+    "Observed recessed white arched fireplace infill": "d42a4603a3a69507a0d6a0212d0e875267ac1b6ebcbf3561abf0a0897f0f8260",
+    "Existing entry thermostat": "6ba096393bc0429f22b28eefea2737edbe23c2ee48782f3c130affe90d997d5d",
+    "Existing entry small wall control": "ee71ec5c1e3ef43cbd8042a52b0c5d13df393519c1b87370f12f6b51874c4011",
+    "architecture_ceiling \u2014 his-office": "8f639721e690055595f85f2c3cadecb52081bae772e913f98a6b54dc284c3623",
+    "architecture_floor \u2014 his-office": "df067f808cadc86c631ea79cb2c06bbd341e709e7a414953ddfc42bd44dc32c3",
+    "his-office wall0 segment": "d5800629cd221ccb1c989125c59f8686ab4a853f0f71c03c2e4347430f826698",
+    "his-office wall2 segment": "099f6308475274f88120a5854dee5ef8e073a24b5fe314944cfa5d7859ee07b2",
+    "his-office wall4 segment": "4a9178a854f7a43c9596e99d543e2b1a975ddb3ccff255ff4e8d22fbc548e27b",
+    "his-office wall5 corrected solid 0": "89e3d4226458056321bdd30419a7857c6d13e2ff67574723765006147db9723e",
+    "his-office wall5 corrected bottom 1": "35b83eac1ad158671c14bb0bf998ecd334815808e09785c49475933491cf056e",
+    "his-office wall5 corrected head 1": "9086906d710424ead2705f781824e1ce761c1a9e2394ab4760eda8922e752c8f",
+    "his-office wall5 corrected solid 2": "639bcce4f5dd1cf0793fa483f8cb26fdbcf8c8a86e2e388700578123d225ac7a",
+    "his-office wall5 corrected bottom 3": "45466224730b639c05bc7c3f242d7ac060b4b40e81ae4b3212e92f3b5c94db2a",
+    "his-office wall5 corrected head 3": "ae8c18080958e664e02bf7e99dc992d798a2908e00985f17834fccf1c1c6ba9c",
+    "his-office wall5 corrected solid 4": "18e727fe5920dc62ee2197f66f09fa33395fa1e29107a27bbd832db86c4dabcf",
+    "his-office wall3 \u2014 lower-Y side": "2a369cfc6f9668f0ba313bbc350f23c6788dc317fcfe6621a1f991b3e0ae0892",
+    "his-office wall3 \u2014 upper-Y side": "44deff1f04036d5b7f7e49d747070381feb252142401adc2cb16884fedd4a307",
+    "his-office wall3 \u2014 head continuation": "1590563b70ad7ae93213e87b2f0b1e1bd090822774b34b188e2799fe5bbfffa1",
+    "his-office wall3 \u2014 below floor continuation": "68587d2bb7cf3a74c5ad5676d48be883eeb4b4aa605319efb2fd3afd586d72fc",
+    "his-office wall1 \u2014 lower-Y side": "ac0c8b4fe5cef0e9e56ea35baaaaa91e513d098eb01f7f33fbd8ba0ed57b764d",
+    "his-office wall1 \u2014 upper-Y side": "28009d50626589e70bb8f080106ee36975700796cb4c368bc306c0f2f0a5b048",
+    "his-office wall1 \u2014 head continuation": "05773923755abe7c3bd26536823ede358d930243d96793d114786e1b71b8cd3d",
+    "his-office wall1 \u2014 below floor continuation": "6258e5dc214df95c94af40cb50c38a8b0e40c09fb5a67e8408932daf94eb5434",
+    "Observed brick chimney projection": "40d98b361f6132918b22094ec1ee9e01a2bf9de0770f87d3d4ab2fd806be5b34",
+    "Local floor continuation to observed brick face": "2d6ec2f6bd8e8ff9afef48d539809e8e469eab1320943050a7aa250e2d68aec7",
+    "Existing full-height closet leaf": "8b46cf9f4cd110632d2bca39af2e0183ac0661e02ddaa01e02be5c6a6ed21bf8",
+    "Existing closet metal knob": "81dc946d5146f0c02f8b6c5726935d0b3f55bdb16ba1e12da8bf0a6f7036554f",
+    "Existing living-entry flat white leaf": "bc0828b0e0086c1a9dcfb151d2ffcbcade431444cc85ff46279fa8365fde745c",
+    "Existing living-entry silver lever": "e7439627f3f8e9c5f1f23d1cedc124fe10e392209592bc8802fa8a00b553bf11",
+    "Existing exterior-door six-panel leaf": "23b462171bb61b2297109db417ecccb428ae1edcbbb365d448d84ed3de202bea",
+    "Existing exterior-door raised panel": "d5b990299ecef8ae669e95a469e760b6b6ebad230b6e0d36624281f5da89aeed",
+    "Existing exterior-door raised panel.001": "9a46fdafc917ed744dd93c280ddc1f96d367896a9c0d0bd6fa136de865c7ae0f",
+    "Existing exterior-door raised panel.002": "bc0ffd917e5b0ccdaa9842befb8443091e128dbbd88af6660efc8ab5616f1543",
+    "Existing exterior-door raised panel.003": "34253a26637c07aa43e8e152636f8b3d32710c4a0903980f31f816117ea074a5",
+    "Existing exterior-door raised panel.004": "6306928b42ede046f48f20b9c077e9965b71cd530a0c804c4fc27a2262898919",
+    "Existing exterior-door raised panel.005": "0ee01cf3ad230ea046fae20cc349334e9d130e681583721d4ec1878b4ccabd90",
+    "Existing exterior-door brass knob": "b31e61de5b0d35b250fb9ed012904c00c57b5dfa9ad92576e12bab0162e0468b",
+    "Existing exterior-door brass deadbolt": "b0ba2c7b27b6c3c05d738e3d0e6e6dfb6ee023b001135e327305a3c44c00c82e"
+  },
+  "keeper_product_geometry": {
+    "honeywell-lamp": {
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "components": {
+        "Narrow parallel LED light bar": "449e0b87ecdeedcac952c4efb2e91d927cdd69fe439c3da5bf538d8f759df50e",
+        "Narrow parallel LED light bar.001": "6ea43d4f4843c66e2b78c5be833f33b807dfa4e36d777dccf20577b9fbe377b8",
+        "Rectangular panel end rim": "16e98c0788f72c4cd69fcfc6d9526a2ca36369423e0ad20108c5f222e44e5564",
+        "Rectangular panel end rim.001": "4433664c18a0d1e804a6c6516908a6e9f45506e278ab7c7f2dc1f61891031a46",
+        "Rectangular panel long rim": "95a879457679d2b5dcefda5494a59fd70d754ada06babc39455e05723e59570c",
+        "Rectangular panel long rim.001": "703feac486c8f23fa9049efca646b8d9262ced4af7a1cb5cb860abed27ed941d",
+        "Rotary dimming knob": "6732c6fbfa878397b8dbf0499dc16cdb5a8889a070aed79965bb94308dabefff",
+        "Slim rectangular upright": "fea1659b7a46de6f79e06be2c4b4c7156aa2b41d8932ea20de37e79733957572",
+        "U-base closed crossbar": "02cb0d6989e2e12cb1450a574028d2e380414868f4957f979c9985000fac4d4a",
+        "U-base open prong": "beffc44a5586d37772e05435fb1c90e065b32ccf3d364cf4b8e63d80fe4286c7",
+        "U-base open prong.001": "b3b9999906ea6aec9f3399cf5df1f3bd4650dc5728dd64cec2a61390db2a257f"
+      },
+      "material_assignments_and_shaders": {
+        "Narrow parallel LED light bar": [
+          "3b2744015ece115cabbecb216d3ab2b58a2c36f5d53ace5ba136e6d91e7e64d3"
+        ],
+        "Narrow parallel LED light bar.001": [
+          "3b2744015ece115cabbecb216d3ab2b58a2c36f5d53ace5ba136e6d91e7e64d3"
+        ],
+        "Rectangular panel end rim": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "Rectangular panel end rim.001": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "Rectangular panel long rim": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "Rectangular panel long rim.001": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "Rotary dimming knob": [
+          "9261a9a63d6aeb97fafe3ee409369dc83937356e5ffb8546350ebe60b7391c62"
+        ],
+        "Slim rectangular upright": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "U-base closed crossbar": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "U-base open prong": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ],
+        "U-base open prong.001": [
+          "69a1610f2e714d46d0dd3dfc6ed456c52e600de4f0a4ad2b63308263246fe492"
+        ]
+      }
+    },
+    "uplift-main-desk": {
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "components": {
+        "C-frame steel foot": "7ada2e458f0f7aa7cdd4b9130025064f7bc6b9b4ca47f8412bfb28b323583495",
+        "C-frame steel foot.001": "41e85b5d68769890064bd33184dbbd977460910640c76740657acd8a516c787f",
+        "Foot glide": "40b443d9e87fc5335ed2e6358b3ff7aa5fb825f35157e0172ab563eec5a0fd79",
+        "Foot glide.001": "911430b6178c1685a81c2a33a034c33f1f3e4eece74f3a283a03f9e0ae25f54b",
+        "Foot glide.002": "523ecdb909884807a56aa0b2b9de40788206fdb544fffe32eb06d83dbc162564",
+        "Foot glide.003": "502df82582996c06ca08311be3d2636fcc224865396743207a2ee487a8868d7e",
+        "Height keypad": "8b12e09df304c8b2e92def22f9cca6183e9a7c5f5bc22d37e95041ffe7c08f99",
+        "Hidden upper crossbar": "5906614259a2b7288ea1d8f24526b55b3b4e624e2562d68179e8ddc668b2308f",
+        "kept-uplift-desk::solid wood barkline top": "8d3bce1915ba14d4c50d81d1861761db9a8661543d783366dfd363acddfb3412",
+        "Two brushed nickel grommet covers": "e2cc25c19421a69772f3164b89eccf8d51f74a64135ea77cc15c6ade7d563477",
+        "Two brushed nickel grommet covers.001": "993cefc878b7299c7a420185cc2df20954bd20749a65a2b44b269ad4e78c5300",
+        "Underside side bracket": "8a1d527a9ee272068a32dc5aab3fb4a83d58f55fb3505e85b83f9892eb571175",
+        "Underside side bracket.001": "35e6415d55fd99a6a07d97c6d643e5e3eccd63c0ba77c09cf89683cb7f345f9f",
+        "V2 lower slim stage": "e96d849c6edc7f58d7503c4a4711dbfbc32775394b38096874c5f54993a627f7",
+        "V2 lower slim stage.001": "0c9ca2c471723392355c7ee6f5f45aa11820ae18699e9bd5c9b31723cf32a8b8",
+        "V2 middle stage": "d29413bb998478f2d13afa7c4373c28367721d57fb3cc82f1fcff62c863f4efe",
+        "V2 middle stage.001": "8521dfc70423f9fc161d8c5c638fd58be6201733f1783486e5d4928c058e3b4c",
+        "V2 triangular stability brace": "45715d5ec26a35d8ae2901fcfe5354209ecbf3f6c6a606dca7e6a5346b41aea9",
+        "V2 triangular stability brace.001": "c0e01e0aa2ae3cbddc1fdc7b7e2f821c579de0a10dc925136a3b7ed9e4d3c1ea",
+        "V2 upper stage": "e873f57fc638b9647d78d4107ced5ec1e14a5b9c82b350ca30af3f051c143ec7",
+        "V2 upper stage.001": "f1f8dc63525587cca9835494b5c97f4de479427d7694ad8ac11929aaf374d48a"
+      },
+      "material_assignments_and_shaders": {
+        "C-frame steel foot": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "C-frame steel foot.001": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "Foot glide": [
+          "2e61f3c0388014b3ee84832a053f50de4c69295187eea31a69b2293f68a9612d"
+        ],
+        "Foot glide.001": [
+          "2e61f3c0388014b3ee84832a053f50de4c69295187eea31a69b2293f68a9612d"
+        ],
+        "Foot glide.002": [
+          "2e61f3c0388014b3ee84832a053f50de4c69295187eea31a69b2293f68a9612d"
+        ],
+        "Foot glide.003": [
+          "2e61f3c0388014b3ee84832a053f50de4c69295187eea31a69b2293f68a9612d"
+        ],
+        "Height keypad": [
+          "2e61f3c0388014b3ee84832a053f50de4c69295187eea31a69b2293f68a9612d"
+        ],
+        "Hidden upper crossbar": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "kept-uplift-desk::solid wood barkline top": [
+          "89102b3ddbf59658250be5eae2403c83ec5b054b399dd7efe7591c2b58ab7e56"
+        ],
+        "Two brushed nickel grommet covers": [
+          "9261a9a63d6aeb97fafe3ee409369dc83937356e5ffb8546350ebe60b7391c62"
+        ],
+        "Two brushed nickel grommet covers.001": [
+          "9261a9a63d6aeb97fafe3ee409369dc83937356e5ffb8546350ebe60b7391c62"
+        ],
+        "Underside side bracket": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "Underside side bracket.001": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 lower slim stage": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 lower slim stage.001": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 middle stage": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 middle stage.001": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 triangular stability brace": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 triangular stability brace.001": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 upper stage": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ],
+        "V2 upper stage.001": [
+          "493dc4122f9f3a92a6da5130df7a79e4456ca05d6141c7947fc7c37a19518569"
+        ]
+      }
+    },
+    "muttros-cat-tree": {
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "components": {
+        "Brown play ball": "b417ecfdf9d024d3f110396aa6d372a8c1b1225f5f3115b9828b2e97cba4f212",
+        "Brown play ball.001": "973a3176fdef4bc545f7b8d6e72212acf8e1e1c280f7abf219572b9592495efa",
+        "Brown play ball.002": "7eb45c19bb6c86a08e9fde13e16b60d347a41d27a0c09f22260293c6afe47d95",
+        "Condo dark floor": "687f65c3c782613373530398a02cdbcdf3fc1b6daaae1feae9662e685f91ee39",
+        "Condo top plush cushion": "122744d7f4f376c626f0e5fb1ca1eed6ab79557118c8fe1c874f2d48d1e70905",
+        "High side wicker basket brown fleece cushion": "a7273425e6b0f1322e493fc04109a6b615381b6bea519cf30a3095675ff4c71a",
+        "kept-muttros-cat-tree::arched hollow condo wall": "144de65ba3736e30fb48687c8d53bc5eb005934743c6b743bbbc7f055d18d7f3",
+        "kept-muttros-cat-tree::Brown fleece suspended bowl hammock": "e98daf1ec85b84153620e8ccee41cd9f6c18c38f09f68bea3b39dd52a876a785",
+        "kept-muttros-cat-tree::Hanging pom-pom cord": "097d85bf08deea874d85c4dca4bd289ae7da21effe6e635fe7ad4b720812fff9",
+        "kept-muttros-cat-tree::Hanging pom-pom cord.001": "eb27c0f4da478d67a9429ef4db628cb3e453bdd7560439e06d7ee75f6a31c1c4",
+        "kept-muttros-cat-tree::Hanging pom-pom cord.002": "26afe0409b4b70371d04822ab3331b3c9d342683ace7ea646afbf62d05d86e84",
+        "kept-muttros-cat-tree::High side wicker basket crossing wicker ": "7696027ebe7353e69db2cd3597785edfeb4df8f745b64283d008c90833b4e031",
+        "kept-muttros-cat-tree::High side wicker basket woven horizontal": "143a1e318a8c55499f9bb819f79abac927804d770f76b152fd14e97680813e6f",
+        "kept-muttros-cat-tree::Low side wicker basket crossing wicker s": "580ca3ee68181f3aa63146fc1db91098de1fe5b1325ef934664d13472aac6015",
+        "kept-muttros-cat-tree::Low side wicker basket woven horizontal ": "e5b9c90b211b9b322ddaba487958a139b4498bc6f3e9e404a638631ff9460151",
+        "kept-muttros-cat-tree::Sisal rope winding": "e8861dcb0006f3cb27b91c1f5e6f01f776e309751e8f3685444102865dd7963b",
+        "kept-muttros-cat-tree::Sisal rope winding.001": "a1e6b13d4797281417dd6fefe4e462cb407571509cc42c8ef38abe2f3444da08",
+        "kept-muttros-cat-tree::Sisal rope winding.002": "e17a39e17713f99af693622aeaf3d840b7e34454b4f27c204d5d4f25e45442ac",
+        "kept-muttros-cat-tree::Thick fleece hammock rim": "a4ddb4f337392fede35d6d016766b9b805c8926c5ed78b3843a6eb339608580e",
+        "kept-muttros-cat-tree::Top wicker basket crossing wicker strand": "c2ebc1b3b8967e8359a094319ca76702762c568ac137066261764198fc189164",
+        "kept-muttros-cat-tree::Top wicker basket woven horizontal cours": "0849adfb8afd9f0882d2b9cd0d10ff3a6256156203c087711f23d433d3060d85",
+        "Low side wicker basket brown fleece cushion": "073c01ed444044595df5d1e4e5b6d4b137f1b90b94da2a840966a9de5083ff70",
+        "Natural wood branch0-0": "ffc463343a2b87b176308f39891df312d4161c0b58471ca8b31cfe75bbb0c194",
+        "Natural wood branch0-1": "617aff21066e929f9e7ca33456948626acd9aad94f627f4967c52caefd302954",
+        "Natural wood branch0-2": "d9cb797cbe53306146d65d28c82177ff6dd2d5510f0ca212d3b986d7a89f5072",
+        "Natural wood branch0-3": "c510f4aa2ea2565b623ea2c8e5694831248b77f1e1d71516054aa752abfa5d2b",
+        "Natural wood branch1-0": "630c2682c69f8a5171551c0c06a5de82eb9bddf8ec5b530d1e14c1ac924228da",
+        "Natural wood branch1-1": "0542b01e94c1d6a7473ce6365b0bd743c1bed806053a135e23b44f55e117dbc7",
+        "Natural wood branch1-2": "444a3de8225da8c0dbef542318cdce43b0a89ee5a4f40b006bb8105cb65f4b33",
+        "Natural wood branch2-0": "1dc162263261b8fa91d9934688f0a928099a30180935f393c6bc82d6ad98dcce",
+        "Natural wood branch2-1": "4410afd1b06be4c00372dafcbbbebf05963100a03ff6bed7895686fd5a5c84fe",
+        "Natural wood branch3-0": "90db708a40dc3d492e9a3e7a2dc23667c98c3e00958a954243c733353b5f2cc9",
+        "Natural wood branch3-1": "250e3a2c49265b17e28b4dc6a061a51a6c372c8580ba5c117108ba2f6c01a670",
+        "Organic branch junction": "18220623be367c2ec0db7e5ae79ecbf34f7101ba51e7ed827b3bc1def1406ed8",
+        "Organic branch junction.001": "3fdd018feebee3cacfe24cbb470cf9bd61d137c73973f852beffa502f62b11d9",
+        "Organic branch junction.002": "8b7d4e8aaf66431411cada3adb9d2c2b47d293b240fb91913c0b7d2ac22e0188",
+        "Organic branch junction.003": "4f98195d3133ec035699be0e7636f91940ca48c5da1d0a5f826d636c8dd5f2ad",
+        "Organic branch junction.004": "888139aa655562e173b0d37e6e0192d8fb8116a5d372ba1b480829ad97ca7d30",
+        "Organic branch junction.005": "6b451e17796801b8899b880f21c3a36261a08d5f6d0ec761e91defe06e7183fe",
+        "Organic branch junction.006": "a0f4d23ac8527faff7581b3e76451c4b73ee1c3759f81f0733ddf4ad734f620d",
+        "Top wicker basket brown fleece cushion": "6052482b68149056fc8dc507c24d1c1df96efd0f6927af4290818108f72585b7",
+        "Triple thickness brown fleece base": "c0b07ba2b9baac772b42cee791626324b4289e139daf9391e18ea3cb2727b4a1"
+      },
+      "material_assignments_and_shaders": {
+        "Brown play ball": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "Brown play ball.001": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "Brown play ball.002": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "Condo dark floor": [
+          "6cc21ea90b98a4e70de6f38ee13d89386cecc8fe64c8f8df597f85c4b12b1122"
+        ],
+        "Condo top plush cushion": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "High side wicker basket brown fleece cushion": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "kept-muttros-cat-tree::arched hollow condo wall": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad",
+          "6cc21ea90b98a4e70de6f38ee13d89386cecc8fe64c8f8df597f85c4b12b1122"
+        ],
+        "kept-muttros-cat-tree::Brown fleece suspended bowl hammock": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "kept-muttros-cat-tree::Hanging pom-pom cord": [
+          "67a560beccdd87d5dfed81512562d880c1ad4c0df4932a1615e2fcb75bd69972"
+        ],
+        "kept-muttros-cat-tree::Hanging pom-pom cord.001": [
+          "67a560beccdd87d5dfed81512562d880c1ad4c0df4932a1615e2fcb75bd69972"
+        ],
+        "kept-muttros-cat-tree::Hanging pom-pom cord.002": [
+          "67a560beccdd87d5dfed81512562d880c1ad4c0df4932a1615e2fcb75bd69972"
+        ],
+        "kept-muttros-cat-tree::High side wicker basket crossing wicker ": [
+          "cde1a9da3dd35de4412ae01a4c2db1aec977431439b4bd49e878581b1fa74328"
+        ],
+        "kept-muttros-cat-tree::High side wicker basket woven horizontal": [
+          "00de0adf4522a0dd4ddc57493f29c23849435aefe5a8d3d96b1f23b669a90bbe"
+        ],
+        "kept-muttros-cat-tree::Low side wicker basket crossing wicker s": [
+          "cde1a9da3dd35de4412ae01a4c2db1aec977431439b4bd49e878581b1fa74328"
+        ],
+        "kept-muttros-cat-tree::Low side wicker basket woven horizontal ": [
+          "00de0adf4522a0dd4ddc57493f29c23849435aefe5a8d3d96b1f23b669a90bbe"
+        ],
+        "kept-muttros-cat-tree::Sisal rope winding": [
+          "67a560beccdd87d5dfed81512562d880c1ad4c0df4932a1615e2fcb75bd69972"
+        ],
+        "kept-muttros-cat-tree::Sisal rope winding.001": [
+          "67a560beccdd87d5dfed81512562d880c1ad4c0df4932a1615e2fcb75bd69972"
+        ],
+        "kept-muttros-cat-tree::Sisal rope winding.002": [
+          "67a560beccdd87d5dfed81512562d880c1ad4c0df4932a1615e2fcb75bd69972"
+        ],
+        "kept-muttros-cat-tree::Thick fleece hammock rim": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "kept-muttros-cat-tree::Top wicker basket crossing wicker strand": [
+          "cde1a9da3dd35de4412ae01a4c2db1aec977431439b4bd49e878581b1fa74328"
+        ],
+        "kept-muttros-cat-tree::Top wicker basket woven horizontal cours": [
+          "00de0adf4522a0dd4ddc57493f29c23849435aefe5a8d3d96b1f23b669a90bbe"
+        ],
+        "Low side wicker basket brown fleece cushion": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "Natural wood branch0-0": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch0-1": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch0-2": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch0-3": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch1-0": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch1-1": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch1-2": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch2-0": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch2-1": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch3-0": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Natural wood branch3-1": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction.001": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction.002": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction.003": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction.004": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction.005": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Organic branch junction.006": [
+          "1649da12ae16cb7d1b4aa62832745cc5811f7a27384cd5fcc0faab4ce2587662"
+        ],
+        "Top wicker basket brown fleece cushion": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ],
+        "Triple thickness brown fleece base": [
+          "6da3c85581cd88c2833ac798d7ed8118fcb056e9408075aa50e9a915b4ba70ad"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,731 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Products",
+        "item": "https://www.ikea.com/us/en/cat/products-products/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Home decor & accessories",
+        "item": "https://www.ikea.com/us/en/cat/home-decor-de001/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Wall d\u00e9cor",
+        "item": "https://www.ikea.com/us/en/cat/wall-decor-10757/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Display shelves & picture ledges",
+        "item": "https://www.ikea.com/us/en/cat/picture-ledges-16305/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "1987"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "IKEA"
+    },
+    "category": "Display shelves & picture ledges",
+    "color": "black",
+    "depth": "4 3/4 \"",
+    "description": "MOSSLANDA Picture ledge - black 45 1/4 \". The picture ledge has a special groove to keep smaller frames at the perfect angle. The picture ledge makes it easy to vary your favorite motifs as often as you like. Can be fixed with suitable screws/fittings from our TRIXIG series.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__0634120_pe696314_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__0905701_pe556435_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__1346811_pe951130_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__0905706_pe594673_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__0788583_pe763740_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    ],
+    "material": "Wood (including board)",
+    "mpn": "702.921.04",
+    "name": "MOSSLANDA Picture ledge - black 45 1/4 \"",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "price": "19.99",
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "IKEA",
+        "url": "https://www.ikea.com/us/en/"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "US"
+        }
+      },
+      "url": "https://www.ikea.com/us/en/p/mosslanda-picture-ledge-black-70292104/"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Christi"
+        },
+        "datePublished": "2026-08-12",
+        "name": "Great except no screws!",
+        "reviewBody": "Super cute picture ledge or flip it upside down and it can be a regular shelf. The ONLY problem is there are NO nails and nowhere does it tell you the size of nails to purchase :-(  \nMy first purchase from Ikea and not sure if I will go back. I was very disappointed, but I loved the meatballs!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Cici"
+        },
+        "datePublished": "2026-07-28",
+        "name": "Very pleased",
+        "reviewBody": "Fits my space perfectly",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Ricardo"
+        },
+        "datePublished": "2026-07-26",
+        "name": "bar",
+        "reviewBody": "built a bar and used this for my bottles and glasses",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Laura"
+        },
+        "datePublished": "2026-07-17",
+        "name": "small black shelf",
+        "reviewBody": "This is a nice shelf. We use it to hold pictures and other small things. It would be nice if there was a slightly longer shelf option like there is in the bamboo color.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Donna"
+        },
+        "datePublished": "2026-06-23",
+        "name": "It was wider than the old ones",
+        "reviewBody": "Fortunately it still was useful to work over my oven that no longer has a back control panel. I\u2019m still looking for a garlic jar but it\u2019s working fine.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Patricia"
+        },
+        "datePublished": "2026-05-26",
+        "name": "Wears well!!",
+        "reviewBody": "I first purchased these more than ten years ago and am back for more. I\u2019ve used them in so many rooms and they still look great!  In my office, bathrooms, nursery, children\u2019s playrooms over the years, in different colors and lengths they\u2019ve helped brighten and beautify many spaces.  No, the screws aren\u2019t included but you can always save yourself a trip to the store and buy IKEA\u2019s screw set - it has a lot of the fasteners you\u2019ll need over time because you\u2019ll love these these!!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Steven"
+        },
+        "datePublished": "2026-04-13",
+        "name": "Mosslanda",
+        "reviewBody": "Very happy",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Karen"
+        },
+        "datePublished": "2026-04-04",
+        "name": "Seam came apart and it sags",
+        "reviewBody": "I really liked this display shelf but after just under a year, the back seam is coming apart so it sags and my things fell off the shelf",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Stephanie"
+        },
+        "datePublished": "2026-03-30",
+        "name": "PICTURE LEDGE",
+        "reviewBody": "perfect for large clay plates",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Stephanie"
+        },
+        "datePublished": "2026-03-30",
+        "name": "PICTURE LEDGE",
+        "reviewBody": "Perfect for large clay plates",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Penny"
+        },
+        "datePublished": "2026-03-28",
+        "name": "Wall to Wall as a Bed Headboard",
+        "reviewBody": "There are so many options to use for art, photography and objects of art or whatever and\nIt is so easy to change and reorganize your items.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Sonja"
+        },
+        "datePublished": "2026-03-23",
+        "name": "Good but no screws",
+        "reviewBody": "I really like these shelves but just note it doesn\u2019t come with anything to mount them to the wall. I went to Home Depot to purchase some drywall screws which worked perfectly. Looks great!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jesus"
+        },
+        "datePublished": "2026-03-21",
+        "name": "Picture ledge hack from As-is Department",
+        "reviewBody": "Initially, I didn't know what this was when I found it in the As-is section. I purchased it along with three magnetic coat hangers and I installed the ledge upside down with the 3 coat hangers screwed on the face of it. Turned out great looking. I place small things on the very top since the ledge can still be used as a shelf, only its upside down. I didn't know it was a picture shelf until a week later when I was browsing through the art frames and spotted it there. I had a good chuckle.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Heather"
+        },
+        "datePublished": "2026-03-05",
+        "name": "Strong",
+        "reviewBody": "We got these as a place to keep cookbooks in our kitchen. I'm impressed with how much weight they hold. We have multiple decent-sized cookbooks on each and can even prop an open cookbook for reference so it's off the counter.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Sara"
+        },
+        "datePublished": "2026-03-03",
+        "name": "excellent for small items or pictures",
+        "reviewBody": "I have several of these. I use them to have small paintings that I can change out without having to make holes in the walls. This one is in my kitchen for small boards and bottles above my appliances",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Heidi"
+        },
+        "datePublished": "2026-02-22",
+        "name": "Perfect for what I needed",
+        "reviewBody": "Easy to hang. They look great on the wall. I bought three. The depth is perfect as it gave me the shelf space without intruding into the room.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jaklen"
+        },
+        "datePublished": "2026-02-12",
+        "name": "Nostalgic",
+        "reviewBody": "Very nice have not used it yet but love the look",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Kevin"
+        },
+        "datePublished": "2026-02-07",
+        "name": "NO SCREWS INCLUDED ",
+        "reviewBody": "maybe tell workers or a HUGE sign tell us we need the proper screws\u2026 instead of small fine print ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jill"
+        },
+        "datePublished": "2026-02-04",
+        "name": "Really like these, but needs one addition",
+        "reviewBody": "These are very functional, and I have used them in several places, including on the side of a pax unit. The one thing I wish was available would be an option piece to close the side, so items on it can\u2019t fall off the edges, such as bottles. But I still like them, and would purchase more if/when needed.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Evelina"
+        },
+        "datePublished": "2026-01-26",
+        "name": "Love it",
+        "reviewBody": "Very easy to install. Hung four next to some paintings and made the gallery wall look great",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      }
+    ],
+    "sku": "702.921.04",
+    "url": "https://www.ikea.com/us/en/p/mosslanda-picture-ledge-black-70292104/"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "3DModel",
+    "encoding": [
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp3/glb_draco/70292104_PS01_S01_NV01_ISP3_2.0_5a75d8306c2e47dbabfaffab0c6d8820.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp2/glb_draco/70292104_PS01_S01_NV01_ISP2_2.0_5df84ad9002044268ae284e9c0ee483d.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp1/glb_draco/70292104_PS01_S01_NV01_ISP1_2.0_ebe5a4dabe864bf284a61ef2bc49ae07.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp3/glb_draco/8de4d041f7ec448e88dea369981168eb-70292104_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp2/glb_draco/5b57ec7155064c3d8c60e41f0d1c3686-70292104_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp1/glb_draco/4120ad34e46840dcb1c2a6023d62af9a-70292104_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp3/glb_draco/f311b1a9ed05411ebe2f855c1b229178-70292104_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp2/glb_draco/a8b21ce8661b4ec8a915ccb88fbfe7db-70292104_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp1/glb_draco/b2957a1771fe4b979760d024e2f92f8e-70292104_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_030f94bc81844f9a86ef5627debe5273.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_04f395b7a5c14ece8a22be9ddcc3d186.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_07d95520da634f6ca969e6ad9d622e87.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_122458b3dec74bcd961e2e170c9d79ae.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_192737b846ee4ea2bf20442200cb0551.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_1ca266ae844e40298c6f2ef47304267c.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_1e53ce9a6d6e4099aecfda2098743e89.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_205fa7f3ea314fab8ed76994529ced35.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_20ec4af32f18498498b1df5d52a1efd3.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_2b05bb21eacf401ba7e1f5e2e72e5b55.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_3061feb6d4ba490c95bb467272c770c7.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV_01/simple/glb_draco/32ca747cbf9da8f56b618443daacbcb7-G-70292104-5d53f7ea151e3085902eb4177ee44252e26e80c6-simple+draco.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_369686b08d40413183961a21d27f42f3.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_3753d4b0fcfe4cb4995e0e241a24e0b5.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_405351587756410ca16be9c414ec7675.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_43c49508fd674008807ee10f4cfc8ada.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_48e76ce1fbe04285b7b9cfb4ab8fe422.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_492301c8d6f5436a9d9fc916b5372513.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_52bff74b1e324cb883918dcbe292df75.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_55c7bf8430c940f191824f74d2f03fd8.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_5a06a405ae7c4c6f9384058f13b578d6.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_5aa5ef9f974b4263a1abc64fcec4a1e8.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_5c5bf03c500a413ebe1a6a2247da1652.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_6201172b260443bb9b88d41aa5dfe1aa.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_667c35aae0cc4ec8ab38a1fa850253ac.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_70a8cdacf72a4b5e8964a0bde0c93707.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_7ca90ccbb0f44dc4abf731095d1e66f3.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_7eb4395eafcb4d68b6da305e00eff4ae.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_8ce014339e144024ab35d5d59276f60f.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_a3a6af67b83d44e782296a387c713904.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_a9852d7e172845d380db30bce7212230.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_a999d120ab7f4a90a5872d390ff38994.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_aabdf35b6eec4b38b13af9d1a86b5136.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_abcf4f25c111455ead4155399e009740.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_b8470bf228514ec3af1288375d832730.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_b9b27ab5ddc640999d9f2f36aeb73045.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_cbab2c5b01f145ac92c87b989c97e035.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_d0568a37cef54034884fdbf6d9c34f00.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_e065d7ba09014bcf99fa99c8ea532c66.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_eead79f9a5b743bdbe6abc2f61606867.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_f55d229e631f4918bf5c727b4c8e0eea.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_f5cc2ceb79634d058489bf04f120f51a.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/70292104/PS01_S01_NV01/simple/glb_draco/G-70292104-309e2697feab9026e4d7e3c74015b40c54f2a5d8_ff976d9699094991b4ca748e121a6416.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp3/glb/70292104_PS01_S01_NV01_ISP3_2.0_1ef2619cca174365bf915b96c1518f6a.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp2/glb/70292104_PS01_S01_NV01_ISP2_2.0_2760217815de4709ab648d2eac0070fa.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp1/glb/70292104_PS01_S01_NV01_ISP1_2.0_9f48725688b54449b4023cab802ba2bd.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp3/glb/5dbb0b9a3bc44b02b0afcf2d326ffa25-70292104_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp2/glb/28629e60f45f49a3b007f3070ebab664-70292104_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp1/glb/9f71c4ecfe994c7892198575a992fb06-70292104_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp3/glb/919bebbc208243918b1ccdf74fc21f5f-70292104_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp2/glb/ad0aad58026a4ae5a85b5364267eff78-70292104_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp1/glb/f655af4c472c4e70a5ed81db8273e87c-70292104_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp3/gltf/ec16ea3fc8f94579a576a88c436f16bf-70292104_PS01_S01_NV01_IQP3_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp2/gltf/4973d46122616fe6c77017e04f4c64fc-70292104_PS01_S01_NV01_IQP2_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/iqp1/gltf/201b1aac657295449484b28b33e929d6-70292104_PS01_S01_NV01_IQP1_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp3/gltf/8cbb0cfbbb5d4fc8af36eafc2fa8eb7f-70292104_PS01_S01_NV01_RQP3_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp2/gltf/60b34eb5d33f4a9fa4a014a7d296a168-70292104_PS01_S01_NV01_RQP2_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp1/gltf/6639790dcaa8497e184c2192099fef52-70292104_PS01_S01_NV01_RQP1_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      }
+    ],
+    "image": "",
+    "name": "MOSSLANDA"
+  }
+]

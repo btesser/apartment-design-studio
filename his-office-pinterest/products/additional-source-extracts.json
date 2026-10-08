@@ -1,0 +1,1679 @@
+[
+  {
+    "id": "lagkapten-top-black",
+    "source_url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/lagkapten-top-black.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Products",
+            "item": "https://www.ikea.com/us/en/cat/products-products/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Desks & desk chairs",
+            "item": "https://www.ikea.com/us/en/cat/workspace-desks-chairs-fu004/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Desks & computer desks",
+            "item": "https://www.ikea.com/us/en/cat/desks-computer-desks-20649/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Table & desk systems",
+            "item": "https://www.ikea.com/us/en/cat/table-desk-systems-47423/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Modular desk system",
+            "item": "https://www.ikea.com/us/en/cat/table-bar-system-11811/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Table tops",
+            "item": "https://www.ikea.com/us/en/cat/table-tops-11844/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "reviewCount": "867"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "IKEA"
+        },
+        "category": "Table tops",
+        "color": "brown, black",
+        "depth": "55 1/8 \"",
+        "description": "LAGKAPTEN Tabletop - black-brown 55 1/8x23 5/8 \". The tabletop has pre-drilled holes to make it easier to attach to the underframe.",
+        "image": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__0977796_pe813779_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__1426366_pe979764_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__1160036_pe888715_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          }
+        ],
+        "material": "Wood (including board)",
+        "mpn": "804.870.16",
+        "name": "LAGKAPTEN Tabletop - black-brown 55 1/8x23 5/8 \"",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "price": "49.99",
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "IKEA",
+            "url": "https://www.ikea.com/us/en/"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          },
+          "url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "James"
+            },
+            "datePublished": "2026-09-01",
+            "name": "Surface feels unfinished and noisy",
+            "reviewBody": "The surface feels very unfinished. When I slide my hand across it, it makes a lot of noise.  Interestingly, I returned the 47\" because it was a wee bit small but the surface seemed polished on that one.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Ali"
+            },
+            "datePublished": "2026-08-23",
+            "name": "Table top",
+            "reviewBody": "I got this to go with some other pieces so I could have a sturdy top for my computer equipment and it looks good. Overall satisfactory",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Christine"
+            },
+            "datePublished": "2026-08-05",
+            "name": "Simple. Placed it on top of my 2 alex drawers and created a desk!",
+            "reviewBody": "I have the older alex drawers so I can't screw the top onto the alex drawers. I decided to create a table for myself and this tabletop has been perfect for it. Simply place it on top. I actually cut to size and placed grippy drawer liners on the top of both of the alex drawers before placing the tabletop so it won't shift too easily. Once you have all the stuff on top of your table it weighs it down and it won't move. This is a great size and with alex drawers on both sides it still gives me a alot of room for my chair for sitting!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Dorothy"
+            },
+            "datePublished": "2026-07-29",
+            "name": "Okay unless you need to drill holes.",
+            "reviewBody": "This is a very poor tabletop. The material underneath isn\u2019t good if you need to drill your own holes. It just crumbles when you screw in the screws. \n\nIf you use the pre drilled holes, it will probably make do.\n\nThe Galant tabletop that was discontinued was a much stronger and more durable material. \n\n\nThis feels much less substantial.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Barbarar."
+            },
+            "datePublished": "2026-07-08",
+            "name": "Table Top",
+            "reviewBody": "Love it!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Jorge"
+            },
+            "datePublished": "2026-07-07",
+            "name": "Fantastic Tabletop",
+            "reviewBody": "I used this tabletop for my 3D printing station it is sturdy and clean with a great gray matt finish and wood side which look fantastic and are durable for all my printing projects. I love this product!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kenya"
+            },
+            "datePublished": "2026-06-29",
+            "name": "Perfect Tabletop",
+            "reviewBody": "The tabletop was the perfect choice for my home office desk. I also purchased the adjustable legs. I'm so glad I did. My desk is at the perfect height for me.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Anindita"
+            },
+            "datePublished": "2026-06-22",
+            "name": "Tabletop",
+            "reviewBody": "It is big and wide wrought to hold my monitor, laptop, speaker, keyboard, mouse and my coffee mug.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Micah"
+            },
+            "datePublished": "2026-04-08",
+            "name": "poor condition",
+            "reviewBody": "I drove 1.5 hours one way to purchase a table top and after unboxing at home found the corner of the table was messed up. Extremely frustrating.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Glenn"
+            },
+            "datePublished": "2026-04-06",
+            "name": "Made of Cardboard",
+            "reviewBody": "Very disappointed in this desktop.  Seemed like a nice, strong piece of wood, but the top is only laminate over a cardboard honeycomb.  Broke on the 2nd day.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Lynn"
+            },
+            "datePublished": "2026-02-12",
+            "name": "Tabletop",
+            "reviewBody": "I use the 2 tabletops together for my sewing room and they are perfect.  They give me enough room cut my patterns while leaving the space to maneuver around the table.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Dorothy"
+            },
+            "datePublished": "2026-01-18",
+            "name": "Fantastic piece",
+            "reviewBody": "I absolutely love this piece.  It\u2019s very sturdy, and love how it fits the Alex drawers.  All hardware was present.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Bethany"
+            },
+            "datePublished": "2025-12-23",
+            "name": "Desk top",
+            "reviewBody": "Without the legs it\u2019s just a part of the floor.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Amanda"
+            },
+            "datePublished": "2025-12-15",
+            "name": "Weird surface",
+            "reviewBody": "Putting anything on the surface leaves white scratch that wipes off.  Love IKEA but making the 2 hr drive to return this!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth"
+            },
+            "datePublished": "2025-11-13",
+            "name": "Perfect",
+            "reviewBody": "Love the size of the desk, more than enough space for my new 24\u201d all in one computer and printer. And the desk is thick enough for a clamp on desk lamp.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen"
+            },
+            "datePublished": "2025-11-03",
+            "name": "Great product",
+            "reviewBody": "This tabletop used in conjunction with 2 Alix drawer units makes a great craft desk.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Rosemary"
+            },
+            "datePublished": "2025-10-31",
+            "name": "Sleek Look",
+            "reviewBody": "We put two of these together, end to end, to create a sleek and unified workspace. In addition to two computers we are able to fit plenty of needed items. We are using the stationary legs.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "M"
+            },
+            "datePublished": "2025-10-15",
+            "name": "It fit my budget",
+            "reviewBody": "It fit my budget but it is not a bargain. I was careful handling the tabletop when fastening the legs and removed the plastic and protective cardboard when the desk was completely assembled.  Still there was a chip on one edge and a corner was bashed in. I suspect the damage happened on the way to being delivered to my house. The finish on the surface doesn't look durable and I wouldn't be surprised if it quickly starts to look worn. I feel I'm paying for the convenience of having a piece of furniture within days. The quality is just enough to make it a pain to return.  If time wasn't a factor, I would have shopped around for a second hand desk.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Leslie"
+            },
+            "datePublished": "2025-10-11",
+            "name": "Table top",
+            "reviewBody": "This table top comes in many sizes with different leg options to pick from. Some legs even adjust up or down. Assembly was easy.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "France"
+            },
+            "datePublished": "2025-09-28",
+            "name": "It goes well with Alex drawer",
+            "reviewBody": "The table top is not to big and easily put 2 Alex drawer underneath and plenty of space for a chair",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          }
+        ],
+        "sku": "804.870.16",
+        "url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+        "width": "23 5/8 \""
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "3DModel",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp3/glb_draco/cedc752b730a4d9185e652a853ed0756-80487016_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp2/glb_draco/9a3f9c1b811e4d049b6de8d0a2ba5fd7-80487016_PS01_S01_NV01_iqp2_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp1/glb_draco/f6ec8549e1f34a84a8c3ee63897655db-80487016_PS01_S01_NV01_iqp1_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp3/glb_draco/a1d916a60c914a798943f14a545e292f-80487016_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp2/glb_draco/08e99828ac8d4049879bb48283afe8b7-80487016_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp1/glb_draco/bcbd69e9aa3b4c94985980789364989c-80487016_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp3/glb/fa7a54b5046246cc8dab083963b33153-80487016_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp2/glb/bbe87b30673c4ee599ad27906a621506-80487016_PS01_S01_NV01_iqp2_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp1/glb/e54be0bdfdb54c66a1633f0599674720-80487016_PS01_S01_NV01_iqp1_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp3/glb/07ca62df825a440a89b7a6f846ceaddc-80487016_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp2/glb/aa6f9ac666634a2ba86ac37f4fe20db9-80487016_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp1/glb/0071911026a0423ea8cd2bf4722fe15e-80487016_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp3/gltf/c5ecd3b9a403f5ac1929a4658ba5047c-80487016_PS01_S01_NV01_iqp3_v1.4.11.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp2/gltf/78115f6408af8790588864b21d6736d5-80487016_PS01_S01_NV01_iqp2_v1.4.11.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/iqp1/gltf/f432510fadb919e7ca71f34dba98c2c6-80487016_PS01_S01_NV01_iqp1_v1.4.11.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp3/gltf/f94befb0cec552b411561b986328d7ca-80487016_PS01_S01_NV01_RQP3_3.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp2/gltf/3276016a167e4598b0ead649aeb9f44b-80487016_PS01_S01_NV01_RQP2_3.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/80487016/PS01_S01_NV01/rqp1/gltf/f70d61cbcbea4286af108f902a6a639d-80487016_PS01_S01_NV01_RQP1_3.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          }
+        ],
+        "image": "",
+        "name": "LAGKAPTEN"
+      }
+    ],
+    "official_image_urls": [
+      "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__0977796_pe813779_s5.jpg"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/lagkapten-top-black.jpg",
+    "download_url": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__0977796_pe813779_s5.jpg"
+  },
+  {
+    "id": "alex-black-drawers",
+    "source_url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/alex-black-drawers.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Products",
+            "item": "https://www.ikea.com/us/en/cat/products-products/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Storage & organization",
+            "item": "https://www.ikea.com/us/en/cat/storage-organization-st001/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filing cabinets",
+            "item": "https://www.ikea.com/us/en/cat/storage-cabinets-10385/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Drawer units for home",
+            "item": "https://www.ikea.com/us/en/cat/drawer-units-for-home-47081/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "3724"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "IKEA"
+        },
+        "category": "Drawer units for home",
+        "color": "brown, black",
+        "depth": "22 7/8 \"",
+        "description": "ALEX Drawer unit - black-brown 14 1/8x27 1/2 \". Drawer stops prevent the drawer from being pulled out too far. This unit can be placed anywhere in the room because it is finished on the back.",
+        "height": "27 1/2 \"",
+        "image": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0977786_pe813770_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__1451245_pe990649_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__1426366_pe979764_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__1287819_pe933972_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0995608_pe821779_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0476104_pe616052_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          }
+        ],
+        "material": "Wood (including board)",
+        "mpn": "604.735.48",
+        "name": "ALEX Drawer unit - black-brown 14 1/8x27 1/2 \"",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "price": "115",
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "IKEA",
+            "url": "https://www.ikea.com/us/en/"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          },
+          "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Christine"
+            },
+            "datePublished": "2026-10-01",
+            "name": "I am very sad at how terrible the quality has become",
+            "reviewBody": "I have purchased and built 12 Alex units with Casters over the past few years. I am absolutely horrified at how bad they are in my order delivered 9/30. The quality of the engineering is barely acceptable but the failure is when the change in the wood meets the engineering pieces don\u2019t fit well so when they are pressured into the correct spot they literally begin falling apart. IKEA was obviously aware of the horrible wood quality they changed one of the fastening parts to plastic so that the materials have a better chance to stay intact. They also took me significantly longer to build because nothing fit together easily. Since I have so many already for my project I need to keep what I have. But I am really sad that the IKEA I have loved so much can no longer be my go to. I have pictures of how bad it is but there is no place to upload them",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Aleksei"
+            },
+            "datePublished": "2026-09-21",
+            "name": "Quality",
+            "reviewBody": "Purchased the same drawer long ago. The quality was much better back then. The rails do not operate on the new one as seamlessly as on the old one.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 2
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Adrian"
+            },
+            "datePublished": "2026-09-19",
+            "name": "Solid piece",
+            "reviewBody": "Product is well made and engineered to last",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Jill"
+            },
+            "datePublished": "2026-09-19",
+            "name": "Very solid",
+            "reviewBody": "The Alex was easier to put together than the ones we got 15+ years ago. They are solid and sturdy. It fits in well with our IKEA desktop. Our only concern is how easy the finish scratches.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Iryna"
+            },
+            "datePublished": "2026-09-19",
+            "name": "Tight drawers",
+            "reviewBody": "It\u2019s cute. I feel like it\u2019s overpriced a bit. But.. that\u2019s what my daughter  wanted. But must indicate these drawers are hard to open and close. They feel very tight ! Wish they rolled easily.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kate"
+            },
+            "datePublished": "2026-09-18",
+            "name": "Can't replace drawer slides",
+            "reviewBody": "The drawer system is nice but cheap as is most of IKEA furniture. We recently had one of the drawer slides break and IKEA does not replace this part, which is ridiculous since you can take the part off the inner wall yourself with no issue. You can go on a wild goose chase and hope the store has a random extra part , but of course when we went they don't and we will have to buy a whole new unit. I am absolutely disappointed at  the ridiculousness of the quality of the furniture and what you have to go through to get a new part.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Leigh"
+            },
+            "datePublished": "2026-09-17",
+            "name": "Art Supply Storage",
+            "reviewBody": "We needed a way to store the larger items for artwork such as canvases, drawing supplies, clean-up materials and similar. \n\nWe may want to add casters. It wasn't obvious when we selected this unit that casters were an option.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Heather"
+            },
+            "datePublished": "2026-09-10",
+            "name": "Not great for young children",
+            "reviewBody": "This cabinet is stylish and functional. The problem was that when kids used it they stuffed the drawers and it was very difficult to retrieve what was stuck in there. I couldn\u2019t figure out how the drawers come out so I had to turn it upside down. It is rather heavy to have to do this often. ",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Normalia"
+            },
+            "datePublished": "2026-09-10",
+            "name": "Love them",
+            "reviewBody": "They are very steady and they are very easy to assemble",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Clarece"
+            },
+            "datePublished": "2026-09-08",
+            "name": "Directions",
+            "reviewBody": "Directions were terrible. Instead of directions for one project they had directions for three. No specific instructions showing top from bottom. After I assembled unit I realized the top and bottom were assembled incorrectly. At this point after 6 hrs I just flipped over the unit. Never had such difficulty before with IKEA assembly.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Marco"
+            },
+            "datePublished": "2026-09-07",
+            "name": "It\u2019s missing a screw",
+            "reviewBody": "It\u2019s missing a screw, I can\u2019t screw the cabinet to by desk top",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 2
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Samuel"
+            },
+            "datePublished": "2026-09-05",
+            "name": "President",
+            "reviewBody": "ALEX\nDrawer unit, white\nPlease, 2 drawers have a problem, the drawers do not match the aluminum track",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Brenda"
+            },
+            "datePublished": "2026-09-05",
+            "name": "Awesome",
+            "reviewBody": "Fits easily next to my desk. The drawers  are spacious.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kate"
+            },
+            "datePublished": "2026-09-03",
+            "name": "Does the job.",
+            "reviewBody": "Sturdy and easy to assemble. The drawers catch on the screws used to attach the drawer slides. Not sure if this is intentional but It does make it difficult to open the drawers all the way. Yes I made sure the screws were all the way installed.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sho"
+            },
+            "datePublished": "2026-09-01",
+            "name": "Satisfactory overall",
+            "reviewBody": "There are couple ends on the boards where factory cuts were not clean, pieces of woods chipped.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Edith"
+            },
+            "datePublished": "2026-08-30",
+            "name": "Alex drawer",
+            "reviewBody": "It\u2019s exactly what I needed for my home office",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Beth"
+            },
+            "datePublished": "2026-08-27",
+            "name": "One of the better IKEA pieces",
+            "reviewBody": "This is a classic for a reason. It swallows up a lot of stuff and is pretty inconspicuous under a desktop. I find the builds pretty easy, though IMO there is always one drawer, no matter how hard I try to tighten the screws, that sticks a little. But mostly it works well. I bought one of the felt inserts and based on how well it organizes the space, I'll eventually add a few more.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Ruth"
+            },
+            "datePublished": "2026-08-26",
+            "name": "I love these alex",
+            "reviewBody": "I have three Alex and just ordered two more and ordered the wheels. I just love having the wheels now I can move my room around and not have to call for help",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Mara"
+            },
+            "datePublished": "2026-08-26",
+            "name": "Shelf\u2019s were not made correctly",
+            "reviewBody": "In the picture it clearly shows that there is 2 small ones at the top and 3 large ones at the bottom. But for mine it was weird because either 1 didn\u2019t fit or they overlapped while trying to put them together. Not sure why this had happened to mine but i\u2019m so disappointed.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Tony"
+            },
+            "datePublished": "2026-08-24",
+            "name": "Product Great \u2026 But \u2026",
+            "reviewBody": "Delivery service takes way too long. Six business days to travel 40 miles. \ud83d\ude21\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f IKEA you can do better!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          }
+        ],
+        "sku": "604.735.48",
+        "url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+        "width": "14 1/8 \""
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "3DModel",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp3/glb_draco/e0815263db9e6adc0ab1b71b3dfbce1c-60473548_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp2/glb_draco/9d1d088547e0d049b6897a770058aa9c-60473548_PS01_S01_NV01_RQP2_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp2/glb_draco/debf22a8ae6e83c2c8fab55b8deb3556-60473548_PS01_S01_NV01_RQP2_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp1/glb_draco/9ce431139f993c105fbae75d04920633-60473548_PS01_S01_NV01_RQP1_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV_01/simple/glb_draco/1004766f8291453fbeb8e40378c6b83d-G-60473548-722589385457976553e415ec4e8c1d472c59f003-simple+draco.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_53c90934b6f04220baef55f7bc7a00bb.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_563b554992134e28b3dc90f9dd6070ba.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_5e2a65db40b6411f8099dfa65ce29046.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_739254ed1b8e4d60a136c84278c94d1a.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_8f24adae96f549ccbbbabd1412c10346.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_9252c8a8f0844918bc3dcacc673b624a.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_a4b8b4967ef4493c845d2ac5a0d68e05.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_a95908d724f949948b4c858575b8d718.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_b2aff94e418344bb8d6acd8f9a476eae.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_bd87897dba33481e88aa27cca5a94039.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_d81c3f312c7647338048905a88e2599e.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_d8a438e9124b4054ac612d0cd82e5847.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV01/simple/glb_draco/G-60473548-722589385457976553e415ec4e8c1d472c59f003_e2aa89f10f974d1683ead956e67ba0f3.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp3/glb/f8c10d6c594ff96ee0bc62bb46c80ccc-60473548_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp2/glb/59233514c321a8216ecd51d2d58fa094-60473548_PS01_S01_NV01_RQP2_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp2/glb/b6e1747ef94940c89a04ac71081214ae-60473548_PS01_S01_NV01_RQP2_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp1/glb/0f01ed42e6e4d25a672b2f32bce48a75-60473548_PS01_S01_NV01_RQP1_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp1/glb/d2bbf401ae4e4959a48d9885e4f8cb8d-60473548_PS01_S01_NV01_RQP1_4.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60473548/PS01_S01_NV_01/simple/glb/820e31f32f89f74c9d8462bd72538f02-G-60473548-e4f2ef64086a6c3ef64661990be3488fdbb77d1f-simple.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp3/gltf/906453841a7ad32ece36f184dca4ab08-60473548_PS01_S01_NV01_RQP3_4.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp3/gltf/e50bbda63c73af224d76a7544f98b887-60473548_PS01_S01_NV01_RQP3_4.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp2/gltf/55491826c8ee463cb9671f3bc7c8badf-60473548_PS01_S01_NV01_RQP2_4.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp2/gltf/ec78b4895124d52412dae364392a51f7-60473548_PS01_S01_NV01_RQP2_4.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp1/gltf/8fc4e11a021bbbcf9da68a01cc28fd74-60473548_PS01_S01_NV01_RQP1_4.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60473548/PS01_S01_NV01/rqp1/gltf/ccdd664de8e8bd22b63264506e381c13-60473548_PS01_S01_NV01_RQP1_4.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          }
+        ],
+        "image": "",
+        "name": "ALEX"
+      }
+    ],
+    "official_image_urls": [
+      "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0977786_pe813770_s5.jpg"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/alex-black-drawers.jpg",
+    "download_url": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0977786_pe813770_s5.jpg"
+  },
+  {
+    "id": "adils-black-leg",
+    "source_url": "https://www.ikea.com/us/en/p/adils-leg-black-70217973/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/adils-black-leg.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Products",
+            "item": "https://www.ikea.com/us/en/cat/products-products/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Desks & desk chairs",
+            "item": "https://www.ikea.com/us/en/cat/workspace-desks-chairs-fu004/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Desks & computer desks",
+            "item": "https://www.ikea.com/us/en/cat/desks-computer-desks-20649/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Table & desk systems",
+            "item": "https://www.ikea.com/us/en/cat/table-desk-systems-47423/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Modular desk system",
+            "item": "https://www.ikea.com/us/en/cat/table-bar-system-11811/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Legs & trestles",
+            "item": "https://www.ikea.com/us/en/cat/legs-trestles-11845/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "reviewCount": "2496"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "IKEA"
+        },
+        "category": "Legs & trestles",
+        "color": "black",
+        "description": "ADILS Leg - black. Adjustable feet allow you to level the table on uneven floors. Screws for attaching the legs to the table top are included. Suitable for table tops with a minimum thickness of 1\".",
+        "height": "27 1/2 \"",
+        "image": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/adils-leg-black__0734618_pe739551_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/adils-leg-black__1045176_pe842454_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/adils-leg-black__1435809_pe983947_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/adils-leg-black__0851360_pe559992_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          }
+        ],
+        "material": "Metal",
+        "mpn": "702.179.73",
+        "name": "ADILS Leg - black",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "price": "7.5",
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "IKEA",
+            "url": "https://www.ikea.com/us/en/"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          },
+          "url": "https://www.ikea.com/us/en/p/adils-leg-black-70217973/"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "J"
+            },
+            "datePublished": "2026-10-03",
+            "name": "so easy to use!",
+            "reviewBody": "made a very cool desk with these and the Alex drawers...",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Melani"
+            },
+            "datePublished": "2026-09-20",
+            "name": "Holes didn\u2019t all match up",
+            "reviewBody": "Putting these things together was a little hard because the holes didn\u2019t match up. My daughter had to get creative to make it work. Looks fine",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sylwia"
+            },
+            "datePublished": "2026-09-19",
+            "name": "Simple solution for an office",
+            "reviewBody": "Simple solution for an office provides full flexibility for the office desk",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Olga"
+            },
+            "datePublished": "2026-08-14",
+            "name": "Great Table Legs, Terrible Stickers",
+            "reviewBody": "The legs fit my table perfectly and look great! My only complaint is the awful paper stickers with product information and the item number.  They tear when you try to remove them, leave sticky residue, and ruin the appearance.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Liuvan"
+            },
+            "datePublished": "2026-06-30",
+            "name": "Part no completed",
+            "reviewBody": "I bought 4, one came without the round part at the top, the table is unbalanced. I will return",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous reviewer"
+            },
+            "datePublished": "2026-05-19",
+            "name": "Poor craftsmanship",
+            "reviewBody": "There's a big flaw on the leg, bottom edge has a sharp point, quality went down from before.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 1
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Fadumo"
+            },
+            "datePublished": "2026-03-30",
+            "name": "Really strong solid 5 years later",
+            "reviewBody": "A really strong item. I have been having it for the last five years. Just came back to see what it was. Would recommend.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Angela M"
+            },
+            "datePublished": "2026-03-23",
+            "name": "Leg white",
+            "reviewBody": "The legs that came with the desk or really cute very easy to install took my significant other all of maybe 20 minutes to put together.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kristina"
+            },
+            "datePublished": "2026-03-11",
+            "name": "Easy to install and sturdy",
+            "reviewBody": "very easy to install and starting one of the legs came up the screws but IKEA makes it easy to just either come in store and pick it up for free or you can have it shipped to you for free. I like the color and look.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Carolina"
+            },
+            "datePublished": "2026-02-19",
+            "name": "Good",
+            "reviewBody": "Strong legs, easy to install. But don't slide the desk or might make them loose because of the weight, lift desk if want to move.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Amanda"
+            },
+            "datePublished": "2026-02-10",
+            "name": "Easy to install; nice quality",
+            "reviewBody": "The legs are super simple to install. They look nice and are steady. Recommended.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Marilen"
+            },
+            "datePublished": "2026-01-31",
+            "name": "Adils",
+            "reviewBody": "Good",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Jonathan"
+            },
+            "datePublished": "2026-01-26",
+            "name": "Slim & Versatile",
+            "reviewBody": "Allowing for mounting points on either side of a piece of furniture is a great idea and these legs do their job well. The adjustable feet mean your desktop will be level even if your floor isn't.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie"
+            },
+            "datePublished": "2026-01-25",
+            "name": "Basic support",
+            "reviewBody": "Does what it\u2019s supposed too and is versatile in many applications",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Richard"
+            },
+            "datePublished": "2026-01-12",
+            "name": "Strong Enough",
+            "reviewBody": "I purchased more than four of these legs and placed them beneath a J\u00e4rstorp countertop. I did also include an extruded aluminum support along the back of the countertop and it's holding up very well with significant weight on it in an office setting.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Robin"
+            },
+            "datePublished": "2026-01-07",
+            "name": "Exactly what I needed",
+            "reviewBody": "Exactly what I needed. That is all",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Magaly"
+            },
+            "datePublished": "2026-01-02",
+            "name": "Extra flexible portable table",
+            "reviewBody": "The table top has a nice finish.  I had previously purchased one so utvwas a nice match to place close to each other",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Jill"
+            },
+            "datePublished": "2025-12-29",
+            "name": "Works well",
+            "reviewBody": "Needed a new pair of legs to redo an IKEA desk and these worked perfectly.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Bethany"
+            },
+            "datePublished": "2025-12-23",
+            "name": "Desk Legs\u2026..Without them\u2026.",
+            "reviewBody": "Without them what\u2019s the point",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth"
+            },
+            "datePublished": "2025-11-13",
+            "name": "Nice and simple",
+            "reviewBody": "It was easy to attach to my new desk top. I used a power drill for faster easier install and save my wrist.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          }
+        ],
+        "sku": "702.179.73",
+        "url": "https://www.ikea.com/us/en/p/adils-leg-black-70217973/"
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "3DModel",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp3/glb_draco/a2827677c2f7a2b6cf390176d4973f82-70217973_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp2/glb_draco/b383627a998045e09266578abfa34672-70217973_PS01_S01_NV01_iqp2_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp1/glb_draco/064725a04a4b434bb8a186b088e94ccf-70217973_PS01_S01_NV01_iqp1_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp3/glb_draco/92d024c713df457aa4d7455fede02315-70217973_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp2/glb_draco/7d7c5ed3365049df9e1a220a99f86d49-70217973_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp1/glb_draco/d8f0f53f191a4208b6cc42db92d2c094-70217973_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp3/glb/ea5e1ed0131bf4dcce854b6de0cc173d-70217973_PS01_S01_NV01_iqp3_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp2/glb/43c71260d19f44609e26499c90414f86-70217973_PS01_S01_NV01_iqp2_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp1/glb/a840dedc090bb53ea22671247f5190bc-70217973_PS01_S01_NV01_iqp1_v1.4.11.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp3/glb/380e9d72051142c997b05c13d1397d16-70217973_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp2/glb/bc40fb76ee3649f68c660f7dfcb4568e-70217973_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp1/glb/3de729b25673fed1141c7d9bf9fc0557-70217973_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp3/gltf/1e2d02e4b2437fb8244bb9180acca0bb-70217973_PS01_S01_NV01_iqp3_v1.4.11.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp2/gltf/0078506d28574d03824bf171dfb4cf78-70217973_PS01_S01_NV01_iqp2_v1.4.11.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/iqp1/gltf/5027465e4aa0fe6a626e879db74d7381-70217973_PS01_S01_NV01_iqp1_v1.4.11.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp3/gltf/e841ec35dd4d48c1a3be1d3184e17239-70217973_PS01_S01_NV01_RQP3_3.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp2/gltf/3f3c554f5c3741619696981f2b4e6b47-70217973_PS01_S01_NV01_RQP2_3.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          },
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70217973/PS01_S01_NV01/rqp1/gltf/dbc2298d608243229f6f415426a5acb1-70217973_PS01_S01_NV01_RQP1_3.0.gltf?cn=pip",
+            "encodingFormat": "model/gltf"
+          }
+        ],
+        "image": "",
+        "name": "ADILS"
+      }
+    ],
+    "official_image_urls": [
+      "https://www.ikea.com/us/en/images/products/adils-leg-black__0734618_pe739551_s5.jpg"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/adils-black-leg.jpg",
+    "download_url": "https://www.ikea.com/us/en/images/products/adils-leg-black__0734618_pe739551_s5.jpg"
+  },
+  {
+    "id": "black-frame-landscape",
+    "source_url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/black-frame-landscape.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProductGroup",
+        "brand": {
+          "@type": "Brand",
+          "name": "Desenio"
+        },
+        "category": "Frames > Wood frames > Black frames > Black picture frame, 28\" x 39\" in",
+        "description": "- Black wood frame fitting for posters in&nbsp; 27.6&quot; x 39.4&quot;  Black wood frame sized 27.6&quot; x 39.4&quot;&nbsp;made from solid yellow poplar wood painted in black. Our black wood frame is equipped with a lightweight and shatterproof acrylic glass. The acrylic glass is protected on both sides by a protective film to be removed before use. This frame is equipped with two metal hangers on the back, to enable both vertical and horizontal placement on your wall. The frame opens from the back using the metal clips that turn sideways, making it easy to frame your art.  Frame size:&nbsp;27.6&quot; x 39.4&quot; Width:&nbsp;0,5&quot; in Depth:&nbsp;0,9&quot; in Weight:&nbsp;7Ib 12oz",
+        "image": "https://media.desenio.com/site_images/67f802afeb883679639c11e7_1355918038_AASP50105_main_image_DS.jpg",
+        "isRelatedTo": [
+          {
+            "@type": "Product",
+            "image": "https://media.desenio.com/site_images/67c5656ec2ca41280d29cc3b_picturehooks.jpg",
+            "name": "Picture hooks (Pack of 2)",
+            "sku": "HOOK-0001",
+            "url": "https://desenio.com/poster-accessories/picture-hooks/picture-hooks-pack-of-2/"
+          }
+        ],
+        "mpn": "AASP50105",
+        "name": "Black picture frame, 28 x 39 in",
+        "productGroupID": "AASP50105",
+        "sku": "AASP50105",
+        "url": "https://desenio.com/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+        "variesBy": "https://schema.org/Size",
+        "hasVariant": [
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "39",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg",
+            "mpn": "AASP-50105",
+            "name": "Black picture frame, 28\" x 39\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Black picture frame, 28\" x 39\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 101.15,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 119,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "AASP-50105",
+              "url": "https://desenio.com/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/"
+            },
+            "size": "28\" x 39\" in",
+            "sku": "AASP-50105",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "28",
+              "unitCode": "INH"
+            }
+          }
+        ]
+      }
+    ],
+    "official_image_urls": [
+      "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg?auto=compress,format&fit=max&w=1200",
+      "https://media.desenio.com/site_images/67f83a3dc018756761c8307f_1018048801_AASP-50105_variant_display_image_DS.jpg?auto=compress,format&fit=max&w=1200",
+      "https://media.desenio.com/site_images/67f83a375d339427fa9a8c23_1357723078_AASP-50105_frame_backside_DS.jpg?auto=compress,format&fit=max&w=1200",
+      "https://media.desenio.com/site_images/67f83a3a5d339427fa9a8c28_1063225440_AASP-50105_frame_corner_DS.jpg?auto=compress,format&fit=max&w=1200"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/black-frame-landscape.jpg",
+    "download_url": "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg"
+  }
+]

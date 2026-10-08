@@ -1,0 +1,70 @@
+{
+  "source_layout": "/workspace/his-office-pinterest/model/layout.json",
+  "layout_version": "root-approved-pinterest-final-2026-10-08",
+  "layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "positions_modified_by_plan": false,
+  "item_count": 12,
+  "approved_changes_from_previous_design": [
+    "Remove secondary task chair and its monitor/keyboard",
+    "Move visitor chairX\u22124.53\u2192\u22124.73",
+    "Replace two blue artworks with one neutral landscape100\u00d770cm above project bench",
+    "Black ALEX and ADILS; neutral Kilanda visitor upholstery; quiet Impasto Taupe6\u00d79 rug"
+  ],
+  "outputs": [
+    "final-furnished-plan.png",
+    "final-furnished-plan.pdf"
+  ],
+  "room_dimensions_m": [
+    4.9,
+    3.1,
+    3.02
+  ],
+  "floor_area_m2": 14.028,
+  "visual_layer_notes": [
+    "Solid floor-level footprints; Branch base nominal\u00d8.70104m",
+    "Dashed upper cat baskets are provisional modeled offsets, not solid collision rectangle",
+    "Honeywell open lamp head is separate overhead layer; U-base details approximate",
+    "45cm main-chair pullback and verified.276225m clothes drawer pullout are operational states",
+    "Three closet shoe racks conditional, world footprint.27X\u00d7.58Y"
+  ],
+  "fit_disclosures": [
+    {
+      "id": "lamp_foot_gap",
+      "value_m": 0.1095,
+      "status": "approximate U-base model; no position altered by plan"
+    },
+    {
+      "id": "chair_pullback_plus_open_drawer",
+      "value_m": 0.343542,
+      "working_chair_state_gap_m": 0.793542,
+      "status": "clothes drawer and full chair pullback block rear through-route; tuck chair before clothes access"
+    },
+    {
+      "id": "nominal_continuous_route",
+      "person_circle_pass_m": 0.6,
+      "sampled_person_circle_fail_m": 0.65,
+      "chair_states": [
+        "working",
+        "primary45cmrearward"
+      ],
+      "authority": "proposed-routing-check.json; generalized walls/open doors/conservative floor envelopes; not measured human clearance or accessibility claim"
+    },
+    {
+      "id": "closet_shoes",
+      "status": "unrecorded interior fit remains conditional"
+    },
+    {
+      "id": "cat_upper",
+      "status": "branch/basket dimensions unpublished and provisional"
+    },
+    {
+      "id": "standing_desk",
+      "status": "UPLIFT separate from fixed bench;16.66cm side separation; no joined extension restricts height travel"
+    },
+    {
+      "id": "frame_proxy",
+      "status": "Outside1.0254\u00d7.7254m,22.86mm deep presentation assumption; paper100\u00d770cm verified"
+    }
+  ],
+  "footprints_file": "final-plan-footprints.json"
+}

@@ -1,0 +1,37 @@
+{
+  "status": "Superseded by user correction: gray HermanMiller XL is owned; exact model pending. Do not use Branch chair sourceboards for final generation. Root has paused generation pending chair confirmation.",
+  "files": {
+    "images/product-board-1.png": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/product-board-1.png",
+      "sha256": "f108e3955d4d21ad2064f2d9f4b2360647a4a997616778a925f3d834d44827da"
+    },
+    "images/product-board-2-b.png": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/product-board-2-b.png",
+      "sha256": "88d659de5ca103e4d14ca484b76ea448d94d35e311e373bdbe42c98c89d4c388"
+    },
+    "images/product-board-2-c.png": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/product-board-2-c.png",
+      "sha256": "bbae49a68bdbf321f9bc348ed0b95a31f7fce2c6a89f2b92013797c57bc813a9"
+    },
+    "images/reference-boards/dark-reference-boards.pdf": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/dark-reference-boards.pdf",
+      "sha256": "619871fd40284c647572f12edf0de8af603b0773e4e75d53f1481ce29931d188"
+    },
+    "images/reference-boards/dark-reference-boards.sources.json": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/dark-reference-boards.sources.json",
+      "sha256": "f6d6d7b83825a3d0758c30dc7e523813258649fb12d2374fba0f4b1b194733ff"
+    },
+    "images/proposals/product-candidates.png": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/product-candidates.png",
+      "sha256": "3e1fe53c37793e52cfe8edc5f4dac341ff3ea2795d1e7deab3afcea9b3a0867f"
+    },
+    "images/proposals/product-candidates.pdf": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/product-candidates.pdf",
+      "sha256": "e787a115c57416593b50fa977b367f8f2344d833bcb03d1dd0f04602f0a4522c"
+    },
+    "images/proposals/product-candidates.sources.json": {
+      "preserved_at": "/workspace/his-office-pinterest/images/checkpoints/branch-proposal-before-owned-HM/product-candidates.sources.json",
+      "sha256": "d018ee993aec0a7c705d4557eeb7119c346e08c986fe70cc2ce4ff9db4383f20"
+    }
+  }
+}

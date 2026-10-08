@@ -1,0 +1,326 @@
+{
+  "method": "Same continuous polygon planning check used in prior QA; single-chair removes only secondary chair and second monitor remains presentation decision. No architecture shifts.",
+  "limits": [
+    "Nominal room outline uncertainty5\u201312cm",
+    "Door leaves assumed open; actual swing unmeasured",
+    "Caster and envelope geometry are conservative planning shapes, not accessibility certification"
+  ],
+  "variants": [
+    {
+      "variant": "two-chair-working",
+      "checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.837188419010095
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            2.914893704148301,
+            0.5192131122320987
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            2.601669027434599,
+            0.44646074071857
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.65,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            1.5905272097201495,
+            0.7088737441240381,
+            0.3795002344821749
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.7,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            1.4028990907717036,
+            0.6130946062431981,
+            0.3180205565440339
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.75,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            1.2281248958451736,
+            0.5240195396011341,
+            0.26182904621743125
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.8,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            1.0678574016300981,
+            0.441032006607632,
+            0.21078912345539944
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "two-chair-pulled-back",
+      "checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.1754175694801914
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 2,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            1.2379534694463923,
+            0.9560987947916535,
+            0.5192131122320987
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 2,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            1.0024981781935804,
+            0.8388205898768304,
+            0.44646074071857
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.65,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.22905329311145578,
+            0.7322143546287426,
+            0.3795002344821749,
+            0.5591907303991924
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.7,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.18025741339200096,
+            0.6337987777059819,
+            0.3180205565440339,
+            0.42077233546133747
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.75,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.13797939083273364,
+            0.5426577245523958,
+            0.26182904621743125,
+            0.05399097671267046,
+            0.24537322287210112
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.8,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.10144460280034266,
+            0.4582562078978837,
+            0.21078912345539944,
+            0.02917201473550782,
+            0.17224922666314063
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "single-chair-working",
+      "checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.639305166037969
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            3.7455792401681838,
+            0.5192131122320987
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            3.460063953227665,
+            0.44646074071857
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.65,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            3.18188349510667,
+            0.3795002344821749
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.7,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            2.9103782751204768,
+            0.3180205565440339
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.75,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            2.6452163635159835,
+            0.26182904621743125
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.8,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            2.3863825960958294,
+            0.21078912345539944
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "single-chair-pulled-back",
+      "checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.24308321482539
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            3.3275564697816784,
+            0.5192131122320987
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 1,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            3.022534746054131,
+            0.44646074071857
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.65,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.22905329311145578,
+            2.5051931204240443,
+            0.3795002344821749
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.7,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.18025741339200096,
+            2.2904033866310254,
+            0.3180205565440339
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.75,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.13797939083273364,
+            2.085100976162002,
+            0.26182904621743125
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.8,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.10144460280034266,
+            1.8879171427389043,
+            0.21078912345539944
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "source": "http://127.0.0.1:8773",
+  "errors": [],
+  "requests": [],
+  "checks": [
+    "Both alternatives load independently, switch in both directions, and preserve the selected camera.",
+    "Save image exports the selected alternative as a valid PNG.",
+    "All camera poses/lenses, textures, native dimensions, orientations, controls, and keyboard walking pass for both alternatives."
+  ],
+  "variants": [
+    {
+      "id": "b-charcoal-slat",
+      "state": {
+        "variant": "b-charcoal-slat",
+        "modelSHA256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+        "mode": "orbit",
+        "selectedView": "overview",
+        "position": [
+          -1.330000000000001,
+          7.075,
+          6.640000000000001
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 72,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ]
+      },
+      "poses": [
+        {
+          "variant": "b-charcoal-slat",
+          "modelSHA256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+          "mode": "walk",
+          "selectedView": "room-a",
+          "position": [
+            -3.4600000381469727,
+            3.125,
+            2.3399999141693115
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "b-charcoal-slat",
+          "modelSHA256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+          "mode": "walk",
+          "selectedView": "room-b",
+          "position": [
+            -7.480000019073486,
+            3.125,
+            2.2699999809265137
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "b-charcoal-slat",
+          "modelSHA256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+          "mode": "walk",
+          "selectedView": "room-c",
+          "position": [
+            -4.179999828338623,
+            3.125,
+            0.3499999940395355
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        }
+      ],
+      "textures": {
+        "uniqueLoadedTextures": 9,
+        "invalid": [],
+        "productMaps": {
+          "rug": 1,
+          "branch-primary": 2,
+          "richmond-art": 1
+        }
+      },
+      "walkDistance": 0.31440000000596097,
+      "toggles": {
+        "hidden": true,
+        "empty": true,
+        "racks": true,
+        "restored": true
+      },
+      "lamp": {
+        "variant": "b-charcoal-slat",
+        "lampMeshCount": 11,
+        "rays": [
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.74,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.59,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar001",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.805018,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.534982,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim001",
+            "pass": true
+          }
+        ],
+        "allRaysPass": true
+      },
+      "sourceLink": "../variants/b-charcoal-slat/model/his-office-design.blend"
+    },
+    {
+      "id": "c-ink-studio",
+      "state": {
+        "variant": "c-ink-studio",
+        "modelSHA256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+        "mode": "orbit",
+        "selectedView": "overview",
+        "position": [
+          -1.330000000000001,
+          7.075,
+          6.640000000000001
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 72,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ]
+      },
+      "poses": [
+        {
+          "variant": "c-ink-studio",
+          "modelSHA256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+          "mode": "walk",
+          "selectedView": "room-a",
+          "position": [
+            -3.4600000381469727,
+            3.125,
+            2.3399999141693115
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "c-ink-studio",
+          "modelSHA256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+          "mode": "walk",
+          "selectedView": "room-b",
+          "position": [
+            -7.480000019073486,
+            3.125,
+            2.2699999809265137
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "c-ink-studio",
+          "modelSHA256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+          "mode": "walk",
+          "selectedView": "room-c",
+          "position": [
+            -4.179999828338623,
+            3.125,
+            0.3499999940395355
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        }
+      ],
+      "textures": {
+        "uniqueLoadedTextures": 9,
+        "invalid": [],
+        "productMaps": {
+          "rug": 1,
+          "branch-primary": 2,
+          "richmond-art": 1
+        }
+      },
+      "walkDistance": 0.29039999999106025,
+      "toggles": {
+        "hidden": true,
+        "empty": true,
+        "racks": true,
+        "restored": true
+      },
+      "lamp": {
+        "variant": "c-ink-studio",
+        "lampMeshCount": 11,
+        "rays": [
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.74,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.59,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar001",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.805018,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.534982,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim001",
+            "pass": true
+          }
+        ],
+        "allRaysPass": true
+      },
+      "sourceLink": "../variants/c-ink-studio/model/his-office-design.blend"
+    }
+  ],
+  "exportPngBytes": 325658,
+  "assetHashes": null
+}

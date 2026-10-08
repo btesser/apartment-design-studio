@@ -1,0 +1,6212 @@
+{
+  "source_file": "/workspace/his-office-pinterest/model/his-office-pinterest-design.blend",
+  "source_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "method": "Read-only native Blender evaluated world-space parts; AABB overlap >1mm in all three axes followed by exact mesh-triangle BVH overlap. No scene saved.",
+  "limits": [
+    "Surface test does not detect a fully contained solid without crossing boundaries.",
+    "Source walls/fixtures and owned product subcomponents have documented measurement/photo-proxy uncertainty. Export transform tolerance does not imply site accuracy.",
+    "Rug-pad support is soft contact; compressed textile/rolling-caster contact is not mechanically simulated.",
+    "Closed observed door leaves tested in their current modeled state. Open-door circulation is assessed separately."
+  ],
+  "canonical_root_position_parity": [
+    {
+      "root": "kept-uplift-desk",
+      "layout_id": "uplift-main-desk",
+      "canonical": [
+        -6.95,
+        -0.131,
+        1.575
+      ],
+      "actual": [
+        -6.949999809265137,
+        -0.13099999725818634,
+        1.5750000476837158
+      ],
+      "max_delta_m": 1.9073486345888568e-07,
+      "pass": true
+    },
+    {
+      "root": "kept-honeywell-02e-pro",
+      "layout_id": "honeywell-lamp",
+      "canonical": [
+        -7.67,
+        -0.24,
+        1.575
+      ],
+      "actual": [
+        -7.670000076293945,
+        -0.23999999463558197,
+        1.5750000476837158
+      ],
+      "max_delta_m": 7.629394538355427e-08,
+      "pass": true
+    },
+    {
+      "root": "kept-muttros-cat-tree",
+      "layout_id": "muttros-cat-tree",
+      "canonical": [
+        -7.59,
+        -1.0,
+        1.575
+      ],
+      "actual": [
+        -7.590000152587891,
+        -1.0,
+        1.5750000476837158
+      ],
+      "max_delta_m": 1.5258789076710855e-07,
+      "pass": true
+    },
+    {
+      "root": "branch-pro-task-chair-1",
+      "layout_id": "branch-primary",
+      "canonical": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "actual": [
+        -6.820000171661377,
+        -0.8500000238418579,
+        1.5750000476837158
+      ],
+      "max_delta_m": 1.716613766689079e-07,
+      "pass": true
+    },
+    {
+      "root": "secondary-workspace",
+      "layout_id": "secondary-workspace",
+      "canonical": [
+        -5.55,
+        -0.05,
+        1.575
+      ],
+      "actual": [
+        -5.550000190734863,
+        -0.05000000074505806,
+        1.5750000476837158
+      ],
+      "max_delta_m": 1.9073486345888568e-07,
+      "pass": true
+    },
+    {
+      "root": "clothes-dresser",
+      "layout_id": "clothes-dresser",
+      "canonical": [
+        -6.6,
+        -2.51,
+        1.575
+      ],
+      "actual": [
+        -6.599999904632568,
+        -2.509999990463257,
+        1.5750000476837158
+      ],
+      "max_delta_m": 9.536743128535363e-08,
+      "pass": true
+    },
+    {
+      "root": "visitor-chair",
+      "layout_id": "visitor-chair",
+      "canonical": [
+        -4.73,
+        -2.0,
+        1.575
+      ],
+      "actual": [
+        -4.730000019073486,
+        -2.0,
+        1.5750000476837158
+      ],
+      "max_delta_m": 4.768371586472142e-08,
+      "pass": true
+    },
+    {
+      "root": "rug",
+      "layout_id": "rug",
+      "canonical": [
+        -6.1,
+        -1.1,
+        1.575
+      ],
+      "actual": [
+        -6.099999904632568,
+        -1.100000023841858,
+        1.5750000476837158
+      ],
+      "max_delta_m": 9.536743128535363e-08,
+      "pass": true
+    },
+    {
+      "root": "grejig-1",
+      "layout_id": "grejig-1",
+      "canonical": [
+        -3.48,
+        -0.54,
+        1.575
+      ],
+      "actual": [
+        -3.4800000190734863,
+        -0.5400000214576721,
+        1.5750000476837158
+      ],
+      "max_delta_m": 4.768371586472142e-08,
+      "pass": true
+    },
+    {
+      "root": "grejig-2",
+      "layout_id": "grejig-2",
+      "canonical": [
+        -3.48,
+        -0.54,
+        1.7449999999999999
+      ],
+      "actual": [
+        -3.4800000190734863,
+        -0.5400000214576721,
+        1.7450000047683716
+      ],
+      "max_delta_m": 2.1457672083613488e-08,
+      "pass": true
+    },
+    {
+      "root": "grejig-3",
+      "layout_id": "grejig-3",
+      "canonical": [
+        -3.48,
+        -0.54,
+        1.915
+      ],
+      "actual": [
+        -3.4800000190734863,
+        -0.5400000214576721,
+        1.9149999618530273
+      ],
+      "max_delta_m": 3.814697269177714e-08,
+      "pass": true
+    },
+    {
+      "root": "abstract-scenery-art",
+      "layout_id": "abstract-scenery-art",
+      "canonical": [
+        -5.55,
+        0.225,
+        3.2
+      ],
+      "actual": [
+        -5.550000190734863,
+        0.22499999403953552,
+        3.200000047683716
+      ],
+      "max_delta_m": 1.9073486345888568e-07,
+      "pass": true
+    }
+  ],
+  "all_roots_match_canonical": true,
+  "mesh_count": 265,
+  "mesh_role_counts": {
+    "architecture": 22,
+    "fixed_fixture": 47,
+    "presentation_only": 1,
+    "furniture": 181,
+    "door_leaf": 13,
+    "inferred_closet_support": 1
+  },
+  "broad_phase_nontrivial_pairs_tested": 9,
+  "surface_intersections": [
+    {
+      "a": "secondary-workspace::official alex-drawers part0",
+      "b": "rug::Standard Pad support",
+      "groups": [
+        "secondary-workspace",
+        "rug"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.3599996566772461,
+        0.15439996123313904,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 83,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "secondary-workspace::right black ADILS leg",
+      "b": "rug::Standard Pad support",
+      "groups": [
+        "secondary-workspace",
+        "rug"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.05000019073486328,
+        0.050000011920928955,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 96,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "secondary-workspace::black adjustment foot",
+      "b": "rug::Standard Pad support",
+      "groups": [
+        "secondary-workspace",
+        "rug"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.05000019073486328,
+        0.050000011920928955,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 96,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "visitor-chair::sloping front wooden leg",
+      "b": "rug::Standard Pad support",
+      "groups": [
+        "visitor-chair",
+        "rug"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.039999961853027344,
+        0.16559040546417236,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 26,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "rug::Standard Pad support",
+      "b": "Foot glide",
+      "groups": [
+        "rug",
+        "uplift-main-desk"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.057999610900878906,
+        0.04000002145767212,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 24,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "rug::Standard Pad support",
+      "b": "Foot glide.002",
+      "groups": [
+        "rug",
+        "uplift-main-desk"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.057999610900878906,
+        0.04000002145767212,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 24,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "rug::Standard Pad support",
+      "b": "Triple thickness brown fleece base",
+      "groups": [
+        "rug",
+        "muttros-cat-tree"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.1813197135925293,
+        0.5587999820709229,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 18,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    },
+    {
+      "a": "rug::Standard Pad support",
+      "b": "branch-pro-task-chair-1::Mesh_0",
+      "groups": [
+        "rug",
+        "branch-primary"
+      ],
+      "roles": [
+        "furniture",
+        "furniture"
+      ],
+      "bbox_overlap_depth_m": [
+        0.6367893218994141,
+        0.6654990315437317,
+        0.005175113677978516
+      ],
+      "triangle_surface_pairs": 311,
+      "expected_support_or_soft_contact": true,
+      "reason": "Soft rug pad is intentionally under rolling chair/cat support; pad deformation is not simulated."
+    }
+  ],
+  "unintended_surface_intersection_count": 0,
+  "parts": [
+    {
+      "name": "architecture_ceiling \u2014 his-office",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -7.980000019073486,
+          -2.7899999618530273,
+          4.59499979019165
+        ],
+        [
+          -3.0799999237060547,
+          0.3100000023841858,
+          4.59499979019165
+        ]
+      ],
+      "vertices": 12,
+      "polygons": 4
+    },
+    {
+      "name": "architecture_floor \u2014 his-office",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -7.980000019073486,
+          -2.7899999618530273,
+          1.5750000476837158
+        ],
+        [
+          -3.0799999237060547,
+          0.3100000023841858,
+          1.5750000476837158
+        ]
+      ],
+      "vertices": 12,
+      "polygons": 4
+    },
+    {
+      "name": "his-office wall0 segment",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -7.9800004959106445,
+          -2.937000036239624,
+          1.5350000858306885
+        ],
+        [
+          -3.080000162124634,
+          -2.8370001316070557,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall2 segment",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.7799999713897705,
+          -1.4000000953674316,
+          1.5350000858306885
+        ],
+        [
+          -3.080000162124634,
+          -1.2999999523162842,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall4 segment",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -7.980000019073486,
+          0.2599998116493225,
+          1.5350000858306885
+        ],
+        [
+          -3.7800002098083496,
+          0.3600001931190491,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected solid 0",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -2.7899999618530273,
+          1.5350000858306885
+        ],
+        [
+          -7.929999828338623,
+          -2.5500001907348633,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected bottom 1",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -2.549999952316284,
+          1.534999966621399
+        ],
+        [
+          -7.929999828338623,
+          -1.6399999856948853,
+          1.5749999284744263
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected head 1",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -2.549999952316284,
+          3.6399998664855957
+        ],
+        [
+          -7.929999828338623,
+          -1.6399999856948853,
+          4.634999752044678
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected solid 2",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -1.6399999856948853,
+          1.5350000858306885
+        ],
+        [
+          -7.929999828338623,
+          -0.9599999189376831,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected bottom 3",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -0.9600000381469727,
+          1.5350000858306885
+        ],
+        [
+          -7.929999828338623,
+          -0.14000001549720764,
+          2.5299999713897705
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected head 3",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -0.9600000381469727,
+          4.369999885559082
+        ],
+        [
+          -7.929999828338623,
+          -0.14000001549720764,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall5 corrected solid 4",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -0.13999998569488525,
+          1.5350000858306885
+        ],
+        [
+          -7.929999828338623,
+          0.3100000023841858,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall3 \u2014 lower-Y side",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.8299999237060547,
+          -1.350000023841858,
+          1.5350000858306885
+        ],
+        [
+          -3.7300000190734863,
+          -0.8799999952316284,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall3 \u2014 upper-Y side",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.8299999237060547,
+          -0.1599999964237213,
+          1.5350000858306885
+        ],
+        [
+          -3.7300000190734863,
+          0.3100000023841858,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall3 \u2014 head continuation",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.8299999237060547,
+          -0.8799999952316284,
+          4.559999942779541
+        ],
+        [
+          -3.7300000190734863,
+          -0.15999996662139893,
+          4.634999752044678
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall3 \u2014 below floor continuation",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.8299999237060547,
+          -0.8799999952316284,
+          1.534999966621399
+        ],
+        [
+          -3.7300000190734863,
+          -0.15999996662139893,
+          1.5749999284744263
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall1 \u2014 lower-Y side",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -2.7899999618530273,
+          1.5350000858306885
+        ],
+        [
+          -3.0299999713897705,
+          -2.7300000190734863,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall1 \u2014 upper-Y side",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -1.649999976158142,
+          1.5350000858306885
+        ],
+        [
+          -3.0299999713897705,
+          -1.350000023841858,
+          4.635000228881836
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall1 \u2014 head continuation",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -2.7300000190734863,
+          3.6499998569488525
+        ],
+        [
+          -3.0299999713897705,
+          -1.6500000953674316,
+          4.634999752044678
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "his-office wall1 \u2014 below floor continuation",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -2.7300000190734863,
+          1.534999966621399
+        ],
+        [
+          -3.0299999713897705,
+          -1.6500000953674316,
+          1.5749999284744263
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "Observed brick chimney projection",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -6.099999904632568,
+          -2.859999895095825,
+          1.5750000476837158
+        ],
+        [
+          -4.480000019073486,
+          -2.7219998836517334,
+          4.595000267028809
+        ]
+      ],
+      "vertices": 62,
+      "polygons": 35
+    },
+    {
+      "name": "Local floor continuation to observed brick face",
+      "group": null,
+      "role": "architecture",
+      "collections": [
+        "01 Measured room shell"
+      ],
+      "bounds": [
+        [
+          -7.9800004959106445,
+          -2.8369998931884766,
+          1.5729999542236328
+        ],
+        [
+          -3.080000162124634,
+          -2.7899999618530273,
+          1.5750000476837158
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "Observed single-window glazing",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.986000061035156,
+          -0.9200000166893005,
+          2.555000066757202
+        ],
+        [
+          -7.973999977111816,
+          -0.19999998807907104,
+          4.345000267028809
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window vertical trim",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.020000457763672,
+          -0.981499969959259,
+          2.5299999713897705
+        ],
+        [
+          -7.940000057220459,
+          -0.9384999871253967,
+          4.369999885559082
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window vertical trim.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.020000457763672,
+          -0.1615000069141388,
+          2.5299999713897705
+        ],
+        [
+          -7.940000057220459,
+          -0.1185000017285347,
+          4.369999885559082
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window horizontal trim",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.020000457763672,
+          -0.9600000381469727,
+          2.50849986076355
+        ],
+        [
+          -7.940000057220459,
+          -0.14000001549720764,
+          2.551500082015991
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window horizontal trim.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.020000457763672,
+          -0.9600000381469727,
+          3.428499937057495
+        ],
+        [
+          -7.940000057220459,
+          -0.14000001549720764,
+          3.4715001583099365
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window horizontal trim.002",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.020000457763672,
+          -0.9600000381469727,
+          4.348499774932861
+        ],
+        [
+          -7.940000057220459,
+          -0.14000001549720764,
+          4.391499996185303
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window projecting sill",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.020000457763672,
+          -1.0099999904632568,
+          2.512500047683716
+        ],
+        [
+          -7.860000133514404,
+          -0.11000001430511475,
+          2.547499895095825
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Observed single-window sill apron",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.992499828338623,
+          -1.0099999904632568,
+          2.4599997997283936
+        ],
+        [
+          -7.90749979019165,
+          -0.11000001430511475,
+          2.509999990463257
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing closet frame jamb",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.8999998569488525,
+          -0.9014999866485596,
+          1.5785000324249268
+        ],
+        [
+          -3.7200000286102295,
+          -0.8585000038146973,
+          3.6714999675750732
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing closet frame jamb.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.8999998569488525,
+          -0.18150000274181366,
+          1.5785000324249268
+        ],
+        [
+          -3.7200000286102295,
+          -0.13849999010562897,
+          3.6714999675750732
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing closet frame header",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.8999998569488525,
+          -0.9014999866485596,
+          3.628499984741211
+        ],
+        [
+          -3.7200000286102295,
+          -0.13849997520446777,
+          3.6715002059936523
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing closet transom",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.8999998569488525,
+          -0.8799999952316284,
+          3.6499998569488525
+        ],
+        [
+          -3.7200000286102295,
+          -0.15999996662139893,
+          3.700000047683716
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing overhead cupboard frame jamb",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.9000000953674316,
+          -0.9014999866485596,
+          3.678500175476074
+        ],
+        [
+          -3.8299999237060547,
+          -0.8585000038146973,
+          4.581500053405762
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing overhead cupboard frame jamb.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.9000000953674316,
+          -0.18150000274181366,
+          3.678500175476074
+        ],
+        [
+          -3.8299999237060547,
+          -0.13849999010562897,
+          4.581500053405762
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing overhead cupboard frame header",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.9000000953674316,
+          -0.9014999866485596,
+          4.53849983215332
+        ],
+        [
+          -3.8299999237060547,
+          -0.13849997520446777,
+          4.581500053405762
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing overhead cupboard panel",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.870000123977661,
+          -0.8299999833106995,
+          3.700000047683716
+        ],
+        [
+          -3.8399999141693115,
+          -0.20999997854232788,
+          4.559999942779541
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cupboard metal latch",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.9035000801086426,
+          -0.8174999952316284,
+          3.810999870300293
+        ],
+        [
+          -3.878499984741211,
+          -0.7825000286102295,
+          3.8289999961853027
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing living-entry frame jamb",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -2.751500129699707,
+          1.5785000324249268
+        ],
+        [
+          -3.0299999713897705,
+          -2.7084999084472656,
+          3.6714999675750732
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing living-entry frame jamb.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -1.6714999675750732,
+          1.5785000324249268
+        ],
+        [
+          -3.0299999713897705,
+          -1.628499984741211,
+          3.6714999675750732
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing living-entry frame header",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.129999876022339,
+          -2.751500129699707,
+          3.628499984741211
+        ],
+        [
+          -3.0299999713897705,
+          -1.628499984741211,
+          3.6715002059936523
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door frame jamb",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -2.571500062942505,
+          1.5885000228881836
+        ],
+        [
+          -7.929999828338623,
+          -2.5284998416900635,
+          3.6614999771118164
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door frame jamb.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -1.6614999771118164,
+          1.5885000228881836
+        ],
+        [
+          -7.929999828338623,
+          -1.618499994277954,
+          3.6614999771118164
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door frame header",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -8.029999732971191,
+          -2.571500062942505,
+          3.618499994277954
+        ],
+        [
+          -7.929999828338623,
+          -1.618499994277954,
+          3.6615002155303955
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.914000034332275,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.895999908447266,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.854000091552734,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.002",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.835999965667725,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.794000148773193,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.003",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.776000022888184,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.734000205993652,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.004",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.716000080108643,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.674000263214111,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.005",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.656000137329102,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.61400032043457,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.006",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.595999717712402,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.553999900817871,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.007",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.535999774932861,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.49399995803833,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing cast-iron radiator section.008",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.47599983215332,
+          -2.7750000953674316,
+          1.6500000953674316
+        ],
+        [
+          -7.434000015258789,
+          -2.4850001335144043,
+          2.2799999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing radiator foot",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.910999774932861,
+          -2.75,
+          1.6100000143051147
+        ],
+        [
+          -7.86899995803833,
+          -2.5300002098083496,
+          1.659999966621399
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing radiator foot.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.520999908447266,
+          -2.75,
+          1.6100000143051147
+        ],
+        [
+          -7.479000091552734,
+          -2.5300002098083496,
+          1.659999966621399
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing radiator horizontal connection",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.950000286102295,
+          -2.6550002098083496,
+          1.7350000143051147
+        ],
+        [
+          -7.440000057220459,
+          -2.6050000190734863,
+          1.784999966621399
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing radiator horizontal connection.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.950000286102295,
+          -2.6550002098083496,
+          2.1449999809265137
+        ],
+        [
+          -7.440000057220459,
+          -2.6050000190734863,
+          2.195000171661377
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf white back",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.740999937057495,
+          2.2100000381469727
+        ],
+        [
+          -3.109999895095825,
+          -2.7289998531341553,
+          3.690000057220459
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf board",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.759999990463257,
+          2.317499876022339
+        ],
+        [
+          -3.109999895095825,
+          -2.569999933242798,
+          2.3424999713897705
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf board.001",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.759999990463257,
+          2.5974998474121094
+        ],
+        [
+          -3.109999895095825,
+          -2.569999933242798,
+          2.622499942779541
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf board.002",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.759999990463257,
+          2.7874999046325684
+        ],
+        [
+          -3.109999895095825,
+          -2.569999933242798,
+          2.8125
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf board.003",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.759999990463257,
+          3.0374999046325684
+        ],
+        [
+          -3.109999895095825,
+          -2.569999933242798,
+          3.0625
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf board.004",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.759999990463257,
+          3.2274999618530273
+        ],
+        [
+          -3.109999895095825,
+          -2.569999933242798,
+          3.252500057220459
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing built-in shelf board.005",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.930000066757202,
+          -2.759999990463257,
+          3.5874998569488525
+        ],
+        [
+          -3.109999895095825,
+          -2.569999933242798,
+          3.612499952316284
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing rear vertical white pipe",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -7.960000038146973,
+          0.1899999976158142,
+          1.6000001430511475
+        ],
+        [
+          -7.859999656677246,
+          0.28999999165534973,
+          4.595000267028809
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Observed recessed white arched fireplace infill",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -5.650000095367432,
+          -2.8450000286102295,
+          1.6200000047683716
+        ],
+        [
+          -4.980000019073486,
+          -2.8350000381469727,
+          2.4800000190734863
+        ]
+      ],
+      "vertices": 54,
+      "polygons": 29
+    },
+    {
+      "name": "Existing entry thermostat",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.1480000019073486,
+          -1.5099999904632568,
+          3.115000009536743
+        ],
+        [
+          -3.129999876022339,
+          -1.4000000953674316,
+          3.2250001430511475
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing entry small wall control",
+      "group": null,
+      "role": "fixed_fixture",
+      "collections": [
+        "02 Existing fixed feature proxies"
+      ],
+      "bounds": [
+        [
+          -3.1480000019073486,
+          -1.4850000143051147,
+          2.794999837875366
+        ],
+        [
+          -3.129999876022339,
+          -1.4250000715255737,
+          2.884999990463257
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Sky outside window",
+      "group": null,
+      "role": "presentation_only",
+      "collections": [
+        "03 Daylight backdrop \u2014 presentation only"
+      ],
+      "bounds": [
+        [
+          -8.245999336242676,
+          -1.125,
+          2.4250001907348633
+        ],
+        [
+          -8.234000205993652,
+          0.02499997615814209,
+          4.474999904632568
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "secondary-workspace::official alex-drawers part0",
+      "group": "secondary-workspace",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.230000019073486,
+          -0.3400000035762787,
+          1.5750000476837158
+        ],
+        [
+          -5.87000036239624,
+          0.23999999463558197,
+          2.2750000953674316
+        ]
+      ],
+      "vertices": 19028,
+      "polygons": 9404
+    },
+    {
+      "name": "secondary-workspace::black-brown tabletop",
+      "group": "secondary-workspace",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.25,
+          -0.3500000238418579,
+          2.2750000953674316
+        ],
+        [
+          -4.850000381469727,
+          0.25,
+          2.309925079345703
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "secondary-workspace::right black ADILS leg",
+      "group": "secondary-workspace",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.975000381469727,
+          -0.31300002336502075,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          -0.2630000114440918,
+          2.2750000953674316
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "secondary-workspace::black adjustment foot",
+      "group": "secondary-workspace",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.975000381469727,
+          -0.31300002336502075,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          -0.2630000114440918,
+          1.5929999351501465
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "secondary-workspace::right black ADILS leg.001",
+      "group": "secondary-workspace",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.975000381469727,
+          0.16300000250339508,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          0.21300001442432404,
+          2.2750000953674316
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "secondary-workspace::black adjustment foot.001",
+      "group": "secondary-workspace",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.975000381469727,
+          0.16300000250339508,
+          1.5750000476837158
+        ],
+        [
+          -4.925000190734863,
+          0.21300001442432404,
+          1.5929999351501465
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part0",
+      "group": "clothes-dresser",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.948058605194092,
+          -2.7182624340057373,
+          2.0770621299743652
+        ],
+        [
+          -6.252046585083008,
+          -2.272730827331543,
+          2.2993602752685547
+        ]
+      ],
+      "vertices": 280,
+      "polygons": 244
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part1",
+      "group": "clothes-dresser",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.948081016540527,
+          -2.7181637287139893,
+          1.62911856174469
+        ],
+        [
+          -6.252070903778076,
+          -2.272712230682373,
+          1.8514132499694824
+        ]
+      ],
+      "vertices": 328,
+      "polygons": 260
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part2",
+      "group": "clothes-dresser",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.948063373565674,
+          -2.7181284427642822,
+          1.853089690208435
+        ],
+        [
+          -6.2520751953125,
+          -2.2725863456726074,
+          2.075387954711914
+        ]
+      ],
+      "vertices": 306,
+      "polygons": 250
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part3",
+      "group": "clothes-dresser",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.949249744415283,
+          -2.7497124671936035,
+          1.5750000476837158
+        ],
+        [
+          -6.2507500648498535,
+          -2.27028751373291,
+          2.3243000507354736
+        ]
+      ],
+      "vertices": 869,
+      "polygons": 734
+    },
+    {
+      "name": "visitor-chair::padded seat",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.009400367736816,
+          -2.1848127841949463,
+          1.9009559154510498
+        ],
+        [
+          -4.450599670410156,
+          -1.6321351528167725,
+          2.025444507598877
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "visitor-chair::sloping padded back",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.009400367736816,
+          -2.2853188514709473,
+          2.016045093536377
+        ],
+        [
+          -4.450599670410156,
+          -2.123694658279419,
+          2.3290255069732666
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "visitor-chair::sloping front wooden leg",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.045674800872803,
+          -1.7750654220581055,
+          1.5750000476837158
+        ],
+        [
+          -5.005674839019775,
+          -1.609475016593933,
+          2.1976261138916016
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::sloping rear wooden leg",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.045674800872803,
+          -2.3905248641967773,
+          1.5756086111068726
+        ],
+        [
+          -5.005674839019775,
+          -2.2280399799346924,
+          2.3031392097473145
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::rounded wooden arm",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.049674987792969,
+          -2.285444498062134,
+          2.1827392578125
+        ],
+        [
+          -5.001675128936768,
+          -1.6590080261230469,
+          2.2317185401916504
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::lower side seat support",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.050674915313721,
+          -2.307619333267212,
+          1.846007227897644
+        ],
+        [
+          -5.000675201416016,
+          -1.692270278930664,
+          1.8970272541046143
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::sloping front wooden leg.001",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.454325199127197,
+          -1.7750654220581055,
+          1.5750000476837158
+        ],
+        [
+          -4.41432523727417,
+          -1.609475016593933,
+          2.1976261138916016
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::sloping rear wooden leg.001",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.454325199127197,
+          -2.3905248641967773,
+          1.5756086111068726
+        ],
+        [
+          -4.41432523727417,
+          -2.2280399799346924,
+          2.3031392097473145
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::rounded wooden arm.001",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.458324909210205,
+          -2.285444498062134,
+          2.1827392578125
+        ],
+        [
+          -4.410325050354004,
+          -1.6590080261230469,
+          2.2317185401916504
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::lower side seat support.001",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -4.459324836730957,
+          -2.307619333267212,
+          1.846007227897644
+        ],
+        [
+          -4.409325122833252,
+          -1.692270278930664,
+          1.8970272541046143
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "visitor-chair::front timber stretcher",
+      "group": "visitor-chair",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -5.025675296783447,
+          -1.7288585901260376,
+          1.8225380182266235
+        ],
+        [
+          -4.434324741363525,
+          -1.66676926612854,
+          1.8796805143356323
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "rug::Standard Pad support",
+      "group": "rug",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -7.47160005569458,
+          -2.014400005340576,
+          1.5750000476837158
+        ],
+        [
+          -4.728399753570557,
+          -0.18560004234313965,
+          1.5801751613616943
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "rug::actual Impasto Taupe6x9 flatwoven textile",
+      "group": "rug",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -7.47160005569458,
+          -2.014400005340576,
+          1.580475091934204
+        ],
+        [
+          -4.728399753570557,
+          -0.18560004234313965,
+          1.580475091934204
+        ]
+      ],
+      "vertices": 4,
+      "polygons": 1
+    },
+    {
+      "name": "uplift-main-desk::generic equipment assumption::monitor stand",
+      "group": "uplift-main-desk::equipment",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -7.034999847412109,
+          -0.030000001192092896,
+          2.315000057220459
+        ],
+        [
+          -6.864999771118164,
+          0.14000000059604645,
+          2.3390002250671387
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "uplift-main-desk::generic equipment assumption::monitor stem",
+      "group": "uplift-main-desk::equipment",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -6.972499847412109,
+          0.05250000208616257,
+          2.3299999237060547
+        ],
+        [
+          -6.927499771118164,
+          0.08749999850988388,
+          2.4600000381469727
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "uplift-main-desk::generic equipment assumption::monitor frame",
+      "group": "uplift-main-desk::equipment",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -7.21999979019165,
+          0.035999998450279236,
+          2.3965001106262207
+        ],
+        [
+          -6.679999828338623,
+          0.07400000095367432,
+          2.7214999198913574
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "uplift-main-desk::generic equipment assumption::dark display",
+      "group": "uplift-main-desk::equipment",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -7.204999923706055,
+          0.03350000083446503,
+          2.4130001068115234
+        ],
+        [
+          -6.694999694824219,
+          0.03450000286102295,
+          2.7049999237060547
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "uplift-main-desk::generic equipment assumption::keyboard",
+      "group": "uplift-main-desk::equipment",
+      "role": "furniture",
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ],
+      "bounds": [
+        [
+          -7.154999732971191,
+          -0.29749998450279236,
+          2.315000057220459
+        ],
+        [
+          -6.744999885559082,
+          -0.16249999403953552,
+          2.3390002250671387
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing full-height closet leaf",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -3.874000072479248,
+          -0.8299999833106995,
+          1.6100000143051147
+        ],
+        [
+          -3.8359999656677246,
+          -0.20999997854232788,
+          3.6399998664855957
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing closet metal knob",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -3.922499895095825,
+          -0.8210000395774841,
+          2.509000062942505
+        ],
+        [
+          -3.887500047683716,
+          -0.7789999842643738,
+          2.550999879837036
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Existing living-entry flat white leaf",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -3.0999999046325684,
+          -2.684999942779541,
+          1.6100000143051147
+        ],
+        [
+          -3.059999942779541,
+          -1.6950000524520874,
+          3.6399998664855957
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing living-entry silver lever",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -3.1475000381469727,
+          -1.787500023841858,
+          2.51200008392334
+        ],
+        [
+          -3.1125001907348633,
+          -1.6924999952316284,
+          2.5279998779296875
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door six-panel leaf",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.995999813079834,
+          -2.509999990463257,
+          1.6100000143051147
+        ],
+        [
+          -7.955999851226807,
+          -1.6800000667572021,
+          3.6399998664855957
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door raised panel",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.450000047683716,
+          1.7799999713897705
+        ],
+        [
+          -7.943999767303467,
+          -2.1499998569488525,
+          2.319999933242798
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door raised panel.001",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.0399999618530273,
+          1.7799999713897705
+        ],
+        [
+          -7.943999767303467,
+          -1.7400000095367432,
+          2.319999933242798
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door raised panel.002",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.450000047683716,
+          2.440000057220459
+        ],
+        [
+          -7.943999767303467,
+          -2.1499998569488525,
+          3.059999942779541
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door raised panel.003",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.0399999618530273,
+          2.440000057220459
+        ],
+        [
+          -7.943999767303467,
+          -1.7400000095367432,
+          3.059999942779541
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door raised panel.004",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.450000047683716,
+          3.169999837875366
+        ],
+        [
+          -7.943999767303467,
+          -2.1499998569488525,
+          3.490000009536743
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door raised panel.005",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.955999851226807,
+          -2.0399999618530273,
+          3.169999837875366
+        ],
+        [
+          -7.943999767303467,
+          -1.7400000095367432,
+          3.490000009536743
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Existing exterior-door brass knob",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.946000099182129,
+          -1.7580000162124634,
+          2.4769999980926514
+        ],
+        [
+          -7.9160003662109375,
+          -1.7120000123977661,
+          2.5230000019073486
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Existing exterior-door brass deadbolt",
+      "group": null,
+      "role": "door_leaf",
+      "collections": [
+        "02b Existing door leaves \u2014 closed observed state"
+      ],
+      "bounds": [
+        [
+          -7.946000099182129,
+          -1.7580000162124634,
+          2.677000045776367
+        ],
+        [
+          -7.9160003662109375,
+          -1.7120000123977661,
+          2.7230000495910645
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "grejig-1::folded steel leg",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.367323160171509,
+          -0.8248972296714783,
+          1.5776928663253784
+        ],
+        [
+          -3.350106954574585,
+          -0.8078227639198303,
+          1.7343071699142456
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::folded steel leg.001",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6098930835723877,
+          -0.8248973488807678,
+          1.5776928663253784
+        ],
+        [
+          -3.592676877975464,
+          -0.8078226447105408,
+          1.7343071699142456
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::folded steel leg.002",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.367323160171509,
+          -0.2721772789955139,
+          1.5776928663253784
+        ],
+        [
+          -3.350106954574585,
+          -0.2551027536392212,
+          1.7343071699142456
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::folded steel leg.003",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6098930835723877,
+          -0.2721773684024811,
+          1.5776928663253784
+        ],
+        [
+          -3.592676877975464,
+          -0.25510266423225403,
+          1.7343071699142456
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::top long rim",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.3559999465942383,
+          -0.8220000267028809,
+          1.7310000658035278
+        ],
+        [
+          -3.3499999046325684,
+          -0.2580000162124634,
+          1.7370001077651978
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::top long rim.001",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6100001335144043,
+          -0.8220000267028809,
+          1.7310000658035278
+        ],
+        [
+          -3.6040000915527344,
+          -0.2580000162124634,
+          1.7370001077651978
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::top end rim",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.8250000476837158,
+          1.7310000658035278
+        ],
+        [
+          -3.3529999256134033,
+          -0.8190000057220459,
+          1.7370001077651978
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::top end rim.001",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.26100000739097595,
+          1.7310000658035278
+        ],
+        [
+          -3.3529999256134033,
+          -0.2550000250339508,
+          1.7370001077651978
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-1::wire lattice across",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.7918000221252441,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.7882000207901001,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.001",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.7418000102043152,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.7382000088691711,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.002",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.691800057888031,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.688200056552887,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.003",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.641800045967102,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.638200044631958,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.004",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.5918000340461731,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.588200032711029,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.005",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.5418000221252441,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.5382000207901001,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.006",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.4918000102043152,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.48820000886917114,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.007",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.4418000280857086,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.4382000267505646,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.008",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.39180001616477966,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.3882000148296356,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.009",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.3418000340461731,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.33820003271102905,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice across.010",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.29180002212524414,
+          1.7311999797821045
+        ],
+        [
+          -3.3529999256134033,
+          -0.2882000207901001,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice lengthwise",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.3968000411987305,
+          -0.8220000267028809,
+          1.7311999797821045
+        ],
+        [
+          -3.393199920654297,
+          -0.2580000162124634,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice lengthwise.001",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.439300060272217,
+          -0.8220000267028809,
+          1.7311999797821045
+        ],
+        [
+          -3.435699939727783,
+          -0.2580000162124634,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice lengthwise.002",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.481800079345703,
+          -0.8220000267028809,
+          1.7311999797821045
+        ],
+        [
+          -3.4781999588012695,
+          -0.2580000162124634,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice lengthwise.003",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.5243000984191895,
+          -0.8220000267028809,
+          1.7311999797821045
+        ],
+        [
+          -3.520699977874756,
+          -0.2580000162124634,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-1::wire lattice lengthwise.004",
+      "group": "grejig-1",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.566800117492676,
+          -0.8220000267028809,
+          1.7311999797821045
+        ],
+        [
+          -3.563199996948242,
+          -0.2580000162124634,
+          1.734800100326538
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::folded steel leg",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.367323160171509,
+          -0.8248972296714783,
+          1.7476928234100342
+        ],
+        [
+          -3.350106954574585,
+          -0.8078227639198303,
+          1.9043071269989014
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::folded steel leg.001",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6098930835723877,
+          -0.8248973488807678,
+          1.7476928234100342
+        ],
+        [
+          -3.592676877975464,
+          -0.8078226447105408,
+          1.9043071269989014
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::folded steel leg.002",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.367323160171509,
+          -0.2721772789955139,
+          1.7476928234100342
+        ],
+        [
+          -3.350106954574585,
+          -0.2551027536392212,
+          1.9043071269989014
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::folded steel leg.003",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6098930835723877,
+          -0.2721773684024811,
+          1.7476928234100342
+        ],
+        [
+          -3.592676877975464,
+          -0.25510266423225403,
+          1.9043071269989014
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::top long rim",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.3559999465942383,
+          -0.8220000267028809,
+          1.9010000228881836
+        ],
+        [
+          -3.3499999046325684,
+          -0.2580000162124634,
+          1.9070000648498535
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::top long rim.001",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6100001335144043,
+          -0.8220000267028809,
+          1.9010000228881836
+        ],
+        [
+          -3.6040000915527344,
+          -0.2580000162124634,
+          1.9070000648498535
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::top end rim",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.8250000476837158,
+          1.9010000228881836
+        ],
+        [
+          -3.3529999256134033,
+          -0.8190000057220459,
+          1.9070000648498535
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::top end rim.001",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.26100000739097595,
+          1.9010000228881836
+        ],
+        [
+          -3.3529999256134033,
+          -0.2550000250339508,
+          1.9070000648498535
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-2::wire lattice across",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.7918000221252441,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.7882000207901001,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.001",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.7418000102043152,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.7382000088691711,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.002",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.691800057888031,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.688200056552887,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.003",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.641800045967102,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.638200044631958,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.004",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.5918000340461731,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.588200032711029,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.005",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.5418000221252441,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.5382000207901001,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.006",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.4918000102043152,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.48820000886917114,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.007",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.4418000280857086,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.4382000267505646,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.008",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.39180001616477966,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.3882000148296356,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.009",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.3418000340461731,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.33820003271102905,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice across.010",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.29180002212524414,
+          1.9011999368667603
+        ],
+        [
+          -3.3529999256134033,
+          -0.2882000207901001,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice lengthwise",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.3968000411987305,
+          -0.8220000267028809,
+          1.9011999368667603
+        ],
+        [
+          -3.393199920654297,
+          -0.2580000162124634,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice lengthwise.001",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.439300060272217,
+          -0.8220000267028809,
+          1.9011999368667603
+        ],
+        [
+          -3.435699939727783,
+          -0.2580000162124634,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice lengthwise.002",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.481800079345703,
+          -0.8220000267028809,
+          1.9011999368667603
+        ],
+        [
+          -3.4781999588012695,
+          -0.2580000162124634,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice lengthwise.003",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.5243000984191895,
+          -0.8220000267028809,
+          1.9011999368667603
+        ],
+        [
+          -3.520699977874756,
+          -0.2580000162124634,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-2::wire lattice lengthwise.004",
+      "group": "grejig-2",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.566800117492676,
+          -0.8220000267028809,
+          1.9011999368667603
+        ],
+        [
+          -3.563199996948242,
+          -0.2580000162124634,
+          1.9048000574111938
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::folded steel leg",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.367323160171509,
+          -0.8248972296714783,
+          1.91769278049469
+        ],
+        [
+          -3.350106954574585,
+          -0.8078227639198303,
+          2.0743072032928467
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::folded steel leg.001",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6098930835723877,
+          -0.8248973488807678,
+          1.91769278049469
+        ],
+        [
+          -3.592676877975464,
+          -0.8078226447105408,
+          2.0743072032928467
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::folded steel leg.002",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.367323160171509,
+          -0.2721772789955139,
+          1.91769278049469
+        ],
+        [
+          -3.350106954574585,
+          -0.2551027536392212,
+          2.0743072032928467
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::folded steel leg.003",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6098930835723877,
+          -0.2721773684024811,
+          1.91769278049469
+        ],
+        [
+          -3.592676877975464,
+          -0.25510266423225403,
+          2.0743072032928467
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::top long rim",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.3559999465942383,
+          -0.8220000267028809,
+          2.07099986076355
+        ],
+        [
+          -3.3499999046325684,
+          -0.2580000162124634,
+          2.0769999027252197
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::top long rim.001",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6100001335144043,
+          -0.8220000267028809,
+          2.07099986076355
+        ],
+        [
+          -3.6040000915527344,
+          -0.2580000162124634,
+          2.0769999027252197
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::top end rim",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.8250000476837158,
+          2.07099986076355
+        ],
+        [
+          -3.3529999256134033,
+          -0.8190000057220459,
+          2.0769999027252197
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::top end rim.001",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.26100000739097595,
+          2.07099986076355
+        ],
+        [
+          -3.3529999256134033,
+          -0.2550000250339508,
+          2.0769999027252197
+        ]
+      ],
+      "vertices": 24,
+      "polygons": 14
+    },
+    {
+      "name": "grejig-3::wire lattice across",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.7918000221252441,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.7882000207901001,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.001",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.7418000102043152,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.7382000088691711,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.002",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.691800057888031,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.688200056552887,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.003",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.641800045967102,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.638200044631958,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.004",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.5918000340461731,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.588200032711029,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.005",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.5418000221252441,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.5382000207901001,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.006",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.4918000102043152,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.48820000886917114,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.007",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.4418000280857086,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.4382000267505646,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.008",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.39180001616477966,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.3882000148296356,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.009",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.3418000340461731,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.33820003271102905,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice across.010",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6070001125335693,
+          -0.29180002212524414,
+          2.071199893951416
+        ],
+        [
+          -3.3529999256134033,
+          -0.2882000207901001,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice lengthwise",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.3968000411987305,
+          -0.8220000267028809,
+          2.071199893951416
+        ],
+        [
+          -3.393199920654297,
+          -0.2580000162124634,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice lengthwise.001",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.439300060272217,
+          -0.8220000267028809,
+          2.071199893951416
+        ],
+        [
+          -3.435699939727783,
+          -0.2580000162124634,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice lengthwise.002",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.481800079345703,
+          -0.8220000267028809,
+          2.071199893951416
+        ],
+        [
+          -3.4781999588012695,
+          -0.2580000162124634,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice lengthwise.003",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.5243000984191895,
+          -0.8220000267028809,
+          2.071199893951416
+        ],
+        [
+          -3.520699977874756,
+          -0.2580000162124634,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "grejig-3::wire lattice lengthwise.004",
+      "group": "grejig-3",
+      "role": "furniture",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.566800117492676,
+          -0.8220000267028809,
+          2.071199893951416
+        ],
+        [
+          -3.563199996948242,
+          -0.2580000162124634,
+          2.0748000144958496
+        ]
+      ],
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "Provisional rack floor support \u2014 closet unrecorded",
+      "group": null,
+      "role": "inferred_closet_support",
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ],
+      "bounds": [
+        [
+          -3.6600000858306885,
+          -0.875,
+          1.5729999542236328
+        ],
+        [
+          -3.299999952316284,
+          -0.20500001311302185,
+          1.5750000476837158
+        ]
+      ],
+      "vertices": 8,
+      "polygons": 6
+    },
+    {
+      "name": "kept-uplift-desk::solid wood barkline top",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.483399868011475,
+          -0.5119988918304443,
+          2.270550012588501
+        ],
+        [
+          -6.416599750518799,
+          0.25,
+          2.315000057220459
+        ]
+      ],
+      "vertices": 188,
+      "polygons": 164
+    },
+    {
+      "name": "C-frame steel foot",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.436999797821045,
+          -0.48151999711990356,
+          1.5820001363754272
+        ],
+        [
+          -7.367000102996826,
+          0.21952001750469208,
+          1.6160000562667847
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Foot glide",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.430999755859375,
+          -0.4659999907016754,
+          1.5750000476837158
+        ],
+        [
+          -7.373000144958496,
+          -0.4259999692440033,
+          1.5859999656677246
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Foot glide.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.430999755859375,
+          0.164000004529953,
+          1.5750000476837158
+        ],
+        [
+          -7.373000144958496,
+          0.20399999618530273,
+          1.5859999656677246
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 lower slim stage",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.424999713897705,
+          -0.030999992042779922,
+          1.6000001430511475
+        ],
+        [
+          -7.379000186920166,
+          0.025000009685754776,
+          1.9100000858306885
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 middle stage",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.430999755859375,
+          -0.03949999064207077,
+          1.842000126838684
+        ],
+        [
+          -7.373000144958496,
+          0.033500008285045624,
+          2.1020002365112305
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 upper stage",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.438499927520752,
+          -0.04849999025464058,
+          2.0435001850128174
+        ],
+        [
+          -7.365499973297119,
+          0.04250000789761543,
+          2.2685000896453857
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Underside side bracket",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.446000099182129,
+          -0.4710000157356262,
+          2.2545502185821533
+        ],
+        [
+          -7.357999801635742,
+          0.20900000631809235,
+          2.270550012588501
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 triangular stability brace",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.421000003814697,
+          -0.132716566324234,
+          2.144042730331421
+        ],
+        [
+          -7.382999897003174,
+          0.010716577991843224,
+          2.2679574489593506
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "C-frame steel foot.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.532999515533447,
+          -0.48151999711990356,
+          1.5820001363754272
+        ],
+        [
+          -6.4629998207092285,
+          0.21952001750469208,
+          1.6160000562667847
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Foot glide.002",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.526999473571777,
+          -0.4659999907016754,
+          1.5750000476837158
+        ],
+        [
+          -6.468999862670898,
+          -0.4259999692440033,
+          1.5859999656677246
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Foot glide.003",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.526999473571777,
+          0.164000004529953,
+          1.5750000476837158
+        ],
+        [
+          -6.468999862670898,
+          0.20399999618530273,
+          1.5859999656677246
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 lower slim stage.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.520999431610107,
+          -0.030999992042779922,
+          1.6000001430511475
+        ],
+        [
+          -6.474999904632568,
+          0.025000009685754776,
+          1.9100000858306885
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 middle stage.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.526999473571777,
+          -0.03949999064207077,
+          1.842000126838684
+        ],
+        [
+          -6.468999862670898,
+          0.033500008285045624,
+          2.1020002365112305
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 upper stage.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.534499645233154,
+          -0.04849999025464058,
+          2.0435001850128174
+        ],
+        [
+          -6.4614996910095215,
+          0.04250000789761543,
+          2.2685000896453857
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Underside side bracket.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.541999816894531,
+          -0.4710000157356262,
+          2.2545502185821533
+        ],
+        [
+          -6.4539995193481445,
+          0.20900000631809235,
+          2.270550012588501
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "V2 triangular stability brace.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.5169997215271,
+          -0.132716566324234,
+          2.144042730331421
+        ],
+        [
+          -6.478999614715576,
+          0.010716577991843224,
+          2.2679574489593506
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "Hidden upper crossbar",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.404999732971191,
+          -0.03049999475479126,
+          2.198499917984009
+        ],
+        [
+          -6.494999885559082,
+          0.03450000286102295,
+          2.2634999752044678
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Two brushed nickel grommet covers",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.341999530792236,
+          0.09700001776218414,
+          2.314500093460083
+        ],
+        [
+          -7.257999897003174,
+          0.1810000091791153,
+          2.317499876022339
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Two brushed nickel grommet covers.001",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.6419997215271,
+          0.09700001776218414,
+          2.314500093460083
+        ],
+        [
+          -6.558000087738037,
+          0.1810000091791153,
+          2.317499876022339
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Height keypad",
+      "group": "uplift-main-desk",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -6.679960250854492,
+          -0.5209999680519104,
+          2.2739999294281006
+        ],
+        [
+          -6.579959869384766,
+          -0.49299997091293335,
+          2.2980000972747803
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "U-base closed crossbar",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.793499946594238,
+          -0.47099998593330383,
+          1.5750000476837158
+        ],
+        [
+          -7.546500205993652,
+          -0.4009999930858612,
+          1.5989999771118164
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "U-base open prong",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.7935004234313965,
+          -0.44099998474121094,
+          1.5750000476837158
+        ],
+        [
+          -7.7144999504089355,
+          -0.003000006079673767,
+          1.5989999771118164
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "U-base open prong.001",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.625500202178955,
+          -0.44099998474121094,
+          1.5750000476837158
+        ],
+        [
+          -7.546499729156494,
+          -0.003000006079673767,
+          1.5989999771118164
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Slim rectangular upright",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.689499855041504,
+          -0.41999998688697815,
+          1.5989999771118164
+        ],
+        [
+          -7.650500297546387,
+          -0.3699999749660492,
+          3.5310001373291016
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Rotary dimming knob",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.649499893188477,
+          -0.4099999666213989,
+          2.619999885559082
+        ],
+        [
+          -7.638500213623047,
+          -0.3799999952316284,
+          2.6500000953674316
+        ]
+      ],
+      "vertices": 64,
+      "polygons": 34
+    },
+    {
+      "name": "Rectangular panel long rim",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.8140177726745605,
+          -0.545054018497467,
+          3.5134999752044678
+        ],
+        [
+          -7.796018123626709,
+          0.0650540143251419,
+          3.5435001850128174
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Rectangular panel long rim.001",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.543982028961182,
+          -0.545054018497467,
+          3.5134999752044678
+        ],
+        [
+          -7.52598237991333,
+          0.0650540143251419,
+          3.5435001850128174
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Rectangular panel end rim",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.798017978668213,
+          -0.545054018497467,
+          3.5134999752044678
+        ],
+        [
+          -7.541982173919678,
+          -0.5270540118217468,
+          3.5435001850128174
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Rectangular panel end rim.001",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.798017978668213,
+          0.04705401137471199,
+          3.5134999752044678
+        ],
+        [
+          -7.541982173919678,
+          0.0650540143251419,
+          3.5435001850128174
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Narrow parallel LED light bar",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.763999938964844,
+          -0.5245540142059326,
+          3.5154998302459717
+        ],
+        [
+          -7.72599983215332,
+          0.04455401003360748,
+          3.5264999866485596
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Narrow parallel LED light bar.001",
+      "group": "honeywell-lamp",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.61400032043457,
+          -0.5245540142059326,
+          3.5154998302459717
+        ],
+        [
+          -7.576000213623047,
+          0.04455401003360748,
+          3.5264999866485596
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "Triple thickness brown fleece base",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.8897199630737305,
+          -1.2793999910354614,
+          1.5750000476837158
+        ],
+        [
+          -7.290280342102051,
+          -0.7206000089645386,
+          1.6131000518798828
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "kept-muttros-cat-tree::arched hollow condo wall",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.7893900871276855,
+          -1.3093900680541992,
+          1.6131000518798828
+        ],
+        [
+          -7.390610218048096,
+          -0.910610020160675,
+          1.9179000854492188
+        ]
+      ],
+      "vertices": 3648,
+      "polygons": 3024
+    },
+    {
+      "name": "Condo top plush cushion",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.7893900871276855,
+          -1.3093900680541992,
+          1.905400037765503
+        ],
+        [
+          -7.390610218048096,
+          -0.910610020160675,
+          1.9304001331329346
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Condo dark floor",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.772000312805176,
+          -1.2920000553131104,
+          1.6175999641418457
+        ],
+        [
+          -7.4079999923706055,
+          -0.9280000329017639,
+          1.6326000690460205
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 50
+    },
+    {
+      "name": "Natural wood branch0-0",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.7429728507995605,
+          -1.193000078201294,
+          1.6434653997421265
+        ],
+        [
+          -7.647027492523193,
+          -1.1069998741149902,
+          1.9265347719192505
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch0-1",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.752941131591797,
+          -1.1929407119750977,
+          1.9218082427978516
+        ],
+        [
+          -7.647059440612793,
+          -1.0870592594146729,
+          2.3081917762756348
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch0-2",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.752813339233398,
+          -1.1726571321487427,
+          2.2995083332061768
+        ],
+        [
+          -7.647187232971191,
+          -1.0573428869247437,
+          2.590492010116577
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch0-3",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.732919216156006,
+          -1.1428827047348022,
+          2.583059310913086
+        ],
+        [
+          -7.642080783843994,
+          -1.0421172380447388,
+          2.9369406700134277
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Organic branch junction",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.736999988555908,
+          -1.191999912261963,
+          1.8760000467300415
+        ],
+        [
+          -7.64300012588501,
+          -1.1079999208450317,
+          1.974000096321106
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "Organic branch junction.001",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.756999969482422,
+          -1.1719999313354492,
+          2.25600004196167
+        ],
+        [
+          -7.663000106811523,
+          -1.087999939918518,
+          2.3540000915527344
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "Organic branch junction.002",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.736999988555908,
+          -1.1419999599456787,
+          2.5360000133514404
+        ],
+        [
+          -7.64300012588501,
+          -1.0579999685287476,
+          2.634000062942505
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "Natural wood branch1-0",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.527914047241211,
+          -0.8628930449485779,
+          1.6181875467300415
+        ],
+        [
+          -7.43708610534668,
+          -0.7671069502830505,
+          1.8868125677108765
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch1-1",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.532887935638428,
+          -0.8778511881828308,
+          1.8823319673538208
+        ],
+        [
+          -7.437112331390381,
+          -0.7771487832069397,
+          2.1776678562164307
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch1-2",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.542923450469971,
+          -0.9223374724388123,
+          2.1674933433532715
+        ],
+        [
+          -7.44707727432251,
+          -0.7926625609397888,
+          2.442506790161133
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Organic branch junction.003",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.5269999504089355,
+          -0.8619999885559082,
+          1.8359999656677246
+        ],
+        [
+          -7.433000087738037,
+          -0.777999997138977,
+          1.934000015258789
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "Organic branch junction.004",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.5370001792907715,
+          -0.8769999742507935,
+          2.126000165939331
+        ],
+        [
+          -7.443000316619873,
+          -0.7929999828338623,
+          2.2240002155303955
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "Natural wood branch2-0",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.740846157073975,
+          -1.2286185026168823,
+          2.4901556968688965
+        ],
+        [
+          -7.669153690338135,
+          -1.0913814306259155,
+          2.61484432220459
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch2-1",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.740578651428223,
+          -1.3181012868881226,
+          2.56449031829834
+        ],
+        [
+          -7.664422035217285,
+          -1.1918987035751343,
+          2.6785097122192383
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Organic branch junction.005",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.756999969482422,
+          -1.2519999742507935,
+          2.5410001277923584
+        ],
+        [
+          -7.663000106811523,
+          -1.1679999828338623,
+          2.639000177383423
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "Natural wood branch3-0",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.512882232666016,
+          -0.8467878103256226,
+          1.7395755052566528
+        ],
+        [
+          -7.444118499755859,
+          -0.7132121324539185,
+          1.9104245901107788
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Natural wood branch3-1",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.510939598083496,
+          -0.7650051116943359,
+          1.8767434358596802
+        ],
+        [
+          -7.444060325622559,
+          -0.6349948644638062,
+          2.023256540298462
+        ]
+      ],
+      "vertices": 48,
+      "polygons": 26
+    },
+    {
+      "name": "Organic branch junction.006",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.522000312805176,
+          -0.7820000052452087,
+          1.8459999561309814
+        ],
+        [
+          -7.428000450134277,
+          -0.6980000138282776,
+          1.944000005722046
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "kept-muttros-cat-tree::Top wicker basket woven horizontal cours",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.909590244293213,
+          -1.3095883131027222,
+          2.9439926147460938
+        ],
+        [
+          -7.460411548614502,
+          -0.8604116439819336,
+          3.0730252265930176
+        ]
+      ],
+      "vertices": 6414,
+      "polygons": 6336
+    },
+    {
+      "name": "kept-muttros-cat-tree::Top wicker basket crossing wicker strand",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.909033298492432,
+          -1.3087704181671143,
+          2.942838191986084
+        ],
+        [
+          -7.460967063903809,
+          -0.8612295389175415,
+          3.0707976818084717
+        ]
+      ],
+      "vertices": 5916,
+      "polygons": 5568
+    },
+    {
+      "name": "Top wicker basket brown fleece cushion",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.804766654968262,
+          -1.2047665119171143,
+          2.947000026702881
+        ],
+        [
+          -7.56523323059082,
+          -0.9652334451675415,
+          2.997000217437744
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.885300159454346,
+          -1.5352977514266968,
+          2.651787519454956
+        ],
+        [
+          -7.504701614379883,
+          -1.1547023057937622,
+          2.763425350189209
+        ]
+      ],
+      "vertices": 6414,
+      "polygons": 6336
+    },
+    {
+      "name": "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.884744167327881,
+          -1.534531831741333,
+          2.650848865509033
+        ],
+        [
+          -7.505256175994873,
+          -1.155468225479126,
+          2.761183261871338
+        ]
+      ],
+      "vertices": 5916,
+      "polygons": 5568
+    },
+    {
+      "name": "High side wicker basket brown fleece cushion",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.796249866485596,
+          -1.4462499618530273,
+          2.6549999713897705
+        ],
+        [
+          -7.59375,
+          -1.243749976158142,
+          2.705000162124634
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.675300121307373,
+          -0.8452976942062378,
+          2.0057873725891113
+        ],
+        [
+          -7.29470157623291,
+          -0.4647022485733032,
+          2.1174254417419434
+        ]
+      ],
+      "vertices": 6414,
+      "polygons": 6336
+    },
+    {
+      "name": "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.674744129180908,
+          -0.844531774520874,
+          2.0048489570617676
+        ],
+        [
+          -7.2952561378479,
+          -0.46546822786331177,
+          2.1151833534240723
+        ]
+      ],
+      "vertices": 5916,
+      "polygons": 5568
+    },
+    {
+      "name": "Low side wicker basket brown fleece cushion",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.586249828338623,
+          -0.7562499046325684,
+          2.008999824523926
+        ],
+        [
+          -7.383749961853027,
+          -0.5537499785423279,
+          2.059000015258789
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.788000106811523,
+          -1.1579999923706055,
+          2.2750000953674316
+        ],
+        [
+          -7.392000198364258,
+          -0.7619999647140503,
+          2.4086523056030273
+        ]
+      ],
+      "vertices": 1664,
+      "polygons": 1664
+    },
+    {
+      "name": "kept-muttros-cat-tree::Thick fleece hammock rim",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.804000377655029,
+          -1.1740000247955322,
+          2.38700008392334
+        ],
+        [
+          -7.376012325286865,
+          -0.7459999918937683,
+          2.4190001487731934
+        ]
+      ],
+      "vertices": 648,
+      "polygons": 640
+    },
+    {
+      "name": "kept-muttros-cat-tree::Sisal rope winding",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.736608028411865,
+          -1.198836326599121,
+          1.9518836736679077
+        ],
+        [
+          -7.640402317047119,
+          -1.1011534929275513,
+          2.108598470687866
+        ]
+      ],
+      "vertices": 978,
+      "polygons": 972
+    },
+    {
+      "name": "kept-muttros-cat-tree::Sisal rope winding.001",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.746608257293701,
+          -1.1788463592529297,
+          2.341883659362793
+        ],
+        [
+          -7.650400161743164,
+          -1.0811545848846436,
+          2.5084879398345947
+        ]
+      ],
+      "vertices": 1086,
+      "polygons": 1080
+    },
+    {
+      "name": "kept-muttros-cat-tree::Sisal rope winding.002",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.526608943939209,
+          -0.8688459992408752,
+          1.6218836307525635
+        ],
+        [
+          -7.430403232574463,
+          -0.7711535692214966,
+          1.818591833114624
+        ]
+      ],
+      "vertices": 1248,
+      "polygons": 1242
+    },
+    {
+      "name": "kept-muttros-cat-tree::Hanging pom-pom cord",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.58650016784668,
+          -1.0862990617752075,
+          2.7850000858306885
+        ],
+        [
+          -7.583500385284424,
+          -1.0837010145187378,
+          2.945000171661377
+        ]
+      ],
+      "vertices": 12,
+      "polygons": 6
+    },
+    {
+      "name": "Brown play ball",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.610000133514404,
+          -1.1100000143051147,
+          2.740000009536743
+        ],
+        [
+          -7.559999942779541,
+          -1.0600000619888306,
+          2.7900002002716064
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.596499919891357,
+          -1.3462990522384644,
+          2.493000030517578
+        ],
+        [
+          -7.593500137329102,
+          -1.3437010049819946,
+          2.6529998779296875
+        ]
+      ],
+      "vertices": 12,
+      "polygons": 6
+    },
+    {
+      "name": "Brown play ball.001",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.62000036239624,
+          -1.3700000047683716,
+          2.447999954223633
+        ],
+        [
+          -7.570000171661377,
+          -1.3200000524520874,
+          2.498000144958496
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.386500358581543,
+          -0.6562989950180054,
+          1.8470001220703125
+        ],
+        [
+          -7.383500099182129,
+          -0.6537009477615356,
+          2.006999969482422
+        ]
+      ],
+      "vertices": 12,
+      "polygons": 6
+    },
+    {
+      "name": "Brown play ball.002",
+      "group": "muttros-cat-tree",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.410000324249268,
+          -0.6799999475479126,
+          1.8020000457763672
+        ],
+        [
+          -7.360000133514404,
+          -0.6299999952316284,
+          1.8519999980926514
+        ]
+      ],
+      "vertices": 482,
+      "polygons": 512
+    },
+    {
+      "name": "branch-pro-task-chair-1::Mesh_0",
+      "group": "branch-primary",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.138394832611084,
+          -1.1827495098114014,
+          1.5750000476837158
+        ],
+        [
+          -6.50160551071167,
+          -0.5172504782676697,
+          2.555281639099121
+        ]
+      ],
+      "vertices": 70077,
+      "polygons": 48868
+    },
+    {
+      "name": "branch-pro-task-chair-1::Back | Plane001",
+      "group": "branch-primary",
+      "role": "furniture",
+      "collections": [
+        "His Office \u2014 exact kept products and one Branch task chair"
+      ],
+      "bounds": [
+        [
+          -7.045292377471924,
+          -1.0466125011444092,
+          1.9691826105117798
+        ],
+        [
+          -6.594671249389648,
+          -0.908301591873169,
+          2.556027889251709
+        ]
+      ],
+      "vertices": 884,
+      "polygons": 1132
+    },
+    {
+      "name": "abstract-scenery-art::black wood frame top",
+      "group": "abstract-scenery-art",
+      "role": "furniture",
+      "collections": [
+        "07 Pinterest chosen new products"
+      ],
+      "bounds": [
+        [
+          -6.062700271606445,
+          0.2135699987411499,
+          3.549999952316284
+        ],
+        [
+          -5.037300109863281,
+          0.23642998933792114,
+          3.562700033187866
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "abstract-scenery-art::black wood frame bottom",
+      "group": "abstract-scenery-art",
+      "role": "furniture",
+      "collections": [
+        "07 Pinterest chosen new products"
+      ],
+      "bounds": [
+        [
+          -6.062700271606445,
+          0.2135699987411499,
+          2.8373000621795654
+        ],
+        [
+          -5.037300109863281,
+          0.23642998933792114,
+          2.8500001430511475
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "abstract-scenery-art::black wood frame left",
+      "group": "abstract-scenery-art",
+      "role": "furniture",
+      "collections": [
+        "07 Pinterest chosen new products"
+      ],
+      "bounds": [
+        [
+          -6.062700271606445,
+          0.2135699987411499,
+          2.8500001430511475
+        ],
+        [
+          -6.050000190734863,
+          0.23642998933792114,
+          3.549999952316284
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "abstract-scenery-art::black wood frame right",
+      "group": "abstract-scenery-art",
+      "role": "furniture",
+      "collections": [
+        "07 Pinterest chosen new products"
+      ],
+      "bounds": [
+        [
+          -5.050000190734863,
+          0.2135699987411499,
+          2.8500001430511475
+        ],
+        [
+          -5.037300109863281,
+          0.23642998933792114,
+          3.549999952316284
+        ]
+      ],
+      "vertices": 96,
+      "polygons": 98
+    },
+    {
+      "name": "abstract-scenery-art::actual full paper print including printed",
+      "group": "abstract-scenery-art",
+      "role": "furniture",
+      "collections": [
+        "07 Pinterest chosen new products"
+      ],
+      "bounds": [
+        [
+          -6.050000190734863,
+          0.2142999917268753,
+          2.8500001430511475
+        ],
+        [
+          -5.050000190734863,
+          0.2142999917268753,
+          3.549999952316284
+        ]
+      ],
+      "vertices": 4,
+      "polygons": 1
+    }
+  ]
+}

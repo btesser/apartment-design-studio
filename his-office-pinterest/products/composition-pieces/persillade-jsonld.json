@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "3DModel",
+  "encoding": [
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp3/glb_draco/4bbc18e2d87b43df89f0134962ffe813-10346765_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp2/glb_draco/5defa7ed802f416a9f3564f674d71a20-10346765_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp1/glb_draco/c44b99293ef74ca4a158f30781a849f9-10346765_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp3/glb_draco/b3bc0232c13840daaebbc574746cd84d-10346765_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp2/glb_draco/413f733e844d4758af329db85dc4b211-10346765_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp1/glb_draco/2fd2c157277948d88ef4fbd68790defc-10346765_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/10346765/PS01_S01_NV_01/simple/glb_draco/22322655e63b4404bd4023a934f0b53b-G-10346765-f40fe084ac617578a8aa84623ac07f181754d55d-simple+draco.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp3/glb/c456edf67d3147448db1bc5907ff4b97-10346765_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp2/glb/a495ddfef4ae4e599c980ec2866f4940-10346765_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp1/glb/95d4ded2dfff46a1b83533616b365495-10346765_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp3/glb/f1242048443f4be8a2b5269aac4c122c-10346765_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp2/glb/85607946d62642ecb2d9c9ba5cd6ebf0-10346765_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp1/glb/82c0bfa82ba84e77a68d1577e348aca2-10346765_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+      "encodingFormat": "model/gltf-binary"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp3/gltf/c83dab82c64d4ae2b84088085d36b023-10346765_PS01_S01_NV01_IQP3_2.0.gltf?cn=pip",
+      "encodingFormat": "model/gltf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp2/gltf/33359d49aebb4a9d96aa88fb3b8cabbe-10346765_PS01_S01_NV01_IQP2_2.0.gltf?cn=pip",
+      "encodingFormat": "model/gltf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/iqp1/gltf/8b34aac36e58476782bda6d12446392e-10346765_PS01_S01_NV01_IQP1_2.0.gltf?cn=pip",
+      "encodingFormat": "model/gltf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp3/gltf/2f3762d2994e411cb66662c1c7946705-10346765_PS01_S01_NV01_RQP3_3.0.gltf?cn=pip",
+      "encodingFormat": "model/gltf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp2/gltf/e4e3851a479e489e9eb5d014a4750b30-10346765_PS01_S01_NV01_RQP2_3.0.gltf?cn=pip",
+      "encodingFormat": "model/gltf"
+    },
+    {
+      "@type": "MediaObject",
+      "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/10346765/PS01_S01_NV01/rqp1/gltf/0bedf7d5cfdc471fa0438ff93339193b-10346765_PS01_S01_NV01_RQP1_3.0.gltf?cn=pip",
+      "encodingFormat": "model/gltf"
+    }
+  ],
+  "image": "",
+  "name": "PERSILLADE"
+}

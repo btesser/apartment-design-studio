@@ -1,0 +1,398 @@
+[
+  {
+    "id": "branch-standing",
+    "source_url": "https://www.branchfurniture.com/products/standing-desk.js",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "branch-tria",
+    "source_url": "https://www.branchfurniture.com/products/tria-standing-desk.js",
+    "file": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria.json",
+    "variants": [
+      {
+        "id": 43180425347107,
+        "title": "Woodgrain / White / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-10",
+        "featured_image": null
+      },
+      {
+        "id": 43180425838627,
+        "title": "Woodgrain / White / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-10",
+        "featured_image": null
+      },
+      {
+        "id": 43180426330147,
+        "title": "Woodgrain / White / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-10",
+        "featured_image": null
+      },
+      {
+        "id": 43180425314339,
+        "title": "Woodgrain / Charcoal / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-12",
+        "featured_image": null
+      },
+      {
+        "id": 43180425805859,
+        "title": "Woodgrain / Charcoal / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-12",
+        "featured_image": null
+      },
+      {
+        "id": 43180426297379,
+        "title": "Woodgrain / Charcoal / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-12",
+        "featured_image": null
+      },
+      {
+        "id": 43180425281571,
+        "title": "Woodgrain / Black / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-84",
+        "featured_image": null
+      },
+      {
+        "id": 43180425773091,
+        "title": "Woodgrain / Black / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-84",
+        "featured_image": null
+      },
+      {
+        "id": 43180426264611,
+        "title": "Woodgrain / Black / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-84",
+        "featured_image": null
+      },
+      {
+        "id": 43180425052195,
+        "title": "Natural Oak / White / 48 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-05-133",
+        "featured_image": null
+      },
+      {
+        "id": 43180425543715,
+        "title": "Natural Oak / White / 58 inches x 27 inches",
+        "price": 94900,
+        "available": true,
+        "sku": "10-14-09-133",
+        "featured_image": null
+      },
+      {
+        "id": 43180426035235,
+        "title": "Natural Oak / White / 71 inches x 30 inches",
+        "price": 109900,
+        "available": true,
+        "sku": "10-14-13-133",
+        "featured_image": null
+      },
+      {
+        "id": 43180425019427,
+        "title": "Natural Oak / Charcoal / 48 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-05-132",
+        "featured_image": null
+      },
+      {
+        "id": 43180425510947,
+        "title": "Natural Oak / Charcoal / 58 inches x 27 inches",
+        "price": 94900,
+        "available": true,
+        "sku": "10-14-09-132",
+        "featured_image": null
+      },
+      {
+        "id": 43180426002467,
+        "title": "Natural Oak / Charcoal / 71 inches x 30 inches",
+        "price": 109900,
+        "available": true,
+        "sku": "10-14-13-132",
+        "featured_image": null
+      },
+      {
+        "id": 43180424986659,
+        "title": "Natural Oak / Black / 48 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-05-131",
+        "featured_image": null
+      },
+      {
+        "id": 43180425478179,
+        "title": "Natural Oak / Black / 58 inches x 27 inches",
+        "price": 94900,
+        "available": true,
+        "sku": "10-14-09-131",
+        "featured_image": null
+      },
+      {
+        "id": 43180425969699,
+        "title": "Natural Oak / Black / 71 inches x 30 inches",
+        "price": 109900,
+        "available": true,
+        "sku": "10-14-13-131",
+        "featured_image": null
+      },
+      {
+        "id": 43180425248803,
+        "title": "White / White / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-20",
+        "featured_image": null
+      },
+      {
+        "id": 43180425740323,
+        "title": "White / White / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-20",
+        "featured_image": null
+      },
+      {
+        "id": 43180426231843,
+        "title": "White / White / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-20",
+        "featured_image": null
+      },
+      {
+        "id": 43180425216035,
+        "title": "White / Charcoal / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-22",
+        "featured_image": null
+      },
+      {
+        "id": 43180425707555,
+        "title": "White / Charcoal / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-22",
+        "featured_image": null
+      },
+      {
+        "id": 43180426199075,
+        "title": "White / Charcoal / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-22",
+        "featured_image": null
+      },
+      {
+        "id": 43180425183267,
+        "title": "White / Black / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-82",
+        "featured_image": null
+      },
+      {
+        "id": 43180425674787,
+        "title": "White / Black / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-82",
+        "featured_image": null
+      },
+      {
+        "id": 43180426166307,
+        "title": "White / Black / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-82",
+        "featured_image": null
+      },
+      {
+        "id": 43180425150499,
+        "title": "Walnut / White / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-30",
+        "featured_image": null
+      },
+      {
+        "id": 43180425642019,
+        "title": "Walnut / White / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-30",
+        "featured_image": null
+      },
+      {
+        "id": 43180426133539,
+        "title": "Walnut / White / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-30",
+        "featured_image": null
+      },
+      {
+        "id": 43180425117731,
+        "title": "Walnut / Charcoal / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-32",
+        "featured_image": null
+      },
+      {
+        "id": 43180425609251,
+        "title": "Walnut / Charcoal / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-32",
+        "featured_image": null
+      },
+      {
+        "id": 43180426100771,
+        "title": "Walnut / Charcoal / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-32",
+        "featured_image": null
+      },
+      {
+        "id": 43180425084963,
+        "title": "Walnut / Black / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-86",
+        "featured_image": null
+      },
+      {
+        "id": 43180425576483,
+        "title": "Walnut / Black / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-86",
+        "featured_image": null
+      },
+      {
+        "id": 43180426068003,
+        "title": "Walnut / Black / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-86",
+        "featured_image": null
+      },
+      {
+        "id": 43180424953891,
+        "title": "Black Oak / White / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-72",
+        "featured_image": null
+      },
+      {
+        "id": 43180425445411,
+        "title": "Black Oak / White / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-72",
+        "featured_image": null
+      },
+      {
+        "id": 43180425936931,
+        "title": "Black Oak / White / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-72",
+        "featured_image": null
+      },
+      {
+        "id": 43180424921123,
+        "title": "Black Oak / Charcoal / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-73",
+        "featured_image": null
+      },
+      {
+        "id": 43180425412643,
+        "title": "Black Oak / Charcoal / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-73",
+        "featured_image": null
+      },
+      {
+        "id": 43180425904163,
+        "title": "Black Oak / Charcoal / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-73",
+        "featured_image": null
+      },
+      {
+        "id": 43073322450979,
+        "title": "Black Oak / Black / 48 inches x 27 inches",
+        "price": 74900,
+        "available": true,
+        "sku": "10-14-05-75",
+        "featured_image": null
+      },
+      {
+        "id": 43180425379875,
+        "title": "Black Oak / Black / 58 inches x 27 inches",
+        "price": 84900,
+        "available": true,
+        "sku": "10-14-09-75",
+        "featured_image": null
+      },
+      {
+        "id": 43180425871395,
+        "title": "Black Oak / Black / 71 inches x 30 inches",
+        "price": 99900,
+        "available": true,
+        "sku": "10-14-13-75",
+        "featured_image": null
+      }
+    ]
+  },
+  {
+    "id": "branch-standing-page",
+    "source_url": "https://www.branchfurniture.com/products/standing-desk",
+    "file": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-standing-page.html",
+    "bytes": 1739602
+  },
+  {
+    "id": "branch-tria-page",
+    "source_url": "https://www.branchfurniture.com/products/tria-standing-desk",
+    "file": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-page.html",
+    "bytes": 1739602
+  },
+  {
+    "id": "flexispot-e7",
+    "source_url": "https://www.flexispot.com/flexispot-pro-standing-desk-e7/",
+    "file": "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-e7.html",
+    "bytes": 1407976
+  },
+  {
+    "id": "jarvis-bamboo",
+    "source_url": "https://store.hermanmiller.com/standing-desks/jarvis-bamboo-standing-desk-rectangle/100350806.html?lang=en_US",
+    "file": "/workspace/his-office-pinterest/products/standing-desk-candidates/jarvis-bamboo.html",
+    "bytes": 567659
+  }
+]

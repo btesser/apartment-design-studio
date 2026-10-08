@@ -1,0 +1,31 @@
+{
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "recipe": "/workspace/his-office-pinterest/model/revision-recipe.json",
+  "status": "prepared-awaiting-root-layout-and-product-decisions",
+  "product_ids": [
+    "blue-bold-art",
+    "blue-geometric-art",
+    "branch-primary",
+    "branch-secondary",
+    "clothes-dresser",
+    "grejig-1",
+    "grejig-2",
+    "grejig-3",
+    "honeywell-lamp",
+    "muttros-cat-tree",
+    "rug",
+    "secondary-workspace",
+    "uplift-main-desk",
+    "visitor-chair"
+  ],
+  "requested_removals": [],
+  "requested_equipment_removals": [],
+  "requested_moves": [],
+  "protected_structure_meshes": 82,
+  "protected_owned_keeper_ids": [
+    "honeywell-lamp",
+    "muttros-cat-tree",
+    "uplift-main-desk"
+  ],
+  "dry_run": true
+}

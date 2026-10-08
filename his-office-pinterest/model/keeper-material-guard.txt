@@ -1,0 +1,52 @@
+FROZEN HIS OFFICE SOURCE — READ-ONLY MATERIAL GUARD
+
+Source: /workspace/his-office-redesign/model/his-office-design.blend
+SHA256: 607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a
+Source unchanged by audit: yes
+
+Owned keeper finishes:
+- kept-uplift-desk (uplift-main-desk): 22 objects including root
+  Black product trim
+  Pheasantwood official appearance reference
+  UPLIFT brushed nickel grommet covers
+  UPLIFT industrial tinted clear steel
+- kept-honeywell-02e-pro (honeywell-lamp): 12 objects including root
+  Honeywell warm white enamel
+  Honeywell4000K luminous diffuser
+  UPLIFT brushed nickel grommet covers
+- kept-muttros-cat-tree (muttros-cat-tree): 43 objects including root
+  MUTTROS brown cloud fleece
+  MUTTROS brown condo interior
+  MUTTROS darker wicker strands
+  MUTTROS handwoven wicker
+  MUTTROS natural pear wood
+  MUTTROS natural sisal
+
+Protected fixed source collections:
+- 01 Measured room shell: 22 objects
+- 02 Existing fixed feature proxies: 47 objects
+- 02b Existing door leaves — closed observed state: 13 objects
+
+Honeywell corrected head topology:
+- 11 meshes; exactly 2 narrow LED bars; 9 central-aperture rays and 4 positive-control rays pass.
+
+Materials shared with objects outside protected keepers/fixed geometry:
+- Reconstructed upper wood: 1 outside users: Provisional rack floor support — closet unrecorded
+
+Materials shared across keeper roots:
+- UPLIFT brushed nickel grommet covers: kept-honeywell-02e-pro, kept-uplift-desk
+
+Protected image dependencies:
+- brick-upper.png: [1024, 512], packed=True, source path exists=True, materials=Reconstructed exposed brick
+- uplift-live-edge-pheasantwood-front.jpg: [1380, 185], packed=True, source path exists=True, materials=Pheasantwood official appearance reference
+- wood-upper.png: [1024, 512], packed=True, source path exists=True, materials=Reconstructed upper wood
+
+Pipeline guardrails:
+- Never save to source. Save a fresh scene only in /workspace/his-office-pinterest/model.
+- Keep the three owned product hierarchies and their material assignments intact; only move or rotate whole roots.
+- Keep source architecture, fixtures, and closed observed door collections geometrically intact.
+- When redesigning an object whose material appears in protected_material_names, first copy the material for that object and assign the copy. Do not edit the original datablock.
+- When assigning material slots on a mesh shared with protected objects, first copy its mesh datablock.
+- Do not call image.pack() on an already packed image. Packing from missing disk paths can destroy or fail on retained image data.
+- Protect image node settings, UVs, procedural node inputs, and node links as well as Base Color.
+- Do not purge protected source dependencies while any keeper/fixed object is being appended or rebuilt.

@@ -1,0 +1,9 @@
+{
+  "scope": "Direct file navigation policy only. No furniture or layout validation.",
+  "url": "file:///workspace/his-office-pinterest/his-office-viewer.html",
+  "networkRequests": [],
+  "errors": [],
+  "navigation": "blocked or failed",
+  "observedError": "page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/his-office-pinterest/his-office-viewer.html\nCall log:\n\u001b[2m  - navigating to \"file:///workspace/his-office-pinterest/his-office-viewer.html\", waiting until \"load\"\u001b[22m\n",
+  "viewerReady": false
+}

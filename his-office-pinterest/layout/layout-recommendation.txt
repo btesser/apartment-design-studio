@@ -1,0 +1,37 @@
+HIS OFFICE — LAYOUT REASSESSMENT, 8 OCTOBER 2026
+
+Recommend a personal studio: one ergonomic chair, owned UPLIFT as the computer workstation, and the existing 140×60cm ALEX/ADILS desk as a mostly empty project bench. This satisfies the request for a second usable work surface while increasing usable open floor and avoiding the appearance of two crowded computer cubicles. Keep a real chair-shaped visitor seat instead of adding a sofa. Root approved the one-chair/project-bench direction after the optional user preference question remained unanswered.
+
+Native Blender coordinates remain metres, Z-up, floorZ=1.575. White work wall is+Y; desks front toward−Y, primary chair faces+Y. Preserve scanned room4.90×3.10m, irregular14.028m², height3.02m, closet notch, all doors/window/radiator/pipe/brick chimney/shelf nook.
+
+Concrete furniture delta from the frozen previous layout:
+• Remove branch-secondary entirely and remove the secondary desktop monitor/keyboard presentation group.
+• Move visitor-chair20cm left, center[-4.73,-2.00,1.575], rotation0°, front+Y. Its64.135×78.105cm real product footprint stays unchanged.
+• Keep UPLIFT[-6.95,−.131,1.575],106.68×76.2cm, exact wood/industrial frame, independent height adjustment.
+• Keep primary chair[-6.82,−.85,1.575],70.104cm caster circle. Optional45cm pullback centerY=−1.30.
+• Keep second work surface[-5.55,−.05,1.575],140×60cm; oneblack ALEX5-drawer604.735.48 on left, black-brown LAGKAPTEN804.870.16 top, and twoblack ADILS702.179.73 legs on right. Its89.5cm clear knee bay remains available for occasional seated use by rolling over the one task chair.
+• Keep Honeywell[-7.67,−.24,1.575], two-bar open head and whiteU base; keep cat tree[-7.59,−1.00,1.575] with provisional branch reach.
+• Keep folded-clothes dresser[-6.60,−2.51,1.575],69.85×47.9425cm, facing+Y; preserve119L nominal storage and wall-fixing requirement.
+• Keep provisional shoe racks behind closet, with interior dimensions/hanging hems requiring measurement.
+• Selected Ruggable Impasto Taupe flatwoven6×9ft+StandardPad retains the prior rug footprint. Visitor seat is EKENASET Kilanda light beige, same verified form/dimensions. Two blue art items are replaced by one Desenio Abstract Scenery landscape100×70cm paper with assumed thinblack frame, nativecenter[-5.55,.225,3.20], facing−Y.
+
+The two desktops supply approximately1.653m² total top area. They remain separated16.66cm alongX; do not add a joined fixed extension or continuous joined top that prevents the UPLIFT height travel. A160cm fixed bench would either reduce separation to16.6mm or enter the closet-approach buffer. The140cm bench is the disciplined fit, not an arbitrary undersized desk.
+
+Circulation findings:
+The prior two-chair layout passes a50cm planning-circle entry-to-rear route;55cm fails. Simply removing the second chair does NOT raise that maximum, because the visitor chair pinches the path against the closet-notch corner. Moving that chair left20cm AND removing the second task chair passes60cm in both working and primary45cm pullback states.65cm fails at the fixed sampled entry point. This is nominal polygon planning, NOT a surveyed clearance or accessibility/code claim. 5–12cm room-outline uncertainty remains material.
+Removing the secondary caster circle clears0.386m² of physical floor footprint and roughly0.8m² of50cm planning-person-center free area when isolating that single change. Visitor relocation improves topology further. The existing open-dresser versus fully pulled-back primary chair restriction remains: tuck chair for comfortable clothes access.
+
+Aesthetic implications:
+Keep the white wall as a composed work zone, dark warm wood tops and charcoal/black hardware, understated neutral rug, one substantial restrained art piece, and closed storage. Brick supplies visual character already. Leave the project bench mostly empty and use concealed cable routing rather than placing extra decor, lamps, shelves or tall cabinets in the limited depth. A monitor arm may free the small UPLIFT desktop, but hardware must suit the actual monitor/desktop clamp and not be represented as a purchased verified product without selection.
+
+Proofs:
+proposed-layout.json — frozen root-approved12-item canonical recipe, SHAe0c07d3d7d357afd294f7eb7440781a38e63a9d7c840ead9bf4786cdbfecd13d. Model agent copies this then owns model/layout.json.
+proposed-routing-check.json — updated route checks, source hashes and planning limits.
+routing-comparison.json — prior two-chair versus single-chair cases at original visitor position.
+route-diagnostic.png — shows the55cm disconnected entry component responsible for the original pinch.
+
+New selected-product subtotal is$1,571.90 before tax/shipping, with oneBranch taskchair and oneart frame; no purchases.
+
+Finalplan PNG/PDF and machine verification are in this samefolder, with60cm route qualifications and34cm sequential drawer clearance explicitly printed.
+
+No old model, final images or canonical layout files were altered.

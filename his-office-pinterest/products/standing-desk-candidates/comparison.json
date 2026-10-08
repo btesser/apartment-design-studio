@@ -1,0 +1,233 @@
+{
+  "research_date": "2026-10-08",
+  "status": "Proposal references only; user choice pending. This does not replace selected-products.json or authorize model mutation.",
+  "selection_rationale": "Tria Black Oak/Charcoal is the architectural/coherent proposal with official product geometry. E7 Black 48\u00d730 is the value and surface-area alternative. Neither is purchased.",
+  "owned_baseline": {
+    "name": "UPLIFT Pheasantwood 42\u00d730in",
+    "area_m2": 0.8129016,
+    "width_m": 1.0668,
+    "depth_m": 0.762
+  },
+  "candidates": [
+    {
+      "id": "branch_tria_black_oak_charcoal_48x27",
+      "brand": "Branch",
+      "name": "Tria Standing Desk",
+      "configuration": "Black Oak laminate top / Charcoal powder-coated steel frame / nominal 48\u00d727in",
+      "url": "https://www.branchfurniture.com/products/tria-standing-desk?variant=43180424921123",
+      "variant_id": 43180424921123,
+      "sku": "10-14-05-73",
+      "price_usd": 749.0,
+      "availability": {
+        "official_shopify_available": true,
+        "shipping_destination_not_tested": true
+      },
+      "published_actual_top_inches": [
+        47.2,
+        27
+      ],
+      "published_actual_top_m": [
+        1.19888,
+        0.6858
+      ],
+      "top_area_m2": 0.8221919040000001,
+      "area_gain_over_owned_percent": 1.1428571428571566,
+      "published_height_inches": [
+        25.5,
+        48.9
+      ],
+      "published_height_m": [
+        0.6476999999999999,
+        1.24206
+      ],
+      "capacity_lb": 275,
+      "warranty_years": 10,
+      "features": [
+        "dual-motor electric lift",
+        "three-stage columns",
+        "two memory presets",
+        "OLED keypad and USB-C port",
+        "collision detection",
+        "felt organizer and cable port"
+      ],
+      "fit_notes": "Compared with the owned top: 5.2in wider, 3in shallower, only 1.14% more area. Independent second bench supplies the larger working-area gain. Feet and full standing envelope must be checked against lamp, cat tree, bench and art.",
+      "photo": {
+        "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-blackoak-charcoal-official.jpg",
+        "url": "https://www.branchfurniture.com/cdn/shop/files/Tria_SD_2026June_Branch_0026_V1_1_-_Copy.webp",
+        "sha256": "9e6d08eb15c794ad42fc1170cc5c7d6e7a1772129d8f392686a36345c9ff3f08",
+        "bytes": 237363,
+        "description": "Official Black Oak/Charcoal finish photograph; depicted size is not independently established, so use official GLB/specification for dimension evidence.",
+        "original_bytes": true,
+        "visually_inspected": true,
+        "pixels": [
+          1080,
+          1080
+        ],
+        "format": "JPEG"
+      },
+      "specification": {
+        "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-specs.pdf",
+        "url": "https://www.branchfurniture.com/cdn/shop/files/specs-tria-standing-desk.pdf?v=6760253827135638948",
+        "sha256": "fbd3029eba8459128031fa8e33010b2e4dda02f0bd67f7636b5f8bdda629140e",
+        "bytes": 5813750,
+        "description": "Official Tria specification sheet; actual 47.2\u00d727in top and 25.5\u201348.9in height.",
+        "original_bytes": true,
+        "visually_inspected": true
+      },
+      "geometry": {
+        "asset": {
+          "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-official-48x27-woodgrain-white.glb",
+          "url": "https://cdn.shopify.com/3d/models/e0b5641a34a57e99/FBX_Tria_Standing_Desk_48x27_Woodgrain_White.glb",
+          "sha256": "1122e1e218a4d351b58138637b8d18ada1ec66d2345e7cb2f035dc93e123dbdc",
+          "bytes": 26354780,
+          "description": "Official nominal48\u00d727 product GLB, originally Woodgrain/White; colors differ from Black Oak/Charcoal proposal.",
+          "original_bytes": true,
+          "visually_inspected": false
+        },
+        "measurements_file": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-geometry-measurements.json",
+        "units": "meters",
+        "native_axes": "X width, Y up, Z depth, right handed",
+        "source_desktop_dimensions_m": [
+          1.2000001669,
+          0.0254000425,
+          0.6850000918
+        ],
+        "source_tabletop_upper_surface_m": 0.7239438295,
+        "source_overall_dimensions_XYZ_m": [
+          1.2000001669,
+          0.7261451081,
+          0.6941281259
+        ],
+        "feet_dimensions_width_depth_height_m": [
+          0.0800000429,
+          0.5999999642,
+          0.0300000496
+        ],
+        "feet_center_X_m": [
+          -0.5300005078,
+          0.530000031
+        ],
+        "feet_center_Z_m": -0.0045641363,
+        "column_width_depth_m": [
+          0.0600003,
+          0.09000015
+        ],
+        "source_rounding_note": "CAD desktop1200\u00d7685mm differs by about1.1mm in width and0.8mm in depth from47.2\u00d727in specification. Preserve official geometry and disclose source rounding; do not rescale the complete desk to nominal48in.",
+        "color_note": "Rematerialization to Black Oak/Charcoal, if chosen, must be documented rather than described as an exact-color manufacturer GLB."
+      }
+    },
+    {
+      "id": "flexispot_e7_black_48x30",
+      "brand": "FlexiSpot",
+      "name": "E7 T-frame with Black laminate48\u00d730in desktop",
+      "url": "https://www.flexispot.com/flexispot-pro-standing-desk-e7?value=cbr4830bd-e7bs",
+      "configuration": "E7B_S black T-frame + Premium keypad + CBR4830B-D Black laminate desktop",
+      "components": [
+        {
+          "sku": "E7B_S",
+          "configurator_id": 70000,
+          "price_usd": 309.99
+        },
+        {
+          "sku": "CBR4830B-D",
+          "configurator_id": 66031,
+          "price_usd": 100
+        }
+      ],
+      "component_total_usd": 409.99,
+      "price_basis": "Exact enabled components in current official configurator SSR data. Their mutual exclusion lists permit this pairing. Cart/checkout destination not tested; price can change.",
+      "availability": {
+        "both_enabled": true,
+        "both_outOfStock": false,
+        "both_inventoryNumFlag": true,
+        "note": "Graphite/Ebony48\u00d730 alternatives exist but inventoryNumFlag=false, so they are not treated as equally ready."
+      },
+      "top_inches": [
+        48,
+        30
+      ],
+      "top_m": [
+        1.2191999999999998,
+        0.762
+      ],
+      "top_thickness_inches": 1,
+      "top_area_m2": 0.9290303999999999,
+      "area_gain_over_owned_percent": 14.28571428571428,
+      "frame_height_without_top_inches": [
+        22.8,
+        48.4
+      ],
+      "calculated_top_height_inches": [
+        23.8,
+        49.4
+      ],
+      "height_note": "Height adds published1in desktop thickness; compare frame-only and top-height numbers consistently.",
+      "capacity": {
+        "page_lb": 355,
+        "current_E7_V3_manual_lb": 352,
+        "conservative_design_limit_lb": 352,
+        "note": "Manual specifies160kg/352lb; current product-page copy says355lb. Preserve the difference."
+      },
+      "warranty": {
+        "frame_mechanical_electronic_years": 15,
+        "laminate_top_years": 2
+      },
+      "geometry_status": "No verified manufacturer CAD or dimensioned foot length located in bounded research. T-foot form is established by official source photo/manual, but this candidate is not ready for a precise foot collision proof until actual dimensioned drawings or measurements are supplied.",
+      "photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-cbr4830b-d-component-angle.png",
+          "url": "https://staticprod.site.flexispot.com/dev/trantor/attachments/d7e57f9a-b996-4d2c-aa0d-7ba58b15d542.png",
+          "sha256": "e3a8c546dad6eb0343d3000bf14b35fed873a3cd98772a57c175207656f4fe0c",
+          "bytes": 35288,
+          "description": "Official Black laminate top component image; not an assembled desk photograph.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1052,
+            800
+          ],
+          "format": "PNG"
+        },
+        {
+          "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-e7b_s-frame-transparent.png",
+          "url": "https://cnmegk4mhxmt.compat.objectstorage.us-phoenix-1.oraclecloud.com/prod-us2-bucket/trantor/attachments/US/e7bs-0103.png",
+          "sha256": "d60364339e033346d7d5d5eb215258d74bcf62dfdc8316a68ad62108b8623472",
+          "bytes": 124608,
+          "description": "Official exact black E7B_S frame component image.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1052,
+            800
+          ],
+          "format": "PNG"
+        }
+      ],
+      "manual": {
+        "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-e7-v3-manual.pdf",
+        "url": "https://s3.springbeetle.top/prod-common-bucket/commodity/item/E7-V3-US_MANUALET223IB-PRO-ZX01_20260421_C1pdhUwK.pdf",
+        "sha256": "e5d76e76b50eedf50bae0dffec2a39312c45be51bb831e577e2bc4b36ae487ad",
+        "bytes": 4641571,
+        "description": "Current official E7-V3 US manual; image-only PDF; page2 reviewed visually.",
+        "original_bytes": true,
+        "visually_inspected": true
+      },
+      "configuration_evidence": [
+        "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-selected-e7b_s.json",
+        "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-selected-cbr4830b-d.json",
+        "/workspace/his-office-pinterest/products/standing-desk-candidates/flexispot-e7-selected-black48x30-page.html"
+      ]
+    }
+  ],
+  "excluded_references": [
+    {
+      "name": "Legacy Branch48\u00d730 Standing Desk",
+      "reason": "Current official URL redirects to Tria; older48\u00d730 model is not the present product."
+    },
+    {
+      "name": "Herman Miller/Fully Jarvis bamboo",
+      "reason": "Quality frame but bamboo reads warm against the new cool dark direction; exact dark48in configuration/price not established in this bounded comparison."
+    }
+  ],
+  "budget_note": "Adding Tria to previous checkpoint subtotal1571.90 gives2320.90 before wall treatment/tax/shipping; this is not the final cool-palette budget and any revised visitor chair/rug/storage may change it."
+}

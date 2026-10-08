@@ -1,0 +1,162 @@
+{
+  "source_file": "/workspace/his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend",
+  "source_sha256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+  "layout_sha256": "d6b669b8ce998fc4b3930049895360071bff9313609f4f4ec0c05888ca269e94",
+  "reference_audit_sha256": "4e290158ac1daea81b38ac6a784e3f8a7663c4b62f62b5c2d1d61faf7257cabc",
+  "method": "Untouched packed source-photo hash plus actual native UV/metric surface corner mapping; observed panel vertex bounds/contact gaps. No model/image modified.",
+  "textures": {
+    "rug": {
+      "mesh": "rug::actual Rift Charcoal6x9 flatwoven textile",
+      "source_sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+      "image_nodes": [
+        {
+          "material": "Actual selected Rift Charcoal6x9 flatwoven source",
+          "image": "rift-6x9.jpg",
+          "pixel_dimensions": [
+            2400,
+            3000
+          ],
+          "packed_sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+          "colorspace": "sRGB",
+          "extension": "REPEAT"
+        }
+      ],
+      "surface_dimensions_m": [
+        2.7432003021240234,
+        1.8287999629974365
+      ],
+      "expected_corner_uv": [
+        [
+          0.119375,
+          0.04949999999999999
+        ],
+        [
+          0.119375,
+          0.9538333333333333
+        ],
+        [
+          0.8835416666666667,
+          0.9538333333333333
+        ],
+        [
+          0.8835416666666667,
+          0.04949999999999999
+        ]
+      ],
+      "actual_corner_uv": [
+        [
+          0.11937499791383743,
+          0.0494999997317791
+        ],
+        [
+          0.11937499791383743,
+          0.9538333415985107
+        ],
+        [
+          0.8835416436195374,
+          0.9538333415985107
+        ],
+        [
+          0.8835416436195374,
+          0.0494999997317791
+        ]
+      ],
+      "max_uv_error": 2.3047129316111636e-08,
+      "dimensions_match": true,
+      "pass": true
+    },
+    "art": {
+      "mesh": "richmond-art::full actual native landscape print",
+      "source_sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+      "image_nodes": [
+        {
+          "material": "Actual selected DanHobday Richmond100x70 native landscape",
+          "image": "dan-hobday-richmond-70x100-official.jpg",
+          "pixel_dimensions": [
+            2000,
+            1400
+          ],
+          "packed_sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+          "colorspace": "sRGB",
+          "extension": "REPEAT"
+        }
+      ],
+      "surface_dimensions_m": [
+        1.0,
+        0.6999998092651367
+      ],
+      "expected_corner_uv": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "actual_corner_uv": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ],
+      "max_uv_error": 0.0,
+      "dimensions_match": true,
+      "pass": true
+    }
+  },
+  "all_selected_texture_orientations_pass": true,
+  "panels": {
+    "mesh_count": 0,
+    "expected_in_variant": false,
+    "pass": true
+  },
+  "workwall_materials": [
+    {
+      "name": "Chosen NavalSW6244 matte workwall",
+      "base_color": [
+        0.028426039963960648,
+        0.04666508734226227,
+        0.07227185368537903,
+        1.0
+      ]
+    }
+  ],
+  "selected_workwall_finish": {
+    "paint": "NavalSW6244",
+    "screen_sRGB": [
+      47,
+      61,
+      76
+    ],
+    "panels": false
+  },
+  "limits": [
+    "Frame outside profile is an assumed presentation envelope; paper100\u00d770cm is retailer verified.",
+    "Panel rear fastening, actual site baseboard, adhesives and acoustic performance are not modeled; no workwall baseboard appears in the recorded geometry.",
+    "One-millimetre mounting/contact gaps and UV precision refer to authored model, not site tolerances or installation clearance.",
+    "Digital paint chips/photo colors under renderer lighting are appearance references, not calibrated installed albedo."
+  ],
+  "review_status": "CHECKPOINT ONLY \u2014 Branch wall study; superseded composition and confirmed owned-chair/equipment revision pending. No final room-fit or60cmroute claim."
+}

@@ -1,0 +1,23 @@
+B/C VARIANT REFERENCE AUDIT — READ ONLY
+
+Rift Charcoal6×9ft:
+Original image2400×3000px. Full body incl. black binding is [286,138,2121,2852); exclude studio margin and bottom shadow.
+Recommended imageUV: u0=0.119375; u1=0.883541666667; v0=0.0495; v1=0.953833333333.
+Local rugX=9ft=2.7432m; Y=6ft=1.8288m. SourceV followsX; sourceU followsY.
+For local corner order(-X,-Y),(+X,-Y),(+X,+Y),(-X,+Y), UV=[(u0,v0),(u0,v1),(u1,v1),(u1,v0)].
+Matte flatweave; preserve exact graphic colors and complete row pattern. Use sRGB image and EXTEND.
+
+Richmond:
+Exact SKUpre0717-1 / variant101361 /70x100 retailer size, native100×70cm landscape. Original photo2000×1400px.
+FullUV0..1 across full1.00×0.70m paper. No studio padding or continuous printed-whiteborder detected.
+All four edges contain artwork. Pale cream areas are artwork. Preserve full image; do not add a white mat.
+
+EKENÄSET Axvall dark gray-blue / walnut effect:
+Bouclé upholstery: fine irregular nubby loops, dark slate gray-blue, matte; separate muted medium-dark brown wood frame.
+Suggested Blender fabric linearRGB=(0.047,0.090,0.128), roughness0.93, fine bump strength0.13/distance0.0003m.
+Suggested wood linearRGB=(0.085,0.068,0.053), roughness0.53.
+Actual refresh dimensions0.650875×0.739775×0.7493m; do not retain old beige chair dimensions or corduroy ribs.
+Photo sample values guide appearance under final lights; they are not calibrated albedo.
+
+All original source-image hashes matched provenance and remained unchanged. No Blender data or old assets were modified.
+Precise UV arrays, sourceURLs/SHA256, border measurements, and material/photo samples: variant-reference-audit.json.

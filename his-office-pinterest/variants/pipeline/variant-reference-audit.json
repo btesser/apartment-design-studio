@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "scope": "Approved separate B/C alternatives share these references. Independent audit reads only photographs/provenance; it does not open, edit, or save Blender.",
+  "coordinate_convention": "Pixel coordinates have top-left origin. Pixel boxes are half-open at right/bottom. Blender image UV has bottom-left origin.",
+  "rug": {
+    "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg",
+    "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+    "matches_original_provenance_hash": true,
+    "pixel_dimensions_W_H": [
+      2400,
+      3000
+    ],
+    "pixels_edited": false,
+    "visually_inspected": true,
+    "id": "rift",
+    "name": "Rift Charcoal Flatwoven Rug",
+    "source_url": "https://ruggable.com/products/rift-charcoal-rug?variant=42130480070711",
+    "official_image_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/rift-charcoal-A-FLW-MG021-69_bcff7915-f8fa-4462-9e70-1b107a2ea316.jpg?v=1773089745",
+    "selected_variant_id": 42130480070711,
+    "selected_sku": "RUG-SYS-IND-RCT-CHN-MG021-06x09",
+    "model_dimensions_local_X_Y_m": [
+      2.7432,
+      1.8288
+    ],
+    "nominal_cover_plus_standard_pad_thickness_m": 0.005175,
+    "body_pixel_box_left_top_right_bottom_half_open": [
+      286,
+      138,
+      2121,
+      2852
+    ],
+    "full_body_including_binding_pixel_dimensions_W_H": [
+      1835,
+      2714
+    ],
+    "recommended_body_UV_pixel_centers": {
+      "u_min": 0.119375,
+      "u_max": 0.8835416666666667,
+      "v_min": 0.04949999999999999,
+      "v_max": 0.9538333333333333
+    },
+    "quad_local_corner_order": [
+      "-X,-Y",
+      "+X,-Y",
+      "+X,+Y",
+      "-X,+Y"
+    ],
+    "quad_UV_same_order_long_photo_axis_along_X": [
+      [
+        0.119375,
+        0.04949999999999999
+      ],
+      [
+        0.119375,
+        0.9538333333333333
+      ],
+      [
+        0.8835416666666667,
+        0.9538333333333333
+      ],
+      [
+        0.8835416666666667,
+        0.04949999999999999
+      ]
+    ],
+    "mapping": "Source vertical V maps to local X (9ft); source horizontal U maps to local Y (6ft). Map the complete photographed rug body once, preserving black binding and all graphic rows.",
+    "excluded_regions": "White studio margin surrounding the rug; gray contact shadow beginning at row2852. Pixel-center endpoints avoid the1–2px JPEG antialias fringe.",
+    "edge_samples_RGB": {
+      "top_outside_x1000_y137": [
+        248,
+        248,
+        248
+      ],
+      "top_binding_x1000_y138": [
+        50,
+        50,
+        50
+      ],
+      "bottom_binding_x1000_y2851": [
+        51,
+        51,
+        51
+      ],
+      "bottom_shadow_x1000_y2852": [
+        218,
+        218,
+        218
+      ],
+      "right_binding_x2120_y1500": [
+        54,
+        54,
+        54
+      ],
+      "right_antialias_x2121_y1500": [
+        149,
+        149,
+        149
+      ],
+      "right_background_x2122_y1500": [
+        241,
+        241,
+        241
+      ]
+    },
+    "photo_body_aspect_ratio_W_over_H": 0.676123802505527,
+    "nominal_product_aspect_ratio_W_over_L": 0.6666666666666666,
+    "aspect_note": "The source rug-body aspect differs from nominal6:9 by about1.4%. Preserve every graphic row and full binding; use nominal product dimensions rather than cropping the pattern further.",
+    "material": {
+      "image_color_space": "sRGB",
+      "image_extension": "EXTEND",
+      "image_base_color_multiplier": [
+        1,
+        1,
+        1
+      ],
+      "roughness_start": 0.92,
+      "bump_distance_m_start": 0.00015,
+      "surface_note": "Matte low-pile flatweave; charcoal/blue-gray ground with off-white, muted tan, gray, and black blocks. Keep exact original graphic coloration."
+    }
+  },
+  "art": {
+    "file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+    "sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+    "matches_original_provenance_hash": true,
+    "pixel_dimensions_W_H": [
+      2000,
+      1400
+    ],
+    "pixels_edited": false,
+    "visually_inspected": true,
+    "id": "dan-hobday-richmond",
+    "name": "Dan Hobday - Richmond Print",
+    "source_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+    "official_image_url": "https://media.desenio.com/site_images/69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+    "selected_variant_id": 101361,
+    "selected_sku": "pre0717-1",
+    "retailer_variant_size_key": "70x100",
+    "retailer_US_size_label": "28\" x 39\" in",
+    "paper_dimensions_landscape_W_H_m": [
+      1.0,
+      0.7
+    ],
+    "image_aspect_ratio": 1.4285714285714286,
+    "paper_aspect_ratio": 1.4285714285714286,
+    "exact_aspect_match": true,
+    "UV_quad_lower_left_lower_right_upper_right_upper_left": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "studio_padding_detected": false,
+    "continuous_printed_white_border_detected": false,
+    "edge_statistics": {
+      "top": {
+        "mean_sRGB_8bit": [
+          136.5805,
+          134.3255,
+          118.5435
+        ],
+        "nearly_white_fraction_min_channel_gt_250": 0.0
+      },
+      "bottom": {
+        "mean_sRGB_8bit": [
+          130.098,
+          128.9835,
+          121.5265
+        ],
+        "nearly_white_fraction_min_channel_gt_250": 0.0005
+      },
+      "left": {
+        "mean_sRGB_8bit": [
+          189.2357142857143,
+          186.63285714285715,
+          173.8242857142857
+        ],
+        "nearly_white_fraction_min_channel_gt_250": 0.0
+      },
+      "right": {
+        "mean_sRGB_8bit": [
+          188.20142857142858,
+          184.4257142857143,
+          175.99428571428572
+        ],
+        "nearly_white_fraction_min_channel_gt_250": 0.0
+      }
+    },
+    "mapping": "Full original2000×1400px image maps to full100×70cm landscape paper. Artwork/color texture reaches all four edges. No crop or90degree rotation is needed. Preserve all source edge colors; do not create an extra white mat.",
+    "border_note": "This Richmond variant differs from the preceding white-bordered Abstract Scenery print. Its pale cream fields belong to the artwork; there is no continuous white studio margin or printed white paper band in this exact variant source image.",
+    "palette_observation": "Slate gray/charcoal geometric shapes, muted olive, ivory, and dark brown. The background is not pure white.",
+    "material": {
+      "image_color_space": "sRGB",
+      "image_base_color_multiplier": [
+        1,
+        1,
+        1
+      ],
+      "roughness_start": 0.88,
+      "emission_strength": 0,
+      "surface_note": "Matte poster paper; optional frame surrounds full paper and must not hide or replace its cream artwork fields."
+    }
+  },
+  "visitor": {
+    "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg",
+    "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb",
+    "matches_original_provenance_hash": true,
+    "pixel_dimensions_W_H": [
+      1400,
+      1400
+    ],
+    "pixels_edited": false,
+    "visually_inspected": true,
+    "id": "ekenaset-axvall-gray-blue",
+    "name": "IKEA EKENÄSET armchair",
+    "source_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+    "official_image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+    "selected_sku": "506.243.26",
+    "selected_finish": "Walnut effect / Axvall dark gray-blue",
+    "nominal_dimensions_W_D_H_m": [
+      0.650875,
+      0.739775,
+      0.7493
+    ],
+    "upholstery": "Axvall bouclé: dense fine nubby/looped fabric, dark slate gray-blue with tiny darker flecks. Soft matte surface. It has no long corduroy ridges and is neither bright cyan nor glossy velvet.",
+    "frame": "Walnut-effect medium-dark muted brown wood. More neutral and visibly lighter than the previous beige-chair espresso/reddish frame; retain wood grain as a distinct material.",
+    "photo_samples": {
+      "back": {
+        "sample_pixel_box_left_top_right_bottom": [
+          700,
+          150,
+          1100,
+          500
+        ],
+        "median_sRGB_8bit": [
+          62.0,
+          83.0,
+          98.0
+        ],
+        "median_linear_RGB": [
+          0.04817182422688942,
+          0.08650046203654976,
+          0.12213877222960187
+        ]
+      },
+      "seat": {
+        "sample_pixel_box_left_top_right_bottom": [
+          280,
+          680,
+          600,
+          790
+        ],
+        "median_sRGB_8bit": [
+          60.0,
+          86.0,
+          102.0
+        ],
+        "median_linear_RGB": [
+          0.04518620438567554,
+          0.09305896284668745,
+          0.13286832155381798
+        ]
+      },
+      "wood_arm": {
+        "sample_pixel_box_left_top_right_bottom": [
+          990,
+          394,
+          1170,
+          410
+        ],
+        "median_sRGB_8bit": [
+          82.0,
+          73.0,
+          64.0
+        ],
+        "median_linear_RGB": [
+          0.08437621154414882,
+          0.06662593864377289,
+          0.05126945837404324
+        ]
+      },
+      "wood_leg": {
+        "sample_pixel_box_left_top_right_bottom": [
+          922,
+          930,
+          942,
+          1160
+        ],
+        "median_sRGB_8bit": [
+          83.0,
+          75.0,
+          66.0
+        ],
+        "median_linear_RGB": [
+          0.08650046203654976,
+          0.07036009569659588,
+          0.05448027644244237
+        ]
+      }
+    },
+    "suggested_Blender_node_default_values": {
+      "fabric_base_color_linear_RGB": [
+        0.047,
+        0.09,
+        0.128
+      ],
+      "fabric_roughness": 0.93,
+      "fabric_bump_strength": 0.13,
+      "fabric_bump_distance_m": 0.0003,
+      "wood_base_color_linear_RGB": [
+        0.085,
+        0.068,
+        0.053
+      ],
+      "wood_roughness": 0.53
+    },
+    "fabric_texture_guidance": "Use small irregular bouclé microtexture and restrained color flecks; keep the grain fine enough that it reads as cloth at full-room distance. Do not reuse the old corduroy wave nodes.",
+    "shape_guard": "This actual refresh has nominal dimensions0.650875×0.739775×0.7493m. It is wider, shallower, and lower than the old beige EKENÄSET; material guidance does not authorize simple recoloring of the old dimensions.",
+    "sampling_limit": "RGB values sampled from a lit product photograph are visual starting points, not calibrated physical albedo. Supplied linear RGB values are for Blender Python node default_value; photograph channel medians are sRGB8bit."
+  },
+  "hashes_after_audit": {
+    "rug": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+    "art": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+    "visitor": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb"
+  },
+  "all_photos_unchanged": true,
+  "all_photos_match_original_provenance": true
+}

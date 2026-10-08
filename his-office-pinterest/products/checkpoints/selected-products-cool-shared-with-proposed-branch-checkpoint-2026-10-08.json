@@ -1,0 +1,1301 @@
+{
+  "version": "selected-shared-cool-furniture-two-directions-B-C-2026-10-08",
+  "scope": "User chose BOTH B and C as separate designs with shared dark/cool furniture. Primary owned UPLIFT replaced by actual Branch Tria Black Oak/Charcoal. Honeywell02E lamp and MUTTROS cat tree retained; no purchases.",
+  "design_palette": "Black oak/charcoal desk, black-brown project bench, gray-blue visitor upholstery, dark-brown/oak folded-clothes dresser, graphite rug and one muted modern art print. B adds Black Ash slats against Peppercorn charcoal; C is plain deep Naval blue. Existing brick and oak floor retained.",
+  "items": [
+    {
+      "id": "branch-tria-black-oak-charcoal",
+      "category": "primary_standing_desk",
+      "name": "Branch Tria Standing Desk, Black Oak/Charcoal, nominal48\u00d727in",
+      "selected_color": "Black Oak / Charcoal",
+      "sku": "10-14-05-73",
+      "variant_id": 43180424921123,
+      "price_USD": 749.0,
+      "quantity": 1,
+      "line_total_USD": 749.0,
+      "source_url": "https://www.branchfurniture.com/products/tria-standing-desk?variant=43180424921123",
+      "price_checked_date": "2026-10-08",
+      "selection_status": "Selected shared primary desk for both B and C; not purchased.",
+      "dimensions_m_W_D_H": [
+        1.2000001668930054,
+        0.685000091791153,
+        0.723943829536438
+      ],
+      "dimensions_note": "1:1 supplier GLB desktop width/depth and seated top height. Published actualtop1.19888\u00d7.6858m differs by source rounding. Do not rescale to nominal48in.",
+      "published_actual_top_m": [
+        1.19888,
+        0.6858
+      ],
+      "height_range_m": [
+        0.6476999999999999,
+        1.24206
+      ],
+      "capacity_lb": 275,
+      "geometry": {
+        "asset": {
+          "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-official-48x27-woodgrain-white.glb",
+          "url": "https://cdn.shopify.com/3d/models/e0b5641a34a57e99/FBX_Tria_Standing_Desk_48x27_Woodgrain_White.glb",
+          "sha256": "1122e1e218a4d351b58138637b8d18ada1ec66d2345e7cb2f035dc93e123dbdc",
+          "bytes": 26354780,
+          "description": "Official nominal48\u00d727 product GLB, originally Woodgrain/White; colors differ from Black Oak/Charcoal proposal.",
+          "original_bytes": true,
+          "visually_inspected": false
+        },
+        "measurements_file": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-geometry-measurements.json",
+        "units": "meters",
+        "native_axes": "X width, Y up, Z depth, right handed",
+        "source_desktop_dimensions_m": [
+          1.2000001669,
+          0.0254000425,
+          0.6850000918
+        ],
+        "source_tabletop_upper_surface_m": 0.7239438295,
+        "source_overall_dimensions_XYZ_m": [
+          1.2000001669,
+          0.7261451081,
+          0.6941281259
+        ],
+        "feet_dimensions_width_depth_height_m": [
+          0.0800000429,
+          0.5999999642,
+          0.0300000496
+        ],
+        "feet_center_X_m": [
+          -0.5300005078,
+          0.530000031
+        ],
+        "feet_center_Z_m": -0.0045641363,
+        "column_width_depth_m": [
+          0.0600003,
+          0.09000015
+        ],
+        "source_rounding_note": "CAD desktop1200\u00d7685mm differs by about1.1mm in width and0.8mm in depth from47.2\u00d727in specification. Preserve official geometry and disclose source rounding; do not rescale the complete desk to nominal48in.",
+        "color_note": "Rematerialization to Black Oak/Charcoal, if chosen, must be documented rather than described as an exact-color manufacturer GLB."
+      },
+      "official_photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-blackoak-charcoal-official.jpg",
+          "url": "https://www.branchfurniture.com/cdn/shop/files/Tria_SD_2026June_Branch_0026_V1_1_-_Copy.webp",
+          "sha256": "9e6d08eb15c794ad42fc1170cc5c7d6e7a1772129d8f392686a36345c9ff3f08",
+          "bytes": 237363,
+          "description": "Official Black Oak/Charcoal finish photograph; depicted size is not independently established, so use official GLB/specification for dimension evidence.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1080,
+            1080
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "availability_note": {
+        "official_shopify_available": true,
+        "shipping_destination_not_tested": true
+      },
+      "room_layout_authorization": {
+        "desk_center_room_XY_m": [
+          -6.915,
+          -0.131
+        ],
+        "shift_from_prior_center_m": [
+          0.035,
+          0
+        ],
+        "basis": "Root-approved read-only supplier-foot fit proof. Other layout placements maintained by layout/model agent."
+      }
+    },
+    {
+      "id": "lagkapten-alex-black-components",
+      "name": "IKEA LAGKAPTEN / ALEX / ADILS component project bench",
+      "selected_color": "Black-brown top and ALEX drawers; black ADILS legs",
+      "dimensions_m_W_D_H": [
+        1.4,
+        0.6,
+        0.73
+      ],
+      "price_USD": 179.99,
+      "quantity": 1,
+      "line_total_USD": 179.99,
+      "source_url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+      "price_checked_date": "2026-10-08",
+      "currency": "USD",
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "official_photos": [],
+      "nominal_dimensions_note": "Manufacturer nominal catalogue dimensions; not physically measured.",
+      "components": [
+        {
+          "id": "lagkapten-top-black",
+          "name": "IKEA LAGKAPTEN tabletop",
+          "selected_color": "Black-brown",
+          "dimensions_m_W_D_H": [
+            1.4,
+            0.6,
+            0.034925
+          ],
+          "price_USD": 49.99,
+          "quantity": 1,
+          "line_total_USD": 49.99,
+          "source_url": "https://www.ikea.com/us/en/p/lagkapten-tabletop-black-brown-80487016/",
+          "price_checked_date": "2026-10-08",
+          "currency": "USD",
+          "selection_status": "Design recommendation only; not purchased",
+          "official_photos": [
+            {
+              "file": "/workspace/his-office-pinterest/products/photos/lagkapten-top-black.jpg",
+              "url": "https://www.ikea.com/us/en/images/products/lagkapten-tabletop-black-brown__0977796_pe813779_s5.jpg",
+              "sha256": "ed8e765f79aad7d8b10af94e9d65e8256b3bc61e9795cb27e3bdd8819fe982a9",
+              "bytes": 46194,
+              "pixel_dimensions": [
+                1400,
+                1400
+              ],
+              "role": "Official unmodified original retailer product photo",
+              "pixels_edited": false,
+              "visually_inspected": true
+            }
+          ],
+          "nominal_dimensions_note": "Manufacturer nominal catalogue dimensions; not physically measured.",
+          "sku": "804.870.16",
+          "source_page_file": "/workspace/his-office-pinterest/products/source-pages/lagkapten-top-black.html",
+          "availability_note": "Official page metadata lists InStock; destination-specific IKEA store and delivery availability not verified without ZIP."
+        },
+        {
+          "id": "alex-black-drawers",
+          "name": "IKEA ALEX five-drawer unit",
+          "selected_color": "Black-brown",
+          "dimensions_m_W_D_H": [
+            0.36,
+            0.58,
+            0.7
+          ],
+          "price_USD": 115,
+          "quantity": 1,
+          "line_total_USD": 115,
+          "source_url": "https://www.ikea.com/us/en/p/alex-drawer-unit-black-brown-60473548/",
+          "price_checked_date": "2026-10-08",
+          "currency": "USD",
+          "selection_status": "Design recommendation only; not purchased",
+          "official_photos": [
+            {
+              "file": "/workspace/his-office-pinterest/products/photos/alex-black-drawers.jpg",
+              "url": "https://www.ikea.com/us/en/images/products/alex-drawer-unit-black-brown__0977786_pe813770_s5.jpg",
+              "sha256": "a9cd20196a7a4998a87c0eddc64a827f16dd6b03f5fbbf34e1d3bd6f1f31ede9",
+              "bytes": 103609,
+              "pixel_dimensions": [
+                1400,
+                1400
+              ],
+              "role": "Official unmodified original retailer product photo",
+              "pixels_edited": false,
+              "visually_inspected": true
+            }
+          ],
+          "nominal_dimensions_note": "Manufacturer nominal catalogue dimensions; not physically measured.",
+          "sku": "604.735.48",
+          "source_page_file": "/workspace/his-office-pinterest/products/source-pages/alex-black-drawers.html",
+          "availability_note": "Official page metadata lists InStock; destination-specific IKEA store and delivery availability not verified without ZIP."
+        },
+        {
+          "id": "adils-black-leg",
+          "name": "IKEA ADILS leg",
+          "selected_color": "Black",
+          "dimensions_m_W_D_H": [
+            null,
+            null,
+            0.7
+          ],
+          "price_USD": 7.5,
+          "quantity": 2,
+          "line_total_USD": 15.0,
+          "source_url": "https://www.ikea.com/us/en/p/adils-leg-black-70217973/",
+          "price_checked_date": "2026-10-08",
+          "currency": "USD",
+          "selection_status": "Design recommendation only; not purchased",
+          "official_photos": [
+            {
+              "file": "/workspace/his-office-pinterest/products/photos/adils-black-leg.jpg",
+              "url": "https://www.ikea.com/us/en/images/products/adils-leg-black__0734618_pe739551_s5.jpg",
+              "sha256": "6a19fbca3e1eea8f807fa12dddfd8466e42f5e2e1e5b6f5da2ce86ffb9c58f28",
+              "bytes": 26598,
+              "pixel_dimensions": [
+                1400,
+                1400
+              ],
+              "role": "Official unmodified original retailer product photo",
+              "pixels_edited": false,
+              "visually_inspected": true
+            }
+          ],
+          "nominal_dimensions_note": "Manufacturer nominal catalogue dimensions; not physically measured.",
+          "sku": "702.179.73",
+          "source_page_file": "/workspace/his-office-pinterest/products/source-pages/adils-black-leg.html",
+          "availability_note": "Official page metadata lists InStock; destination-specific IKEA store and delivery availability not verified without ZIP."
+        }
+      ],
+      "office_storage": "Five drawers in LEFT ALEX pedestal; two ADILS legs at RIGHT end; never add a second pedestal that narrows knee bay.",
+      "geometry": {
+        "top_W_D_m": [
+          1.4,
+          0.6
+        ],
+        "pedestal_W_D_H_m": [
+          0.36,
+          0.58,
+          0.7
+        ],
+        "pedestal_count": 1,
+        "calculated_knee_width_before_leg_setback_m": 1.04
+      },
+      "limits": "Honeycomb top is not suitable for a mounted screen stand. Use ordinary desk-foot monitor, not a clamp monitor arm. Retailer maximum evenly distributed load110lb, concentrated load33lb. Assembled height73cm nominal; retailer top thickness1 3/8in=34.925mm and adjustable legs can require leveling during assembly.",
+      "availability_note": "All three real components verified individually at US retailer. There is no claimed exact single-drawer black bundle SKU. Rejected495.214.90 is a door cabinet;895.214.93 has two pedestals."
+    },
+    {
+      "id": "storklinta-dark-brown",
+      "name": "IKEA STORKLINTA three-drawer dresser",
+      "color": "Dark-brown/oak effect",
+      "sku": "605.592.93",
+      "price_USD": 149.99,
+      "dimensions_m_W_D_H": [
+        0.6985,
+        0.479425,
+        0.7493
+      ],
+      "official_dimensions_US_inches_W_D_H": [
+        27.5,
+        18.875,
+        29.5
+      ],
+      "source_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/",
+      "function": "Three closed folded-clothes drawers; same storage and exact footprint as oak version",
+      "fit_note": "Proper wall anchoring is mandatory installation. At most one drawer can open before Anchor/Unlock attachment; attachment permits more than one. Confirm suitable wall fixing/spacer against the brick or move dresser closer during installation. Render does not verify hardware reach.",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg",
+        "image_url": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1590138_pe1038779_s5.jpg",
+        "sha256": "476e45c2d8457c3ad3532c1c9acb1a03262d832248bc5cba834a77ea9f467d2f",
+        "pixel_dimensions": [
+          1400,
+          1400
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true
+      },
+      "source_evidence": [
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/storklinta-dark-brown.html",
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/storklinta-dark-brown-extracted.json"
+      ],
+      "quantity": 1,
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "selected_color": "Dark-brown/oak effect",
+      "price_checked_date": "2026-10-08",
+      "line_total_USD": 149.99,
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg",
+          "image_url": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1590138_pe1038779_s5.jpg",
+          "sha256": "476e45c2d8457c3ad3532c1c9acb1a03262d832248bc5cba834a77ea9f467d2f",
+          "pixel_dimensions": [
+            1400,
+            1400
+          ],
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "official_image_file": "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg",
+      "storage_capacity_cuft": 4.2,
+      "storage_capacity_m3": 0.118930757184,
+      "verified_inside_drawer_W_D_m": [
+        0.6096,
+        0.40005
+      ],
+      "verified_drawer_pullout_m": 0.276225,
+      "installation_requirement_note": "Proper wall anchoring is mandatory installation. At most one drawer can open before Anchor/Unlock attachment; attachment permits more than one. Confirm suitable wall fixing/spacer against the brick or move dresser closer during installation. Render does not verify hardware reach."
+    },
+    {
+      "id": "grejig-shoes",
+      "category": "shoes",
+      "name": "IKEA GREJIG stackable shoe rack",
+      "selected_color": "Gray",
+      "dimensions_m_W_D_H": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "price_USD": 4.99,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.ikea.com/us/en/p/grejig-shoe-rack-gray-20620061/",
+      "official_image_file": "/workspace/his-office-pinterest/products/photos/grejig-shoes.jpg",
+      "official_image_urls": [
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1499925_pe1006838_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505589_pe1008585_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505588_pe1008583_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505590_pe1008584_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1420839_pe977507_s5.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-pinterest/products/source-pages/grejig-shoes.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "sku": "206.200.61",
+      "max_stack_quantity": 3,
+      "capacity_pairs_per_unit": 3,
+      "placement_intent": "Inside the bottom of existing closet if its internal depth/width allows, preserving hanging access and approach.",
+      "material": "Powder-coated steel wire/mesh; actual official photo governs appearance.",
+      "quantity": 3,
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/grejig-shoes.jpg",
+          "url": "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1499925_pe1006838_s5.jpg",
+          "sha256": "e0cdce879fa00d0f1f08c0e8dffb7ba75a8134493d4dba40eee7d70f9a28224b",
+          "bytes": 93610,
+          "pixel_dimensions": [
+            1400,
+            1400
+          ],
+          "role": "Official unmodified original retailer product photo",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "price_checked_date": "2026-10-08",
+      "line_total_USD": 14.97,
+      "availability_note": "Official metadata InStoreOnly on2026-10-08; local IKEA stock unverified. Inside-closet fit and shoe height clearance remain conditional."
+    },
+    {
+      "id": "branch-pro",
+      "category": "task_seating",
+      "name": "Branch Ergonomic Chair Pro, mesh / standard cylinder",
+      "selected_color": "Black",
+      "dimensions_m_W_D_H": [
+        0.635,
+        0.6096,
+        1.04648
+      ],
+      "price_USD": 499,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro",
+      "official_image_file": "/workspace/his-office-pinterest/products/photos/branch-pro-selected.jpg",
+      "official_image_urls": [
+        "https://cdn.shopify.com/s/files/1/0124/5662/4187/files/ERGPRO_RENDER1_-1.jpg?v=1774561270"
+      ],
+      "source_page_file": "/workspace/his-office-pinterest/products/source-pages/branch-pro.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "sku": "40553208840227",
+      "selected_variant_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "height_range_m": [
+        0.9652,
+        1.04648
+      ],
+      "base_diameter_m": 0.70104,
+      "collision_footprint_m": [
+        0.70104,
+        0.70104
+      ],
+      "material": "Black mesh back, upholstered black seat, black 5-star caster base.",
+      "function": "14 adjustments, 5D armrests, height/depth adjustable lumbar, seat-depth and forward-tilt adjustments; available black variant.",
+      "limits": "Base is wider than the advertised body width; plan 70.1 cm rolling footprint plus movement.",
+      "quantity": 1,
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/branch-pro-selected.jpg",
+          "url": "https://cdn.shopify.com/s/files/1/0124/5662/4187/files/ERGPRO_RENDER1_-1.jpg?v=1774561270",
+          "sha256": "4998c1152afd03dc1a2fd908f2c53e5275759f835117feedef62891f60c0e0b7",
+          "bytes": 174646,
+          "pixel_dimensions": [
+            2016,
+            2016
+          ],
+          "role": "Official unmodified original retailer product photo",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "price_checked_date": "2026-10-08",
+      "line_total_USD": 499,
+      "availability_note": "Exact Black mesh/StandardCylinder variant40553208840227 page permits ordering and metadata InStock; do not infer immediate shipment or local physical inventory."
+    },
+    {
+      "id": "ekenaset-axvall-gray-blue",
+      "name": "IKEA EKEN\u00c4SET armchair",
+      "color": "Walnut effect / Axvall dark gray-blue",
+      "sku": "506.243.26",
+      "price_USD": 399,
+      "dimensions_m_W_D_H": [
+        0.650875,
+        0.739775,
+        0.7493
+      ],
+      "official_dimensions_US_inches_W_D_H": [
+        25.625,
+        29.125,
+        29.5
+      ],
+      "source_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+      "material": "Boucl\u00e9 polyester upholstery (minimum90%recycled), walnut-effect wood frame",
+      "function": "Compact visitor lounge chair; no ottoman",
+      "fit_note": "This actual new refresh is9.525mm wider,41.275mm shallower and9.525mm lower than prior beige version. Final model must use this variant shape and dimensions, rather than recolor the old one.",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg",
+        "image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+        "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb",
+        "pixel_dimensions": [
+          1400,
+          1400
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true
+      },
+      "source_evidence": [
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-axvall-gray-blue.html",
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-axvall-gray-blue-extracted.json"
+      ],
+      "quantity": 1,
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "selected_color": "Walnut effect / Axvall dark gray-blue",
+      "price_checked_date": "2026-10-08",
+      "line_total_USD": 399,
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg",
+          "image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+          "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb",
+          "pixel_dimensions": [
+            1400,
+            1400
+          ],
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "official_image_file": "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg"
+    },
+    {
+      "id": "rift",
+      "name": "Rift Charcoal Flatwoven Rug",
+      "size": "6\u00d79ft",
+      "bundle": "Flatwoven cover + Standard Pad (not cover-only or Cushioned Pad)",
+      "variant": 42130480070711,
+      "sku": "RUG-SYS-IND-RCT-CHN-MG021-06x09",
+      "price_USD": 369.0,
+      "available_in_official_payload": true,
+      "dimensions_m_W_L": [
+        1.8288,
+        2.7432
+      ],
+      "cover_thickness_m": 0.002,
+      "standard_pad_thickness_m": 0.003175,
+      "nominal_combined_thickness_m": 0.005175,
+      "combined_thickness_note": "Calculated nominal sum of2mm cover and1/8inch pad, not physical measurement.",
+      "source_url": "https://ruggable.com/products/rift-charcoal-rug?variant=42130480070711",
+      "official_variant_data_url": "https://shop.ruggable.com/products/rift-charcoal-rug.js",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg",
+        "image_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/rift-charcoal-A-FLW-MG021-69_bcff7915-f8fa-4462-9e70-1b107a2ea316.jpg?v=1773089745",
+        "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+        "pixel_dimensions": [
+          2400,
+          3000
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true
+      },
+      "source_evidence": [
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/rift-shop-js.json"
+      ],
+      "function": "Low-pile graphic textile under workchair and project bench; exact6\u00d79photograph, no pattern stretching.",
+      "quantity": 1,
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "selected_color": "Charcoal",
+      "price_checked_date": "2026-10-08",
+      "line_total_USD": 369.0,
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg",
+          "image_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/rift-charcoal-A-FLW-MG021-69_bcff7915-f8fa-4462-9e70-1b107a2ea316.jpg?v=1773089745",
+          "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+          "pixel_dimensions": [
+            2400,
+            3000
+          ],
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "official_image_file": "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg",
+      "dimensions_m_W_D_H": [
+        1.8288,
+        2.7432,
+        0.005175
+      ],
+      "caster_compatibility_note": "Manufacturer office-rug guide recommends low-pile FlatwovenTwoPiece for rolling chairs; StandardPad page says low profile works under rolling furniture. Select StandardPad, not cushioned pad. Actual caster feel and flat installation still require on-site check.",
+      "caster_sources": [
+        "https://ruggable.com/collections/office-rugs?page=4",
+        "https://ruggable.com/products/standard-rug-pad"
+      ]
+    },
+    {
+      "id": "dan-hobday-richmond",
+      "name": "Desenio Dan Hobday Richmond print, native landscape100W\u00d770Hcm",
+      "sku": "pre0717-1",
+      "variant_id": 101361,
+      "selected_color": "Muted grays, browns and greens",
+      "dimensions_m_W_D_H": [
+        1,
+        0.001,
+        0.7
+      ],
+      "dimension_note": "Native100\u00d770cm landscape print; image2000\u00d71400px.1mm paper depth is a render approximation, not a manufacturer measurement.",
+      "price_USD": 107,
+      "quantity": 1,
+      "source_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+      "price_checked_date": "2026-10-08",
+      "selection_status": "Selected shared one art print for both B and C; not purchased.",
+      "official_image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+          "url": "https://media.desenio.com/site_images/69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+          "sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+          "pixel_dimensions": [
+            2000,
+            1400
+          ],
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "orientation_note": "Use native landscape original artwork; do not crop, rotate, mirror or stretch. Keep the printed white border and one retained black70\u00d7100frame oriented landscape.",
+      "placement_intent": "ONE print above project bench; positions verified by layout/model agent.",
+      "availability_note": "Current official variant stock=100; destination fulfillment/checkout not tested.",
+      "source_evidence": "/workspace/his-office-pinterest/products/proposal-complements/art/cool-landscape-art-candidates.json",
+      "line_total_USD": 107
+    },
+    {
+      "id": "black-frame-landscape",
+      "name": "Desenio black wood frame,70\u00d7100cm used landscape",
+      "selected_color": "Black",
+      "dimensions_m_W_D_H": [
+        1.0254,
+        0.02286,
+        0.7254
+      ],
+      "price_USD": 101.15,
+      "quantity": 1,
+      "line_total_USD": 101.15,
+      "source_url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+      "price_checked_date": "2026-10-08",
+      "currency": "USD",
+      "selection_status": "Selected shared furniture for both B and C; not purchased.",
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/black-frame-landscape.jpg",
+          "url": "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg",
+          "sha256": "02c2cb64ab2dc5f0f747f3e7613ea0022fed70e1ce8035c5981da24cd5b31c58",
+          "bytes": 101115,
+          "pixel_dimensions": [
+            1000,
+            1404
+          ],
+          "role": "Official unmodified original retailer product photo",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "nominal_dimensions_note": "Manufacturer nominal catalogue dimensions; not physically measured.",
+      "sku": "AASP-50105",
+      "regular_price_USD": 119,
+      "source_page_file": "/workspace/his-office-pinterest/products/source-pages/black-frame-landscape.html",
+      "official_image_file": "/workspace/his-office-pinterest/products/photos/black-frame-landscape.jpg",
+      "picture_opening_m_W_H": [
+        1.0,
+        0.7
+      ],
+      "published_molding_width_m": 0.0127,
+      "published_depth_m": 0.02286,
+      "outside_frame_dimensions_verified": false,
+      "dimension_note": "Retailer molding width0.5in and depth0.9in published. Picture70\u00d7100cm is confirmed by retailer image. Exterior dimensions1.0254\u00d7.7254m assume full molding added outside opening, relation not dimensionedCAD.",
+      "material": "Solid yellow poplar painted black, acrylic front; rear metal hangers permit both portrait and landscape.",
+      "availability_note": "Selected frame InStock; sale$101.15 vs$119 validOctober 8, 2026."
+    }
+  ],
+  "owned_keepers": [
+    {
+      "id": "lamp",
+      "name": "Honeywell 02E Pro Sunturalux LED Floor Lamp, white,10400LM,100W",
+      "asin": "B0C3BVYTXP",
+      "model_number": "HWL-02E Pro",
+      "manufacturer": "Huo Ming Technology Guangdong Co., Ltd (Amazon listing)",
+      "user_url": "https://www.amazon.com/dp/B0C3BVYTXP",
+      "official_product_url": "https://honeywellsmartlighting.com/products/02e-pro",
+      "identification_confidence": "high; exact user ASIN lists model HWL-02E Pro /10400LM; matching authorized storefront SKU HWL-02EPro",
+      "selected_colour": "White",
+      "forms": "OPEN rectangular head with empty center and two narrow LED bars on perimeter; white U-shaped floor base, slim rectangular post and rotary knob. Never turn head into a solid diffuser slab.",
+      "dimensions": {
+        "listed_D_W_H": {
+          "inches": [
+            24.02,
+            11.34,
+            77.5
+          ],
+          "meters": [
+            0.610108,
+            0.288036,
+            1.9685
+          ],
+          "confidence": "high",
+          "source": "Exact ASIN Item Dimensions plus DIMN product image"
+        },
+        "head_length_width_nominal": {
+          "inches": [
+            24,
+            11.3
+          ],
+          "meters": [
+            0.6096,
+            0.28702
+          ],
+          "confidence": "high",
+          "source": "Exact ASIN bullet"
+        },
+        "base_exact_length_width": {
+          "meters": null,
+          "confidence": "unverified",
+          "reason": "Exact U-shaped base is visible, but no separate numeric base dimensions found; listed overall dimensions are not proof of base dimensions."
+        }
+      },
+      "controls": "Rotary knob, on/off and 10\u2013100% stepless dimming per exact ASIN bullets and photographed form",
+      "light_output": {
+        "watts": 100,
+        "lumens": 10400,
+        "kelvin": 4000,
+        "upward_lumens": 7500,
+        "downward_lumens": 2900,
+        "source": "Exact ASIN bullets / authorized storefront images"
+      },
+      "conflicts": [
+        "Bullet height77.4in vs dimensions/image77.5in: use1.9685m overall.",
+        "Amazon structured fields include misleading Base Diameter2in, shade height24in, Wi-Fi/E26/A19 metadata; rejected where they contradict the rectangular integrated-LED product photograph.",
+        "The generic6000LM HWL-02E is a different variant and must not replace the user-confirmed02E Pro."
+      ],
+      "primary_images": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-MAIN.jpg",
+          "url": "https://m.media-amazon.com/images/I/41jkWMsi6EL._AC_SL1500_.jpg",
+          "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8",
+          "bytes": 13936,
+          "pixel_dimensions": [
+            480,
+            1500
+          ],
+          "role": "Exact ASIN isolated product",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-DIMN.jpg",
+          "url": "https://m.media-amazon.com/images/I/51248VH3gvL._AC_SL1500_.jpg",
+          "sha256": "0d2817e76a84a34cc950a73cda4d94229e54b7f11949a2bd0aebb2f9838f3afe",
+          "bytes": 26374,
+          "pixel_dimensions": [
+            714,
+            1500
+          ],
+          "role": "Exact ASIN dimensions",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-official-02e-pro-01.webp",
+          "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-282.webp?v=1778193503",
+          "sha256": "f153d6e4372839179379bb46f826b5ace7074f0fcdbb470ff8b1317851214425",
+          "bytes": 10151,
+          "pixel_dimensions": [
+            800,
+            800
+          ],
+          "role": "Authorized manufacturer storefront isolated product",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-official-02e-pro-06.webp",
+          "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-580.webp?v=1778193530",
+          "sha256": "c0a6e1e4a90b816d1167f179e95b1ba39a54a231181f8eeb683971e071db205e",
+          "bytes": 69974,
+          "pixel_dimensions": [
+            800,
+            800
+          ],
+          "role": "Authorized manufacturer storefront dual-direction output / placement illustration; room is unrelated",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-MAIN.jpg",
+          "url": "https://m.media-amazon.com/images/I/41jkWMsi6EL._AC_SL1500_.jpg",
+          "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8",
+          "bytes": 13936,
+          "pixel_dimensions": [
+            480,
+            1500
+          ],
+          "role": "Exact ASIN isolated product",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-B0C3BVYTXP-DIMN.jpg",
+          "url": "https://m.media-amazon.com/images/I/51248VH3gvL._AC_SL1500_.jpg",
+          "sha256": "0d2817e76a84a34cc950a73cda4d94229e54b7f11949a2bd0aebb2f9838f3afe",
+          "bytes": 26374,
+          "pixel_dimensions": [
+            714,
+            1500
+          ],
+          "role": "Exact ASIN dimensions",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-official-02e-pro-01.webp",
+          "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-282.webp?v=1778193503",
+          "sha256": "f153d6e4372839179379bb46f826b5ace7074f0fcdbb470ff8b1317851214425",
+          "bytes": 10151,
+          "pixel_dimensions": [
+            800,
+            800
+          ],
+          "role": "Authorized manufacturer storefront isolated product",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/honeywell-official-02e-pro-06.webp",
+          "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-580.webp?v=1778193530",
+          "sha256": "c0a6e1e4a90b816d1167f179e95b1ba39a54a231181f8eeb683971e071db205e",
+          "bytes": 69974,
+          "pixel_dimensions": [
+            800,
+            800
+          ],
+          "role": "Authorized manufacturer storefront dual-direction output / placement illustration; room is unrelated",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "owned_status": "User explicitly asked to keep; excluded from new-piece budget."
+    },
+    {
+      "id": "cat_tree",
+      "name": "MUTTROS 59-inch Modern Cat Tree for Large Cats, 3 Wicker Baskets & Condo, Brown",
+      "asin": "B0HHRC6XBC",
+      "model_number": "USA13-AMT0355BN-FBM",
+      "user_url": "https://a.co/d/0578xA7h",
+      "canonical_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+      "brand_store_url": "https://www.amazon.com/stores/MUTTROS/page/BEC64763-84E5-490A-ADCF-0ADD69DC95AD",
+      "identification_confidence": "high; exact user shortlink resolves to this ASIN and title/colour/quantity match the requested screenshot",
+      "selected_colour": "Brown",
+      "forms": "Three handwoven wicker basket beds on natural pear-wood branching trunks, brown fleece-lined suspended hammock, bottom round condo, brown carpeted rectangular base, sisal-wrapped posts.",
+      "dimensions": {
+        "height": {
+          "inches": 59,
+          "meters": 1.4986,
+          "confidence": "high",
+          "source": "Exact ASIN dimensional graphic PT04"
+        },
+        "base": {
+          "inches": [
+            23.6,
+            22
+          ],
+          "meters": [
+            0.59944,
+            0.5588
+          ],
+          "confidence": "high",
+          "source": "Exact ASIN PT04/PT02 dimensional graphics and stability bullet"
+        },
+        "listing_item_dimensions": {
+          "inches": [
+            23.5,
+            22,
+            59
+          ],
+          "meters": [
+            0.5969,
+            0.5588,
+            1.4986
+          ],
+          "confidence": "high that these are listed, but low as complete assembled envelope",
+          "source": "Exact ASIN Product Dimensions / Item Dimensions L x W x H"
+        },
+        "top_basket_width": {
+          "inches": 17.7,
+          "meters": 0.44958,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "upper_side_basket_width": {
+          "inches": 15,
+          "meters": 0.381,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "hammock_width": {
+          "inches": 15.7,
+          "meters": 0.39878,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "condo_width": {
+          "inches": 15.7,
+          "meters": 0.39878,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "condo_height": {
+          "inches": 12,
+          "meters": 0.3048,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "condo_opening_height": {
+          "inches": 9.8,
+          "meters": 0.24892,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "base_thickness": {
+          "inches": 1.5,
+          "meters": 0.0381,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "post_diameter": {
+          "inches": 3.5,
+          "meters": 0.0889,
+          "confidence": "high",
+          "source": "Exact ASIN PT02 graphic and bullet"
+        },
+        "total_branch_and_basket_projection": {
+          "meters": null,
+          "confidence": "unverified",
+          "reason": "No published overall basket-to-basket width, plan-view depth, or branch centre offsets found. Exact product photos visibly extend beyond the base on both sides. Base dimensions do not bound the assembled tree."
+        }
+      },
+      "conflicts": [
+        "Listing23.5in length vs graphics/base bullet23.6in: use0.59944m base for conservative nominal fit.",
+        "The reported item footprint matches the base even though basket photographs overhang it; do not treat it as an assembled bounding box."
+      ],
+      "layout_guidance": "Model the visible branching silhouette with three wicker baskets, condo, hammock. Check high-level basket clearance separately from floor base. Do not assert exact branch offsets or a precisely measured overall envelope.",
+      "image_provenance": "Brand-labelled product photographs and dimensional diagrams supplied on the exact Amazon listing. Independent manufacturer-site provenance not established; no affiliate-site image substituted.",
+      "primary_images": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-PT04.jpg",
+          "url": "https://m.media-amazon.com/images/I/7118G4munXL._AC_SL1500_.jpg",
+          "sha256": "e34a20b0f167cdadc41a18a97900bf6d0a2793f23996c2d68ddd063abe498506",
+          "bytes": 167476,
+          "pixel_dimensions": [
+            1500,
+            1500
+          ],
+          "role": "Exact product dimensional diagram; best model reference without lifestyle cats",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-MAIN.jpg",
+          "url": "https://m.media-amazon.com/images/I/81sFaB2T43L._AC_SL1500_.jpg",
+          "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749",
+          "bytes": 484809,
+          "pixel_dimensions": [
+            1500,
+            1500
+          ],
+          "role": "Exact product lifestyle photograph; form and brown colour",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-PT03.jpg",
+          "url": "https://m.media-amazon.com/images/I/81JAvbAGkRL._AC_SL1500_.jpg",
+          "sha256": "621fccfd8329b6801a8521b594bbafd4c45548a45fc57476f0f7f3892770923b",
+          "bytes": 298901,
+          "pixel_dimensions": [
+            1500,
+            1500
+          ],
+          "role": "Alternate elevated angle; branch/hammock/base relationships",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-PT04.jpg",
+          "url": "https://m.media-amazon.com/images/I/7118G4munXL._AC_SL1500_.jpg",
+          "sha256": "e34a20b0f167cdadc41a18a97900bf6d0a2793f23996c2d68ddd063abe498506",
+          "bytes": 167476,
+          "pixel_dimensions": [
+            1500,
+            1500
+          ],
+          "role": "Exact product dimensional diagram; best model reference without lifestyle cats",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-MAIN.jpg",
+          "url": "https://m.media-amazon.com/images/I/81sFaB2T43L._AC_SL1500_.jpg",
+          "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749",
+          "bytes": 484809,
+          "pixel_dimensions": [
+            1500,
+            1500
+          ],
+          "role": "Exact product lifestyle photograph; form and brown colour",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/muttros-B0HHRC6XBC-PT03.jpg",
+          "url": "https://m.media-amazon.com/images/I/81JAvbAGkRL._AC_SL1500_.jpg",
+          "sha256": "621fccfd8329b6801a8521b594bbafd4c45548a45fc57476f0f7f3892770923b",
+          "bytes": 298901,
+          "pixel_dimensions": [
+            1500,
+            1500
+          ],
+          "role": "Alternate elevated angle; branch/hammock/base relationships",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "owned_status": "User explicitly asked to keep; excluded from new-piece budget."
+    }
+  ],
+  "research_date": "2026-10-08",
+  "date_timezone": "America/New_York",
+  "total_new_items_before_tax_shipping_USD": 2569.1,
+  "price_note": "October8research price references. No purchases. Shared furniture subtotal counts each component project-bench assembly once and one Branch task chair. Paint quantity/cost pending actual takeoff.",
+  "dimensions_note": "Use actual selected variants and supplierCAD; do not recolor old visitor shape. SupplierCAD source rounding is disclosed. Frame outside dimensions remain an assumption based on published molding profile, not verifiedCAD. Scan shell/layout and installation attachment checks are separate.",
+  "image_provenance_note": "Downloaded original supplier/retailer product-image bytes retained with source URLs and SHA256. Colors in photos guide visual appearance, not laboratory color matching. Supplier Tria GLB is Woodgrain/White; rematerialize to actual Black Oak/Charcoal finish with disclosure. No vendor AI room illustration presented as a real photograph.",
+  "rejected_candidates": [
+    {
+      "id": "lagkapten-alex-black-49521490",
+      "reason": "Single DOOR cabinet, not five drawers. Not selected."
+    },
+    {
+      "id": "lagkapten-alex-black-89521493",
+      "reason": "Two pedestal units reduce open knee width. Not selected."
+    },
+    {
+      "id": "art-monochrome-mist",
+      "reason": "Actual portrait photograph does not match desired single wide format. Not selected."
+    }
+  ],
+  "source_checkpoints": [
+    "/workspace/his-office-pinterest/products/checkpoints/selected-products-warm-uplift-checkpoint-2026-10-08.json"
+  ],
+  "wall_finish_records_file": "/workspace/his-office-pinterest/products/wall-finish-candidates/wall-finish-proposals.json",
+  "lighting_note": "Use existing overhead light with a neutral/cool visual presentation and an optional evening wall wash. Existing fixture dimmability, exact CCT and illuminance are unverified; no new ceiling fixture or electrical change is selected.",
+  "owned_history": [
+    {
+      "id": "desk",
+      "name": "Existing UPLIFT V2 Standing Desk, Pheasantwood solid wood barkline top, Industrial Style C-frame",
+      "owned_variant_source": "User order screenshot details transcribed by parent agent; user-confirmed desktop42\u00d730in, two brushed nickel grommet covers, V2 two-leg C-frame and27-inch industrial-style feet/side brackets.",
+      "identification_confidence": "high for user-confirmed order attributes; official photos are finish/form references, not a photograph of the owned unit",
+      "dimensions": {
+        "owned_desktop_width_depth": {
+          "inches": [
+            42,
+            30
+          ],
+          "meters": [
+            1.0668,
+            0.762
+          ],
+          "confidence": "high",
+          "source": "User order screenshot"
+        },
+        "desktop_thickness": {
+          "inches": 1.75,
+          "meters": 0.04445,
+          "confidence": "high for official Pheasantwood Live Edge product",
+          "source": "Official Desktop Lookbook"
+        },
+        "frame_foot_length": {
+          "inches": 27.6,
+          "meters": 0.70104,
+          "confidence": "high official V2 C-frame spec; user order rounds to27in",
+          "source": "Official selected option6667 and V2 spec PDF"
+        },
+        "frame_only_height_range": {
+          "inches": [
+            24.3,
+            49.9
+          ],
+          "meters": [
+            0.61722,
+            1.26746
+          ],
+          "confidence": "high",
+          "source": "Official V2 specification PDF"
+        },
+        "overall_height_range_with_confirmed_top": {
+          "inches": [
+            26.05,
+            51.65
+          ],
+          "meters": [
+            0.66167,
+            1.31191
+          ],
+          "confidence": "calculated nominal, not measured; includes1.75in top",
+          "source": "Official frame range plus official Pheasantwood thickness"
+        },
+        "frame_width_adjustable": {
+          "inches": [
+            41.3,
+            72.2
+          ],
+          "meters": [
+            1.04902,
+            1.83388
+          ],
+          "confidence": "high",
+          "source": "Official V2 spec PDF"
+        }
+      },
+      "finish": "Pheasantwood solid hardwood: irregular golden amber, dark brown and black figuring; barkline/live edge on front and square rear for grommet version. Industrial Style is a tinted clear powdercoat that shows raw steel character, not opaque white/black paint. Two brushed nickel grommet covers from user order.",
+      "model_guidance": "Use exact1.0668\u00d7.762m top and0.04445m thickness. Front edge is live/barkline, rear square. Do not enlarge to the wider top shown in catalog photos. Existing purchase is not a new furniture cost.",
+      "source_urls": [
+        "https://www.upliftdesk.com/desktop-lookbook/",
+        "https://checkout.upliftdesk.com/test-uplift-2-leg-standing-desk-frame/",
+        "https://www.upliftdesk.com/crossbar-rail-for-uplift-standing-desks/",
+        "https://www.content.upliftdesk.com/content/pdfs/desks-and-frames/frma-2-srd-c-v2-standing-desk-spec-sheet.pdf"
+      ],
+      "primary_images": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-overhead.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/5udLuWgwolYTsTyS1lt4Ve/2697c1defae13bb34a8a4126557191de/live-edge-pheasantwood-overhead.jpg",
+          "sha256": "ee19930e48a99e94dd4c361b36bd4c8ceab820c447bf245c9151a887158cb376",
+          "bytes": 202364,
+          "pixel_dimensions": [
+            1380,
+            754
+          ],
+          "role": "Official matching wood/edge finish; catalog width unspecified",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-front.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/26dZz6pXZvbkmYgmnD8JCo/ca9431f07851e327bdcb95da3c0ac38c/live-edge-pheasantwood-front.jpg",
+          "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+          "bytes": 40727,
+          "pixel_dimensions": [
+            1380,
+            185
+          ],
+          "role": "Official matching barkline front; catalog width unspecified",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-side.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/3VTJFggcSWY6Ryd6kTkWwH/0ac532c4776cbbab7bbf5b20af493577/live-edge-pheasantwood-side.jpg",
+          "sha256": "d73a342602ab2278032b6825a6719a3bedec1602bae9cc7fffd756752e2ce9a7",
+          "bytes": 54338,
+          "pixel_dimensions": [
+            1380,
+            240
+          ],
+          "role": "Official matching thickness and square rear / grommets; catalog width unspecified",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-v2-c-frame-industrial-official.png",
+          "url": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280x1280/products/818/6352/desk-build-v2-frame-60-metallic__28533.1579303493.png?c=2",
+          "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4",
+          "bytes": 55191,
+          "pixel_dimensions": [
+            612,
+            443
+          ],
+          "role": "Official selected V2 C-frame industrial finish",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "official_photos": [
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-overhead.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/5udLuWgwolYTsTyS1lt4Ve/2697c1defae13bb34a8a4126557191de/live-edge-pheasantwood-overhead.jpg",
+          "sha256": "ee19930e48a99e94dd4c361b36bd4c8ceab820c447bf245c9151a887158cb376",
+          "bytes": 202364,
+          "pixel_dimensions": [
+            1380,
+            754
+          ],
+          "role": "Official matching wood/edge finish; catalog width unspecified",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-front.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/26dZz6pXZvbkmYgmnD8JCo/ca9431f07851e327bdcb95da3c0ac38c/live-edge-pheasantwood-front.jpg",
+          "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+          "bytes": 40727,
+          "pixel_dimensions": [
+            1380,
+            185
+          ],
+          "role": "Official matching barkline front; catalog width unspecified",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-live-edge-pheasantwood-side.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/3VTJFggcSWY6Ryd6kTkWwH/0ac532c4776cbbab7bbf5b20af493577/live-edge-pheasantwood-side.jpg",
+          "sha256": "d73a342602ab2278032b6825a6719a3bedec1602bae9cc7fffd756752e2ce9a7",
+          "bytes": 54338,
+          "pixel_dimensions": [
+            1380,
+            240
+          ],
+          "role": "Official matching thickness and square rear / grommets; catalog width unspecified",
+          "pixels_edited": false,
+          "visually_inspected": true
+        },
+        {
+          "file": "/workspace/his-office-pinterest/products/photos/uplift-v2-c-frame-industrial-official.png",
+          "url": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280x1280/products/818/6352/desk-build-v2-frame-60-metallic__28533.1579303493.png?c=2",
+          "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4",
+          "bytes": 55191,
+          "pixel_dimensions": [
+            612,
+            443
+          ],
+          "role": "Official selected V2 C-frame industrial finish",
+          "pixels_edited": false,
+          "visually_inspected": true
+        }
+      ],
+      "owned_status": "User explicitly asked to keep; excluded from new-piece budget.",
+      "design_status": "Owned UPLIFT retained as source history; replaced in current shared B/C room design."
+    }
+  ],
+  "budgets": {
+    "shared_new_furniture_before_tax_shipping_USD": 2569.1,
+    "B_panel_quantity": 3,
+    "B_panel_subtotal_USD": 584.85,
+    "B_shared_furniture_plus_panels_USD": 3153.95,
+    "B_pending_costs": [
+      "Peppercorn paint quantity/paint system",
+      "panel end trims",
+      "substrate attachment/install",
+      "tax/shipping"
+    ],
+    "C_shared_furniture_USD": 2569.1,
+    "C_pending_costs": [
+      "Naval paint quantity/paint system and substrate preparation",
+      "tax/shipping"
+    ],
+    "owned_keeper_purchase_cost_USD": 0
+  },
+  "designs": {
+    "B": {
+      "direction": "B Charcoal + Slat Bay",
+      "id": "woodupp_black_ash_black_felt",
+      "brand": "WoodUpp",
+      "name": "Akupanel Natural Wood Black Ash/Black Felt",
+      "sku": "1013",
+      "variant_id": 52516140613979,
+      "price_usd": 194.95,
+      "available": true,
+      "url": "https://woodupp.com/products/akupanel-acoustic-panel-natural-wood-black-ash-black-felt-240-x-60-cm",
+      "dimensions_m": [
+        0.6,
+        0.022,
+        2.4
+      ],
+      "coverage_m2": 1.44,
+      "weight_kg": 12.5,
+      "materials": "MDF slats faced with real wood veneer; acoustic PET felt with50%recycled plastic. Natural grain/finish variation expected.",
+      "chosen_design_quantity": 3,
+      "chosen_design_material_subtotal_usd": 584.85,
+      "proposed_bay": "User chose B as one of two designs; root specified a bounded 1.8m-wide \u00d7 2.4m-high bay of three full-width panels behind the project bench. Material subtotal $584.85 excludes end trims/install/tax/shipping. The geometry/installation agent verifies final attachment and positioning.",
+      "surrounding_workwall_color": {
+        "brand": "Sherwin-Williams",
+        "name": "Peppercorn SW7674",
+        "hex": "#585858",
+        "rgb": [
+          88,
+          88,
+          88
+        ],
+        "url": "https://www.sherwin-williams.com/en-us/color/color-family/neutral-paint-colors/SW7674-peppercorn",
+        "source": "Official ColorSnap RGB/HEX PDF",
+        "note": "Matte neutral charcoal color proposal surrounding the bay; paint system and final physical sample remain to specify."
+      },
+      "room_impact": "Direct-wall installation projects22mm.2.4m-high panels beneath3.02m ceiling leave an intentional0.62m upper band rather than inventing3.02m product height. Additional battens/acoustic insulation increase projection if selected.",
+      "installation": "Manufacturer specifies15screws per panel through felt, with appropriate plugs, or mounting adhesive. Either installation may leave wall damage; construction adhesive is not peel-and-stick/rental-removable. Check suitable substrate and attachment after user direction choice.",
+      "acoustic_note": "Manufacturer ClassA claim requires its tested installation system; do not promise ClassA for simple direct mounting. Acoustic performance is not simulated in this proposal.",
+      "visual_notes": "Original close-up reads cool gray-black and restrained. RusticGreyOak and Wood-like BlackOak samples read noticeably warmer; actual BlackAsh preferred.",
+      "photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-0.jpg",
+          "url": "https://cdn.shopify.com/s/files/1/0956/1561/5323/files/1013_akupanel_tonal_blackash_blackfelt_01_b54b5be3-9e58-4c79-b14d-8a47f1707f83.jpg?v=1777062202",
+          "sha256": "765036d6c5b013e3e7ed48f94bec5ac11f8a667c53e14038bdee05d0dfea042c",
+          "bytes": 93638,
+          "description": "Official overall product panel photo, not a room illustration.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1639,
+            2048
+          ],
+          "format": "JPEG"
+        },
+        {
+          "path": "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-2.jpg",
+          "url": "https://cdn.shopify.com/s/files/1/0956/1561/5323/files/1013_akupanel_tonal_black_ash_black_felt_03.jpg?v=1777062017",
+          "sha256": "c6b274f7d2859262641435cac7ebdec7b433df263683f125675f81f7f80f1cb8",
+          "bytes": 712345,
+          "description": "Original official BlackAsh veneer/felt close-up.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1639,
+            2048
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "source_page_file": "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-page.html",
+      "vendor_image_note": "Vendor environment filenames explicitly marked_AI were excluded; no AI lifestyle image is presented as real installed-room photography."
+    },
+    "C": {
+      "direction": "C Ink Studio",
+      "id": "sherwin_williams_naval_sw6244",
+      "brand": "Sherwin-Williams",
+      "name": "Naval SW6244 paint color",
+      "url": "https://www.sherwin-williams.com/en-us/color/color-family/blue-paint-colors/SW6244-naval",
+      "rgb": [
+        47,
+        61,
+        76
+      ],
+      "hex": "#2F3D4C",
+      "color_evidence": "RGB/HEX verified directly in the downloaded official ColorSnap PDF; primary Naval color page also downloaded.",
+      "rgb_source": "https://images.sherwin-williams.com/content_images/sw-pdf-sherwin-williams-colorc.pdf",
+      "source_page_file": "/workspace/his-office-pinterest/products/wall-finish-candidates/sherwin-naval-page.html",
+      "chosen_scope": "Separate C design: plain deep ink-blue workwall, no slats. Existing brick, window, closet and all shared furniture geometry retained.",
+      "paint_system_note": "Matte/flat finish is a design preference; actual paint line, primer/substrate preparation and quantity not selected. Requires repainting to restore a rental. Sample physical color under actual daylight and overhead light; RGB is screen reference only."
+    }
+  }
+}

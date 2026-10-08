@@ -1,0 +1,462 @@
+{
+  "checkpoint": "Root-approved UPLIFT checkpoint. Refresh if standing desk geometry or any floor footprint changes.",
+  "native_source_file": "/workspace/his-office-pinterest/model/his-office-pinterest-design.blend",
+  "native_source_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "canonical_layout_file": "/workspace/his-office-pinterest/model/layout.json",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "native_proof_file": "/workspace/his-office-pinterest/layout/chair-transfer-native-check.json",
+  "native_proof_sha256": "3d01d6e3e6fe8d9bcfd7fb9fb4e4e8db28c35a52c5838993f9666f28fc2026eb",
+  "method": "Continuous caster-center polyline expanded by official 70.104 cm circle against conservativeXY AABBs of fresh native components entering lowest20cm above floor. Desktop/overhead parts excluded from floor sweep; full chair sampled 3D surface check separately includes them.",
+  "waypoints_blender_xy_m": [
+    [
+      -6.82,
+      -0.85
+    ],
+    [
+      -6.82,
+      -0.95
+    ],
+    [
+      -5.4225,
+      -0.95
+    ],
+    [
+      -5.4225,
+      -0.6
+    ]
+  ],
+  "steps": [
+    "Pull primary chair10cm back",
+    "Slide right139.75cm while behind both desktops",
+    "Approach35cm toward projectbench knee bay"
+  ],
+  "center_path_length_m": 1.8475000000000001,
+  "chair_caster_diameter_m": 0.70104,
+  "clear_knee_bay_x_interval_m": [
+    -5.87000036239624,
+    -4.975000381469727
+  ],
+  "clear_knee_bay_width_m": 0.8949999809265137,
+  "bench_seated_center_m": [
+    -5.4225,
+    -0.6
+  ],
+  "caster_side_margins_when_advanced_under_bench_m": [
+    0.09698036239623953,
+    0.09697961853027337
+  ],
+  "continuous_caster_disk_sweep_clear_of_all_tested_floor_components": true,
+  "minimum_floor_component_clearance_m": 0.11654187021266466,
+  "entire_caster_sweep_within_measured_room_outline": true,
+  "entire_caster_sweep_on_6x9_rug": true,
+  "minimum_rug_edge_margin_m": 0.06387999999999994,
+  "rug_dimensions_xy_m": [
+    2.7432,
+    1.8288
+  ],
+  "obstacles": [
+    {
+      "name": "secondary-workspace::official alex-drawers part0",
+      "group": "secondary-workspace",
+      "conservative_xy_bbox_m": [
+        -6.230000019073486,
+        -5.87000036239624,
+        -0.3400000035762787,
+        0.23999999463558197
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.16702861847472955,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "secondary-workspace::right black ADILS leg",
+      "group": "secondary-workspace",
+      "conservative_xy_bbox_m": [
+        -4.975000381469727,
+        -4.925000190734863,
+        -0.31300002336502075,
+        -0.2630000114440918
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.18110476914946233,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "secondary-workspace::black adjustment foot",
+      "group": "secondary-workspace",
+      "conservative_xy_bbox_m": [
+        -4.975000381469727,
+        -4.925000190734863,
+        -0.31300002336502075,
+        -0.2630000114440918
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.18110476914946233,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "secondary-workspace::right black ADILS leg.001",
+      "group": "secondary-workspace",
+      "conservative_xy_bbox_m": [
+        -4.975000381469727,
+        -4.925000190734863,
+        0.16300000250339508,
+        0.21300001442432404
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.5340278576114021,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "secondary-workspace::black adjustment foot.001",
+      "group": "secondary-workspace",
+      "conservative_xy_bbox_m": [
+        -4.975000381469727,
+        -4.925000190734863,
+        0.16300000250339508,
+        0.21300001442432404
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.5340278576114021,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part1",
+      "group": "clothes-dresser",
+      "conservative_xy_bbox_m": [
+        -6.948081016540527,
+        -6.252070903778076,
+        -2.7181637287139893,
+        -2.272712230682373
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.9721922306823731,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "clothes-dresser::official storklinta-low-drawers part3",
+      "group": "clothes-dresser",
+      "conservative_xy_bbox_m": [
+        -6.949249744415283,
+        -6.2507500648498535,
+        -2.7497124671936035,
+        -2.27028751373291
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.9697675137329103,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "visitor-chair::sloping front wooden leg",
+      "group": "visitor-chair",
+      "conservative_xy_bbox_m": [
+        -5.045674800872803,
+        -5.005674839019775,
+        -1.7750654220581055,
+        -1.609475016593933
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.4090223149560665,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "visitor-chair::sloping rear wooden leg",
+      "group": "visitor-chair",
+      "conservative_xy_bbox_m": [
+        -5.045674800872803,
+        -5.005674839019775,
+        -2.3905248641967773,
+        -2.2280399799346924
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.9819151470179408,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "visitor-chair::sloping front wooden leg.001",
+      "group": "visitor-chair",
+      "conservative_xy_bbox_m": [
+        -4.454325199127197,
+        -4.41432523727417,
+        -1.7750654220581055,
+        -1.609475016593933
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.8209191757819356,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "visitor-chair::sloping rear wooden leg.001",
+      "group": "visitor-chair",
+      "conservative_xy_bbox_m": [
+        -4.454325199127197,
+        -4.41432523727417,
+        -2.3905248641967773,
+        -2.2280399799346924
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 1.252835430139107,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "C-frame steel foot",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -7.436999797821045,
+        -7.367000102996826,
+        -0.48151999711990356,
+        0.21952001750469208
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.3090151584267922,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Foot glide",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -7.430999755859375,
+        -7.373000144958496,
+        -0.4659999907016754,
+        -0.4259999692440033
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.3227297066209764,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Foot glide.001",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -7.430999755859375,
+        -7.373000144958496,
+        0.164000004529953,
+        0.20399999618530273
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.8044714153407644,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "V2 lower slim stage",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -7.424999713897705,
+        -7.379000186920166,
+        -0.030999992042779922,
+        0.025000009685754776
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.6410657108746105,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "C-frame steel foot.001",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -6.532999515533447,
+        -6.4629998207092285,
+        -0.48151999711990356,
+        0.21952001750469208
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.11654187021266466,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Foot glide.002",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -6.526999473571777,
+        -6.468999862670898,
+        -0.4659999907016754,
+        -0.4259999692440033
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.13249688958910033,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Foot glide.003",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -6.526999473571777,
+        -6.468999862670898,
+        0.164000004529953,
+        0.20399999618530273
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.7049634521080663,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "V2 lower slim stage.001",
+      "group": "uplift-main-desk",
+      "conservative_xy_bbox_m": [
+        -6.520999431610107,
+        -6.474999904632568,
+        -0.030999992042779922,
+        0.025000009685754776
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.521352899528025,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "U-base closed crossbar",
+      "group": "honeywell-lamp",
+      "conservative_xy_bbox_m": [
+        -7.793499946594238,
+        -7.546500205993652,
+        -0.47099998593330383,
+        -0.4009999930858612
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.468896597324813,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "U-base open prong",
+      "group": "honeywell-lamp",
+      "conservative_xy_bbox_m": [
+        -7.7935004234313965,
+        -7.7144999504089355,
+        -0.44099998474121094,
+        -0.003000006079673767
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.6330506246951855,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "U-base open prong.001",
+      "group": "honeywell-lamp",
+      "conservative_xy_bbox_m": [
+        -7.625500202178955,
+        -7.546499729156494,
+        -0.44099998474121094,
+        -0.003000006079673767
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.4831963000362585,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Slim rectangular upright",
+      "group": "honeywell-lamp",
+      "conservative_xy_bbox_m": [
+        -7.689499855041504,
+        -7.650500297546387,
+        -0.41999998688697815,
+        -0.3699999749660492
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.5846969563806226,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Triple thickness brown fleece base",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.8897199630737305,
+        -7.290280342102051,
+        -1.2793999910354614,
+        -0.7206000089645386
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.11976034210205055,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "kept-muttros-cat-tree::arched hollow condo wall",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.7893900871276855,
+        -7.390610218048096,
+        -1.3093900680541992,
+        -0.910610020160675
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.22009021804809542,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Condo dark floor",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.772000312805176,
+        -7.4079999923706055,
+        -1.2920000553131104,
+        -0.9280000329017639
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.2374799923706052,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Natural wood branch0-0",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.7429728507995605,
+        -7.647027492523193,
+        -1.193000078201294,
+        -1.1069998741149902
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.4912777392826159,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Natural wood branch1-0",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.527914047241211,
+        -7.43708610534668,
+        -0.8628930449485779,
+        -0.7671069502830505
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.2665661053466794,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "Natural wood branch3-0",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.512882232666016,
+        -7.444118499755859,
+        -0.8467878103256226,
+        -0.7132121324539185
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.2736067658897578,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    },
+    {
+      "name": "kept-muttros-cat-tree::Sisal rope winding.002",
+      "group": "muttros-cat-tree",
+      "conservative_xy_bbox_m": [
+        -7.526608943939209,
+        -7.430403232574463,
+        -0.8688459992408752,
+        -0.7711535692214966
+      ],
+      "minimum_continuous_caster_envelope_clearance_m": 0.2598832325744626,
+      "caster_disk_path_clear": true,
+      "swept_overlap_m2": 0.0
+    }
+  ],
+  "native_3D_sample_count": 96,
+  "native_3D_no_sampled_unintended_surface_intersections": true,
+  "result": "Feasible nominal one-chair transfer between main computer desk and 140\u00d760 cm project bench; no furniture relocation required.",
+  "operating_note": "Close ALEX and clothes drawers before chair transfer. Tuck primary chair before open clothes-drawer/rear-passage use; previously documented sequential-use restriction remains.",
+  "limits": [
+    "Whole scene surface-BVH tests at <=20mm path samples; not a mathematical continuum proof for overlapping swept candidates.",
+    "Surface tests do not establish every possible fully contained solid.",
+    "No user body, moving caster swivel, compressed rug, cable slack or force/friction model.",
+    "Dresser and ALEX drawers remain closed during chair transfer; sequential clothes-drawer operation still required.",
+    "Nominal measured/model furniture positions; actual scan uncertainty and owned-product proxy limits remain.",
+    "Floor projection uses full component AABBs rather than exact curved legs, hence conservative.",
+    "Measured model has 5\u201312 cm outline uncertainty and photo-proxy uncertainty in owned lamp/cat components; this is model planning, not site clearance certification."
+  ]
+}

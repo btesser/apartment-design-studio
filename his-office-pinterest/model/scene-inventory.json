@@ -1,0 +1,1960 @@
+{
+  "source": "/workspace/his-office-redesign/model/his-office-design.blend",
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "coordinate_frame": "Blender Z-up metres; glTF (X,Z,-Y); no recenter/scale/mirror",
+  "collections": [
+    {
+      "name": "01 Measured room shell",
+      "direct_objects": 22,
+      "all_meshes": 22
+    },
+    {
+      "name": "02 Existing fixed feature proxies",
+      "direct_objects": 47,
+      "all_meshes": 47
+    },
+    {
+      "name": "02b Existing door leaves \u2014 closed observed state",
+      "direct_objects": 13,
+      "all_meshes": 13
+    },
+    {
+      "name": "03 Daylight backdrop \u2014 presentation only",
+      "direct_objects": 1,
+      "all_meshes": 1
+    },
+    {
+      "name": "04 Lights and camera templates",
+      "direct_objects": 6,
+      "all_meshes": 0
+    },
+    {
+      "name": "05 Chosen new furniture and sourced textiles/art",
+      "direct_objects": 45,
+      "all_meshes": 37
+    },
+    {
+      "name": "06 Provisional contents of unrecorded closet",
+      "direct_objects": 76,
+      "all_meshes": 73
+    },
+    {
+      "name": "His Office \u2014 kept products and two Branch task chairs",
+      "direct_objects": 83,
+      "all_meshes": 78
+    }
+  ],
+  "product_roots": [
+    {
+      "id": "blue-bold-art",
+      "name": "blue-bold-art",
+      "position_blender_m": [
+        -5.309999942779541,
+        -2.697999954223633,
+        3.200000047683716
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 2,
+      "world_bounds_m": [
+        [
+          -5.670000076293945,
+          -2.7070000171661377,
+          2.690000057220459
+        ],
+        [
+          -4.949999809265137,
+          -2.688499927520752,
+          3.7100000381469727
+        ]
+      ],
+      "materials": [
+        "New black equipment/frame",
+        "blue-bold-art official photograph"
+      ],
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ]
+    },
+    {
+      "id": "blue-geometric-art",
+      "name": "blue-geometric-art",
+      "position_blender_m": [
+        -6.820000171661377,
+        0.22499999403953552,
+        3.299999952316284
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 2,
+      "world_bounds_m": [
+        [
+          -7.079999923706055,
+          0.21549999713897705,
+          2.940000057220459
+        ],
+        [
+          -6.560000419616699,
+          0.23399999737739563,
+          3.6599998474121094
+        ]
+      ],
+      "materials": [
+        "New black equipment/frame",
+        "blue-geometric-art official photograph"
+      ],
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ]
+    },
+    {
+      "id": "branch-primary",
+      "name": "branch-pro-task-chair-1",
+      "position_blender_m": [
+        -6.820000171661377,
+        -0.8500000238418579,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 180.00000500895632,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 2,
+      "world_bounds_m": [
+        [
+          -7.138394832611084,
+          -1.1827495098114014,
+          1.5750000476837158
+        ],
+        [
+          -6.50160551071167,
+          -0.5172504782676697,
+          2.556027889251709
+        ]
+      ],
+      "materials": [
+        "Branch selected Black \u2014 Material_0",
+        "Branch selected Black \u2014 Material_1"
+      ],
+      "collections": [
+        "His Office \u2014 kept products and two Branch task chairs"
+      ]
+    },
+    {
+      "id": "branch-secondary",
+      "name": "branch-pro-task-chair-2",
+      "position_blender_m": [
+        -5.400000095367432,
+        -0.800000011920929,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 180.00000500895632,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 2,
+      "world_bounds_m": [
+        [
+          -5.718394756317139,
+          -1.1327495574951172,
+          1.5750000476837158
+        ],
+        [
+          -5.081605434417725,
+          -0.46725043654441833,
+          2.556027889251709
+        ]
+      ],
+      "materials": [
+        "Branch selected Black \u2014 Material_0",
+        "Branch selected Black \u2014 Material_1"
+      ],
+      "collections": [
+        "His Office \u2014 kept products and two Branch task chairs"
+      ]
+    },
+    {
+      "id": "clothes-dresser",
+      "name": "clothes-dresser",
+      "position_blender_m": [
+        -6.599999904632568,
+        -2.509999990463257,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 4,
+      "world_bounds_m": [
+        [
+          -6.949249744415283,
+          -2.7497124671936035,
+          1.5750000476837158
+        ],
+        [
+          -6.2507500648498535,
+          -2.27028751373291,
+          2.3243000507354736
+        ]
+      ],
+      "materials": [
+        "SimplygonCastMaterial.001",
+        "SimplygonCastMaterial_31",
+        "SimplygonCastMaterial_32",
+        "SimplygonCastMaterial_33"
+      ],
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ]
+    },
+    {
+      "id": "grejig-1",
+      "name": "grejig-1",
+      "position_blender_m": [
+        -3.4800000190734863,
+        -0.5400000214576721,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 90.00000250447816,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 24,
+      "world_bounds_m": [
+        [
+          -3.6112313270568848,
+          -0.8262315392494202,
+          1.5776928663253784
+        ],
+        [
+          -3.348768711090088,
+          -0.2537685036659241,
+          1.7370001077651978
+        ]
+      ],
+      "materials": [
+        "GREJIG gray powder-coated steel"
+      ],
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ]
+    },
+    {
+      "id": "grejig-2",
+      "name": "grejig-2",
+      "position_blender_m": [
+        -3.4800000190734863,
+        -0.5400000214576721,
+        1.7450000047683716
+      ],
+      "rotation_z_deg": 90.00000250447816,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 24,
+      "world_bounds_m": [
+        [
+          -3.6112313270568848,
+          -0.8262315392494202,
+          1.7476928234100342
+        ],
+        [
+          -3.348768711090088,
+          -0.2537685036659241,
+          1.9070000648498535
+        ]
+      ],
+      "materials": [
+        "GREJIG gray powder-coated steel"
+      ],
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ]
+    },
+    {
+      "id": "grejig-3",
+      "name": "grejig-3",
+      "position_blender_m": [
+        -3.4800000190734863,
+        -0.5400000214576721,
+        1.9149999618530273
+      ],
+      "rotation_z_deg": 90.00000250447816,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 24,
+      "world_bounds_m": [
+        [
+          -3.6112313270568848,
+          -0.8262315392494202,
+          1.91769278049469
+        ],
+        [
+          -3.348768711090088,
+          -0.2537685036659241,
+          2.0769999027252197
+        ]
+      ],
+      "materials": [
+        "GREJIG gray powder-coated steel"
+      ],
+      "collections": [
+        "06 Provisional contents of unrecorded closet"
+      ]
+    },
+    {
+      "id": "honeywell-lamp",
+      "name": "kept-honeywell-02e-pro",
+      "position_blender_m": [
+        -7.670000076293945,
+        -0.23999999463558197,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 11,
+      "world_bounds_m": [
+        [
+          -7.8140177726745605,
+          -0.545054018497467,
+          1.5750000476837158
+        ],
+        [
+          -7.52598237991333,
+          0.0650540143251419,
+          3.5435001850128174
+        ]
+      ],
+      "materials": [
+        "Honeywell warm white enamel",
+        "Honeywell4000K luminous diffuser",
+        "UPLIFT brushed nickel grommet covers"
+      ],
+      "collections": [
+        "His Office \u2014 kept products and two Branch task chairs"
+      ]
+    },
+    {
+      "id": "muttros-cat-tree",
+      "name": "kept-muttros-cat-tree",
+      "position_blender_m": [
+        -7.590000152587891,
+        -1.0,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 42,
+      "world_bounds_m": [
+        [
+          -7.909590244293213,
+          -1.5352977514266968,
+          1.5750000476837158
+        ],
+        [
+          -7.290280342102051,
+          -0.4647022485733032,
+          3.0730252265930176
+        ]
+      ],
+      "materials": [
+        "MUTTROS brown cloud fleece",
+        "MUTTROS brown condo interior",
+        "MUTTROS darker wicker strands",
+        "MUTTROS handwoven wicker",
+        "MUTTROS natural pear wood",
+        "MUTTROS natural sisal"
+      ],
+      "collections": [
+        "His Office \u2014 kept products and two Branch task chairs"
+      ]
+    },
+    {
+      "id": "rug",
+      "name": "rug",
+      "position_blender_m": [
+        -6.099999904632568,
+        -1.100000023841858,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 2,
+      "world_bounds_m": [
+        [
+          -7.47160005569458,
+          -2.014400005340576,
+          1.5750000476837158
+        ],
+        [
+          -4.728399753570557,
+          -0.18560004234313965,
+          1.580475091934204
+        ]
+      ],
+      "materials": [
+        "Actual selected Inkdrop6x9 textile photograph",
+        "Rug pad edge"
+      ],
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ]
+    },
+    {
+      "id": "secondary-workspace",
+      "name": "secondary-workspace",
+      "position_blender_m": [
+        -5.550000190734863,
+        -0.05000000074505806,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 6,
+      "world_bounds_m": [
+        [
+          -6.25,
+          -0.3500000238418579,
+          1.5750000476837158
+        ],
+        [
+          -4.850000381469727,
+          0.25,
+          2.305000066757202
+        ]
+      ],
+      "materials": [
+        "LAGKAPTEN black-brown top",
+        "New black equipment/frame",
+        "New matte white storage/legs",
+        "SimplygonCastMaterial"
+      ],
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ]
+    },
+    {
+      "id": "uplift-main-desk",
+      "name": "kept-uplift-desk",
+      "position_blender_m": [
+        -6.949999809265137,
+        -0.13099999725818634,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 21,
+      "world_bounds_m": [
+        [
+          -7.483399868011475,
+          -0.5209999680519104,
+          1.5750000476837158
+        ],
+        [
+          -6.416599750518799,
+          0.25,
+          2.317499876022339
+        ]
+      ],
+      "materials": [
+        "Black product trim",
+        "Pheasantwood official appearance reference",
+        "UPLIFT brushed nickel grommet covers",
+        "UPLIFT industrial tinted clear steel"
+      ],
+      "collections": [
+        "His Office \u2014 kept products and two Branch task chairs"
+      ]
+    },
+    {
+      "id": "visitor-chair",
+      "name": "visitor-chair",
+      "position_blender_m": [
+        -4.53000020980835,
+        -2.0,
+        1.5750000476837158
+      ],
+      "rotation_z_deg": 0.0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children_meshes": 11,
+      "world_bounds_m": [
+        [
+          -4.850675106048584,
+          -2.3905248641967773,
+          1.5750000476837158
+        ],
+        [
+          -4.209325313568115,
+          -1.609475016593933,
+          2.3290255069732666
+        ]
+      ],
+      "materials": [
+        "EKENASET slate-teal corduroy",
+        "EKENASET warm brown wooden frame"
+      ],
+      "collections": [
+        "05 Chosen new furniture and sourced textiles/art"
+      ]
+    }
+  ],
+  "standalone_equipment_roots": [
+    {
+      "name": "secondary-workspace::generic equipment assumption",
+      "position_blender_m": [
+        -5.300000190734863,
+        0.04500000178813934,
+        2.305000066757202
+      ],
+      "assumption": "Unselected generic24in monitor and keyboard for usable-work-surface illustration",
+      "meshes": 5
+    },
+    {
+      "name": "uplift-main-desk::generic equipment assumption",
+      "position_blender_m": [
+        -6.949999809265137,
+        0.054999999701976776,
+        2.315000057220459
+      ],
+      "assumption": "Unselected generic24in monitor and keyboard for usable-work-surface illustration",
+      "meshes": 5
+    }
+  ],
+  "materials": [
+    {
+      "name": "Actual selected Inkdrop6x9 textile photograph",
+      "users": [
+        "rug::official6x9 flatwoven textile"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.699999988079071,
+          0.699999988079071,
+          0.6499999761581421,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8199999928474426,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "ruggable-inkdrop-selected.jpg",
+          "size": [
+            2400,
+            3000
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "Black product trim",
+      "users": [
+        "Foot glide",
+        "Foot glide.001",
+        "Foot glide.002",
+        "Foot glide.003",
+        "Height keypad"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.014999999664723873,
+          0.017999999225139618,
+          0.019999999552965164,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.46000000834465027,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "blue-bold-art official photograph",
+      "users": [
+        "blue-bold-art::actual selected print"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.699999988079071,
+          0.699999988079071,
+          0.6499999761581421,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8199999928474426,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "art-blue-bold-selected.jpg",
+          "size": [
+            2000,
+            2857
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "blue-geometric-art official photograph",
+      "users": [
+        "blue-geometric-art::actual selected print"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.699999988079071,
+          0.699999988079071,
+          0.6499999761581421,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8199999928474426,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "art-blue-geometric-selected.jpg",
+          "size": [
+            2000,
+            2800
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "Branch selected Black \u2014 Material_0",
+      "users": [
+        "branch-pro-task-chair-1::Mesh_0",
+        "branch-pro-task-chair-2::Mesh_0"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.6899999976158142,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+          "size": [
+            2048,
+            2048
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+          "size": [
+            2048,
+            2048
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+          "size": [
+            2048,
+            2048
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+          "size": [
+            2048,
+            2048
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.004",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+          "size": [
+            2048,
+            2048
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "Branch selected Black \u2014 Material_1",
+      "users": [
+        "branch-pro-task-chair-1::Back | Plane001",
+        "branch-pro-task-chair-2::Back | Plane001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.6899999976158142,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+          "size": [
+            1024,
+            1024
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+          "size": [
+            1024,
+            1024
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "EKENASET slate-teal corduroy",
+      "users": [
+        "visitor-chair::padded seat",
+        "visitor-chair::sloping padded back"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.0430000014603138,
+          0.09700000286102295,
+          0.1080000028014183,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8500000238418579,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "EKENASET warm brown wooden frame",
+      "users": [
+        "visitor-chair::front timber stretcher",
+        "visitor-chair::lower side seat support",
+        "visitor-chair::lower side seat support.001",
+        "visitor-chair::rounded wooden arm",
+        "visitor-chair::rounded wooden arm.001",
+        "visitor-chair::sloping front wooden leg",
+        "visitor-chair::sloping front wooden leg.001",
+        "visitor-chair::sloping rear wooden leg",
+        "visitor-chair::sloping rear wooden leg.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.1599999964237213,
+          0.06499999761581421,
+          0.027000000700354576,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.4399999976158142,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Existing dark cast-iron radiator",
+      "users": [
+        "Existing cast-iron radiator section",
+        "Existing cast-iron radiator section.001",
+        "Existing cast-iron radiator section.002",
+        "Existing cast-iron radiator section.003",
+        "Existing cast-iron radiator section.004",
+        "Existing cast-iron radiator section.005",
+        "Existing cast-iron radiator section.006",
+        "Existing cast-iron radiator section.007",
+        "Existing cast-iron radiator section.008",
+        "Existing radiator foot",
+        "Existing radiator foot.001",
+        "Existing radiator horizontal connection",
+        "Existing radiator horizontal connection.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.054999999701976776,
+          0.061000000685453415,
+          0.0560000017285347,
+          1.0
+        ],
+        "Metallic": 0.3499999940395355,
+        "Roughness": 0.6499999761581421,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Existing exterior brass hardware",
+      "users": [
+        "Existing exterior-door brass deadbolt",
+        "Existing exterior-door brass knob"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.47999998927116394,
+          0.3199999928474426,
+          0.10999999940395355,
+          1.0
+        ],
+        "Metallic": 0.75,
+        "Roughness": 0.2800000011920929,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Existing silver hardware",
+      "users": [
+        "Existing closet metal knob",
+        "Existing cupboard metal latch",
+        "Existing living-entry silver lever"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.41999998688697815,
+          0.44999998807907104,
+          0.4699999988079071,
+          1.0
+        ],
+        "Metallic": 0.8199999928474426,
+        "Roughness": 0.25999999046325684,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Fixture porcelain",
+      "users": [
+        "Existing built-in shelf board",
+        "Existing built-in shelf board.001",
+        "Existing built-in shelf board.002",
+        "Existing built-in shelf board.003",
+        "Existing built-in shelf board.004",
+        "Existing built-in shelf board.005",
+        "Existing built-in shelf white back",
+        "Existing closet frame header",
+        "Existing closet frame jamb",
+        "Existing closet frame jamb.001",
+        "Existing closet transom",
+        "Existing entry small wall control",
+        "Existing entry thermostat",
+        "Existing exterior-door frame header",
+        "Existing exterior-door frame jamb",
+        "Existing exterior-door frame jamb.001",
+        "Existing exterior-door raised panel",
+        "Existing exterior-door raised panel.001",
+        "Existing exterior-door raised panel.002",
+        "Existing exterior-door raised panel.003",
+        "Existing exterior-door raised panel.004",
+        "Existing exterior-door raised panel.005",
+        "Existing exterior-door six-panel leaf",
+        "Existing full-height closet leaf",
+        "Existing living-entry flat white leaf",
+        "Existing living-entry frame header",
+        "Existing living-entry frame jamb",
+        "Existing living-entry frame jamb.001",
+        "Existing overhead cupboard frame header",
+        "Existing overhead cupboard frame jamb",
+        "Existing overhead cupboard frame jamb.001",
+        "Existing overhead cupboard panel",
+        "Existing rear vertical white pipe",
+        "Observed recessed white arched fireplace infill",
+        "Observed single-window horizontal trim",
+        "Observed single-window horizontal trim.001",
+        "Observed single-window horizontal trim.002",
+        "Observed single-window projecting sill",
+        "Observed single-window sill apron",
+        "Observed single-window vertical trim",
+        "Observed single-window vertical trim.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.8199999928474426,
+          0.8299999833106995,
+          0.8100000023841858,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.6000000238418579,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Generic monitor screen \u2014 functional assumption",
+      "users": [
+        "secondary-workspace::generic equipment assumption::dark display",
+        "uplift-main-desk::generic equipment assumption::dark display"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.014999999664723873,
+          0.026000000536441803,
+          0.032999999821186066,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.2199999988079071,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "GREJIG gray powder-coated steel",
+      "users": [
+        "grejig-1::folded steel leg",
+        "grejig-1::folded steel leg.001",
+        "grejig-1::folded steel leg.002",
+        "grejig-1::folded steel leg.003",
+        "grejig-1::top end rim",
+        "grejig-1::top end rim.001",
+        "grejig-1::top long rim",
+        "grejig-1::top long rim.001",
+        "grejig-1::wire lattice across",
+        "grejig-1::wire lattice across.001",
+        "grejig-1::wire lattice across.002",
+        "grejig-1::wire lattice across.003",
+        "grejig-1::wire lattice across.004",
+        "grejig-1::wire lattice across.005",
+        "grejig-1::wire lattice across.006",
+        "grejig-1::wire lattice across.007",
+        "grejig-1::wire lattice across.008",
+        "grejig-1::wire lattice across.009",
+        "grejig-1::wire lattice across.010",
+        "grejig-1::wire lattice lengthwise",
+        "grejig-1::wire lattice lengthwise.001",
+        "grejig-1::wire lattice lengthwise.002",
+        "grejig-1::wire lattice lengthwise.003",
+        "grejig-1::wire lattice lengthwise.004",
+        "grejig-2::folded steel leg",
+        "grejig-2::folded steel leg.001",
+        "grejig-2::folded steel leg.002",
+        "grejig-2::folded steel leg.003",
+        "grejig-2::top end rim",
+        "grejig-2::top end rim.001",
+        "grejig-2::top long rim",
+        "grejig-2::top long rim.001",
+        "grejig-2::wire lattice across",
+        "grejig-2::wire lattice across.001",
+        "grejig-2::wire lattice across.002",
+        "grejig-2::wire lattice across.003",
+        "grejig-2::wire lattice across.004",
+        "grejig-2::wire lattice across.005",
+        "grejig-2::wire lattice across.006",
+        "grejig-2::wire lattice across.007",
+        "grejig-2::wire lattice across.008",
+        "grejig-2::wire lattice across.009",
+        "grejig-2::wire lattice across.010",
+        "grejig-2::wire lattice lengthwise",
+        "grejig-2::wire lattice lengthwise.001",
+        "grejig-2::wire lattice lengthwise.002",
+        "grejig-2::wire lattice lengthwise.003",
+        "grejig-2::wire lattice lengthwise.004",
+        "grejig-3::folded steel leg",
+        "grejig-3::folded steel leg.001",
+        "grejig-3::folded steel leg.002",
+        "grejig-3::folded steel leg.003",
+        "grejig-3::top end rim",
+        "grejig-3::top end rim.001",
+        "grejig-3::top long rim",
+        "grejig-3::top long rim.001",
+        "grejig-3::wire lattice across",
+        "grejig-3::wire lattice across.001",
+        "grejig-3::wire lattice across.002",
+        "grejig-3::wire lattice across.003",
+        "grejig-3::wire lattice across.004",
+        "grejig-3::wire lattice across.005",
+        "grejig-3::wire lattice across.006",
+        "grejig-3::wire lattice across.007",
+        "grejig-3::wire lattice across.008",
+        "grejig-3::wire lattice across.009",
+        "grejig-3::wire lattice across.010",
+        "grejig-3::wire lattice lengthwise",
+        "grejig-3::wire lattice lengthwise.001",
+        "grejig-3::wire lattice lengthwise.002",
+        "grejig-3::wire lattice lengthwise.003",
+        "grejig-3::wire lattice lengthwise.004"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.1899999976158142,
+          0.20000000298023224,
+          0.18000000715255737,
+          1.0
+        ],
+        "Metallic": 0.20000000298023224,
+        "Roughness": 0.5199999809265137,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Honeywell warm white enamel",
+      "users": [
+        "Rectangular panel end rim",
+        "Rectangular panel end rim.001",
+        "Rectangular panel long rim",
+        "Rectangular panel long rim.001",
+        "Slim rectangular upright",
+        "U-base closed crossbar",
+        "U-base open prong",
+        "U-base open prong.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.8399999737739563,
+          0.8600000143051147,
+          0.8500000238418579,
+          1.0
+        ],
+        "Metallic": 0.11999999731779099,
+        "Roughness": 0.41999998688697815,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Honeywell4000K luminous diffuser",
+      "users": [
+        "Narrow parallel LED light bar",
+        "Narrow parallel LED light bar.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.9599999785423279,
+          0.9599999785423279,
+          0.8500000238418579,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.3499999940395355,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 2.0
+      },
+      "images": []
+    },
+    {
+      "name": "LAGKAPTEN black-brown top",
+      "users": [
+        "secondary-workspace::black-brown tabletop"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.03500000014901161,
+          0.026000000536441803,
+          0.01899999938905239,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.5799999833106995,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "MUTTROS brown cloud fleece",
+      "users": [
+        "Brown play ball",
+        "Brown play ball.001",
+        "Brown play ball.002",
+        "Condo top plush cushion",
+        "High side wicker basket brown fleece cushion",
+        "kept-muttros-cat-tree::arched hollow condo wall",
+        "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+        "kept-muttros-cat-tree::Thick fleece hammock rim",
+        "Low side wicker basket brown fleece cushion",
+        "Top wicker basket brown fleece cushion",
+        "Triple thickness brown fleece base"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.1599999964237213,
+          0.07500000298023224,
+          0.03200000151991844,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.9900000095367432,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "MUTTROS brown condo interior",
+      "users": [
+        "Condo dark floor",
+        "kept-muttros-cat-tree::arched hollow condo wall"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.10000000149011612,
+          0.05999999865889549,
+          0.03400000184774399,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.9900000095367432,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "MUTTROS darker wicker strands",
+      "users": [
+        "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+        "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+        "kept-muttros-cat-tree::Top wicker basket crossing wicker strand"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.25,
+          0.14499999582767487,
+          0.061000000685453415,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8999999761581421,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "MUTTROS handwoven wicker",
+      "users": [
+        "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+        "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+        "kept-muttros-cat-tree::Top wicker basket woven horizontal cours"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.3799999952316284,
+          0.23999999463558197,
+          0.10999999940395355,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8399999737739563,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "MUTTROS natural pear wood",
+      "users": [
+        "Natural wood branch0-0",
+        "Natural wood branch0-1",
+        "Natural wood branch0-2",
+        "Natural wood branch0-3",
+        "Natural wood branch1-0",
+        "Natural wood branch1-1",
+        "Natural wood branch1-2",
+        "Natural wood branch2-0",
+        "Natural wood branch2-1",
+        "Natural wood branch3-0",
+        "Natural wood branch3-1",
+        "Organic branch junction",
+        "Organic branch junction.001",
+        "Organic branch junction.002",
+        "Organic branch junction.003",
+        "Organic branch junction.004",
+        "Organic branch junction.005",
+        "Organic branch junction.006"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.3499999940395355,
+          0.17000000178813934,
+          0.06499999761581421,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.6899999976158142,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "MUTTROS natural sisal",
+      "users": [
+        "kept-muttros-cat-tree::Hanging pom-pom cord",
+        "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+        "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+        "kept-muttros-cat-tree::Sisal rope winding",
+        "kept-muttros-cat-tree::Sisal rope winding.001",
+        "kept-muttros-cat-tree::Sisal rope winding.002"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.4000000059604645,
+          0.28999999165534973,
+          0.17000000178813934,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.9700000286102295,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "New black equipment/frame",
+      "users": [
+        "blue-bold-art::assumed slim black frame",
+        "blue-geometric-art::assumed slim black frame",
+        "secondary-workspace::black adjustment foot",
+        "secondary-workspace::black adjustment foot.001",
+        "secondary-workspace::generic equipment assumption::keyboard",
+        "secondary-workspace::generic equipment assumption::monitor fram",
+        "secondary-workspace::generic equipment assumption::monitor stan",
+        "secondary-workspace::generic equipment assumption::monitor stem",
+        "uplift-main-desk::generic equipment assumption::keyboard",
+        "uplift-main-desk::generic equipment assumption::monitor frame",
+        "uplift-main-desk::generic equipment assumption::monitor stand",
+        "uplift-main-desk::generic equipment assumption::monitor stem"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.012000000104308128,
+          0.014999999664723873,
+          0.017000000923871994,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.47999998927116394,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "New matte white storage/legs",
+      "users": [
+        "secondary-workspace::right white ADILS leg",
+        "secondary-workspace::right white ADILS leg.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.8199999928474426,
+          0.8299999833106995,
+          0.7900000214576721,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.6200000047683716,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Pheasantwood official appearance reference",
+      "users": [
+        "kept-uplift-desk::solid wood barkline top"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.38999998569488525,
+          0.23499999940395355,
+          0.08500000089406967,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.4399999976158142,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "uplift-live-edge-pheasantwood-front.jpg",
+          "size": [
+            1380,
+            185
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "Presentation daylight",
+      "users": [
+        "Sky outside window"
+      ],
+      "principled_defaults": {},
+      "images": []
+    },
+    {
+      "name": "Reconstructed ceiling",
+      "users": [
+        "architecture_ceiling \u2014 his-office"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.8600000143051147,
+          0.8399999737739563,
+          0.7900000214576721,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.7799999713897705,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Reconstructed exposed brick",
+      "users": [
+        "his-office wall0 segment",
+        "Observed brick chimney projection"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.4000000059604645,
+          0.17000000178813934,
+          0.07999999821186066,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.7799999713897705,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "brick-upper.png",
+          "size": [
+            1024,
+            512
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "Reconstructed upper wood",
+      "users": [
+        "architecture_floor \u2014 his-office",
+        "Local floor continuation to observed brick face",
+        "Provisional rack floor support \u2014 closet unrecorded"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.5199999809265137,
+          0.3700000047683716,
+          0.20000000298023224,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.7799999713897705,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "wood-upper.png",
+          "size": [
+            1024,
+            512
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "Reconstructed warm plaster",
+      "users": [
+        "his-office wall1 \u2014 below floor continuation",
+        "his-office wall1 \u2014 head continuation",
+        "his-office wall1 \u2014 lower-Y side",
+        "his-office wall1 \u2014 upper-Y side",
+        "his-office wall2 segment",
+        "his-office wall3 \u2014 below floor continuation",
+        "his-office wall3 \u2014 head continuation",
+        "his-office wall3 \u2014 lower-Y side",
+        "his-office wall3 \u2014 upper-Y side",
+        "his-office wall4 segment",
+        "his-office wall5 corrected bottom 1",
+        "his-office wall5 corrected bottom 3",
+        "his-office wall5 corrected head 1",
+        "his-office wall5 corrected head 3",
+        "his-office wall5 corrected solid 0",
+        "his-office wall5 corrected solid 2",
+        "his-office wall5 corrected solid 4"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.7799999713897705,
+          0.7599999904632568,
+          0.7200000286102295,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.7799999713897705,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Rug pad edge",
+      "users": [
+        "rug::Standard Pad support"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.6299999952316284,
+          0.6100000143051147,
+          0.550000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.8999999761581421,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "SimplygonCastMaterial",
+      "users": [
+        "secondary-workspace::official alex-drawers part0"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.5,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "00473546_PS01_S01_NV01_RQP1_3.0_Basecolor_0",
+          "size": [
+            826,
+            826
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+          "size": [
+            826,
+            826
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+          "size": [
+            826,
+            826
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "SimplygonCastMaterial.001",
+      "users": [
+        "clothes-dresser::official storklinta-low-drawers part1"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.5,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "Basecolor_0",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "Metalness_0",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "Normals_0",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "Metalness_0",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "SimplygonCastMaterial_31",
+      "users": [
+        "clothes-dresser::official storklinta-low-drawers part2"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.5,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "Basecolor_0_57",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "Metalness_0_60",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "Normals_0_58",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "Metalness_0_60",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "SimplygonCastMaterial_32",
+      "users": [
+        "clothes-dresser::official storklinta-low-drawers part0"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.5,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "Basecolor_0_62",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "Metalness_0_65",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "Normals_0_63",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "Metalness_0_65",
+          "size": [
+            558,
+            558
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "SimplygonCastMaterial_33",
+      "users": [
+        "clothes-dresser::official storklinta-low-drawers part3"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.5,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": [
+        {
+          "node": "Image Texture",
+          "image": "Basecolor_0_67",
+          "size": [
+            719,
+            719
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.001",
+          "image": "Metalness_0_70",
+          "size": [
+            719,
+            719
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.002",
+          "image": "Normals_0_68",
+          "size": [
+            719,
+            719
+          ],
+          "packed": true
+        },
+        {
+          "node": "Image Texture.003",
+          "image": "Metalness_0_70",
+          "size": [
+            719,
+            719
+          ],
+          "packed": true
+        }
+      ]
+    },
+    {
+      "name": "UPLIFT brushed nickel grommet covers",
+      "users": [
+        "Rotary dimming knob",
+        "Two brushed nickel grommet covers",
+        "Two brushed nickel grommet covers.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.5899999737739563,
+          0.6100000143051147,
+          0.6000000238418579,
+          1.0
+        ],
+        "Metallic": 0.8299999833106995,
+        "Roughness": 0.33000001311302185,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "UPLIFT industrial tinted clear steel",
+      "users": [
+        "C-frame steel foot",
+        "C-frame steel foot.001",
+        "Hidden upper crossbar",
+        "Underside side bracket",
+        "Underside side bracket.001",
+        "V2 lower slim stage",
+        "V2 lower slim stage.001",
+        "V2 middle stage",
+        "V2 middle stage.001",
+        "V2 triangular stability brace",
+        "V2 triangular stability brace.001",
+        "V2 upper stage",
+        "V2 upper stage.001"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.25,
+          0.2549999952316284,
+          0.24500000476837158,
+          1.0
+        ],
+        "Metallic": 0.7200000286102295,
+        "Roughness": 0.41999998688697815,
+        "Transmission Weight": 0.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    },
+    {
+      "name": "Window glass",
+      "users": [
+        "Observed single-window glazing"
+      ],
+      "principled_defaults": {
+        "Base Color": [
+          0.9100000262260437,
+          0.949999988079071,
+          0.9800000190734863,
+          1.0
+        ],
+        "Metallic": 0.0,
+        "Roughness": 0.03500000014901161,
+        "Transmission Weight": 1.0,
+        "Emission Strength": 0.0
+      },
+      "images": []
+    }
+  ],
+  "lights": [
+    {
+      "name": "LIGHT soft ceiling fill",
+      "position_blender_m": [
+        -5.630000114440918,
+        -1.190000057220459,
+        4.320000171661377
+      ],
+      "type": "AREA",
+      "energy": 230.0,
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "LIGHT window daylight",
+      "position_blender_m": [
+        -7.75,
+        -0.4699999988079071,
+        3.4600000381469727
+      ],
+      "type": "AREA",
+      "energy": 260.0,
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "name": "CAM room-a",
+      "position_blender_m": [
+        -3.4600000381469727,
+        -2.3399999141693115,
+        3.125
+      ],
+      "rotation_euler_rad": [
+        1.431367039680481,
+        4.2092704433116523e-08,
+        0.974768340587616
+      ],
+      "lens_mm": 24.0,
+      "sensor_width_mm": 36.0
+    },
+    {
+      "name": "CAM room-b",
+      "position_blender_m": [
+        -7.480000019073486,
+        -2.2699999809265137,
+        3.125
+      ],
+      "rotation_euler_rad": [
+        1.4183419942855835,
+        3.819526739334833e-08,
+        -0.9678564071655273
+      ],
+      "lens_mm": 24.0,
+      "sensor_width_mm": 36.0
+    },
+    {
+      "name": "CAM room-c",
+      "position_blender_m": [
+        -4.179999828338623,
+        -0.3499999940395355,
+        3.125
+      ],
+      "rotation_euler_rad": [
+        1.3963062763214111,
+        -1.7795311890722587e-08,
+        2.3378238677978516
+      ],
+      "lens_mm": 24.0,
+      "sensor_width_mm": 36.0
+    },
+    {
+      "name": "CAM room-d",
+      "position_blender_m": [
+        -7.230000019073486,
+        -1.7400000095367432,
+        3.125
+      ],
+      "rotation_euler_rad": [
+        1.4071741104125977,
+        -1.5175665168953856e-07,
+        -1.3501152992248535
+      ],
+      "lens_mm": 24.0,
+      "sensor_width_mm": 36.0
+    }
+  ],
+  "render": {
+    "engine": "CYCLES",
+    "resolution": [
+      1440,
+      1000
+    ],
+    "samples": 64,
+    "adaptive_threshold": 0.029999999329447746,
+    "denoising": false,
+    "exposure": -0.5,
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast"
+  }
+}

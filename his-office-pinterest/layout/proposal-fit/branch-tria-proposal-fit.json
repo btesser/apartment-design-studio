@@ -1,0 +1,1175 @@
+{
+  "status": "READ-ONLY PROPOSAL FIT \u2014 awaiting user design direction; no Blender or canonical layout changed",
+  "source_inputs": [
+    {
+      "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-official-48x27-woodgrain-white.glb",
+      "sha256": "1122e1e218a4d351b58138637b8d18ada1ec66d2345e7cb2f035dc93e123dbdc"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-gltf.json",
+      "sha256": "da2f18a77697d1fd136e349aea37c12ce82d617ad9543b31cd6f3582cf3ce758"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria.json",
+      "sha256": "57f0eec20e23b7f9f5abb57aab934710b81356ee37f1287afb86226592515697"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-specs.pdf",
+      "sha256": "fbd3029eba8459128031fa8e33010b2e4dda02f0bd67f7636b5f8bdda629140e"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/products/standing-desk-candidates/branch-tria-geometry-measurements.json",
+      "sha256": "41eb23f2d8ae928a8ace578fa4555b0323efd1a80e3897e466a7bbd18a82c499"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/model/layout.json",
+      "sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/model/his-office-pinterest-design.glb",
+      "sha256": "5f207af52e6674e44cbf47a67bd6211a2b2e6b448294096e3e10945b883352a8"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/layout/chair-transfer-native-check.json",
+      "sha256": "3d01d6e3e6fe8d9bcfd7fb9fb4e4e8db28c35a52c5838993f9666f28fc2026eb"
+    }
+  ],
+  "coordinate_conversion": "Supplier GLB metresY-up\u2192native Blender[x,\u2212z,y], source depth recentered on actual desktop. No model rescaling;1.1mm catalog/CAD rounding disclosed. Floor translated to1.575m.",
+  "published_dimensions_m": [
+    1.19888,
+    0.6858
+  ],
+  "supplier_CAD_desktop_dimensions_m": [
+    1.2000001668930054,
+    0.685000091791153
+  ],
+  "supplier_CAD_top_thickness_m": 0.02540004253387451,
+  "supplier_CAD_seated_top_height_m": 0.723943829536438,
+  "published_height_range_m": [
+    0.6477,
+    1.24206
+  ],
+  "moving_proxy_assumption": "Official supplier parttags desktop/middle/fixed, with split material primitives inheriting the longest source node prefix;  external sweptbounds use fulltopdelta, halfdelta for middle, zero for fixed. No mechanism internals, assembly loading, cable flex or real motion certified.",
+  "actual_area_comparison": {
+    "owned_UPLIFT42x30_area_m2": 0.8129016,
+    "published_Tria47_2x27_area_m2": 0.822191904,
+    "difference_m2": 0.009290303999999971,
+    "percent_gain": 1.1428571428571344,
+    "width_difference_m": 0.13207999999999998,
+    "depth_difference_m": -0.07620000000000005
+  },
+  "supplier_part_lift_groups": [
+    {
+      "name": "lifting_column_right_outer_stage",
+      "lift": "fixed",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_left_outer_stage",
+      "lift": "fixed",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_right_middle_stage",
+      "lift": "middle",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_left_middle_stage",
+      "lift": "middle",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_right_inner_stage",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_right_head",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_left_inner_stage",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "lifting_column_left_head",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "keypad_controls_de5db6",
+      "lift": "desktop",
+      "role": "keypad"
+    },
+    {
+      "name": "keypad_controls_f3e55d",
+      "lift": "desktop",
+      "role": "keypad"
+    },
+    {
+      "name": "keypad_controls_03bc6f",
+      "lift": "desktop",
+      "role": "keypad"
+    },
+    {
+      "name": "keypad",
+      "lift": "desktop",
+      "role": "keypad"
+    },
+    {
+      "name": "frame_rail_rear",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "frame_rail_front",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "frame_end_right",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "frame_end_left",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "frame_cover_right",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "frame_cover_left",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "felt_cable_organizer",
+      "lift": "desktop",
+      "role": "felt"
+    },
+    {
+      "name": "desktop_bracket_right",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "desktop_bracket_left",
+      "lift": "desktop",
+      "role": "frame"
+    },
+    {
+      "name": "desktop",
+      "lift": "desktop",
+      "role": "desktop"
+    },
+    {
+      "name": "control_box_5b70f6",
+      "lift": "desktop",
+      "role": "electrical"
+    },
+    {
+      "name": "control_box_5997bc",
+      "lift": "desktop",
+      "role": "electrical"
+    },
+    {
+      "name": "cable_door_lid",
+      "lift": "desktop",
+      "role": "cable_door"
+    },
+    {
+      "name": "cable_door_brush",
+      "lift": "desktop",
+      "role": "cable_door"
+    },
+    {
+      "name": "cable_door",
+      "lift": "desktop",
+      "role": "cable_door"
+    },
+    {
+      "name": "leveling_glide_right_rear",
+      "lift": "fixed",
+      "role": "glide"
+    },
+    {
+      "name": "leveling_glide_right_front",
+      "lift": "fixed",
+      "role": "glide"
+    },
+    {
+      "name": "leveling_glide_left_rear",
+      "lift": "fixed",
+      "role": "glide"
+    },
+    {
+      "name": "leveling_glide_left_front",
+      "lift": "fixed",
+      "role": "glide"
+    },
+    {
+      "name": "foot_right",
+      "lift": "fixed",
+      "role": "frame"
+    },
+    {
+      "name": "foot_left",
+      "lift": "fixed",
+      "role": "frame"
+    }
+  ],
+  "scenarios": [
+    {
+      "center_blender_m": [
+        -6.95,
+        -0.131,
+        1.575
+      ],
+      "desk_only_x_shift_m": 0,
+      "CAD_top_bounds_blender_m": [
+        [
+          -7.550000083446503,
+          -0.4735000458955765,
+          2.289599976872744
+        ],
+        [
+          -6.3499999165534975,
+          0.21150004589557647,
+          2.3150000194066185
+        ]
+      ],
+      "nominal_lamp_Ubase_to_desk_feet_gap_m": 0.02649943456053716,
+      "top_to_project_bench_x_gap_m": 0.09999991655349749,
+      "top_rear_to_nominal_white_wall_y_gap_m": 0.09849995410442353,
+      "cat_low_basket_to_tabletop_underside_at_lowest_published_height_m": 0.07987453513080078,
+      "full_height_swept_bbox_candidates_against_frozen_other_parts": [],
+      "swept_bbox_disjoint_from_all_frozen_other_parts": true,
+      "chair_transfer_floor_clear": true,
+      "chair_transfer_min_floor_component_clearance_m": 0.11976034210205055,
+      "chair_transfer_component_clearances": [
+        {
+          "obstacle": "secondary-workspace::official alex-drawers part0",
+          "continuous_caster_clearance_m": 0.16702861847472955
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part1",
+          "continuous_caster_clearance_m": 0.9721922306823731
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part3",
+          "continuous_caster_clearance_m": 0.9697675137329103
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg",
+          "continuous_caster_clearance_m": 0.4090223149560665
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg",
+          "continuous_caster_clearance_m": 0.9819151470179408
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg.001",
+          "continuous_caster_clearance_m": 0.8209191757819356
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg.001",
+          "continuous_caster_clearance_m": 1.252835430139107
+        },
+        {
+          "obstacle": "U-base closed crossbar",
+          "continuous_caster_clearance_m": 0.468896597324813
+        },
+        {
+          "obstacle": "U-base open prong",
+          "continuous_caster_clearance_m": 0.6330506246951855
+        },
+        {
+          "obstacle": "U-base open prong.001",
+          "continuous_caster_clearance_m": 0.4831963000362585
+        },
+        {
+          "obstacle": "Slim rectangular upright",
+          "continuous_caster_clearance_m": 0.5846969563806226
+        },
+        {
+          "obstacle": "Triple thickness brown fleece base",
+          "continuous_caster_clearance_m": 0.11976034210205055
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::arched hollow condo wall",
+          "continuous_caster_clearance_m": 0.22009021804809542
+        },
+        {
+          "obstacle": "Condo dark floor",
+          "continuous_caster_clearance_m": 0.2374799923706052
+        },
+        {
+          "obstacle": "Natural wood branch0-0",
+          "continuous_caster_clearance_m": 0.4912777392826159
+        },
+        {
+          "obstacle": "Natural wood branch1-0",
+          "continuous_caster_clearance_m": 0.2665661053466794
+        },
+        {
+          "obstacle": "Natural wood branch3-0",
+          "continuous_caster_clearance_m": 0.2736067658897578
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::Sisal rope winding.002",
+          "continuous_caster_clearance_m": 0.2598832325744626
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_outer_stage",
+          "continuous_caster_clearance_m": 0.4183598437941554
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_outer_stage",
+          "continuous_caster_clearance_m": 0.5720722655075545
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_middle_stage",
+          "continuous_caster_clearance_m": 0.42515123583727615
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_middle_stage",
+          "continuous_caster_clearance_m": 0.5791391724432084
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_inner_stage",
+          "continuous_caster_clearance_m": 0.4319476822418012
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_inner_stage",
+          "continuous_caster_clearance_m": 0.5862061395318445
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_rear",
+          "continuous_caster_clearance_m": 0.6445290318744683
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_front",
+          "continuous_caster_clearance_m": 0.20498027811527247
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_rear",
+          "continuous_caster_clearance_m": 0.767685195307549
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_front",
+          "continuous_caster_clearance_m": 0.42730405509843
+        },
+        {
+          "obstacle": "Tria::foot_right",
+          "continuous_caster_clearance_m": 0.16848009238719935
+        },
+        {
+          "obstacle": "Tria::foot_left",
+          "continuous_caster_clearance_m": 0.397785873640155
+        }
+      ],
+      "nominal_human_routes": [
+        {
+          "state": "working",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.698058577250647
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.3167643471248685
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.9444315757896957
+              ]
+            }
+          ]
+        },
+        {
+          "state": "primary45cm_pullback",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.312534117626285,
+                0.0004428653311139962
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.905440572620687
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.5105904829433108
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "center_blender_m": [
+        -6.930000000000001,
+        -0.131,
+        1.575
+      ],
+      "desk_only_x_shift_m": 0.02,
+      "CAD_top_bounds_blender_m": [
+        [
+          -7.530000083446503,
+          -0.4735000458955765,
+          2.289599976872744
+        ],
+        [
+          -6.329999916553498,
+          0.21150004589557647,
+          2.3150000194066185
+        ]
+      ],
+      "nominal_lamp_Ubase_to_desk_feet_gap_m": 0.046499434560536734,
+      "top_to_project_bench_x_gap_m": 0.07999991655349792,
+      "top_rear_to_nominal_white_wall_y_gap_m": 0.09849995410442353,
+      "cat_low_basket_to_tabletop_underside_at_lowest_published_height_m": 0.07987453513080078,
+      "full_height_swept_bbox_candidates_against_frozen_other_parts": [],
+      "swept_bbox_disjoint_from_all_frozen_other_parts": true,
+      "chair_transfer_floor_clear": true,
+      "chair_transfer_min_floor_component_clearance_m": 0.11976034210205055,
+      "chair_transfer_component_clearances": [
+        {
+          "obstacle": "secondary-workspace::official alex-drawers part0",
+          "continuous_caster_clearance_m": 0.16702861847472955
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part1",
+          "continuous_caster_clearance_m": 0.9721922306823731
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part3",
+          "continuous_caster_clearance_m": 0.9697675137329103
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg",
+          "continuous_caster_clearance_m": 0.4090223149560665
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg",
+          "continuous_caster_clearance_m": 0.9819151470179408
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg.001",
+          "continuous_caster_clearance_m": 0.8209191757819356
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg.001",
+          "continuous_caster_clearance_m": 1.252835430139107
+        },
+        {
+          "obstacle": "U-base closed crossbar",
+          "continuous_caster_clearance_m": 0.468896597324813
+        },
+        {
+          "obstacle": "U-base open prong",
+          "continuous_caster_clearance_m": 0.6330506246951855
+        },
+        {
+          "obstacle": "U-base open prong.001",
+          "continuous_caster_clearance_m": 0.4831963000362585
+        },
+        {
+          "obstacle": "Slim rectangular upright",
+          "continuous_caster_clearance_m": 0.5846969563806226
+        },
+        {
+          "obstacle": "Triple thickness brown fleece base",
+          "continuous_caster_clearance_m": 0.11976034210205055
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::arched hollow condo wall",
+          "continuous_caster_clearance_m": 0.22009021804809542
+        },
+        {
+          "obstacle": "Condo dark floor",
+          "continuous_caster_clearance_m": 0.2374799923706052
+        },
+        {
+          "obstacle": "Natural wood branch0-0",
+          "continuous_caster_clearance_m": 0.4912777392826159
+        },
+        {
+          "obstacle": "Natural wood branch1-0",
+          "continuous_caster_clearance_m": 0.2665661053466794
+        },
+        {
+          "obstacle": "Natural wood branch3-0",
+          "continuous_caster_clearance_m": 0.2736067658897578
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::Sisal rope winding.002",
+          "continuous_caster_clearance_m": 0.2598832325744626
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_outer_stage",
+          "continuous_caster_clearance_m": 0.423480028014183
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_outer_stage",
+          "continuous_caster_clearance_m": 0.55853251447276
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_middle_stage",
+          "continuous_caster_clearance_m": 0.42847990403652175
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_middle_stage",
+          "continuous_caster_clearance_m": 0.5655947157044008
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_inner_stage",
+          "continuous_caster_clearance_m": 0.4334798992681503
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_inner_stage",
+          "continuous_caster_clearance_m": 0.5726570499920773
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_rear",
+          "continuous_caster_clearance_m": 0.6521477335595649
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_front",
+          "continuous_caster_clearance_m": 0.20498027811527247
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_rear",
+          "continuous_caster_clearance_m": 0.7565314197440263
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_front",
+          "continuous_caster_clearance_m": 0.4111822104280513
+        },
+        {
+          "obstacle": "Tria::foot_right",
+          "continuous_caster_clearance_m": 0.16848009238719935
+        },
+        {
+          "obstacle": "Tria::foot_left",
+          "continuous_caster_clearance_m": 0.38130078480280966
+        }
+      ],
+      "nominal_human_routes": [
+        {
+          "state": "working",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.6960244515188485
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.314958260335011
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.942874398811745
+              ]
+            }
+          ]
+        },
+        {
+          "state": "primary45cm_pullback",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.310064117626286,
+                0.0004428653311139962
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.902970572620688
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.50812048294331
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "center_blender_m": [
+        -6.915,
+        -0.131,
+        1.575
+      ],
+      "desk_only_x_shift_m": 0.035,
+      "CAD_top_bounds_blender_m": [
+        [
+          -7.515000083446503,
+          -0.4735000458955765,
+          2.289599976872744
+        ],
+        [
+          -6.314999916553497,
+          0.21150004589557647,
+          2.3150000194066185
+        ]
+      ],
+      "nominal_lamp_Ubase_to_desk_feet_gap_m": 0.0614994345605373,
+      "top_to_project_bench_x_gap_m": 0.06499991655349735,
+      "top_rear_to_nominal_white_wall_y_gap_m": 0.09849995410442353,
+      "cat_low_basket_to_tabletop_underside_at_lowest_published_height_m": 0.07987453513080078,
+      "full_height_swept_bbox_candidates_against_frozen_other_parts": [],
+      "swept_bbox_disjoint_from_all_frozen_other_parts": true,
+      "chair_transfer_floor_clear": true,
+      "chair_transfer_min_floor_component_clearance_m": 0.11976034210205055,
+      "chair_transfer_component_clearances": [
+        {
+          "obstacle": "secondary-workspace::official alex-drawers part0",
+          "continuous_caster_clearance_m": 0.16702861847472955
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part1",
+          "continuous_caster_clearance_m": 0.9721922306823731
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part3",
+          "continuous_caster_clearance_m": 0.9697675137329103
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg",
+          "continuous_caster_clearance_m": 0.4090223149560665
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg",
+          "continuous_caster_clearance_m": 0.9819151470179408
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg.001",
+          "continuous_caster_clearance_m": 0.8209191757819356
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg.001",
+          "continuous_caster_clearance_m": 1.252835430139107
+        },
+        {
+          "obstacle": "U-base closed crossbar",
+          "continuous_caster_clearance_m": 0.468896597324813
+        },
+        {
+          "obstacle": "U-base open prong",
+          "continuous_caster_clearance_m": 0.6330506246951855
+        },
+        {
+          "obstacle": "U-base open prong.001",
+          "continuous_caster_clearance_m": 0.4831963000362585
+        },
+        {
+          "obstacle": "Slim rectangular upright",
+          "continuous_caster_clearance_m": 0.5846969563806226
+        },
+        {
+          "obstacle": "Triple thickness brown fleece base",
+          "continuous_caster_clearance_m": 0.11976034210205055
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::arched hollow condo wall",
+          "continuous_caster_clearance_m": 0.22009021804809542
+        },
+        {
+          "obstacle": "Condo dark floor",
+          "continuous_caster_clearance_m": 0.2374799923706052
+        },
+        {
+          "obstacle": "Natural wood branch0-0",
+          "continuous_caster_clearance_m": 0.4912777392826159
+        },
+        {
+          "obstacle": "Natural wood branch1-0",
+          "continuous_caster_clearance_m": 0.2665661053466794
+        },
+        {
+          "obstacle": "Natural wood branch3-0",
+          "continuous_caster_clearance_m": 0.2736067658897578
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::Sisal rope winding.002",
+          "continuous_caster_clearance_m": 0.2598832325744626
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_outer_stage",
+          "continuous_caster_clearance_m": 0.423480028014183
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_outer_stage",
+          "continuous_caster_clearance_m": 0.5485358733140064
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_middle_stage",
+          "continuous_caster_clearance_m": 0.42847990403652175
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_middle_stage",
+          "continuous_caster_clearance_m": 0.5555932207935865
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_inner_stage",
+          "continuous_caster_clearance_m": 0.4334798992681503
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_inner_stage",
+          "continuous_caster_clearance_m": 0.5626507778364651
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_rear",
+          "continuous_caster_clearance_m": 0.6580842781918208
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_front",
+          "continuous_caster_clearance_m": 0.20498027811527247
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_rear",
+          "continuous_caster_clearance_m": 0.7483306888179195
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_front",
+          "continuous_caster_clearance_m": 0.399213455890751
+        },
+        {
+          "obstacle": "Tria::foot_right",
+          "continuous_caster_clearance_m": 0.16848009238719935
+        },
+        {
+          "obstacle": "Tria::foot_left",
+          "continuous_caster_clearance_m": 0.3690539339902345
+        }
+      ],
+      "nominal_human_routes": [
+        {
+          "state": "working",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.694401671436223
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.3134846907521744
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.9415678719626746
+              ]
+            }
+          ]
+        },
+        {
+          "state": "primary45cm_pullback",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.308211617626286,
+                0.0004428653311139962
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.901118072620688
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.5062679829433097
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "center_blender_m": [
+        -6.91,
+        -0.131,
+        1.575
+      ],
+      "desk_only_x_shift_m": 0.04,
+      "CAD_top_bounds_blender_m": [
+        [
+          -7.510000083446503,
+          -0.4735000458955765,
+          2.289599976872744
+        ],
+        [
+          -6.3099999165534975,
+          0.21150004589557647,
+          2.3150000194066185
+        ]
+      ],
+      "nominal_lamp_Ubase_to_desk_feet_gap_m": 0.0664994345605372,
+      "top_to_project_bench_x_gap_m": 0.05999991655349746,
+      "top_rear_to_nominal_white_wall_y_gap_m": 0.09849995410442353,
+      "cat_low_basket_to_tabletop_underside_at_lowest_published_height_m": 0.07987453513080078,
+      "full_height_swept_bbox_candidates_against_frozen_other_parts": [],
+      "swept_bbox_disjoint_from_all_frozen_other_parts": true,
+      "chair_transfer_floor_clear": true,
+      "chair_transfer_min_floor_component_clearance_m": 0.11976034210205055,
+      "chair_transfer_component_clearances": [
+        {
+          "obstacle": "secondary-workspace::official alex-drawers part0",
+          "continuous_caster_clearance_m": 0.16702861847472955
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot",
+          "continuous_caster_clearance_m": 0.18110476914946233
+        },
+        {
+          "obstacle": "secondary-workspace::right black ADILS leg.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "secondary-workspace::black adjustment foot.001",
+          "continuous_caster_clearance_m": 0.5340278576114021
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part1",
+          "continuous_caster_clearance_m": 0.9721922306823731
+        },
+        {
+          "obstacle": "clothes-dresser::official storklinta-low-drawers part3",
+          "continuous_caster_clearance_m": 0.9697675137329103
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg",
+          "continuous_caster_clearance_m": 0.4090223149560665
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg",
+          "continuous_caster_clearance_m": 0.9819151470179408
+        },
+        {
+          "obstacle": "visitor-chair::sloping front wooden leg.001",
+          "continuous_caster_clearance_m": 0.8209191757819356
+        },
+        {
+          "obstacle": "visitor-chair::sloping rear wooden leg.001",
+          "continuous_caster_clearance_m": 1.252835430139107
+        },
+        {
+          "obstacle": "U-base closed crossbar",
+          "continuous_caster_clearance_m": 0.468896597324813
+        },
+        {
+          "obstacle": "U-base open prong",
+          "continuous_caster_clearance_m": 0.6330506246951855
+        },
+        {
+          "obstacle": "U-base open prong.001",
+          "continuous_caster_clearance_m": 0.4831963000362585
+        },
+        {
+          "obstacle": "Slim rectangular upright",
+          "continuous_caster_clearance_m": 0.5846969563806226
+        },
+        {
+          "obstacle": "Triple thickness brown fleece base",
+          "continuous_caster_clearance_m": 0.11976034210205055
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::arched hollow condo wall",
+          "continuous_caster_clearance_m": 0.22009021804809542
+        },
+        {
+          "obstacle": "Condo dark floor",
+          "continuous_caster_clearance_m": 0.2374799923706052
+        },
+        {
+          "obstacle": "Natural wood branch0-0",
+          "continuous_caster_clearance_m": 0.4912777392826159
+        },
+        {
+          "obstacle": "Natural wood branch1-0",
+          "continuous_caster_clearance_m": 0.2665661053466794
+        },
+        {
+          "obstacle": "Natural wood branch3-0",
+          "continuous_caster_clearance_m": 0.2736067658897578
+        },
+        {
+          "obstacle": "kept-muttros-cat-tree::Sisal rope winding.002",
+          "continuous_caster_clearance_m": 0.2598832325744626
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_outer_stage",
+          "continuous_caster_clearance_m": 0.423480028014183
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_outer_stage",
+          "continuous_caster_clearance_m": 0.5452346872688596
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_middle_stage",
+          "continuous_caster_clearance_m": 0.42847990403652175
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_middle_stage",
+          "continuous_caster_clearance_m": 0.5522901504483197
+        },
+        {
+          "obstacle": "Tria::lifting_column_right_inner_stage",
+          "continuous_caster_clearance_m": 0.4334798992681503
+        },
+        {
+          "obstacle": "Tria::lifting_column_left_inner_stage",
+          "continuous_caster_clearance_m": 0.5593458531794206
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_rear",
+          "continuous_caster_clearance_m": 0.6601048522615269
+        },
+        {
+          "obstacle": "Tria::leveling_glide_right_front",
+          "continuous_caster_clearance_m": 0.20498027811527247
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_rear",
+          "continuous_caster_clearance_m": 0.7456290925516174
+        },
+        {
+          "obstacle": "Tria::leveling_glide_left_front",
+          "continuous_caster_clearance_m": 0.39524823078768395
+        },
+        {
+          "obstacle": "Tria::foot_right",
+          "continuous_caster_clearance_m": 0.16848009238719935
+        },
+        {
+          "obstacle": "Tria::foot_left",
+          "continuous_caster_clearance_m": 0.36499494856113496
+        }
+      ],
+      "nominal_human_routes": [
+        {
+          "state": "working",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.693844669112128
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.3129732055306285
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.9411083165127225
+              ]
+            }
+          ]
+        },
+        {
+          "state": "primary45cm_pullback",
+          "checks": [
+            {
+              "assumed_person_diameter_m": 0.5,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                4.3075941176262855,
+                0.0004428653311139962
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.55,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.9005005726206874
+              ]
+            },
+            {
+              "assumed_person_diameter_m": 0.6,
+              "entry_component": 0,
+              "rear_component": 0,
+              "continuous_nominal_route": true,
+              "free_component_areas_m2": [
+                3.505650482943309
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recommendation": "Current center is nominally collision-free by conservative externalpart sweep but leaves fragile26.5mm lamp-base/desk-foot clearance. If Tria chosen, provisionally shift only desk\u224835mm right tocenter[-6.915,\u2212.131] to balance lamp-foot and bench-top gaps around6cm. Keep cat, lamp, bench, architecture and primarychair unchanged. This candidate changes proportions/style rather than meaningfully increasing toparea.",
+  "limits": [
+    "This read-only offline candidate assessment is not a final Blender integration or installation approval.",
+    "Source GLB is exact48\u00d727 nominal geometry but Woodgrain/White appearance; selected BlackOak/Charcoal would require clearly disclosed rematerialization using actualphotos after user chooses direction.",
+    "CAD tabletop1.200\u00d7.685m versus published1.19888\u00d7.6858m is ~1mm source rounding; CAD remains undistorted.",
+    "Lamp Ubase and cat branch forms remain photo proxies with unpublished details; small numerical gaps cannot establish actualinstalled clearance.",
+    "Generalized room outline5\u201312cm; opening detail3\u20136cm. Field measurement required.",
+    "Swept disjoint AABBs establish proxy geometric separation from other source parts; any reported overlaps are candidates requiring actual triangle/pose verification.",
+    "Proposed human routing uses conservative top envelopes and planning circles, not accessibility/code verification.",
+    "Chair transfer floor sweep retains verifiedcheckpointpath; actual3D chair motion must be retested against Tria after user choice.",
+    "Monitor/keyboard are generic illustrative user-equipment proxies moved with top, not verified actual hardware.",
+    "Keep drawers closed during transfer; prior open clothesdrawer+fullchairpullback rearroute restriction remains."
+  ]
+}

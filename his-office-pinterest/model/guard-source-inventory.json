@@ -1,0 +1,650 @@
+{
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "collections": [
+    {
+      "name": "01 Measured room shell",
+      "direct": 22,
+      "all": 22,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "02 Existing fixed feature proxies",
+      "direct": 47,
+      "all": 47,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "02b Existing door leaves \u2014 closed observed state",
+      "direct": 13,
+      "all": 13,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "03 Daylight backdrop \u2014 presentation only",
+      "direct": 1,
+      "all": 1,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "04 Lights and camera templates",
+      "direct": 6,
+      "all": 6,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "05 Chosen new furniture and sourced textiles/art",
+      "direct": 45,
+      "all": 45,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "06 Provisional contents of unrecorded closet",
+      "direct": 76,
+      "all": 76,
+      "hide_render": false,
+      "hide_viewport": false
+    },
+    {
+      "name": "His Office \u2014 kept products and two Branch task chairs",
+      "direct": 83,
+      "all": 83,
+      "hide_render": false,
+      "hide_viewport": false
+    }
+  ],
+  "roots": {
+    "kept-uplift-desk": {
+      "found": true,
+      "properties": {
+        "product_name": "Owned UPLIFT V2 Pheasantwood42\u00d730in",
+        "product_url": "https://www.upliftdesk.com/desktop-lookbook/",
+        "dimension_confidence": "Exact user-order top42\u00d730in,1.75in thickness; frame and grommet spacing approximated from official photos",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": "<bpy id property array [3]>",
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "front_vector_blender": "<bpy id property array [3]>",
+        "back_vector_blender": "<bpy id property array [3]>",
+        "canonical_layout_id": "uplift-main-desk",
+        "role": "furniture"
+      },
+      "children": [
+        {
+          "name": "kept-uplift-desk",
+          "type": "EMPTY",
+          "materials": []
+        },
+        {
+          "name": "C-frame steel foot",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "C-frame steel foot.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "Foot glide",
+          "type": "MESH",
+          "materials": [
+            "Black product trim"
+          ]
+        },
+        {
+          "name": "Foot glide.001",
+          "type": "MESH",
+          "materials": [
+            "Black product trim"
+          ]
+        },
+        {
+          "name": "Foot glide.002",
+          "type": "MESH",
+          "materials": [
+            "Black product trim"
+          ]
+        },
+        {
+          "name": "Foot glide.003",
+          "type": "MESH",
+          "materials": [
+            "Black product trim"
+          ]
+        },
+        {
+          "name": "Height keypad",
+          "type": "MESH",
+          "materials": [
+            "Black product trim"
+          ]
+        },
+        {
+          "name": "Hidden upper crossbar",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "kept-uplift-desk::solid wood barkline top",
+          "type": "MESH",
+          "materials": [
+            "Pheasantwood official appearance reference"
+          ]
+        },
+        {
+          "name": "Two brushed nickel grommet covers",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT brushed nickel grommet covers"
+          ]
+        },
+        {
+          "name": "Two brushed nickel grommet covers.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT brushed nickel grommet covers"
+          ]
+        },
+        {
+          "name": "Underside side bracket",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "Underside side bracket.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 lower slim stage",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 lower slim stage.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 middle stage",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 middle stage.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 triangular stability brace",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 triangular stability brace.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 upper stage",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        },
+        {
+          "name": "V2 upper stage.001",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ]
+        }
+      ]
+    },
+    "kept-honeywell-02e-pro": {
+      "found": true,
+      "properties": {
+        "product_name": "Owned Honeywell02E Pro10400lm white",
+        "product_url": "https://www.amazon.com/dp/B0C3BVYTXP",
+        "dimension_confidence": "Exact overall dimensions. U-base separate dimensions approximate; do not substitute6000lm02E.",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": "<bpy id property array [3]>",
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "panel_long_axis_blender": "<bpy id property array [3]>",
+        "head_form_status": "Source-photo open rectangular perimeter with two narrow parallel LED bars and empty center; outer envelope unchanged",
+        "base_dimensions_status": "U-base shape from exact photos; .247\u00d7.438m proxy size is unverified, inside exact overall envelope",
+        "canonical_layout_id": "honeywell-lamp",
+        "role": "furniture"
+      },
+      "children": [
+        {
+          "name": "kept-honeywell-02e-pro",
+          "type": "EMPTY",
+          "materials": []
+        },
+        {
+          "name": "Narrow parallel LED light bar",
+          "type": "MESH",
+          "materials": [
+            "Honeywell4000K luminous diffuser"
+          ]
+        },
+        {
+          "name": "Narrow parallel LED light bar.001",
+          "type": "MESH",
+          "materials": [
+            "Honeywell4000K luminous diffuser"
+          ]
+        },
+        {
+          "name": "Rectangular panel end rim",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "Rectangular panel end rim.001",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "Rectangular panel long rim",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "Rectangular panel long rim.001",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "Rotary dimming knob",
+          "type": "MESH",
+          "materials": [
+            "UPLIFT brushed nickel grommet covers"
+          ]
+        },
+        {
+          "name": "Slim rectangular upright",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "U-base closed crossbar",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "U-base open prong",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        },
+        {
+          "name": "U-base open prong.001",
+          "type": "MESH",
+          "materials": [
+            "Honeywell warm white enamel"
+          ]
+        }
+      ]
+    },
+    "kept-muttros-cat-tree": {
+      "found": true,
+      "properties": {
+        "product_name": "Owned MUTTROS59in brown3wicker-basket tree",
+        "product_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+        "dimension_confidence": "Exact base/height/components; natural branch positions and overall envelope are provisional, not vendor CAD",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": "<bpy id property array [3]>",
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "condo_opening_vector_blender": "<bpy id property array [3]>",
+        "basket_span_axis_blender": "<bpy id property array [3]>",
+        "upper_envelope_status": "Provisional .7X\u00d71.1Y allocation, not a verified manufacturer envelope",
+        "canonical_layout_id": "muttros-cat-tree",
+        "role": "furniture"
+      },
+      "children": [
+        {
+          "name": "kept-muttros-cat-tree",
+          "type": "EMPTY",
+          "materials": []
+        },
+        {
+          "name": "Brown play ball",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "Brown play ball.001",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "Brown play ball.002",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "Condo dark floor",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown condo interior"
+          ]
+        },
+        {
+          "name": "Condo top plush cushion",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "High side wicker basket brown fleece cushion",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::arched hollow condo wall",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece",
+            "MUTTROS brown condo interior"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Hanging pom-pom cord",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural sisal"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural sisal"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural sisal"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS darker wicker strands"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS handwoven wicker"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS darker wicker strands"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS handwoven wicker"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Sisal rope winding",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural sisal"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Sisal rope winding.001",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural sisal"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Sisal rope winding.002",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural sisal"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Thick fleece hammock rim",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Top wicker basket crossing wicker strand",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS darker wicker strands"
+          ]
+        },
+        {
+          "name": "kept-muttros-cat-tree::Top wicker basket woven horizontal cours",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS handwoven wicker"
+          ]
+        },
+        {
+          "name": "Low side wicker basket brown fleece cushion",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "Natural wood branch0-0",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch0-1",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch0-2",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch0-3",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch1-0",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch1-1",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch1-2",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch2-0",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch2-1",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch3-0",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Natural wood branch3-1",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction.001",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction.002",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction.003",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction.004",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction.005",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Organic branch junction.006",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ]
+        },
+        {
+          "name": "Top wicker basket brown fleece cushion",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        },
+        {
+          "name": "Triple thickness brown fleece base",
+          "type": "MESH",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "source_file": "/workspace/his-office-pinterest/model/his-office-pinterest-design.blend",
+  "source_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "method": "Native evaluated actual task-chair meshes translated backwards up to45cm. Full swept AABB versus fixed scene parts, then17 triangle-BVH samples for remaining candidates. Rug soft contacts omitted. Only the single retained primary task chair is moved.",
+  "whole_sweep_candidates": [
+    [
+      "branch-pro-task-chair-1::Mesh_0",
+      "Height keypad"
+    ]
+  ],
+  "translations_tested_m": [
+    0.0,
+    0.028125,
+    0.05625,
+    0.084375,
+    0.1125,
+    0.140625,
+    0.16875,
+    0.196875,
+    0.225,
+    0.253125,
+    0.28125,
+    0.309375,
+    0.3375,
+    0.36562500000000003,
+    0.39375,
+    0.421875,
+    0.45
+  ],
+  "surface_intersections": [],
+  "no_sampled_unintended_intersections": true,
+  "limits": [
+    "Chair rolling/caster orientation, rug compression, user bodies and unmeasured real product differences are not dynamically simulated.",
+    "Sampled tests for overlapping swept bounds do not prove every intermediate pose; disjoint swept bounds rule out the other obstacles for the proxy.",
+    "Dresser drawers are closed during this test; full open drawer and pullback standing clearance is separately qualified."
+  ]
+}

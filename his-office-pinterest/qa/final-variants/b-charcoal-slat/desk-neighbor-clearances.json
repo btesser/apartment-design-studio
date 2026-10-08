@@ -1,0 +1,19 @@
+{
+  "source_sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+  "method": "Actual evaluated static part bounds; unchanged sharedB/Cdesk/bench/lamp/cat placement. No pending taskchair fit claim.",
+  "clearance_values_m": {
+    "Tria_left_foot_to_lamp_Ubase_x_gap_m": 0.06149911880493164,
+    "Tria_desktop_to_project_bench_x_gap_m": 0.06500005722045898,
+    "Tria_desktop_back_to_workwall_y_gap_m": 0.048499966263771066,
+    "Tria_desktop_back_to_Bpanel_front_y_gap_m": 0.026499966263771046,
+    "cat_low_basket_top_to_Tria_seated_underside_z_gap_m": 0.17217445373535156,
+    "cat_low_basket_top_to_Tria_lowest_nominal_underside_z_gap_m": 0.0798745582580569,
+    "cat_low_basket_top_to_seated_desktop_bracket_underside_z_difference_m": 0.12117433547973633
+  },
+  "limits": [
+    "Model millimetres are not scan/site accuracy. Lamp U-base separate shape and cat branch offsets are photo-derived/unpublished; measure realowned products.",
+    "Bare millimetre art/panel gaps are authored mounting contact; actual fasteners/adhesives/leveling/baseboard not modeled.",
+    "Bracket vertical difference is not a collision: lower bracket swept XYbounds are disjoint from lowcat basket; desktop-only underside gap is separately named."
+  ],
+  "review_status": "CHECKPOINT ONLY \u2014 Branch wall study; superseded composition and confirmed owned-chair/equipment revision pending. No final room-fit or60cmroute claim."
+}

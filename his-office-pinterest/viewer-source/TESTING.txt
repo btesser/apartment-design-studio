@@ -1,0 +1,37 @@
+TWO-VARIANT VIEWER VERIFICATION
+
+The new viewer scaffold has passed source and standalone checkpoint browser
+tests. They are archived under tests/checkpoints/branch-chair-wall-study.
+Those models use the initial Branch task chair; the user subsequently
+identified the owned task chair as a gray Herman Miller XL. These proofs
+must not be used as validation of the final furniture revision.
+
+Checkpoint coverage: both B/C models, all exact camera poses and horizontal
+lenses, source dimensions and orientation records, loaded image maps,
+keyboard walking, closed/inferred door states, hidden provisional closet
+racks, view-preserving version switching, valid PNG download, and all13
+Honeywell open-head/LED/rim ray controls per variant. The55MiB standalone
+passed with no HTTP/S requests and no browser errors. Reconstructed GLB
+bytes matched all six canonical SHA-256 identities. Shared unmodified BIN
+chunks are embedded once, preserving each complete GLB byte-for-byte.
+
+Direct file navigation was attempted and returned
+net::ERR_BLOCKED_BY_ADMINISTRATOR in managed Chromium. Evidence is in
+tests/file-policy-result.json. This policy restriction does not establish
+a runtime error; embedded standalone content was tested in a browser
+document with all network requests blocked.
+
+FINAL PROCEDURE AFTER APPROVED FROZEN EXPORTS
+1. python3 sync-assets.py --final
+2. npm run build
+3. Run python3 serve.py in another terminal (127.0.0.1:8773 only).
+4. node tests/browser.mjs --capture
+5. node tests/browser.mjs --standalone
+6. python3 verify-assets.py
+7. python3 package-source.py
+
+The model-edit links require the accompanying project variants folders.
+Source server exposes only the two exact accompanying Blender download
+paths in addition to the viewer-source directory. Standalone HTML uses
+relative local file links. WebGL lighting is a neutral approximation of
+Blender; walkthrough collisions are approximate, not accessibility proof.

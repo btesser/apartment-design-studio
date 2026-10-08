@@ -1,0 +1,178 @@
+[
+  {
+    "id": "room-a",
+    "label": "Entry toward desks, lamp and rear window",
+    "filename": "renders/room-a.jpg",
+    "eye_blender_m": [
+      -3.4600000381469727,
+      -2.3399999141693115,
+      3.125
+    ],
+    "look_direction_blender": [
+      -0.8195406794548035,
+      0.5559120178222656,
+      -0.13897785544395447
+    ],
+    "eye_gltf_m": [
+      -3.4600000381469727,
+      3.125,
+      2.3399999141693115
+    ],
+    "target_gltf_m": [
+      -4.279540538787842,
+      2.9860222339630127,
+      1.784087896347046
+    ],
+    "eye": [
+      -3.4600000381469727,
+      3.125,
+      2.3399999141693115
+    ],
+    "target": [
+      -4.279540538787842,
+      2.9860222339630127,
+      1.784087896347046
+    ],
+    "lens_mm": 24.0,
+    "sensor_width_mm": 36.0,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "pixels": [
+      1440,
+      1000
+    ],
+    "unit": "metres; native Blender Z-up; GLTF X,Z,-Y",
+    "scene_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606"
+  },
+  {
+    "id": "room-b",
+    "label": "Rear doorway toward clear project bench and closet",
+    "filename": "renders/room-b.jpg",
+    "eye_blender_m": [
+      -7.480000019073486,
+      -2.2699999809265137,
+      3.125
+    ],
+    "look_direction_blender": [
+      0.814118504524231,
+      0.5604891777038574,
+      -0.1518644094467163
+    ],
+    "eye_gltf_m": [
+      -7.480000019073486,
+      3.125,
+      2.2699999809265137
+    ],
+    "target_gltf_m": [
+      -6.665881633758545,
+      2.973135471343994,
+      1.7095108032226562
+    ],
+    "eye": [
+      -7.480000019073486,
+      3.125,
+      2.2699999809265137
+    ],
+    "target": [
+      -6.665881633758545,
+      2.973135471343994,
+      1.7095108032226562
+    ],
+    "lens_mm": 24.0,
+    "sensor_width_mm": 36.0,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "pixels": [
+      1440,
+      1000
+    ],
+    "unit": "metres; native Blender Z-up; GLTF X,Z,-Y",
+    "scene_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606"
+  },
+  {
+    "id": "room-c",
+    "label": "White wall toward unadorned brick arch and visitor chair",
+    "filename": "renders/room-c.jpg",
+    "eye_blender_m": [
+      -4.179999828338623,
+      -0.3499999940395355,
+      3.125
+    ],
+    "look_direction_blender": [
+      -0.7090439796447754,
+      -0.6834601163864136,
+      -0.17360593378543854
+    ],
+    "eye_gltf_m": [
+      -4.179999828338623,
+      3.125,
+      0.3499999940395355
+    ],
+    "target_gltf_m": [
+      -4.889043807983398,
+      2.9513940811157227,
+      1.0334601402282715
+    ],
+    "eye": [
+      -4.179999828338623,
+      3.125,
+      0.3499999940395355
+    ],
+    "target": [
+      -4.889043807983398,
+      2.9513940811157227,
+      1.0334601402282715
+    ],
+    "lens_mm": 24.0,
+    "sensor_width_mm": 36.0,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "pixels": [
+      1440,
+      1000
+    ],
+    "unit": "metres; native Blender Z-up; GLTF X,Z,-Y",
+    "scene_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606"
+  },
+  {
+    "id": "room-d",
+    "label": "Window side toward project bench and visitor chair",
+    "filename": "renders/room-d.jpg",
+    "eye_blender_m": [
+      -7.230000019073486,
+      -1.7400000095367432,
+      3.125
+    ],
+    "look_direction_blender": [
+      0.962716281414032,
+      0.21597053110599518,
+      -0.16289302706718445
+    ],
+    "eye_gltf_m": [
+      -7.230000019073486,
+      3.125,
+      1.7400000095367432
+    ],
+    "target_gltf_m": [
+      -6.267283916473389,
+      2.962106943130493,
+      1.5240294933319092
+    ],
+    "eye": [
+      -7.230000019073486,
+      3.125,
+      1.7400000095367432
+    ],
+    "target": [
+      -6.267283916473389,
+      2.962106943130493,
+      1.5240294933319092
+    ],
+    "lens_mm": 24.0,
+    "sensor_width_mm": 36.0,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "pixels": [
+      1440,
+      1000
+    ],
+    "unit": "metres; native Blender Z-up; GLTF X,Z,-Y",
+    "scene_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606"
+  }
+]

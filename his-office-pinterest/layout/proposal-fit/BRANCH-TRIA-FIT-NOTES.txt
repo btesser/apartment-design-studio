@@ -1,0 +1,25 @@
+BRANCH TRIA — READ-ONLY PROPOSAL FIT, 8 OCTOBER 2026
+Pending user design-direction choice. No Blender or canonical layout changed.
+
+The 48×27 nominal Branch Tria in Black Oak / Charcoal is a plausible stylistic replacement for the owned UPLIFT. Its published ACTUAL top is 47.2×27 in (119.888×68.58 cm), not 48 in wide. Price checked at $749. This gains only 1.14% desktop area:0.82219 m² versus 0.81290 m² for the owned 42×30 in UPLIFT. It is 13.2 cm wider and 7.62 cm shallower; describe a different proportion/finish, not a major work-area expansion.
+
+Supplier CAD is 120×68.5 cm with 25.4 mm top. That differs from the spec by about 1 mm, so this check retains undistorted supplier geometry and reports the rounding difference. The source CAD is Woodgrain/White appearance; a later Black Oak / Charcoal render would need clearly disclosed recoloring against the actual selected product photos.
+
+At the current desk center[-6.95,−.131] in native Blender metres, floor Z 1.575:
+• Conservative external moving-part swept bounds over the published 25.5–48.9 in tabletop height range clear the frozen room, lamp, cat, bench, guest chair, primary chair and artwork.
+• Existing generic monitor/keyboard are moved with the top for this check; actual owned equipment and cable slack are unknown.
+• The left Tria foot is only 2.65 cm from the modeled Honeywell U-base. This is materially tighter than the prior UPLIFT's approximately 11 cm gap.
+• The top remains 10 cm from the independent 140×60 cm project bench.
+• The cat's low-basket proxy remains about 8.0 cm below the top underside at the lowest published height.
+
+Preferred PROVISIONAL placement if this desk is selected:
+Shift only the new desk 35 mm right, center[-6.915,−.131]. Keep cat, lamp, bench, chair and architecture exactly where they are. This gives about 6.15 cm foot/lamp gap and 6.5 cm desktop/bench gap. A 20 mm shift gives 4.65/8.0 cm;40 mm gives 6.65/6.0 cm. None of those choices requires moving another piece in this nominal model.
+
+The unchanged one-chair caster-transfer path clears the replacement desk's low components in all four offsets. The 60 cm nominal planning-circle route remains connected with the chair working or pulled back 45 cm. The rug and existing kitchen-side/closet approaches are preserved. Keep drawers closed for transfer; the prior simultaneous open clothes drawer plus full chair pullback restriction remains.
+
+This is a proposal check, not an installed-clearance guarantee or final Blender integration. Lamp U-base and cat branches are photo-derived proxies; small measured-style gap numbers cannot replace physical measurement. Room outline uncertainty is 5–12 cm, and opening detail 3–6 cm. Full actual-chair 3 D transfer, selected finish material work and final product/geometry parity should be refreshed only after the user chooses this direction. No purchase is made.
+
+Authoritative JSON and source hashes:
+branch-tria-proposal-fit.json
+Script: check_tria_proposal.py
+Product sources owned by product agent: products/standing-desk-candidates/

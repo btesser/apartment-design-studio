@@ -1,0 +1,16 @@
+HIS OFFICE PINTEREST — UPLIFT CHECKPOINT
+PASS FOR NOMINAL MODELED FIT; FIELD VERIFICATION REQUIRED
+
+Current12item layout passes read-only native and export QA: all12roots exact, zero unintended mesh intersections,156unchanged room/owned meshes and finishes,31valid active image nodes. Native265 meshes export263integrated and181furniture; presentation sky and conditional2mmcloset support omitted intentionally.
+
+Primary chair clears45cm pullback and sampled lateral transfer to the clear project bench. Desk upper assembly is clear through its nominal official height range. Bench supports700mm plus34.925mm top assemble to734.925mm; knee bay89.5cm. Visitor chair moved20cm toward room center.
+
+Generalized room outline5–12cm; cat branch offsets and Honeywell U-base photo-derived/unpublished; numerical parity does not establish site accuracy.
+Door leaves observed closed and swings inferred; nominal approach boxes are planning allowances.
+STORKLINTA requires approved wall attachment/spacer or verified rear adjustment; modeled rear gap8.7cm.
+Open dresser drawer and full chair pullback leave34cm nominal separation; tuck chair before dresser access.
+Closet interior/hanging hems unrecorded; three racks conditional. The provisional2mmfloor support is intentionally absent from exports.
+Thin rug support/contact compression and real chair/desk dynamics not simulated.
+No final render, generated-image or browser claim at this checkpoint. Any selected replacement desk requires new canonical model and focused fit/height-operation review.
+
+Frozen checkpoint scene SHA256: 1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606

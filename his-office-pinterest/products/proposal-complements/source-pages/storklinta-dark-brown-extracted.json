@@ -1,0 +1,454 @@
+{
+  "id": "storklinta-dark-brown",
+  "og": [
+    "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1344032_pe949703_s5.jpg"
+  ],
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Products",
+          "item": "https://www.ikea.com/us/en/cat/products-products/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Storage & organization",
+          "item": "https://www.ikea.com/us/en/cat/storage-organization-st001/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dressers & storage drawers",
+          "item": "https://www.ikea.com/us/en/cat/dressers-storage-drawers-st004/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Dressers & chests of drawers",
+          "item": "https://www.ikea.com/us/en/cat/chests-of-drawers-10451/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3.9",
+        "reviewCount": "218"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "IKEA"
+      },
+      "category": "Dressers & chests of drawers",
+      "color": "brown",
+      "depth": "18 7/8 \"",
+      "description": "STORKLINTA 3-drawer dresser - dark-brown/oak effect anchor/unlock function 27 1/2x18 7/8x29 1/2 \". Our safety feature Anchor and unlock enhances the safety of your chest of drawers by significantly reducing, but not completely eliminating, the tip-over risk.",
+      "height": "29 1/2 \"",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1344032_pe949703_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1460453_pe993925_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1590138_pe1038779_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1343990_pe949664_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1305728_pe939612_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        }
+      ],
+      "material": "Wood (including board)",
+      "mpn": "605.592.93",
+      "name": "STORKLINTA 3-drawer dresser - dark-brown/oak effect anchor/unlock function 27 1/2x18 7/8x29 1/2 \"",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "price": "149.99",
+        "priceCurrency": "USD",
+        "seller": {
+          "@type": "Organization",
+          "name": "IKEA",
+          "url": "https://www.ikea.com/us/en/"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "US"
+          }
+        },
+        "url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rajiv"
+          },
+          "datePublished": "2026-10-05",
+          "name": "Flimsy",
+          "reviewBody": "Purchased this piece of furniture and it immediately leaned and shattered into pieces where it was unusuable. Disappointed",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 1
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kaila"
+          },
+          "datePublished": "2026-09-30",
+          "name": "Worth it",
+          "reviewBody": "I wish i could post photos on there\n\nThis is very heavy and good quality! The only complaint i have is the instructions, and the fact that pieces weren\u2019t labeled, other than that i have nothing bad to say. I\u2019m very pleased as a first time shopper",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mario"
+          },
+          "datePublished": "2026-09-25",
+          "name": "nie dresser!",
+          "reviewBody": "The color is lovely and it's very sturdy",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Apryl"
+          },
+          "datePublished": "2026-09-23",
+          "name": "My New Love",
+          "reviewBody": "These were definitely a challenge assembling. Although I don't like the face that these are smaller than the Malm dressers they still great dressers. These dressers are very sturdy and heavy; they are making sure these are no tilt dressers. I'm in love with the green/grey color and the fact that these drawers can only open one at a time. I would recommend purchasing.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Milani"
+          },
+          "datePublished": "2026-09-14",
+          "name": "Simple Storage with clean lines",
+          "reviewBody": "I purchased the Storklinta 3-drawer dresser because my bedroom desperately needed some extra storage\u2014and, honestly, a little life. The room felt so barren and unfinished, and this simple piece ended up making a bigger difference than I expected.\n\nAssembly was surprisingly easy, the clean and simple design is beautiful, and the drawers are a great size for holding everything I needed. It adds just the right amount of warmth and functionality without overwhelming the room.\n\nSometimes it\u2019s the simplest pieces that make a space finally start to feel like home. \u2764\ufe0f",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "datePublished": "2026-08-31",
+          "name": "Assembly is awful",
+          "reviewBody": "Way too many parts.  Took me a very long time to assemble this.  Not a fan of the assembly.  The instructions should also have words! ",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 3
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "datePublished": "2026-08-29",
+          "name": "Disappointing",
+          "reviewBody": "I gave this chest of drawers 3 stars because I got it put together. It looks okay, and the drawers work. The workmanship was poor, however. Specific problems included: (1) a drawer bottom so warped that I had trouble fitting it into the grooves in the front and back of the drawer. Squaring it up with the drawer rails helped, but the drawer is not as solid as it should be; (2) 2 out of 3 drawer backs with defective holes for the drawer support bracket. One was missing a hole, which had to be drilled. The other had a hole so close the groove that the metal bracket broke through when hammered in; and (3) holes in the bottom board of the case that did not line up with the holes in the backing board.\n\nThe glass top was also a shock. I had been told in the store that it came with glass spacers. Instead it came with 3 holes along one edge and ugly metal brackets to attach it to the chest. \n\nWe were considering buying other IKEA pieces but will not do so after this experience.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 3
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "datePublished": "2026-08-27",
+          "name": "Perfect for a dorm room!",
+          "reviewBody": "We bought this piece for our son for his dorm room (and one for his roommate). They are perfect! Sturdy and durable, but also practical for a dorm room to add extra storage and serve as a bedside table. The price was also great!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gloria"
+          },
+          "datePublished": "2026-08-21",
+          "name": "Nice, but complicated",
+          "reviewBody": "Normally don\u2019t struggle too much with assembly of items, but this one was a bit more complicated than anticipated.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aimee"
+          },
+          "datePublished": "2026-08-17",
+          "name": "Worth it",
+          "reviewBody": "This dresser is great love the locking feature very sturdy and great price",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ismene"
+          },
+          "datePublished": "2026-08-15",
+          "name": "Use as a big nightstand-so far going great",
+          "reviewBody": "Been using this for about a year as a bedside table. I was about to deliver and wanted all my things right next to my bed but not in a cart and not on top of my bedside stand. This was a great option for me. Easy enough to follow the directions to put together though you need the space and patience for it. But I did it mostly myself at 8 months pregnant. ",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "datePublished": "2026-08-09",
+          "name": "Breaks Quickly",
+          "reviewBody": "Quality of outer drawer connection to rest of drawer is awful. constantly falls out and breaks. Not even sure I can repair it. A scam. Do not recommend",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 1
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "datePublished": "2026-08-07",
+          "name": "Sturdy",
+          "reviewBody": "I bought this smaller sized dresser for our guest room. The color is perfect! Was easy to put together & looks great! We added hardware to upgrade it",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "datePublished": "2026-08-01",
+          "name": "Excellent piece",
+          "reviewBody": "Love this cabinet. Spacious drawers.  Perfect.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laila"
+          },
+          "datePublished": "2026-07-30",
+          "name": "Definitely recommend.",
+          "reviewBody": "The drawers are big inside, your stuff will definitely fit inside. The nice wood brown color is stunning. The drawers are really smooth when you open and close them. Its really heavy though so you shouldn't worry about it tipping over.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria"
+          },
+          "datePublished": "2026-07-14",
+          "name": "Sturdy and nice looking",
+          "reviewBody": "Looks really nice. Plenty space.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexis"
+          },
+          "datePublished": "2026-07-13",
+          "name": "Great",
+          "reviewBody": "Purchase 2 some 2 pieces out of both where damage. Only in one.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 4
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liliana"
+          },
+          "datePublished": "2026-07-11",
+          "name": "Not the same color ",
+          "reviewBody": "The drawers have a different color on the sides. I would like for all the parts be the same white ",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 3
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Darcy"
+          },
+          "datePublished": "2026-07-11",
+          "name": "Plenty of storage",
+          "reviewBody": "Love the dresser it is perfect. It has a great amount of space for all my items.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Parastu"
+          },
+          "datePublished": "2026-07-09",
+          "name": "Not that happy",
+          "reviewBody": "I purchased this drawer to match my old IKEA ones, but it ended up being a little smaller than expected, which made me really sad.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5
+          }
+        }
+      ],
+      "sku": "605.592.93",
+      "url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/",
+      "width": "27 1/2 \""
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "3DModel",
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp3/glb_draco/f0f52417c4ad4fe02111a9d536ce2f12-60559293_LPT_S01_NV01_RQP3_4.0.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp2/glb_draco/dffc09ba53ec9c934a0c8fad6725ac13-60559293_LPT_S01_NV01_RQP2_4.0.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp1/glb_draco/4b508973d22a0646127983c9898384c4-60559293_LPT_S01_NV01_RQP1_4.0.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/60559293/PS01_S01_NV_01/simple/glb_draco/b33c495081083620b9e3461bf3da3805-G-60559293-c651e95c52716befcf4bd58404f1ff1d950306cc-simple+draco.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp3/glb/98e89cbabcd704d1a5a7fa63b3c14892-60559293_LPT_S01_NV01_RQP3_4.0.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp2/glb/58ad4780a47b2d25db92eab4430f631e-60559293_LPT_S01_NV01_RQP2_4.0.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp1/glb/36a0697838f5e28b4f4f0f000fe32467-60559293_LPT_S01_NV01_RQP1_4.0.glb?cn=pip",
+          "encodingFormat": "model/gltf-binary"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp3/gltf/0dbaa10a2e0f28211e7b5f992bfae042-60559293_LPT_S01_NV01_RQP3_4.0.gltf?cn=pip",
+          "encodingFormat": "model/gltf"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp2/gltf/2ea59a426902ffe911f24886189517e0-60559293_LPT_S01_NV01_RQP2_4.0.gltf?cn=pip",
+          "encodingFormat": "model/gltf"
+        },
+        {
+          "@type": "MediaObject",
+          "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/60559293/LPT_S01_NV01/rqp1/gltf/37c5ee9d586c3b6d52dfbd6496a252db-60559293_LPT_S01_NV01_RQP1_4.0.gltf?cn=pip",
+          "encodingFormat": "model/gltf"
+        }
+      ],
+      "image": "",
+      "name": "STORKLINTA"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "recipe": "/workspace/his-office-pinterest/model/revision-recipe.json",
+  "status": "root-approved-frozen",
+  "product_ids": [
+    "blue-bold-art",
+    "blue-geometric-art",
+    "branch-primary",
+    "branch-secondary",
+    "clothes-dresser",
+    "grejig-1",
+    "grejig-2",
+    "grejig-3",
+    "honeywell-lamp",
+    "muttros-cat-tree",
+    "rug",
+    "secondary-workspace",
+    "uplift-main-desk",
+    "visitor-chair"
+  ],
+  "requested_removals": [
+    "branch-secondary",
+    "blue-bold-art",
+    "blue-geometric-art"
+  ],
+  "requested_equipment_removals": [
+    "secondary-workspace::generic equipment assumption"
+  ],
+  "requested_moves": [
+    {
+      "id": "visitor-chair",
+      "position_blender_m": [
+        -4.73,
+        -2,
+        1.575
+      ],
+      "rotation_z_deg": 0
+    }
+  ],
+  "protected_structure_meshes": 82,
+  "protected_owned_keeper_ids": [
+    "honeywell-lamp",
+    "muttros-cat-tree",
+    "uplift-main-desk"
+  ],
+  "dry_run": false,
+  "images": [
+    {
+      "name": "art-abstract-scenery-100x70.jpg",
+      "pixels": [
+        2000,
+        1400
+      ],
+      "packed_bytes": 255017,
+      "valid": true
+    },
+    {
+      "name": "00473546_PS01_S01_NV01_RQP1_3.0_Basecolor_0",
+      "pixels": [
+        826,
+        826
+      ],
+      "packed_bytes": 45437,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "packed_bytes": 1061555,
+      "valid": true
+    },
+    {
+      "name": "Metalness_0_60",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 20533,
+      "valid": true
+    },
+    {
+      "name": "uplift-live-edge-pheasantwood-front.jpg",
+      "pixels": [
+        1380,
+        185
+      ],
+      "packed_bytes": 40727,
+      "valid": true
+    },
+    {
+      "name": "Metalness_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 20815,
+      "valid": true
+    },
+    {
+      "name": "Basecolor_0_67",
+      "pixels": [
+        719,
+        719
+      ],
+      "packed_bytes": 58114,
+      "valid": true
+    },
+    {
+      "name": "brick-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "packed_bytes": 3548,
+      "valid": true
+    },
+    {
+      "name": "Normals_0_68",
+      "pixels": [
+        719,
+        719
+      ],
+      "packed_bytes": 39539,
+      "valid": true
+    },
+    {
+      "name": "Basecolor_0_62",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 20620,
+      "valid": true
+    },
+    {
+      "name": "Basecolor_0_57",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 20024,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 140648,
+      "valid": true
+    },
+    {
+      "name": "Normals_0_63",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 28228,
+      "valid": true
+    },
+    {
+      "name": "Basecolor_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 21172,
+      "valid": true
+    },
+    {
+      "name": "Normals_0_58",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 30599,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 340408,
+      "valid": true
+    },
+    {
+      "name": "Normals_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 29364,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 1654547,
+      "valid": true
+    },
+    {
+      "name": "Metalness_0_70",
+      "pixels": [
+        719,
+        719
+      ],
+      "packed_bytes": 41032,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 613076,
+      "valid": true
+    },
+    {
+      "name": "ruggable-impasto-taupe-6x9.jpg",
+      "pixels": [
+        2400,
+        3000
+      ],
+      "packed_bytes": 815892,
+      "valid": true
+    },
+    {
+      "name": "wood-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "packed_bytes": 378939,
+      "valid": true
+    },
+    {
+      "name": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+      "pixels": [
+        826,
+        826
+      ],
+      "packed_bytes": 66219,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "packed_bytes": 145269,
+      "valid": true
+    },
+    {
+      "name": "Metalness_0_65",
+      "pixels": [
+        558,
+        558
+      ],
+      "packed_bytes": 20025,
+      "valid": true
+    }
+  ],
+  "protected_geometry_pass": true,
+  "prior_source_unchanged": true,
+  "new_product_objects": 6
+}

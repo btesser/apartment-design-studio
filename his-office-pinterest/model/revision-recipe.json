@@ -1,0 +1,76 @@
+{
+  "status": "root-approved-frozen",
+  "ready_to_build": true,
+  "design": "Warm architectural studio \u2014 Pinterest-informed clean personal workstation + clear project bench",
+  "coordinate_units": "metres, native Blender Z-up; glTF X,Z,-Y",
+  "remove_product_ids": [
+    "branch-secondary",
+    "blue-bold-art",
+    "blue-geometric-art"
+  ],
+  "remove_equipment_roots": [
+    "secondary-workspace::generic equipment assumption"
+  ],
+  "move_products": [
+    {
+      "id": "visitor-chair",
+      "position_blender_m": [
+        -4.73,
+        -2,
+        1.575
+      ],
+      "rotation_z_deg": 0
+    }
+  ],
+  "material_changes": [
+    {
+      "product_id": "secondary-workspace",
+      "source_material": "SimplygonCastMaterial",
+      "new_name": "selected black-brown ALEX five drawers",
+      "disconnect_base_color_texture": true,
+      "principled": {
+        "Base Color": [
+          0.035,
+          0.026,
+          0.019,
+          1
+        ],
+        "Roughness": 0.57
+      }
+    },
+    {
+      "product_id": "secondary-workspace",
+      "source_material": "New matte white storage/legs",
+      "new_name": "selected black ADILS legs",
+      "principled": {
+        "Base Color": [
+          0.012,
+          0.012,
+          0.012,
+          1
+        ],
+        "Roughness": 0.48
+      }
+    }
+  ],
+  "update_product_metadata": [],
+  "new_product_module": "chosen_products.py",
+  "render": {
+    "resolution": [
+      1440,
+      1000
+    ],
+    "maximum_samples": 64,
+    "adaptive_threshold": 0.03,
+    "minimum_samples": 16,
+    "exposure": -0.5
+  },
+  "camera_changes": [],
+  "notes": [
+    "No new design is applied before the root layout/product decision.",
+    "Preserve exact UPLIFT 42x30, Honeywell open-head and MUTTROS forms and finishes; only rigid placements may change.",
+    "Architecture, verified openings and fixed fixtures are geometry-protected.",
+    "A larger or different project bench must be built from its chosen product dimensions; never stretch the source keeper desktop or the room.",
+    "The optional project-bench versus second-person workstation preference is still pending."
+  ]
+}

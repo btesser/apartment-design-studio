@@ -1,0 +1,141 @@
+{
+  "id": 66031,
+  "itemTypeDict": "COMMON",
+  "barcode": "back update",
+  "image": "//staticprod.site.flexispot.com/dev/trantor/attachments/Black-5.18.jpg",
+  "isGroup": false,
+  "adjustStep": 1,
+  "attributes": [
+    {
+      "id": 12001,
+      "attrKey": "Desktop Material",
+      "frontAttrKey": "Desktop Material",
+      "attrVal": "Laminate",
+      "attrType": "TEXT",
+      "checked": true,
+      "showImage": false,
+      "differencePrc": {
+        "value": 70
+      },
+      "description": "Our laminate tabletop is crafted with a durable particle board core and finished with a smooth, easy-to-clean laminate surface.",
+      "enlargeImage": "//staticprod.site.flexispot.com/dev/trantor/attachments/520728b8-0098-461b-aa2b-4980e60da088.jpg",
+      "diffOriginPrc": {
+        "value": 70
+      },
+      "fromid": 10003567,
+      "deletable": false
+    },
+    {
+      "id": 12000,
+      "attrKey": "Desktop Color",
+      "attrVal": "Black",
+      "attrType": "COLOR",
+      "checked": true,
+      "showImage": false,
+      "image": "//staticprod.site.flexispot.com/dev/trantor/attachments/7912d5ee-3857-43fa-b030-433641aab0bb.jpg",
+      "differencePrc": {
+        "value": 0
+      },
+      "enlargeImage": "//staticprod.site.flexispot.com/dev/trantor/attachments/Black-5.18.jpg",
+      "diffOriginPrc": {
+        "value": 0
+      },
+      "fromid": 10003540,
+      "deletable": false
+    },
+    {
+      "id": 10000,
+      "attrKey": "Desktop Size",
+      "frontAttrKey": "Desktop Size",
+      "attrVal": "48''X30''",
+      "attrType": "TEXT",
+      "checked": true,
+      "showImage": false,
+      "differencePrc": {
+        "value": 30
+      },
+      "diffOriginPrc": {
+        "value": 30
+      },
+      "fromid": 10003498,
+      "deletable": false
+    }
+  ],
+  "skuCode": "CBR4830B-D",
+  "unitQty": 1,
+  "name": "Desktop-Dual",
+  "skuStatusDict": "ENABLED",
+  "businessTypeDict": "NORMAL",
+  "salePrc": {
+    "value": 100
+  },
+  "saleprcValue": 100,
+  "originalPrc": {
+    "value": 100
+  },
+  "originalprcValue": 100,
+  "originalSalePrc": {
+    "value": 100
+  },
+  "item": {
+    "id": 32004,
+    "firstSelectRecommend": false,
+    "itemImageUrlAltMap": {}
+  },
+  "skuUrlSuffix": "cbr4830bd",
+  "priceModelType": "BASE_ADD_ATTRIBUTE_PRICE",
+  "baseSalePrc": {
+    "value": 0
+  },
+  "basesaleprcValue": 0,
+  "baseOriginPrc": {
+    "value": 0
+  },
+  "baseoriginprcValue": 0,
+  "excludeSkuList": [
+    70006,
+    70007,
+    70008,
+    352530,
+    352531,
+    352532,
+    355739,
+    357059,
+    10016028,
+    10013092
+  ],
+  "order": 64,
+  "skuCascadeImage": "//staticprod.site.flexispot.com/dev/trantor/attachments/d7e57f9a-b996-4d2c-aa0d-7ba58b15d542.png",
+  "badge": "",
+  "otherInfo": "",
+  "siteName": "US",
+  "secondTotalQty": 0,
+  "secondLimitQty": 0,
+  "skushopid": 60040,
+  "inventoryNumFlag": true,
+  "activtiyType": "STRINGDOWN",
+  "levelsalePrc": [],
+  "nonfixedAttributes": [],
+  "isDiy": false,
+  "isToes": false,
+  "minQty": 1,
+  "storeid": 1,
+  "pickup": false,
+  "hasExt": false,
+  "sendQuestionnairesEmailFlag": false,
+  "isCombo": false,
+  "skuCoverImage": [],
+  "outOfStock": false,
+  "attributesIds": "12001,12000,10000",
+  "now": 1791485813576,
+  "secondused": false,
+  "createdAt": 1752373663000,
+  "updatedAt": 1790761650000,
+  "inventoryType": "VIRTUAL",
+  "itemSkuImageUrlAltMap": {
+    "//staticprod.site.flexispot.com/dev/trantor/attachments/Black-5.18.jpg": "",
+    "//staticprod.site.flexispot.com/dev/trantor/attachments/520728b8-0098-461b-aa2b-4980e60da088.jpg": "",
+    "//staticprod.site.flexispot.com/dev/trantor/attachments/7912d5ee-3857-43fa-b030-433641aab0bb.jpg": "",
+    "//staticprod.site.flexispot.com/dev/trantor/attachments/d7e57f9a-b996-4d2c-aa0d-7ba58b15d542.png": ""
+  }
+}

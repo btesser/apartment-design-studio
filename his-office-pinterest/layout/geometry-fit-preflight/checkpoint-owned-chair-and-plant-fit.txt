@@ -1,0 +1,15 @@
+PROVISIONAL checkpoint analysis with independently sourced owned-Aeron envelope; fuller composition pending; no final circulation claim
+
+b-charcoal-slat | canonicalOwnedAeron=False
+normal_width_max_depth: working60cm=True, primary45cmrearward60cm=True; transfer=True; fullturn=True
+Drawer working/pulled gaps[0.785, 0.335]
+maximum_expanded_arms: working60cm=True, primary45cmrearward60cm=True; transfer=True; fullturn=True
+Drawer working/pulled gaps[0.785, 0.335]
+Plantfullfoliage nominaldiameters / retained60cm-route centers: [(0.3, 178), (0.45, 81), (0.6, 20), (0.75, 4)]
+
+c-ink-studio | canonicalOwnedAeron=False
+normal_width_max_depth: working60cm=True, primary45cmrearward60cm=True; transfer=True; fullturn=True
+Drawer working/pulled gaps[0.785, 0.335]
+maximum_expanded_arms: working60cm=True, primary45cmrearward60cm=True; transfer=True; fullturn=True
+Drawer working/pulled gaps[0.785, 0.335]
+Plantfullfoliage nominaldiameters / retained60cm-route centers: [(0.3, 178), (0.45, 81), (0.6, 20), (0.75, 4)]

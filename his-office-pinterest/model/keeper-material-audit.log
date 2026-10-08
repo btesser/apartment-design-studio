@@ -1,0 +1,106 @@
+{
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "source_unchanged": true,
+  "keeper_material_names": [
+    "Black product trim",
+    "Honeywell warm white enamel",
+    "Honeywell4000K luminous diffuser",
+    "MUTTROS brown cloud fleece",
+    "MUTTROS brown condo interior",
+    "MUTTROS darker wicker strands",
+    "MUTTROS handwoven wicker",
+    "MUTTROS natural pear wood",
+    "MUTTROS natural sisal",
+    "Pheasantwood official appearance reference",
+    "UPLIFT brushed nickel grommet covers",
+    "UPLIFT industrial tinted clear steel"
+  ],
+  "protected_image_names": [
+    "brick-upper.png",
+    "uplift-live-edge-pheasantwood-front.jpg",
+    "wood-upper.png"
+  ],
+  "shared_protected_materials": {
+    "Reconstructed upper wood": {
+      "outside_protected_users": [
+        "Provisional rack floor support — closet unrecorded"
+      ],
+      "keeper_roots": [],
+      "fixed_user_count": 2
+    },
+    "UPLIFT brushed nickel grommet covers": {
+      "outside_protected_users": [],
+      "keeper_roots": [
+        "kept-honeywell-02e-pro",
+        "kept-uplift-desk"
+      ],
+      "fixed_user_count": 0
+    }
+  },
+  "images": {
+    "brick-upper.png": {
+      "source": "FILE",
+      "filepath": "//../../apartment-model/brick-upper.png",
+      "size": [
+        1024,
+        512
+      ],
+      "channels": 4,
+      "has_data": true,
+      "is_packed": true,
+      "packed_byte_count": 3548,
+      "packed_sha256": "9749494f15ea19301ca4e83f287b871072c8c086831e27c5c1062771798aceb9",
+      "disk_path_exists": true,
+      "color_space": "sRGB",
+      "alpha_mode": "STRAIGHT",
+      "using_protected_materials": [
+        "Reconstructed exposed brick"
+      ],
+      "guard": "Do not repack, reload, replace, or edit this image. Retain existing packed bytes."
+    },
+    "uplift-live-edge-pheasantwood-front.jpg": {
+      "source": "FILE",
+      "filepath": "//../products/keepers/uplift-live-edge-pheasantwood-front.jpg",
+      "size": [
+        1380,
+        185
+      ],
+      "channels": 4,
+      "has_data": true,
+      "is_packed": true,
+      "packed_byte_count": 40727,
+      "packed_sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+      "disk_path_exists": true,
+      "color_space": "sRGB",
+      "alpha_mode": "STRAIGHT",
+      "using_protected_materials": [
+        "Pheasantwood official appearance reference"
+      ],
+      "guard": "Do not repack, reload, replace, or edit this image. Retain existing packed bytes."
+    },
+    "wood-upper.png": {
+      "source": "FILE",
+      "filepath": "//../../apartment-model/wood-upper.png",
+      "size": [
+        1024,
+        512
+      ],
+      "channels": 4,
+      "has_data": true,
+      "is_packed": true,
+      "packed_byte_count": 378939,
+      "packed_sha256": "e2387d2f061453e094589e504b9beec28c0e6aad3a60e1b668281c21453a4e2b",
+      "disk_path_exists": true,
+      "color_space": "sRGB",
+      "alpha_mode": "STRAIGHT",
+      "using_protected_materials": [
+        "Reconstructed upper wood"
+      ],
+      "guard": "Do not repack, reload, replace, or edit this image. Retain existing packed bytes."
+    }
+  }
+}
+Blender 4.3.2
+Read blend: "/workspace/his-office-redesign/model/his-office-design.blend"
+
+Blender quit

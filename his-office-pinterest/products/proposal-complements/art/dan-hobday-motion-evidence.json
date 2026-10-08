@@ -1,0 +1,47 @@
+{
+  "id": "dan-hobday-motion",
+  "source_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-motion-print/",
+  "currency": "USD",
+  "title": "Dan Hobday - Motion Print",
+  "description_html": "<p>Abstract print with black shapes on beige and white. Brown scribbles add a layered look to this textured wall art.</p><br><p>Artist: Dan Hobday</p>",
+  "available_combinations": [
+    {
+      "id": 82197,
+      "size": "30x40",
+      "sizeTitle": "12\" x 16\" in",
+      "articleNumber": "pre0540-5",
+      "stock": 49,
+      "price": 55.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "685df0c97da96c1a0bbfe2fe_741066729_pre0540-5.jpg",
+          "width": 2000,
+          "height": 1500,
+          "systemCode": "variant_main_image",
+          "alt": "An abstract print featuring bold black, white, and tan brushstrokes with subtle gray pencil lines and textures.",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 82195,
+      "size": "50x70",
+      "sizeTitle": "20\" x 28\" in",
+      "articleNumber": "pre0540-8",
+      "stock": 49,
+      "price": 91.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "685df0cb25faac641d4bdb7c_321128101_pre0540-8.jpg",
+          "width": 2000,
+          "height": 1429,
+          "systemCode": "variant_main_image",
+          "alt": "An abstract print featuring bold black, white, and tan brushstrokes with subtle gray pencil lines and textures.",
+          "listOrder": 1
+        }
+      ]
+    }
+  ]
+}

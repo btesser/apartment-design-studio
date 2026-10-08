@@ -1,0 +1,238 @@
+{
+  "source_file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend",
+  "source_sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+  "method": "Read-only Blender image-node references in materials used by scene meshes; verifies pixel buffers and a packed or existing backing file, records shader links.",
+  "all_used_image_nodes_available": true,
+  "used_image_node_count": 11,
+  "records": [
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 613076,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Mix",
+          "to_socket": "A",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.001",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 340408,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.002",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 1654547,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.003",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 140648,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Sheen Tint",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.004",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 140648,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Sheen Roughness",
+          "from_socket": "Alpha"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Reconstructed upper wood",
+      "node": "Image Texture",
+      "image": "wood-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "has_data": true,
+      "packed_bytes": 378939,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Reconstructed exposed brick",
+      "node": "Image Texture",
+      "image": "brick-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "has_data": true,
+      "packed_bytes": 3548,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_1",
+      "node": "Image Texture",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "has_data": true,
+      "packed_bytes": 1061555,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Alpha",
+          "from_socket": "Alpha"
+        },
+        {
+          "to_node": "Mix",
+          "to_socket": "A",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_1",
+      "node": "Image Texture.001",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "has_data": true,
+      "packed_bytes": 145269,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Actual selected Rift Charcoal6x9 flatwoven source",
+      "node": "Image Texture",
+      "image": "rift-6x9.jpg",
+      "pixels": [
+        2400,
+        3000
+      ],
+      "has_data": true,
+      "packed_bytes": 1328428,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Actual selected DanHobday Richmond100x70 native landscape",
+      "node": "Image Texture",
+      "image": "dan-hobday-richmond-70x100-official.jpg",
+      "pixels": [
+        2000,
+        1400
+      ],
+      "has_data": true,
+      "packed_bytes": 844295,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    }
+  ],
+  "limits": [
+    "Availability/linkage is not a proof of GLB/Cycles identical shading. Final visual renders reviewed separately."
+  ],
+  "review_status": "CHECKPOINT ONLY \u2014 Branch wall study; superseded composition and confirmed owned-chair/equipment revision pending. No final room-fit or60cmroute claim."
+}

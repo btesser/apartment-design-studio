@@ -1,0 +1,28 @@
+{
+  "id": "black-abstract-shapes-no1",
+  "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/black-abstract-shapes-no1-print/",
+  "currency": "USD",
+  "title": "Black Abstract Shapes No1 Print",
+  "description_html": "<span>- Poster of black and white shapes and lines</span><p>\u00a0Abstract shapes and lines in black and white on a grey background. Art with a cool motive. <br><br>The poster is printed with a white margin around the image to frame the design nicely.</p>",
+  "available_combinations": [
+    {
+      "id": 18449,
+      "size": "30x40",
+      "sizeTitle": "12\" x 16\" in",
+      "articleNumber": "17363-5",
+      "stock": 70,
+      "price": 45.95,
+      "campaignPrice": 27.57,
+      "images": [
+        {
+          "URL": "685c83d48b7ca77dcb8aafb0_1814526624_17363-5.jpg",
+          "width": 2000,
+          "height": 2667,
+          "systemCode": "variant_main_image",
+          "alt": "Black abstract shapes and lines poster print with white lines on a grey background",
+          "listOrder": 1
+        }
+      ]
+    }
+  ]
+}

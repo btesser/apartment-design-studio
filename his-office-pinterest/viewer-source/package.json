@@ -1,0 +1,21 @@
+{
+  "name": "his-office-two-alternative-viewer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 serve.py",
+    "sync": "python3 sync-assets.py",
+    "build": "node build-standalone.mjs",
+    "test": "node tests/browser.mjs",
+    "test:offline": "node tests/browser.mjs --standalone",
+    "test:file": "node tests/browser.mjs --standalone --file"
+  },
+  "dependencies": {
+    "three": "0.182.0",
+    "three-mesh-bvh": "0.9.15"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "playwright": "1.56.1"
+  }
+}

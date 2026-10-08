@@ -1,0 +1,42 @@
+{
+  "b-charcoal-slat": {
+    "shell": {
+      "file": "b-charcoal-slat/his-office-shell.glb",
+      "canonical_file": "variants/b-charcoal-slat/model/his-office-shell.glb",
+      "bytes": 1336888,
+      "sha256": "a74f9285d94db5f6c1c849294e3272afa0e3a395dbb66db4de14e4c3e1f754f0"
+    },
+    "doors": {
+      "file": "b-charcoal-slat/his-office-door-leaves.glb",
+      "canonical_file": "variants/b-charcoal-slat/model/his-office-door-leaves.glb",
+      "bytes": 167556,
+      "sha256": "06339ba97bd086de89d88a605e80360783c36ee0f4f1190def011c01e8d76b17"
+    },
+    "furniture": {
+      "file": "b-charcoal-slat/his-office-furniture.glb",
+      "canonical_file": "variants/b-charcoal-slat/model/his-office-furniture.glb",
+      "bytes": 40245744,
+      "sha256": "e6376c56301b467d023d9853c73775e67a00e66edd930b5f64a6393cec662be9"
+    }
+  },
+  "c-ink-studio": {
+    "shell": {
+      "file": "c-ink-studio/his-office-shell.glb",
+      "canonical_file": "variants/c-ink-studio/model/his-office-shell.glb",
+      "bytes": 740124,
+      "sha256": "9938c965236bd9dbb7a4f8231c8cdcd14cdcabd5cecaeffe4b614969bb3f9069"
+    },
+    "doors": {
+      "file": "c-ink-studio/his-office-door-leaves.glb",
+      "canonical_file": "variants/c-ink-studio/model/his-office-door-leaves.glb",
+      "bytes": 167548,
+      "sha256": "cc08f1748c1ed21e2eddcf1344ef1de40c16065ca10fa569bf5dcabf28a111b6"
+    },
+    "furniture": {
+      "file": "c-ink-studio/his-office-furniture.glb",
+      "canonical_file": "variants/c-ink-studio/model/his-office-furniture.glb",
+      "bytes": 40245736,
+      "sha256": "ac5632ed3c40c0d5a9acb10268d1ca2ffe00b8f9210174d2b015aac6bafbead9"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "proposal_sha256": "e0c07d3d7d357afd294f7eb7440781a38e63a9d7c840ead9bf4786cdbfecd13d",
+  "old_layout_sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09",
+  "unchanged_owned_product_and_retained_roots": [
+    "uplift-main-desk",
+    "honeywell-lamp",
+    "muttros-cat-tree",
+    "branch-primary",
+    "clothes-dresser",
+    "grejig-1",
+    "grejig-2",
+    "grejig-3"
+  ],
+  "removed_ids": [
+    "blue-bold-art",
+    "blue-geometric-art",
+    "branch-secondary"
+  ],
+  "added_ids": [
+    "abstract-scenery-art"
+  ],
+  "visitor_delta_blender_m": [
+    -0.20000000000000018,
+    0.0,
+    0.0
+  ],
+  "secondary_envelope_unchanged": true,
+  "rug_envelope_and_position_unchanged": true,
+  "scope": "Proposal-level audit only; final native mesh/material/export checks await frozen model."
+}

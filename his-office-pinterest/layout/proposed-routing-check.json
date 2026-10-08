@@ -1,0 +1,110 @@
+{
+  "method": "Continuous polygon free-space connectivity; furniture envelopes and caster circles expanded by planning-person radius. Door leaves assumed open. Same entry/rear test points as prior QA.",
+  "scope": "Nominal planning, not measured human clearance or accessibility certification. 5\u201312cm generalized room-outline uncertainty applies.",
+  "variants": [
+    {
+      "variant": "proposed_working",
+      "primary_chair_center_m": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.7013051660379706
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.319511871507228
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.946644962855749
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.65,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            3.581468711758184
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "proposed_main_chair_pulled_back_45cm",
+      "primary_chair_center_m": [
+        -6.82,
+        -1.3,
+        1.575
+      ],
+      "checks": [
+        {
+          "assumed_person_diameter_m": 0.5,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            4.305083214825391
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.55,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.9014891011207236
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.6,
+          "entry_component": 0,
+          "rear_component": 0,
+          "continuous_nominal_route": true,
+          "free_component_areas_m2": [
+            3.5091157556822186
+          ]
+        },
+        {
+          "assumed_person_diameter_m": 0.65,
+          "entry_component": null,
+          "rear_component": 0,
+          "continuous_nominal_route": false,
+          "free_component_areas_m2": [
+            0.22905329311145578,
+            2.9047783370755567
+          ]
+        }
+      ]
+    }
+  ],
+  "floor_gain": {
+    "caster_disk_area_removed_m2": 0.38598948927730986,
+    "50cm_clear_person_center_free_area_gain_working_m2": 0.8021167470278745,
+    "50cm_clear_person_center_free_area_gain_pulled_back_m2": 1.0676656453451985
+  },
+  "note": "Floor gain values isolate removing second chair at original visitor position; moving visitor to final proposed position changes corridor topology additionally.",
+  "item_count": 12,
+  "checkpoint": "Root-approved UPLIFT checkpoint; any subsequent desk substitution requires refreshed checks",
+  "proposal_layout_sha256": "e0c07d3d7d357afd294f7eb7440781a38e63a9d7c840ead9bf4786cdbfecd13d",
+  "canonical_layout_file": "/workspace/his-office-pinterest/model/layout.json",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a"
+}

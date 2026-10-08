@@ -1,0 +1,20 @@
+{
+  "stage": "Complete",
+  "selected_directions": [
+    "B",
+    "C"
+  ],
+  "pin_pages_fetched": 20,
+  "original_images_visually_reviewed": 18,
+  "all_original_image_hashes_match": true,
+  "pdf_pages": 3,
+  "pdf_clickable_source_links": 3,
+  "artifacts": {
+    "Dark-office-direction-proposals.pdf": "4f5a048b7a6a73c36d8fa86f2692fb4459b0319a73e536c972ec850052e3be29",
+    "proposal-a.png": "f2f9968267c8ea61b2c0ba3e2fb7e0066490196e04324e621242b29f5ae219cf",
+    "proposal-b.png": "d2cc10d156bba1781a1bc431a3a26defd0d81c3fe87f5f857349a964108cb23b",
+    "proposal-c.png": "c309dbcf44d89e3e47243d902b8e33da63eca19fd731d566959003965c5a1dc9",
+    "dark-direction-proposals.json": "8ca92169fc7d66b40143bf1381e5f3250daf9b37ce73e90104115565a7454006"
+  },
+  "no_model_mutations": "Research files only; dark models to be created after separate product/fit specifications."
+}

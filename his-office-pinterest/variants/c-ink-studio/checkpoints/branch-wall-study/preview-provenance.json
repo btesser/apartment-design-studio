@@ -1,0 +1,19 @@
+{
+  "room-a": {
+    "filename": "previews/room-a.jpg",
+    "scene_sha256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
+    "image_sha256": "e4ee7f5829f8a16bb561a85d36c391c464fc7c2b7ff95a8dcb91ce89ca360e51",
+    "pixels": [
+      1000,
+      694
+    ],
+    "maximum_samples": 16,
+    "minimum_samples": 8,
+    "adaptive_threshold": 0.05000000074505806,
+    "exposure": -0.5,
+    "engine": "CyclesCPU",
+    "denoising": false,
+    "elapsed_seconds": 26.57199716567993,
+    "camera": "CAM room-a"
+  }
+}

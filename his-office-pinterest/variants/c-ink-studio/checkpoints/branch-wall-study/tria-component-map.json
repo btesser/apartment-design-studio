@@ -1,0 +1,223 @@
+{
+  "supplier_source_sha256": "1122e1e218a4d351b58138637b8d18ada1ec66d2345e7cb2f035dc93e123dbdc",
+  "source_top_m": 0.723943829536438,
+  "source_floor_m": -1.9406618534389963e-08,
+  "depth_center_native_y_m": 0.004564061760902405,
+  "seated_top_m": 0.74,
+  "height_range_m": [
+    0.6477,
+    1.24206
+  ],
+  "parts": [
+    {
+      "name": "standing-main-desk::control_box",
+      "source_name": "control_box",
+      "lift": "desktop",
+      "role": "electrical",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::frame_end_left",
+      "source_name": "frame_end_left",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::cable_door_brush",
+      "source_name": "cable_door_brush",
+      "lift": "desktop",
+      "role": "cable_door",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::foot_right",
+      "source_name": "foot_right",
+      "lift": "fixed",
+      "role": "frame",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::desktop",
+      "source_name": "desktop",
+      "lift": "desktop",
+      "role": "desktop",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::keypad_controls",
+      "source_name": "keypad_controls",
+      "lift": "desktop",
+      "role": "keypad",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::lifting_column_left_inner_stage",
+      "source_name": "lifting_column_left_inner_stage",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::lifting_column_right_middle_stage",
+      "source_name": "lifting_column_right_middle_stage",
+      "lift": "middle",
+      "role": "frame",
+      "height_factor": 0.5
+    },
+    {
+      "name": "standing-main-desk::desktop_bracket_right",
+      "source_name": "desktop_bracket_right",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::frame_rail_front",
+      "source_name": "frame_rail_front",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::foot_left",
+      "source_name": "foot_left",
+      "lift": "fixed",
+      "role": "frame",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::frame_cover_right",
+      "source_name": "frame_cover_right",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::leveling_glide_left_front",
+      "source_name": "leveling_glide_left_front",
+      "lift": "fixed",
+      "role": "glide",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::lifting_column_right_inner_stage",
+      "source_name": "lifting_column_right_inner_stage",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::cable_door_lid",
+      "source_name": "cable_door_lid",
+      "lift": "desktop",
+      "role": "cable_door",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::leveling_glide_right_rear",
+      "source_name": "leveling_glide_right_rear",
+      "lift": "fixed",
+      "role": "glide",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::lifting_column_left_head",
+      "source_name": "lifting_column_left_head",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::lifting_column_right_outer_stage",
+      "source_name": "lifting_column_right_outer_stage",
+      "lift": "fixed",
+      "role": "frame",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::desktop_bracket_left",
+      "source_name": "desktop_bracket_left",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::frame_end_right",
+      "source_name": "frame_end_right",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::frame_rail_rear",
+      "source_name": "frame_rail_rear",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::leveling_glide_left_rear",
+      "source_name": "leveling_glide_left_rear",
+      "lift": "fixed",
+      "role": "glide",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::lifting_column_left_middle_stage",
+      "source_name": "lifting_column_left_middle_stage",
+      "lift": "middle",
+      "role": "frame",
+      "height_factor": 0.5
+    },
+    {
+      "name": "standing-main-desk::frame_cover_left",
+      "source_name": "frame_cover_left",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::cable_door",
+      "source_name": "cable_door",
+      "lift": "desktop",
+      "role": "cable_door",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::lifting_column_right_head",
+      "source_name": "lifting_column_right_head",
+      "lift": "desktop",
+      "role": "frame",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::lifting_column_left_outer_stage",
+      "source_name": "lifting_column_left_outer_stage",
+      "lift": "fixed",
+      "role": "frame",
+      "height_factor": 0
+    },
+    {
+      "name": "standing-main-desk::felt_cable_organizer",
+      "source_name": "felt_cable_organizer",
+      "lift": "desktop",
+      "role": "felt",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::keypad",
+      "source_name": "keypad",
+      "lift": "desktop",
+      "role": "keypad",
+      "height_factor": 1
+    },
+    {
+      "name": "standing-main-desk::leveling_glide_right_front",
+      "source_name": "leveling_glide_right_front",
+      "lift": "fixed",
+      "role": "glide",
+      "height_factor": 0
+    }
+  ]
+}

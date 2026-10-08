@@ -1,0 +1,631 @@
+{
+  "source_file": "/workspace/his-office-pinterest/model/his-office-pinterest-design.blend",
+  "source_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "method": "Read-only Blender image-node references in materials used by scene meshes; verifies pixel buffers and a packed or existing backing file, records shader links.",
+  "all_used_image_nodes_available": true,
+  "used_image_node_count": 31,
+  "records": [
+    {
+      "material": "Branch selected Black \u2014 Material_1",
+      "node": "Image Texture",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "has_data": true,
+      "packed_bytes": 1061555,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Alpha",
+          "from_socket": "Alpha"
+        },
+        {
+          "to_node": "Mix",
+          "to_socket": "A",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_1",
+      "node": "Image Texture.001",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "has_data": true,
+      "packed_bytes": 145269,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_33",
+      "node": "Image Texture",
+      "image": "Basecolor_0_67",
+      "pixels": [
+        719,
+        719
+      ],
+      "has_data": true,
+      "packed_bytes": 58114,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_33",
+      "node": "Image Texture.001",
+      "image": "Metalness_0_70",
+      "pixels": [
+        719,
+        719
+      ],
+      "has_data": true,
+      "packed_bytes": 41032,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_33",
+      "node": "Image Texture.002",
+      "image": "Normals_0_68",
+      "pixels": [
+        719,
+        719
+      ],
+      "has_data": true,
+      "packed_bytes": 39539,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_33",
+      "node": "Image Texture.003",
+      "image": "Metalness_0_70",
+      "pixels": [
+        719,
+        719
+      ],
+      "has_data": true,
+      "packed_bytes": 41032,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color.001",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_31",
+      "node": "Image Texture",
+      "image": "Basecolor_0_57",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20024,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_31",
+      "node": "Image Texture.001",
+      "image": "Metalness_0_60",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20533,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_31",
+      "node": "Image Texture.002",
+      "image": "Normals_0_58",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 30599,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_31",
+      "node": "Image Texture.003",
+      "image": "Metalness_0_60",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20533,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color.001",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial.001",
+      "node": "Image Texture",
+      "image": "Basecolor_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 21172,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial.001",
+      "node": "Image Texture.001",
+      "image": "Metalness_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20815,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial.001",
+      "node": "Image Texture.002",
+      "image": "Normals_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 29364,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial.001",
+      "node": "Image Texture.003",
+      "image": "Metalness_0",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20815,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color.001",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 613076,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Mix",
+          "to_socket": "A",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.001",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 340408,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.002",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 1654547,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.003",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 140648,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Sheen Tint",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.004",
+      "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed_bytes": 140648,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Sheen Roughness",
+          "from_socket": "Alpha"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Pinterest actual selected Impasto Taupe6x9 flatwoven photo",
+      "node": "Image Texture",
+      "image": "ruggable-impasto-taupe-6x9.jpg",
+      "pixels": [
+        2400,
+        3000
+      ],
+      "has_data": true,
+      "packed_bytes": 815892,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Pheasantwood official appearance reference",
+      "node": "Image Texture",
+      "image": "uplift-live-edge-pheasantwood-front.jpg",
+      "pixels": [
+        1380,
+        185
+      ],
+      "has_data": true,
+      "packed_bytes": 40727,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Mix",
+          "to_socket": "A",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Reconstructed upper wood",
+      "node": "Image Texture",
+      "image": "wood-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "has_data": true,
+      "packed_bytes": 378939,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_32",
+      "node": "Image Texture",
+      "image": "Basecolor_0_62",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20620,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_32",
+      "node": "Image Texture.001",
+      "image": "Metalness_0_65",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20025,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_32",
+      "node": "Image Texture.002",
+      "image": "Normals_0_63",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 28228,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Normal Map",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "SimplygonCastMaterial_32",
+      "node": "Image Texture.003",
+      "image": "Metalness_0_65",
+      "pixels": [
+        558,
+        558
+      ],
+      "has_data": true,
+      "packed_bytes": 20025,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color.001",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Pinterest actual Abstract Scenery No1 selected100x70 paper",
+      "node": "Image Texture",
+      "image": "art-abstract-scenery-100x70.jpg",
+      "pixels": [
+        2000,
+        1400
+      ],
+      "has_data": true,
+      "packed_bytes": 255017,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Reconstructed exposed brick",
+      "node": "Image Texture",
+      "image": "brick-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "has_data": true,
+      "packed_bytes": 3548,
+      "file_exists": true,
+      "links": [
+        {
+          "to_node": "Principled BSDF",
+          "to_socket": "Base Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Pinterest secondary-workspace \u2014 selected black-brown ALEX fiv",
+      "node": "Image Texture",
+      "image": "00473546_PS01_S01_NV01_RQP1_3.0_Basecolor_0",
+      "pixels": [
+        826,
+        826
+      ],
+      "has_data": true,
+      "packed_bytes": 45437,
+      "file_exists": false,
+      "links": [],
+      "image_available": true
+    },
+    {
+      "material": "Pinterest secondary-workspace \u2014 selected black-brown ALEX fiv",
+      "node": "Image Texture.001",
+      "image": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+      "pixels": [
+        826,
+        826
+      ],
+      "has_data": true,
+      "packed_bytes": 66219,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    },
+    {
+      "material": "Pinterest secondary-workspace \u2014 selected black-brown ALEX fiv",
+      "node": "Image Texture.002",
+      "image": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+      "pixels": [
+        826,
+        826
+      ],
+      "has_data": true,
+      "packed_bytes": 66219,
+      "file_exists": false,
+      "links": [
+        {
+          "to_node": "Separate Color.001",
+          "to_socket": "Color",
+          "from_socket": "Color"
+        }
+      ],
+      "image_available": true
+    }
+  ],
+  "limits": [
+    "Availability/linkage is not a proof of GLB/Cycles identical shading. Final visual renders reviewed separately."
+  ]
+}

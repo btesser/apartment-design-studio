@@ -1,0 +1,2072 @@
+{
+  "schema_version": 1,
+  "source": "/workspace/his-office-redesign/model/his-office-design.blend",
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "read_only_source_audit": true,
+  "protection_rules": [
+    "Never save to source. Save a fresh scene only in /workspace/his-office-pinterest/model.",
+    "Keep the three owned product hierarchies and their material assignments intact; only move or rotate whole roots.",
+    "Keep source architecture, fixtures, and closed observed door collections geometrically intact.",
+    "When redesigning an object whose material appears in protected_material_names, first copy the material for that object and assign the copy. Do not edit the original datablock.",
+    "When assigning material slots on a mesh shared with protected objects, first copy its mesh datablock.",
+    "Do not call image.pack() on an already packed image. Packing from missing disk paths can destroy or fail on retained image data.",
+    "Protect image node settings, UVs, procedural node inputs, and node links as well as Base Color.",
+    "Do not purge protected source dependencies while any keeper/fixed object is being appended or rebuilt."
+  ],
+  "keepers": {
+    "kept-uplift-desk": {
+      "canonical_layout_id": "uplift-main-desk",
+      "object_count_including_root": 22,
+      "material_names": [
+        "Black product trim",
+        "Pheasantwood official appearance reference",
+        "UPLIFT brushed nickel grommet covers",
+        "UPLIFT industrial tinted clear steel"
+      ],
+      "objects": [
+        {
+          "name": "kept-uplift-desk",
+          "type": "EMPTY",
+          "data_name": null,
+          "parent": null,
+          "materials": [],
+          "hide_render": false,
+          "hide_viewport": false
+        },
+        {
+          "name": "C-frame steel foot",
+          "type": "MESH",
+          "data_name": "Cube.003",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "C-frame steel foot.001",
+          "type": "MESH",
+          "data_name": "Cube.019",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Foot glide",
+          "type": "MESH",
+          "data_name": "Cube.004",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "Black product trim"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Foot glide.001",
+          "type": "MESH",
+          "data_name": "Cube.005",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "Black product trim"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Foot glide.002",
+          "type": "MESH",
+          "data_name": "Cube.020",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "Black product trim"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Foot glide.003",
+          "type": "MESH",
+          "data_name": "Cube.021",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "Black product trim"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Height keypad",
+          "type": "MESH",
+          "data_name": "Cube.090",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "Black product trim"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Hidden upper crossbar",
+          "type": "MESH",
+          "data_name": "Cube.089",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-uplift-desk::solid wood barkline top",
+          "type": "MESH",
+          "data_name": "solid wood barkline top",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "Pheasantwood official appearance reference"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 188,
+          "polygon_count": 164,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Two brushed nickel grommet covers",
+          "type": "MESH",
+          "data_name": "Cylinder.006",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT brushed nickel grommet covers"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 50,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Two brushed nickel grommet covers.001",
+          "type": "MESH",
+          "data_name": "Cylinder.007",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT brushed nickel grommet covers"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 50,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Underside side bracket",
+          "type": "MESH",
+          "data_name": "Cube.018",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Underside side bracket.001",
+          "type": "MESH",
+          "data_name": "Cube.088",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 lower slim stage",
+          "type": "MESH",
+          "data_name": "Cube.006",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 lower slim stage.001",
+          "type": "MESH",
+          "data_name": "Cube.022",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 middle stage",
+          "type": "MESH",
+          "data_name": "Cube.013",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 middle stage.001",
+          "type": "MESH",
+          "data_name": "Cube.023",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 triangular stability brace",
+          "type": "MESH",
+          "data_name": "Cylinder.004",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 64,
+          "polygon_count": 34,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 triangular stability brace.001",
+          "type": "MESH",
+          "data_name": "Cylinder.005",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 64,
+          "polygon_count": 34,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 upper stage",
+          "type": "MESH",
+          "data_name": "Cube.017",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "V2 upper stage.001",
+          "type": "MESH",
+          "data_name": "Cube.087",
+          "parent": "kept-uplift-desk",
+          "materials": [
+            "UPLIFT industrial tinted clear steel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        }
+      ]
+    },
+    "kept-honeywell-02e-pro": {
+      "canonical_layout_id": "honeywell-lamp",
+      "object_count_including_root": 12,
+      "material_names": [
+        "Honeywell warm white enamel",
+        "Honeywell4000K luminous diffuser",
+        "UPLIFT brushed nickel grommet covers"
+      ],
+      "objects": [
+        {
+          "name": "kept-honeywell-02e-pro",
+          "type": "EMPTY",
+          "data_name": null,
+          "parent": null,
+          "materials": [],
+          "hide_render": false,
+          "hide_viewport": false
+        },
+        {
+          "name": "Narrow parallel LED light bar",
+          "type": "MESH",
+          "data_name": "Cube.099",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell4000K luminous diffuser"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Narrow parallel LED light bar.001",
+          "type": "MESH",
+          "data_name": "Cube.100",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell4000K luminous diffuser"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Rectangular panel end rim",
+          "type": "MESH",
+          "data_name": "Cube.097",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Rectangular panel end rim.001",
+          "type": "MESH",
+          "data_name": "Cube.098",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Rectangular panel long rim",
+          "type": "MESH",
+          "data_name": "Cube.095",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Rectangular panel long rim.001",
+          "type": "MESH",
+          "data_name": "Cube.096",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Rotary dimming knob",
+          "type": "MESH",
+          "data_name": "Cylinder.008",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "UPLIFT brushed nickel grommet covers"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 64,
+          "polygon_count": 34,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Slim rectangular upright",
+          "type": "MESH",
+          "data_name": "Cube.094",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "U-base closed crossbar",
+          "type": "MESH",
+          "data_name": "Cube.091",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "U-base open prong",
+          "type": "MESH",
+          "data_name": "Cube.092",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "U-base open prong.001",
+          "type": "MESH",
+          "data_name": "Cube.093",
+          "parent": "kept-honeywell-02e-pro",
+          "materials": [
+            "Honeywell warm white enamel"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        }
+      ]
+    },
+    "kept-muttros-cat-tree": {
+      "canonical_layout_id": "muttros-cat-tree",
+      "object_count_including_root": 43,
+      "material_names": [
+        "MUTTROS brown cloud fleece",
+        "MUTTROS brown condo interior",
+        "MUTTROS darker wicker strands",
+        "MUTTROS handwoven wicker",
+        "MUTTROS natural pear wood",
+        "MUTTROS natural sisal"
+      ],
+      "objects": [
+        {
+          "name": "kept-muttros-cat-tree",
+          "type": "EMPTY",
+          "data_name": null,
+          "parent": null,
+          "materials": [],
+          "hide_render": false,
+          "hide_viewport": false
+        },
+        {
+          "name": "Brown play ball",
+          "type": "MESH",
+          "data_name": "Sphere.010",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Brown play ball.001",
+          "type": "MESH",
+          "data_name": "Sphere.011",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Brown play ball.002",
+          "type": "MESH",
+          "data_name": "Sphere.012",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Condo dark floor",
+          "type": "MESH",
+          "data_name": "Cylinder.010",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown condo interior"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 50,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Condo top plush cushion",
+          "type": "MESH",
+          "data_name": "Cylinder.009",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 50,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "High side wicker basket brown fleece cushion",
+          "type": "MESH",
+          "data_name": "Sphere.008",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::arched hollow condo wall",
+          "type": "MESH",
+          "data_name": "arched hollow condo wall",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece",
+            "MUTTROS brown condo interior"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 3648,
+          "polygon_count": 3024,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+          "type": "MESH",
+          "data_name": "Brown fleece suspended bowl hammock",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 1664,
+          "polygon_count": 1664,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Hanging pom-pom cord",
+          "type": "MESH",
+          "data_name": "Hanging pom-pom cord",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural sisal"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 12,
+          "polygon_count": 6,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+          "type": "MESH",
+          "data_name": "Hanging pom-pom cord.001",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural sisal"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 12,
+          "polygon_count": 6,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+          "type": "MESH",
+          "data_name": "Hanging pom-pom cord.002",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural sisal"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 12,
+          "polygon_count": 6,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+          "type": "MESH",
+          "data_name": "High side wicker basket crossing wicker strands",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS darker wicker strands"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 5916,
+          "polygon_count": 5568,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+          "type": "MESH",
+          "data_name": "High side wicker basket woven horizontal courses",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS handwoven wicker"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 6414,
+          "polygon_count": 6336,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+          "type": "MESH",
+          "data_name": "Low side wicker basket crossing wicker strands",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS darker wicker strands"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 5916,
+          "polygon_count": 5568,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+          "type": "MESH",
+          "data_name": "Low side wicker basket woven horizontal courses",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS handwoven wicker"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 6414,
+          "polygon_count": 6336,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Sisal rope winding",
+          "type": "MESH",
+          "data_name": "Sisal rope winding",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural sisal"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 978,
+          "polygon_count": 972,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Sisal rope winding.001",
+          "type": "MESH",
+          "data_name": "Sisal rope winding.001",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural sisal"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 1086,
+          "polygon_count": 1080,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Sisal rope winding.002",
+          "type": "MESH",
+          "data_name": "Sisal rope winding.002",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural sisal"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 1248,
+          "polygon_count": 1242,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Thick fleece hammock rim",
+          "type": "MESH",
+          "data_name": "Thick fleece hammock rim",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 648,
+          "polygon_count": 640,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Top wicker basket crossing wicker strand",
+          "type": "MESH",
+          "data_name": "Top wicker basket crossing wicker strands",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS darker wicker strands"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 5916,
+          "polygon_count": 5568,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "kept-muttros-cat-tree::Top wicker basket woven horizontal cours",
+          "type": "MESH",
+          "data_name": "Top wicker basket woven horizontal courses",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS handwoven wicker"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 6414,
+          "polygon_count": 6336,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Low side wicker basket brown fleece cushion",
+          "type": "MESH",
+          "data_name": "Sphere.009",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch0-0",
+          "type": "MESH",
+          "data_name": "Cylinder.011",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch0-1",
+          "type": "MESH",
+          "data_name": "Cylinder.012",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch0-2",
+          "type": "MESH",
+          "data_name": "Cylinder.013",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch0-3",
+          "type": "MESH",
+          "data_name": "Cylinder.014",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch1-0",
+          "type": "MESH",
+          "data_name": "Cylinder.015",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch1-1",
+          "type": "MESH",
+          "data_name": "Cylinder.016",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch1-2",
+          "type": "MESH",
+          "data_name": "Cylinder.017",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch2-0",
+          "type": "MESH",
+          "data_name": "Cylinder.018",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch2-1",
+          "type": "MESH",
+          "data_name": "Cylinder.019",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch3-0",
+          "type": "MESH",
+          "data_name": "Cylinder.020",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Natural wood branch3-1",
+          "type": "MESH",
+          "data_name": "Cylinder.021",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 48,
+          "polygon_count": 26,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction",
+          "type": "MESH",
+          "data_name": "Sphere",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction.001",
+          "type": "MESH",
+          "data_name": "Sphere.001",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction.002",
+          "type": "MESH",
+          "data_name": "Sphere.002",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction.003",
+          "type": "MESH",
+          "data_name": "Sphere.003",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction.004",
+          "type": "MESH",
+          "data_name": "Sphere.004",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction.005",
+          "type": "MESH",
+          "data_name": "Sphere.005",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Organic branch junction.006",
+          "type": "MESH",
+          "data_name": "Sphere.006",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS natural pear wood"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Top wicker basket brown fleece cushion",
+          "type": "MESH",
+          "data_name": "Sphere.007",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 482,
+          "polygon_count": 512,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        },
+        {
+          "name": "Triple thickness brown fleece base",
+          "type": "MESH",
+          "data_name": "Cube.101",
+          "parent": "kept-muttros-cat-tree",
+          "materials": [
+            "MUTTROS brown cloud fleece"
+          ],
+          "hide_render": false,
+          "hide_viewport": false,
+          "vertex_count": 96,
+          "polygon_count": 98,
+          "data_user_count": 1,
+          "outside_protected_shared_mesh_users": []
+        }
+      ]
+    }
+  },
+  "source_fixed_collections": {
+    "01 Measured room shell": {
+      "object_count": 22,
+      "object_names": [
+        "Local floor continuation to observed brick face",
+        "Observed brick chimney projection",
+        "architecture_ceiling — his-office",
+        "architecture_floor — his-office",
+        "his-office wall0 segment",
+        "his-office wall1 — below floor continuation",
+        "his-office wall1 — head continuation",
+        "his-office wall1 — lower-Y side",
+        "his-office wall1 — upper-Y side",
+        "his-office wall2 segment",
+        "his-office wall3 — below floor continuation",
+        "his-office wall3 — head continuation",
+        "his-office wall3 — lower-Y side",
+        "his-office wall3 — upper-Y side",
+        "his-office wall4 segment",
+        "his-office wall5 corrected bottom 1",
+        "his-office wall5 corrected bottom 3",
+        "his-office wall5 corrected head 1",
+        "his-office wall5 corrected head 3",
+        "his-office wall5 corrected solid 0",
+        "his-office wall5 corrected solid 2",
+        "his-office wall5 corrected solid 4"
+      ],
+      "material_names": [
+        "Reconstructed ceiling",
+        "Reconstructed exposed brick",
+        "Reconstructed upper wood",
+        "Reconstructed warm plaster"
+      ]
+    },
+    "02 Existing fixed feature proxies": {
+      "object_count": 47,
+      "object_names": [
+        "Existing built-in shelf board",
+        "Existing built-in shelf board.001",
+        "Existing built-in shelf board.002",
+        "Existing built-in shelf board.003",
+        "Existing built-in shelf board.004",
+        "Existing built-in shelf board.005",
+        "Existing built-in shelf white back",
+        "Existing cast-iron radiator section",
+        "Existing cast-iron radiator section.001",
+        "Existing cast-iron radiator section.002",
+        "Existing cast-iron radiator section.003",
+        "Existing cast-iron radiator section.004",
+        "Existing cast-iron radiator section.005",
+        "Existing cast-iron radiator section.006",
+        "Existing cast-iron radiator section.007",
+        "Existing cast-iron radiator section.008",
+        "Existing closet frame header",
+        "Existing closet frame jamb",
+        "Existing closet frame jamb.001",
+        "Existing closet transom",
+        "Existing cupboard metal latch",
+        "Existing entry small wall control",
+        "Existing entry thermostat",
+        "Existing exterior-door frame header",
+        "Existing exterior-door frame jamb",
+        "Existing exterior-door frame jamb.001",
+        "Existing living-entry frame header",
+        "Existing living-entry frame jamb",
+        "Existing living-entry frame jamb.001",
+        "Existing overhead cupboard frame header",
+        "Existing overhead cupboard frame jamb",
+        "Existing overhead cupboard frame jamb.001",
+        "Existing overhead cupboard panel",
+        "Existing radiator foot",
+        "Existing radiator foot.001",
+        "Existing radiator horizontal connection",
+        "Existing radiator horizontal connection.001",
+        "Existing rear vertical white pipe",
+        "Observed recessed white arched fireplace infill",
+        "Observed single-window glazing",
+        "Observed single-window horizontal trim",
+        "Observed single-window horizontal trim.001",
+        "Observed single-window horizontal trim.002",
+        "Observed single-window projecting sill",
+        "Observed single-window sill apron",
+        "Observed single-window vertical trim",
+        "Observed single-window vertical trim.001"
+      ],
+      "material_names": [
+        "Existing dark cast-iron radiator",
+        "Existing silver hardware",
+        "Fixture porcelain",
+        "Window glass"
+      ]
+    },
+    "02b Existing door leaves — closed observed state": {
+      "object_count": 13,
+      "object_names": [
+        "Existing closet metal knob",
+        "Existing exterior-door brass deadbolt",
+        "Existing exterior-door brass knob",
+        "Existing exterior-door raised panel",
+        "Existing exterior-door raised panel.001",
+        "Existing exterior-door raised panel.002",
+        "Existing exterior-door raised panel.003",
+        "Existing exterior-door raised panel.004",
+        "Existing exterior-door raised panel.005",
+        "Existing exterior-door six-panel leaf",
+        "Existing full-height closet leaf",
+        "Existing living-entry flat white leaf",
+        "Existing living-entry silver lever"
+      ],
+      "material_names": [
+        "Existing exterior brass hardware",
+        "Existing silver hardware",
+        "Fixture porcelain"
+      ]
+    }
+  },
+  "protected_material_names": [
+    "Black product trim",
+    "Existing dark cast-iron radiator",
+    "Existing exterior brass hardware",
+    "Existing silver hardware",
+    "Fixture porcelain",
+    "Honeywell warm white enamel",
+    "Honeywell4000K luminous diffuser",
+    "MUTTROS brown cloud fleece",
+    "MUTTROS brown condo interior",
+    "MUTTROS darker wicker strands",
+    "MUTTROS handwoven wicker",
+    "MUTTROS natural pear wood",
+    "MUTTROS natural sisal",
+    "Pheasantwood official appearance reference",
+    "Reconstructed ceiling",
+    "Reconstructed exposed brick",
+    "Reconstructed upper wood",
+    "Reconstructed warm plaster",
+    "UPLIFT brushed nickel grommet covers",
+    "UPLIFT industrial tinted clear steel",
+    "Window glass"
+  ],
+  "keeper_material_names": [
+    "Black product trim",
+    "Honeywell warm white enamel",
+    "Honeywell4000K luminous diffuser",
+    "MUTTROS brown cloud fleece",
+    "MUTTROS brown condo interior",
+    "MUTTROS darker wicker strands",
+    "MUTTROS handwoven wicker",
+    "MUTTROS natural pear wood",
+    "MUTTROS natural sisal",
+    "Pheasantwood official appearance reference",
+    "UPLIFT brushed nickel grommet covers",
+    "UPLIFT industrial tinted clear steel"
+  ],
+  "protected_image_names": [
+    "brick-upper.png",
+    "uplift-live-edge-pheasantwood-front.jpg",
+    "wood-upper.png"
+  ],
+  "materials": {
+    "Black product trim": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "c423cf0179769fe63ffb1b4287ee5736772b8ef99e5b339c0a576e7bcd62fd07",
+      "images": [],
+      "keeper_roots": [
+        "kept-uplift-desk"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Foot glide",
+        "Foot glide.001",
+        "Foot glide.002",
+        "Foot glide.003",
+        "Height keypad"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 5,
+      "blender_datablock_users": 5
+    },
+    "Existing dark cast-iron radiator": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "543137e9e0068ff355aae705e15e8ff920e640bee3b984dd7516c797c0c0f00c",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Existing cast-iron radiator section",
+        "Existing cast-iron radiator section.001",
+        "Existing cast-iron radiator section.002",
+        "Existing cast-iron radiator section.003",
+        "Existing cast-iron radiator section.004",
+        "Existing cast-iron radiator section.005",
+        "Existing cast-iron radiator section.006",
+        "Existing cast-iron radiator section.007",
+        "Existing cast-iron radiator section.008",
+        "Existing radiator foot",
+        "Existing radiator foot.001",
+        "Existing radiator horizontal connection",
+        "Existing radiator horizontal connection.001"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 13,
+      "blender_datablock_users": 13
+    },
+    "Existing exterior brass hardware": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "07ae173b7b9dd82aac980d6542d123d7cfce10ae0f221875688cbaa5519ca78b",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Existing exterior-door brass deadbolt",
+        "Existing exterior-door brass knob"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 2,
+      "blender_datablock_users": 2
+    },
+    "Existing silver hardware": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "87ff1eae7a16d490f05dc6e8d630304c706beed9629ffd505243e5c712bd2b40",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Existing closet metal knob",
+        "Existing cupboard metal latch",
+        "Existing living-entry silver lever"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 3,
+      "blender_datablock_users": 3
+    },
+    "Fixture porcelain": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "2595f028e27c4d9fab11a74178bbcc08af66ab02d25392b04cbf838948aefaff",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Existing built-in shelf board",
+        "Existing built-in shelf board.001",
+        "Existing built-in shelf board.002",
+        "Existing built-in shelf board.003",
+        "Existing built-in shelf board.004",
+        "Existing built-in shelf board.005",
+        "Existing built-in shelf white back",
+        "Existing closet frame header",
+        "Existing closet frame jamb",
+        "Existing closet frame jamb.001",
+        "Existing closet transom",
+        "Existing entry small wall control",
+        "Existing entry thermostat",
+        "Existing exterior-door frame header",
+        "Existing exterior-door frame jamb",
+        "Existing exterior-door frame jamb.001",
+        "Existing exterior-door raised panel",
+        "Existing exterior-door raised panel.001",
+        "Existing exterior-door raised panel.002",
+        "Existing exterior-door raised panel.003",
+        "Existing exterior-door raised panel.004",
+        "Existing exterior-door raised panel.005",
+        "Existing exterior-door six-panel leaf",
+        "Existing full-height closet leaf",
+        "Existing living-entry flat white leaf",
+        "Existing living-entry frame header",
+        "Existing living-entry frame jamb",
+        "Existing living-entry frame jamb.001",
+        "Existing overhead cupboard frame header",
+        "Existing overhead cupboard frame jamb",
+        "Existing overhead cupboard frame jamb.001",
+        "Existing overhead cupboard panel",
+        "Existing rear vertical white pipe",
+        "Observed recessed white arched fireplace infill",
+        "Observed single-window horizontal trim",
+        "Observed single-window horizontal trim.001",
+        "Observed single-window horizontal trim.002",
+        "Observed single-window projecting sill",
+        "Observed single-window sill apron",
+        "Observed single-window vertical trim",
+        "Observed single-window vertical trim.001"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 41,
+      "blender_datablock_users": 41
+    },
+    "Honeywell warm white enamel": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "f751228181adf8604b075be0a268c5afb89f6555e9d0f686e6a90458821f9b22",
+      "images": [],
+      "keeper_roots": [
+        "kept-honeywell-02e-pro"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Rectangular panel end rim",
+        "Rectangular panel end rim.001",
+        "Rectangular panel long rim",
+        "Rectangular panel long rim.001",
+        "Slim rectangular upright",
+        "U-base closed crossbar",
+        "U-base open prong",
+        "U-base open prong.001"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 8,
+      "blender_datablock_users": 8
+    },
+    "Honeywell4000K luminous diffuser": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "206815c9563d4298d56665c97ea420a3f843531df90b5911192d64cafc83d54e",
+      "images": [],
+      "keeper_roots": [
+        "kept-honeywell-02e-pro"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Narrow parallel LED light bar",
+        "Narrow parallel LED light bar.001"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 2,
+      "blender_datablock_users": 2
+    },
+    "MUTTROS brown cloud fleece": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "27b2b5af6399c460cfa34489576518c222b99bf7ec1fb1d565e162187be6c081",
+      "images": [],
+      "keeper_roots": [
+        "kept-muttros-cat-tree"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Brown play ball",
+        "Brown play ball.001",
+        "Brown play ball.002",
+        "Condo top plush cushion",
+        "High side wicker basket brown fleece cushion",
+        "Low side wicker basket brown fleece cushion",
+        "Top wicker basket brown fleece cushion",
+        "Triple thickness brown fleece base",
+        "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+        "kept-muttros-cat-tree::Thick fleece hammock rim",
+        "kept-muttros-cat-tree::arched hollow condo wall"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 11,
+      "blender_datablock_users": 11
+    },
+    "MUTTROS brown condo interior": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "d9d5c8a2cb112d68e44f6b29c0c988a7d2f0237795c0caf613edc4cb00305016",
+      "images": [],
+      "keeper_roots": [
+        "kept-muttros-cat-tree"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Condo dark floor",
+        "kept-muttros-cat-tree::arched hollow condo wall"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 2,
+      "blender_datablock_users": 2
+    },
+    "MUTTROS darker wicker strands": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "0fa38057757de2e667e78ffb7df2f55c58a1ffb1e1fff0444360fed765f51a97",
+      "images": [],
+      "keeper_roots": [
+        "kept-muttros-cat-tree"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+        "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+        "kept-muttros-cat-tree::Top wicker basket crossing wicker strand"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 3,
+      "blender_datablock_users": 3
+    },
+    "MUTTROS handwoven wicker": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "9ee50b1f9b50d9203d4cc826f663d7ac0fa5feebbef737b36d63b6bd1c209d47",
+      "images": [],
+      "keeper_roots": [
+        "kept-muttros-cat-tree"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+        "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+        "kept-muttros-cat-tree::Top wicker basket woven horizontal cours"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 3,
+      "blender_datablock_users": 3
+    },
+    "MUTTROS natural pear wood": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "5a53d93696ffcf8e1e808b5ffb23947435f90dae31c1118580dd9c7a30ab612b",
+      "images": [],
+      "keeper_roots": [
+        "kept-muttros-cat-tree"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Natural wood branch0-0",
+        "Natural wood branch0-1",
+        "Natural wood branch0-2",
+        "Natural wood branch0-3",
+        "Natural wood branch1-0",
+        "Natural wood branch1-1",
+        "Natural wood branch1-2",
+        "Natural wood branch2-0",
+        "Natural wood branch2-1",
+        "Natural wood branch3-0",
+        "Natural wood branch3-1",
+        "Organic branch junction",
+        "Organic branch junction.001",
+        "Organic branch junction.002",
+        "Organic branch junction.003",
+        "Organic branch junction.004",
+        "Organic branch junction.005",
+        "Organic branch junction.006"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 18,
+      "blender_datablock_users": 18
+    },
+    "MUTTROS natural sisal": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "435f27133b4712edd97d921b1ba254f03456bb475526e82c16e78157cdb11761",
+      "images": [],
+      "keeper_roots": [
+        "kept-muttros-cat-tree"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "kept-muttros-cat-tree::Hanging pom-pom cord",
+        "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+        "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+        "kept-muttros-cat-tree::Sisal rope winding",
+        "kept-muttros-cat-tree::Sisal rope winding.001",
+        "kept-muttros-cat-tree::Sisal rope winding.002"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 6,
+      "blender_datablock_users": 6
+    },
+    "Pheasantwood official appearance reference": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "cf0dee4cd9a603d3b6dea7b9b5e573b04474b569dbca002de02282d408d76a88",
+      "images": [
+        "uplift-live-edge-pheasantwood-front.jpg"
+      ],
+      "keeper_roots": [
+        "kept-uplift-desk"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "kept-uplift-desk::solid wood barkline top"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 1,
+      "blender_datablock_users": 1
+    },
+    "Reconstructed ceiling": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "2b138c453ab52b477a8818e2cebbb6a19252e0097ec8c2b8b54e8b67d890abff",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "architecture_ceiling — his-office"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 1,
+      "blender_datablock_users": 1
+    },
+    "Reconstructed exposed brick": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "6fe9bb3f630fe5e4992c94090d41c15717f47b745d91bc34f7e54be383ae3861",
+      "images": [
+        "brick-upper.png"
+      ],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Observed brick chimney projection",
+        "his-office wall0 segment"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 2,
+      "blender_datablock_users": 2
+    },
+    "Reconstructed upper wood": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "446d9fb7b33902b65f3e9e5c3355219e85f77cc6f34c235286fbfed61edc7495",
+      "images": [
+        "wood-upper.png"
+      ],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Local floor continuation to observed brick face",
+        "architecture_floor — his-office"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [
+        "Provisional rack floor support — closet unrecorded"
+      ],
+      "all_object_user_count": 3,
+      "blender_datablock_users": 3
+    },
+    "Reconstructed warm plaster": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "8ced33913d9d51f1a4c55671db7a95019fc3811e6da84a166f9c2112370199b9",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "his-office wall1 — below floor continuation",
+        "his-office wall1 — head continuation",
+        "his-office wall1 — lower-Y side",
+        "his-office wall1 — upper-Y side",
+        "his-office wall2 segment",
+        "his-office wall3 — below floor continuation",
+        "his-office wall3 — head continuation",
+        "his-office wall3 — lower-Y side",
+        "his-office wall3 — upper-Y side",
+        "his-office wall4 segment",
+        "his-office wall5 corrected bottom 1",
+        "his-office wall5 corrected bottom 3",
+        "his-office wall5 corrected head 1",
+        "his-office wall5 corrected head 3",
+        "his-office wall5 corrected solid 0",
+        "his-office wall5 corrected solid 2",
+        "his-office wall5 corrected solid 4"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 17,
+      "blender_datablock_users": 17
+    },
+    "UPLIFT brushed nickel grommet covers": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "0e7d676e574addfaf680780083e2f5e99e88107fa823afd151171ee123816a56",
+      "images": [],
+      "keeper_roots": [
+        "kept-honeywell-02e-pro",
+        "kept-uplift-desk"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "Rotary dimming knob",
+        "Two brushed nickel grommet covers",
+        "Two brushed nickel grommet covers.001"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 3,
+      "blender_datablock_users": 3
+    },
+    "UPLIFT industrial tinted clear steel": {
+      "protect_for": [
+        "keeper_finish"
+      ],
+      "fingerprint_sha256": "f6c162b003d7a314986e8417c8c858426505aaadc7259a09222928339c0eb9ef",
+      "images": [],
+      "keeper_roots": [
+        "kept-uplift-desk"
+      ],
+      "fixed_users": [],
+      "keeper_users": [
+        "C-frame steel foot",
+        "C-frame steel foot.001",
+        "Hidden upper crossbar",
+        "Underside side bracket",
+        "Underside side bracket.001",
+        "V2 lower slim stage",
+        "V2 lower slim stage.001",
+        "V2 middle stage",
+        "V2 middle stage.001",
+        "V2 triangular stability brace",
+        "V2 triangular stability brace.001",
+        "V2 upper stage",
+        "V2 upper stage.001"
+      ],
+      "outside_protected_users": [],
+      "all_object_user_count": 13,
+      "blender_datablock_users": 13
+    },
+    "Window glass": {
+      "protect_for": [
+        "source_architecture_or_fixture"
+      ],
+      "fingerprint_sha256": "b14aa062d3fa67983e8d0174a6b729c120b36505191f182fac1ef90415c1bd48",
+      "images": [],
+      "keeper_roots": [],
+      "fixed_users": [
+        "Observed single-window glazing"
+      ],
+      "keeper_users": [],
+      "outside_protected_users": [],
+      "all_object_user_count": 1,
+      "blender_datablock_users": 1
+    }
+  },
+  "images": {
+    "brick-upper.png": {
+      "source": "FILE",
+      "filepath": "//../../apartment-model/brick-upper.png",
+      "size": [
+        1024,
+        512
+      ],
+      "channels": 4,
+      "has_data": true,
+      "is_packed": true,
+      "packed_byte_count": 3548,
+      "packed_sha256": "9749494f15ea19301ca4e83f287b871072c8c086831e27c5c1062771798aceb9",
+      "disk_path_exists": true,
+      "color_space": "sRGB",
+      "alpha_mode": "STRAIGHT",
+      "using_protected_materials": [
+        "Reconstructed exposed brick"
+      ],
+      "guard": "Do not repack, reload, replace, or edit this image. Retain existing packed bytes."
+    },
+    "uplift-live-edge-pheasantwood-front.jpg": {
+      "source": "FILE",
+      "filepath": "//../products/keepers/uplift-live-edge-pheasantwood-front.jpg",
+      "size": [
+        1380,
+        185
+      ],
+      "channels": 4,
+      "has_data": true,
+      "is_packed": true,
+      "packed_byte_count": 40727,
+      "packed_sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+      "disk_path_exists": true,
+      "color_space": "sRGB",
+      "alpha_mode": "STRAIGHT",
+      "using_protected_materials": [
+        "Pheasantwood official appearance reference"
+      ],
+      "guard": "Do not repack, reload, replace, or edit this image. Retain existing packed bytes."
+    },
+    "wood-upper.png": {
+      "source": "FILE",
+      "filepath": "//../../apartment-model/wood-upper.png",
+      "size": [
+        1024,
+        512
+      ],
+      "channels": 4,
+      "has_data": true,
+      "is_packed": true,
+      "packed_byte_count": 378939,
+      "packed_sha256": "e2387d2f061453e094589e504b9beec28c0e6aad3a60e1b668281c21453a4e2b",
+      "disk_path_exists": true,
+      "color_space": "sRGB",
+      "alpha_mode": "STRAIGHT",
+      "using_protected_materials": [
+        "Reconstructed upper wood"
+      ],
+      "guard": "Do not repack, reload, replace, or edit this image. Retain existing packed bytes."
+    }
+  },
+  "shared_protected_materials": {
+    "Reconstructed upper wood": {
+      "outside_protected_users": [
+        "Provisional rack floor support — closet unrecorded"
+      ],
+      "keeper_roots": [],
+      "fixed_user_count": 2
+    },
+    "UPLIFT brushed nickel grommet covers": {
+      "outside_protected_users": [],
+      "keeper_roots": [
+        "kept-honeywell-02e-pro",
+        "kept-uplift-desk"
+      ],
+      "fixed_user_count": 0
+    }
+  },
+  "packed_scene_images": [
+    "00473546_PS01_S01_NV01_RQP1_3.0_Basecolor_0",
+    "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+    "Basecolor_0",
+    "Basecolor_0_57",
+    "Basecolor_0_62",
+    "Basecolor_0_67",
+    "Branch Ergonomic Pro official Shore source — Image_0",
+    "Branch Ergonomic Pro official Shore source — Image_1",
+    "Branch Ergonomic Pro official Shore source — Image_2",
+    "Branch Ergonomic Pro official Shore source — Image_3",
+    "Branch Ergonomic Pro official Shore source — Image_4",
+    "Branch Ergonomic Pro official Shore source — Image_5",
+    "Metalness_0",
+    "Metalness_0_60",
+    "Metalness_0_65",
+    "Metalness_0_70",
+    "Normals_0",
+    "Normals_0_58",
+    "Normals_0_63",
+    "Normals_0_68",
+    "art-blue-bold-selected.jpg",
+    "art-blue-geometric-selected.jpg",
+    "brick-upper.png",
+    "ruggable-inkdrop-selected.jpg",
+    "uplift-live-edge-pheasantwood-front.jpg",
+    "wood-upper.png"
+  ],
+  "source_lamp_aperture": {
+    "method": "Read-only evaluated mesh BVH: 9 aperture rays, 2 LED bar rays, 2 perimeter rays in the exact owned hierarchy.",
+    "mesh_count": 11,
+    "led_bar_count": 2,
+    "all_13_cases_pass": true,
+    "cases": [
+      {
+        "local_xy_m": [
+          -0.03,
+          -0.1
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          -0.03,
+          0
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          -0.03,
+          0.1
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0,
+          -0.1
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0,
+          0
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0,
+          0.1
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0.03,
+          -0.1
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0.03,
+          0
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0.03,
+          0.1
+        ],
+        "expected": "open aperture",
+        "first_hit": null,
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          -0.075,
+          0
+        ],
+        "expected": "Narrow parallel LED light bar",
+        "first_hit": "Narrow parallel LED light bar",
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0.075,
+          0
+        ],
+        "expected": "Narrow parallel LED light bar",
+        "first_hit": "Narrow parallel LED light bar.001",
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          -0.135018,
+          0
+        ],
+        "expected": "Rectangular panel long rim",
+        "first_hit": "Rectangular panel long rim",
+        "pass": true
+      },
+      {
+        "local_xy_m": [
+          0.135018,
+          0
+        ],
+        "expected": "Rectangular panel long rim",
+        "first_hit": "Rectangular panel long rim.001",
+        "pass": true
+      }
+    ]
+  },
+  "source_sha256_after_audit": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "source_unchanged": true,
+  "detailed_audit_snapshot": "keeper-material-audit-snapshot.json"
+}

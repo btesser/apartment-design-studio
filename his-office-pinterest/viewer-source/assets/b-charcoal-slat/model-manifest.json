@@ -1,0 +1,146 @@
+{
+  "variant": "b-charcoal-slat",
+  "protected_geometry_pass": true,
+  "unchanged_source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "allowed_material_exception": "his-office wall4 segment only; paint screenRGB converted correctly to linear shader values",
+  "owned_products_protected": [
+    "honeywell-lamp",
+    "muttros-cat-tree"
+  ],
+  "shared_product_count": 12,
+  "mesh_count": 323,
+  "active_images": [
+    {
+      "name": "dan-hobday-richmond-70x100-official.jpg",
+      "pixels": [
+        2000,
+        1400
+      ],
+      "packed_bytes": 844295,
+      "valid": true
+    },
+    {
+      "name": "brick-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "packed_bytes": 3548,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "packed_bytes": 1061555,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 613076,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 340408,
+      "valid": true
+    },
+    {
+      "name": "rift-6x9.jpg",
+      "pixels": [
+        2400,
+        3000
+      ],
+      "packed_bytes": 1328428,
+      "valid": true
+    },
+    {
+      "name": "wood-upper.png",
+      "pixels": [
+        1024,
+        512
+      ],
+      "packed_bytes": 378939,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "packed_bytes": 145269,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 1654547,
+      "valid": true
+    },
+    {
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "pixels": [
+        2048,
+        2048
+      ],
+      "packed_bytes": 140648,
+      "valid": true
+    }
+  ],
+  "exports": [
+    {
+      "filename": "camera-poses.json",
+      "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+      "bytes": 2555
+    },
+    {
+      "filename": "his-office-design.blend",
+      "sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
+      "bytes": 103093481
+    },
+    {
+      "filename": "his-office-design.glb",
+      "sha256": "042e4b7afed71f526d622f5a6eb95f689b04cd2c09bebd5195329a97b069bc6c",
+      "bytes": 41744276
+    },
+    {
+      "filename": "his-office-door-leaves.glb",
+      "sha256": "06339ba97bd086de89d88a605e80360783c36ee0f4f1190def011c01e8d76b17",
+      "bytes": 167556
+    },
+    {
+      "filename": "his-office-furniture.glb",
+      "sha256": "e6376c56301b467d023d9853c73775e67a00e66edd930b5f64a6393cec662be9",
+      "bytes": 40245744
+    },
+    {
+      "filename": "his-office-shell.glb",
+      "sha256": "a74f9285d94db5f6c1c849294e3272afa0e3a395dbb66db4de14e4c3e1f754f0",
+      "bytes": 1336888
+    },
+    {
+      "filename": "layout.json",
+      "sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a",
+      "bytes": 11709
+    },
+    {
+      "filename": "tria-component-map.json",
+      "sha256": "6011355977a1844112a14834704f62a9d2eccee438667d30c5669a3fbd3be911",
+      "bytes": 5986
+    }
+  ]
+}

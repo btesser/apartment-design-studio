@@ -1,0 +1,77 @@
+{
+  "source_file": "/workspace/his-office-pinterest/model/his-office-pinterest-design.blend",
+  "source_sha256": "1243f34e61cce577fb3ad39e2b482914cdc87eab547e7f4cdb6bc09920a2c606",
+  "canonical_layout_sha256": "4b1eeb1a060d723b332e3efadc09b5ef8fb88c9c148ca9c551e3dc8bfea10b2a",
+  "start_blender_m": [
+    -6.82,
+    -0.85,
+    1.575
+  ],
+  "end_blender_m": [
+    -5.4,
+    -0.8,
+    1.575
+  ],
+  "chair_rotation_changed": false,
+  "method": "Actual evaluated primary-chair meshes translated along a straight lateral path to the project-bench right knee bay. Whole swept bounds versus fixed scene, then33 triangle-BVH samples for overlapping candidates. No scene saved.",
+  "whole_sweep_candidates": [
+    [
+      "branch-pro-task-chair-1::Mesh_0",
+      "kept-uplift-desk::solid wood barkline top"
+    ],
+    [
+      "branch-pro-task-chair-1::Mesh_0",
+      "C-frame steel foot.001"
+    ],
+    [
+      "branch-pro-task-chair-1::Mesh_0",
+      "Underside side bracket.001"
+    ],
+    [
+      "branch-pro-task-chair-1::Mesh_0",
+      "Height keypad"
+    ]
+  ],
+  "transfer_fractions_tested": [
+    0.0,
+    0.03125,
+    0.0625,
+    0.09375,
+    0.125,
+    0.15625,
+    0.1875,
+    0.21875,
+    0.25,
+    0.28125,
+    0.3125,
+    0.34375,
+    0.375,
+    0.40625,
+    0.4375,
+    0.46875,
+    0.5,
+    0.53125,
+    0.5625,
+    0.59375,
+    0.625,
+    0.65625,
+    0.6875,
+    0.71875,
+    0.75,
+    0.78125,
+    0.8125,
+    0.84375,
+    0.875,
+    0.90625,
+    0.9375,
+    0.96875,
+    1.0
+  ],
+  "surface_intersections": [],
+  "no_sampled_unintended_intersections": true,
+  "limits": [
+    "Proxy furniture only: user bodies, real caster direction, cable slack and chair adjustment are not dynamically simulated.",
+    "Sampled overlapping swept candidates cannot establish a mathematical guarantee between samples.",
+    "Occasional bench use shares the one chair; no simultaneous second seated workstation is proposed."
+  ]
+}

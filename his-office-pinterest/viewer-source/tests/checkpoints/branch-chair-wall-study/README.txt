@@ -1,0 +1,1 @@
+CHECKPOINT TESTS ONLY. These tests used the initial Branch task-chair wall-study models. The user subsequently identified the owned task chair as a gray Herman Miller XL. Final delivered runtime tests must use the revised canonical exports and new sealed hashes. No files here establish the final chair form or route fit.
