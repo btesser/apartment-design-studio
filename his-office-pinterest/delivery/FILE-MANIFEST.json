@@ -1,0 +1,2678 @@
+{
+  "title": "His office \u2014 two cohesive dark design alternatives",
+  "authority": "Packed Blender models/layouts define the proposed geometry. Generated images illustrate appearance.",
+  "source_paths_note": "Research and tool manifests retain original workspace paths as evidence. All delivery files are listed here by relative path.",
+  "repository": "https://github.com/btesser/apartment-design-studio",
+  "files": [
+    {
+      "path": "DESIGN-BRIEF.txt",
+      "bytes": 7171,
+      "sha256": "745839afc601946a978abd455a69aa9dfb5d74ced9a07f95e435fac63dfc02da"
+    },
+    {
+      "path": "His-office-B-C-design-review.pdf",
+      "bytes": 7529498,
+      "sha256": "e9505e805d2d6c5b728da2a9bc91c9cd6a3aa28f3d94ef990f76fb53644b599a"
+    },
+    {
+      "path": "His-office-B-C-design-review.sources.json",
+      "bytes": 17427,
+      "sha256": "aba3f80c79f5e69d1e7edc9964aaebaa012f47372de3e496e64593dc629ad049"
+    },
+    {
+      "path": "START-HERE.txt",
+      "bytes": 1348,
+      "sha256": "138cbdf1e1bc3123904907db533a86f430d043283b9541dd5caf578bb63ee86a"
+    },
+    {
+      "path": "build_dark_design_review.py",
+      "bytes": 27199,
+      "sha256": "5924064862e52c6090293c124763deecbf93e7e42641af547e39d56c71104203"
+    },
+    {
+      "path": "build_delivery_bundle.py",
+      "bytes": 5308,
+      "sha256": "b8d655c913e27383146b6598cd879f5eac9d49cc5b7182499acc95f283d3d20f"
+    },
+    {
+      "path": "build_generation_revision.py",
+      "bytes": 4631,
+      "sha256": "bec76850df9bbcd641a8cac8f6bb87118f81fe8c6bfae7e00d68f5dee40aa55b"
+    },
+    {
+      "path": "dark-design-review-config.json",
+      "bytes": 5130,
+      "sha256": "43c345c3b7bc5a185f8033449941b975c752bc8af2822750404532130942aef1"
+    },
+    {
+      "path": "design-spec.json",
+      "bytes": 13272,
+      "sha256": "7217fb97db45f4fe438a664e9b7962c2297ac3d0d1022ff0bffdd92557b6f62d"
+    },
+    {
+      "path": "finalize_generation.py",
+      "bytes": 12079,
+      "sha256": "58b8cc0a0b858daefe00f5023d629e35c9ad7b1e6b18b53e4e985bce067c9bae"
+    },
+    {
+      "path": "his-office-viewer-source.zip",
+      "bytes": 126736425,
+      "sha256": "bd9c04e64b9b00ab7daea1cee2ff57449a5edb3dbf871b9d691cf8c106e4e66e"
+    },
+    {
+      "path": "his-office-viewer.html",
+      "bytes": 57238186,
+      "sha256": "8d32459f2b94a21b43448c4e0e095076591ccb436f968ea7ffd50dca07e8815d"
+    },
+    {
+      "path": "images/checkpoints/first-generation-repeated-camera/generated-files.json",
+      "bytes": 3477,
+      "sha256": "04b6cdc30c0caa8e78432453f55bb8dedd41ab693fd1bee4be27c1b2b0b8fbf2"
+    },
+    {
+      "path": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+      "bytes": 56665,
+      "sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27"
+    },
+    {
+      "path": "images/checkpoints/second-generation-camera-corrections/generated-files.json",
+      "bytes": 2319,
+      "sha256": "7e5f50a16a0b25ee0c3099caf9165beae84addfaafbe57043e0b77c445bf067d"
+    },
+    {
+      "path": "images/checkpoints/second-generation-camera-corrections/generation-inputs.json",
+      "bytes": 49742,
+      "sha256": "05436878de55b141b0f7c6478e4a616963718e83ef115cd7f0757c3390dff4b0"
+    },
+    {
+      "path": "images/composition-proposal/Cohesive-office-composition-proposal.pdf",
+      "bytes": 5704181,
+      "sha256": "9e0e2bdbe0a8cf766a42e3c706b237c4674b7bb982e42aed2f9103eeacc955ee"
+    },
+    {
+      "path": "images/composition-proposal/Cohesive-office-composition-proposal.png",
+      "bytes": 2879034,
+      "sha256": "67e6f4038ad7b60e6110392fbfd84aa58561094660ec46110480e6417a0df8ac"
+    },
+    {
+      "path": "images/composition-proposal/Cohesive-office-composition-proposal.sources.json",
+      "bytes": 12048,
+      "sha256": "1dc2db27d663ad2832aceaa181b3923084aff774252a1652ee8113afc5fa7b3d"
+    },
+    {
+      "path": "images/composition-proposal/build_composition_board.py",
+      "bytes": 13263,
+      "sha256": "06237579e4ed3e93ae5f4a1ae4708d8a2cf9bc280676b469e894d34752999aa5"
+    },
+    {
+      "path": "images/composition-proposal/build_composition_plan.py",
+      "bytes": 17304,
+      "sha256": "d24de38f8b84ec945e9c97d299d9baa2955c3f27c3173e924927ee14ec45ede7"
+    },
+    {
+      "path": "images/composition-proposal/build_composition_plan_current.py",
+      "bytes": 21217,
+      "sha256": "d313151410aab1d9d8c528fa074cb73fee9837719805f0d3779dd2e246a4226c"
+    },
+    {
+      "path": "images/composition-proposal/composition-intent.json",
+      "bytes": 5737,
+      "sha256": "a24670d3db655f57b83a8113d53790d30c6ee9536c84aa1c824415fb72f26e8e"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan-current.json",
+      "bytes": 43818,
+      "sha256": "273963ae7487c020d970f6388a2c12bb74bbfad0d9beabbc67077203dcd5fef1"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan-current.png",
+      "bytes": 373371,
+      "sha256": "0dc60f659724f94810772cbf6a8fb90db93b46a245f884da94a8b28fe0eefef0"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan-current.txt",
+      "bytes": 873,
+      "sha256": "431fe947e745f72986484a2cfba06353021b71216b526ca8b8738011dd3d840b"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan-only.png",
+      "bytes": 163634,
+      "sha256": "2028801c018fe7a33f8aecf4cf39d0099c5939f3557a2141444c3431e67ac204"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan.json",
+      "bytes": 23181,
+      "sha256": "e270a0c5a12ba39f6df4530a5eb0a702123de20fac3a06a5f3d636e0352c7223"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan.png",
+      "bytes": 342933,
+      "sha256": "dff40e327620e84d539abd5579949906e14aa2b92d022cf23872056277779277"
+    },
+    {
+      "path": "images/composition-proposal/composition-plan.txt",
+      "bytes": 614,
+      "sha256": "c8abe080c13c6db97228f4f95385540b637c94098c64a6f92b81355c54de4af2"
+    },
+    {
+      "path": "images/composition-proposal/composition-proposal.txt",
+      "bytes": 1503,
+      "sha256": "4c705a5979548a12a916793096f759c899e3df7b842e968ccb30d4c407c7bd53"
+    },
+    {
+      "path": "images/generated-files.json",
+      "bytes": 18157,
+      "sha256": "42e8149365ae31af89c2040e1c28b928ac0c42d8c6ff24affcf7e158e5c8992a"
+    },
+    {
+      "path": "images/generation-inputs.json",
+      "bytes": 33739,
+      "sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f"
+    },
+    {
+      "path": "images/generation-manifest.json",
+      "bytes": 168265,
+      "sha256": "d64d45428d522489f48db79feb18d7d18761c97367cdff92bb9b041b7f2cde3c"
+    },
+    {
+      "path": "images/product-board-1.png",
+      "bytes": 1782448,
+      "sha256": "b650a93e868e7b087956bd8b51e3b625d6266f6c139b0db97d949a9987852cec"
+    },
+    {
+      "path": "images/product-board-2-b.png",
+      "bytes": 2846540,
+      "sha256": "c9cd2aeef1986877feb765a3c50b86a7ec5993f776a48d6cc59d80b48f59e9e6"
+    },
+    {
+      "path": "images/product-board-2-c.png",
+      "bytes": 2373841,
+      "sha256": "f011448319fe672d287be412d3c209dc7525bafb95efa38517a9b8d9080ec7cc"
+    },
+    {
+      "path": "images/product-reference-boards.sources.json",
+      "bytes": 28026,
+      "sha256": "ac838c670ffa9ca9a3fd34623c1bbe74a287185d87fbd06b2003b042abb9456a"
+    },
+    {
+      "path": "images/reference-boards/STATUS.txt",
+      "bytes": 289,
+      "sha256": "f630a7e14458e932f4a4982fb568bb7a8dc251d118547501b863c085924d3ed4"
+    },
+    {
+      "path": "images/reference-boards/composed/composed-reference-boards.pdf",
+      "bytes": 6819392,
+      "sha256": "b3f3dd0541b55ab505c287cac0fe4d4709f3b5f9b44ce0fd7a07b3f858b8eb75"
+    },
+    {
+      "path": "images/reference-boards/composed/composed-reference-boards.sources.json",
+      "bytes": 28026,
+      "sha256": "ac838c670ffa9ca9a3fd34623c1bbe74a287185d87fbd06b2003b042abb9456a"
+    },
+    {
+      "path": "images/reference-boards/composed/finishes-B-2.png",
+      "bytes": 2846540,
+      "sha256": "c9cd2aeef1986877feb765a3c50b86a7ec5993f776a48d6cc59d80b48f59e9e6"
+    },
+    {
+      "path": "images/reference-boards/composed/finishes-C-2.png",
+      "bytes": 2373841,
+      "sha256": "f011448319fe672d287be412d3c209dc7525bafb95efa38517a9b8d9080ec7cc"
+    },
+    {
+      "path": "images/reference-boards/composed/shared-products-1.png",
+      "bytes": 1782448,
+      "sha256": "b650a93e868e7b087956bd8b51e3b625d6266f6c139b0db97d949a9987852cec"
+    },
+    {
+      "path": "layout/final-furnished-plan-proof.json",
+      "bytes": 22466,
+      "sha256": "962447f544a0c01f93a82d64c8cff7a9a3e0027f95a5ee2c6045b610e37d76e9"
+    },
+    {
+      "path": "layout/final-furnished-plan.pdf",
+      "bytes": 54369,
+      "sha256": "ef0833add0ed55a61f793d749b7becfaf4e532a96b13dc0e82f16353a2aa190f"
+    },
+    {
+      "path": "layout/final-furnished-plan.png",
+      "bytes": 759070,
+      "sha256": "8a916eae31db582bd7f3128a940372ee997c59e83afb0208b4e5f72c0d041f6d"
+    },
+    {
+      "path": "layout/final-furnished-review-diagram.png",
+      "bytes": 231531,
+      "sha256": "d109d587a49434c602a85d20b736002451fa1fa9a87aac0f0d4bf9b17a2ed298"
+    },
+    {
+      "path": "layout/final-plan-operation-notes.json",
+      "bytes": 1130,
+      "sha256": "fe7ddd5021986c1a60ab6a75cddcc818bbfdf0f1c20e62b05120df28aed4af04"
+    },
+    {
+      "path": "layout/final-variants/b-charcoal-slat-final-route-proof.pdf",
+      "bytes": 23479,
+      "sha256": "fdfdde3f711e2ed7ed8df352b7cbbd5097ec35e1cae559bb47981bbda76b9804"
+    },
+    {
+      "path": "layout/final-variants/b-charcoal-slat-final-route-proof.png",
+      "bytes": 149552,
+      "sha256": "2cb31c0bd77bdf8d06831c5105e91f0b99d10c9e599c29067dfa05712cb0e79b"
+    },
+    {
+      "path": "layout/final-variants/c-ink-studio-final-route-proof.pdf",
+      "bytes": 23413,
+      "sha256": "0385687d7f45cbb008530b7da23447a23b4654980e41c6fa0ad151f9deced85a"
+    },
+    {
+      "path": "layout/final-variants/c-ink-studio-final-route-proof.png",
+      "bytes": 148231,
+      "sha256": "31a9c5839976f0b0030984edadb0efcff0803195f0c15b5f188a3671b5518020"
+    },
+    {
+      "path": "layout/final-variants/check_final_nominal_routing.py",
+      "bytes": 11835,
+      "sha256": "ad98db30c1ecdbfc4b4856b8a4caffa74fba10c0b25f0d9ce97decdcb346b3ab"
+    },
+    {
+      "path": "layout/final-variants/final-nominal-routing.json",
+      "bytes": 44997,
+      "sha256": "956a676df334d9e148778a27af162d726105cfc38a7b1b52b1c0aad959bb85b9"
+    },
+    {
+      "path": "layout/final-variants/final-nominal-routing.txt",
+      "bytes": 1759,
+      "sha256": "fa7dfb9d0f0e0768b32b77037d299a3c342ed2402d293b32a67474f46d73486e"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/b-charcoal-slat-checkpoint-proof.png",
+      "bytes": 126135,
+      "sha256": "c63a05bcf94c7fde04b1ff0a43ed8a998efe8ae73c1d7196daddc68b067fd176"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/c-ink-studio-checkpoint-proof.png",
+      "bytes": 125024,
+      "sha256": "64be95d04825d4f4c409f9f2a8816fbb435960f631b2a12657f63cdfe15a948a"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/check_owned_chair_and_plant.py",
+      "bytes": 16122,
+      "sha256": "0e9578fa9d67d018dc8793df9f47afe9755e252af6227c36b8d14d59988bdde0"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/checkpoint-owned-chair-and-plant-fit.json",
+      "bytes": 431338,
+      "sha256": "e0bf8b95f38509e31fe3ea32404cb8c209ca857a0d7eeb57c4e5f9b533703ca2"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/checkpoint-owned-chair-and-plant-fit.txt",
+      "bytes": 1011,
+      "sha256": "d8332d0a544b8285de174dbbdbfeab5394e737ac311f4e679038539bbec0b7dc"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/draw_plant_proposal_proof.py",
+      "bytes": 4871,
+      "sha256": "f68eab0779de59535daa97b2b33f27453a923c628a513871c1fe502f53fdf34b"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/optional-floor-plant-proposal-proof.json",
+      "bytes": 7411,
+      "sha256": "0fe8ec0302ea9467855a11e44e5cf7f6bf496deb710cdca38daf2472e1e53411"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/optional-floor-plant-proposal-proof.pdf",
+      "bytes": 34529,
+      "sha256": "2849cdb84d99a3f7fa4af973c058e97dacc24d6a9073af9ad6d0bcabe98a8044"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/optional-floor-plant-proposal-proof.png",
+      "bytes": 193765,
+      "sha256": "bc5872b0530d46bc9318d436cbf43ed8d11d23a61b4404fbe66ad77b1e281031"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/owned-aeron-bounded-preflight.json",
+      "bytes": 20694,
+      "sha256": "c5776b68644ad2fa8b742d6e9cce754fff4fd886a0cd3b3ad36ca81049aab62b"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/owned-aeron-bounded-preflight.png",
+      "bytes": 126135,
+      "sha256": "c63a05bcf94c7fde04b1ff0a43ed8a998efe8ae73c1d7196daddc68b067fd176"
+    },
+    {
+      "path": "layout/geometry-fit-preflight/owned-aeron-bounded-preflight.txt",
+      "bytes": 3174,
+      "sha256": "80ddaa3a830cfbf888f1c9aefcfe9d8f4381ba0909a494010e6554c158d5a40c"
+    },
+    {
+      "path": "model/README.txt",
+      "bytes": 1851,
+      "sha256": "9534622baf8d8d0808af9d59e4f56a6fe7607d41209be446aa7c575831943c24"
+    },
+    {
+      "path": "prepare_generation.py",
+      "bytes": 16968,
+      "sha256": "35b35866306c30c919950b2446a1b494192630f0052468c66c99ac25fc13138f"
+    },
+    {
+      "path": "products/additional-source-extracts.json",
+      "bytes": 73080,
+      "sha256": "d7a5137151119f40522e0d337ab1e4efb724f878cf416359179b7c18e4afad73"
+    },
+    {
+      "path": "products/composition-pieces/aspca-parlor-jsonld.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "products/composition-pieces/aspca-parlor-readable.txt",
+      "bytes": 2456,
+      "sha256": "1060d6b39263d2e962903f49c71827fd0b4590d03fd9ee5618e7bf5b95d45cf3"
+    },
+    {
+      "path": "products/composition-pieces/aspca-parlor.html",
+      "bytes": 77071,
+      "sha256": "ed11ea83938afc85a9cccb1fc6dec8f216a51dd9d0653d00f9c118792302d6e0"
+    },
+    {
+      "path": "products/composition-pieces/bloomscape-parlor-jsonld.json",
+      "bytes": 9000,
+      "sha256": "c17057e8e83aacba3c852790b76345f021944b2e16006cc78cf2be50b4ee54da"
+    },
+    {
+      "path": "products/composition-pieces/bloomscape-parlor-readable.txt",
+      "bytes": 5524,
+      "sha256": "261d73e5e795085a0b053c3731711407fa4b4b0c5247dcafcc94bb66fe544362"
+    },
+    {
+      "path": "products/composition-pieces/bloomscape-parlor.html",
+      "bytes": 148914,
+      "sha256": "5d85ec399f4de57c112d2036202c7eb8016e7ed0912e7cd0510ba465c67094fe"
+    },
+    {
+      "path": "products/composition-pieces/fado-all-jsonld.json",
+      "bytes": 19865,
+      "sha256": "4f5c5216d95c458dd9148c06c8bdae2e52446f365aa1f4992d33d29af3a06c54"
+    },
+    {
+      "path": "products/composition-pieces/fado-body-measurements.json",
+      "bytes": 996,
+      "sha256": "42c5873b17c6094ee306f50fabd84febd95bfe3d611a1ea1a98aefacbd1a8ff9"
+    },
+    {
+      "path": "products/composition-pieces/fado-jsonld.json",
+      "bytes": 19865,
+      "sha256": "4f5c5216d95c458dd9148c06c8bdae2e52446f365aa1f4992d33d29af3a06c54"
+    },
+    {
+      "path": "products/composition-pieces/fado-kajplats-jsonld.json",
+      "bytes": 4031,
+      "sha256": "8f51b78b991f2a1c1cc03c4034733ea0a05e1580b161778195ffd1f5f229940e"
+    },
+    {
+      "path": "products/composition-pieces/fado-kajplats-kit-original.jpg",
+      "bytes": 35487,
+      "sha256": "c834f65101e09eff74dddfada602a94abe7ae513392ded9a96d7cc99878092ce"
+    },
+    {
+      "path": "products/composition-pieces/fado-kajplats-readable.txt",
+      "bytes": 7313,
+      "sha256": "c7c480dcfe3a4c8815b76b3d891d8c3e7aac063f38bff3baedfd9646479e2e3a"
+    },
+    {
+      "path": "products/composition-pieces/fado-kajplats.html",
+      "bytes": 1069523,
+      "sha256": "08a0ff2ee63af4f92011dce0b01486ec74ac5ea0e935151cb3d98cdbca661460"
+    },
+    {
+      "path": "products/composition-pieces/fado-official.glb",
+      "bytes": 1733584,
+      "sha256": "bc7b2361f095c43f672dce1af723d1b2065e30197196281d12233c27b85db056"
+    },
+    {
+      "path": "products/composition-pieces/fado-readable.txt",
+      "bytes": 9345,
+      "sha256": "8fb0630a61c0df4185e2bf9698c9b7aa1e5e8dbe10280bd6928210ddc33cf521"
+    },
+    {
+      "path": "products/composition-pieces/fado-source-components.json",
+      "bytes": 4105,
+      "sha256": "a8069aee59f90d20a63d40b20a3fd4692f53efd1005d2f4ec958d53f44c51d66"
+    },
+    {
+      "path": "products/composition-pieces/fado-white-original.jpg",
+      "bytes": 29863,
+      "sha256": "b58d42da2aadaa735cfbb7bb94cf919ca2bd731ca7514c31c38eb38e14d459ce"
+    },
+    {
+      "path": "products/composition-pieces/fado.html",
+      "bytes": 1098017,
+      "sha256": "5b184fb73052dd2ced65dd0d62cfa0e9104d48eb7b6c309cbb4c1bea5f89b4c2"
+    },
+    {
+      "path": "products/composition-pieces/finishing-selected-products.json",
+      "bytes": 17890,
+      "sha256": "f7ac227835566817a9c60221620df86fda5d7f4b3d1c98727b2e1ceccf1a8b31"
+    },
+    {
+      "path": "products/composition-pieces/grovemade-darkgrey-mediumplus-original.jpg",
+      "bytes": 386032,
+      "sha256": "3891f7b90a716ee4afb5b5a70ec7a54dd8bd8f2ae29cbf7ef5317f67825d6ad9"
+    },
+    {
+      "path": "products/composition-pieces/grovemade-felt-mediumplus-jsonld.json",
+      "bytes": 6185,
+      "sha256": "c2c673ba537756bd9ca79c5bccdadeb4ca80523b8fe12633ce1a8d0dfa6fa69b"
+    },
+    {
+      "path": "products/composition-pieces/grovemade-felt-mediumplus-readable.txt",
+      "bytes": 5341,
+      "sha256": "1712683ca2c048f0cb12e53d13824b896dcecdc0c82760c2beeb34615e8c1d30"
+    },
+    {
+      "path": "products/composition-pieces/grovemade-felt-mediumplus.html",
+      "bytes": 365288,
+      "sha256": "d2456fb2251de86f298abaae23a3935de4549cf28b844587a3168ef9b57e5152"
+    },
+    {
+      "path": "products/composition-pieces/grovemade-felt-readable.txt",
+      "bytes": 5498,
+      "sha256": "78d9b13181cd7bcfdef075af7bbbfe3fc33d6c0fc1c589538fb8dac916d5e299"
+    },
+    {
+      "path": "products/composition-pieces/grovemade-felt.html",
+      "bytes": 364807,
+      "sha256": "3ef769235f23ad23797058168332bcebc19bb507175096cd628732ae46e60602"
+    },
+    {
+      "path": "products/composition-pieces/inspect_fado_body.py",
+      "bytes": 1592,
+      "sha256": "63bc9bb57b65a9876716fb23160019bf2ec6f47f4719769a5428cd7dd004e81e"
+    },
+    {
+      "path": "products/composition-pieces/inspect_official_assets.py",
+      "bytes": 1017,
+      "sha256": "cb0649e1c843b731ef92907ad7abbabb3d2e2617296c38d3f2473a6eeb0fc70f"
+    },
+    {
+      "path": "products/composition-pieces/kajplats-kit-readable.txt",
+      "bytes": 398,
+      "sha256": "16615d59b7df4eafac8c6260a6fedcf1fe121fb848cf2b529764a658817ebe1e"
+    },
+    {
+      "path": "products/composition-pieces/kajplats-kit.html",
+      "bytes": 6662,
+      "sha256": "edf9dc3ca3cac5b7528c342d9c4042f618acea18ebabc0fe7c01c2a194526ac6"
+    },
+    {
+      "path": "products/composition-pieces/lack-jsonld.json",
+      "bytes": 20642,
+      "sha256": "142a1c7f3e5019925c29bc6596508b76b57f8eca3aae4906de012bc57b5222e8"
+    },
+    {
+      "path": "products/composition-pieces/lack-readable.txt",
+      "bytes": 10105,
+      "sha256": "e2340ffbf92b730a039eb27306b1a0294fe51d63a7c49e9f3ad8d7e781aae252"
+    },
+    {
+      "path": "products/composition-pieces/lack.html",
+      "bytes": 1094604,
+      "sha256": "2007c2a216a69fe0509b1ad808ae461fcf1f95af411c54d2966f227947b6bad4"
+    },
+    {
+      "path": "products/composition-pieces/livelyroot-parlor-js.json",
+      "bytes": 49600,
+      "sha256": "c49d4f202c15aaf1a0ce80889b17dbc3f05b68c61b54806543c898e8cbe07f39"
+    },
+    {
+      "path": "products/composition-pieces/livelyroot-parlor.html",
+      "bytes": 743686,
+      "sha256": "aceed2ec9443364596a9d622c57e4eee5ebd3df033c887b8251ddb1793ef47ab"
+    },
+    {
+      "path": "products/composition-pieces/mosslanda-all-jsonld.json",
+      "bytes": 33172,
+      "sha256": "5a9288e43960ef3e7cc304dcea08caab022db57da8fd392e70b51c102659276f"
+    },
+    {
+      "path": "products/composition-pieces/mosslanda-black-original.jpg",
+      "bytes": 33455,
+      "sha256": "ddab7fcca179a589fc7311f07911bc068fb2182ef780ddbd60e3f1e77af35df1"
+    },
+    {
+      "path": "products/composition-pieces/mosslanda-jsonld.json",
+      "bytes": 33172,
+      "sha256": "5a9288e43960ef3e7cc304dcea08caab022db57da8fd392e70b51c102659276f"
+    },
+    {
+      "path": "products/composition-pieces/mosslanda-official.glb",
+      "bytes": 2022816,
+      "sha256": "0e33f5566c41471a5ec4bf91f737a188a5b10380b4ace5cc7616a2673d19507b"
+    },
+    {
+      "path": "products/composition-pieces/mosslanda-readable.txt",
+      "bytes": 9315,
+      "sha256": "fd96849c9921a165484dc7701006187ec3b0d326cd8067d0e4c77898ecf3318b"
+    },
+    {
+      "path": "products/composition-pieces/mosslanda.html",
+      "bytes": 1082627,
+      "sha256": "3a8ad21578e00ae7e32df9dad86aff66c55a2a8579d711638cdbdad12ffcc1f8"
+    },
+    {
+      "path": "products/composition-pieces/official-assets-bounds.json",
+      "bytes": 1544,
+      "sha256": "07ee99bb0a5dc7248bb09df8bf1d5574384e2b3975460a09b2113763328c0dc6"
+    },
+    {
+      "path": "products/composition-pieces/orbitkey-deskmat-js.json",
+      "bytes": 29162,
+      "sha256": "05dc62ab3f7e4a9d427576e8edfe021bd4edcb841a28055b835a85f5f4cd1544"
+    },
+    {
+      "path": "products/composition-pieces/persillade-all-jsonld.json",
+      "bytes": 17439,
+      "sha256": "e000b7a44ada3739f3694d2de91242a0b0a93bc99677c8ab6a7c8978c18ffa28"
+    },
+    {
+      "path": "products/composition-pieces/persillade-darkgray-original.jpg",
+      "bytes": 325565,
+      "sha256": "286b14a5de4630c3932dff923d1c6b6199cc0922a20933fa2763bee348d7b0a4"
+    },
+    {
+      "path": "products/composition-pieces/persillade-jsonld.json",
+      "bytes": 5114,
+      "sha256": "ff15952c10314d4c6d3345e948fa130c5d5d770d01dd3f4b33be5e43246baef5"
+    },
+    {
+      "path": "products/composition-pieces/persillade-official.glb",
+      "bytes": 5413560,
+      "sha256": "8e5334ef096c5d10a626add2ec475baad03cb7f58c66c4f9e85957abc0712fd2"
+    },
+    {
+      "path": "products/composition-pieces/persillade-readable.txt",
+      "bytes": 7407,
+      "sha256": "bed50c661db416a6bded3c03d2940edbfe19c40de265d085fdb562dbe224fb09"
+    },
+    {
+      "path": "products/composition-pieces/persillade.html",
+      "bytes": 1075584,
+      "sha256": "0d88855824a847b9a828f4ac7ec0e9658f8d7ca7f3f78dc2d4b2b641735039e8"
+    },
+    {
+      "path": "products/composition-pieces/plant/aspca-kentia-readable.txt",
+      "bytes": 2452,
+      "sha256": "728f9c83ed9d9847adbd111849a5dfac7a66cd82f70b76d9e238117846852f75"
+    },
+    {
+      "path": "products/composition-pieces/plant/aspca-kentia.html",
+      "bytes": 77572,
+      "sha256": "6ef60234ea74d5555cb2fed5bce31fec6d6fe5e22418bde84c19b945e685070c"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-kentia-js.json",
+      "bytes": 10601,
+      "sha256": "11197bd3c676491babf69c476b23a6430526c39b4a60dc712f960d66c0c76dcf"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-kentia-readable.txt",
+      "bytes": 33232,
+      "sha256": "2dad966d8ac5f0ff0d78d9d2d78f982c1cabd7bc83d363dedb9c806a8e4b8d7c"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-kentia.html",
+      "bytes": 597388,
+      "sha256": "7b185c44a4ca4abd4c238000845308e65b474588e02bbfecfc87830d45a3e20c"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-parlor-js.json",
+      "bytes": 4957,
+      "sha256": "7f75702bcf00eb2fe7a97d1efe0b4948fa004758789ab8e7c64ad47b36dad069"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-planter-js.json",
+      "bytes": 14623,
+      "sha256": "0fbade2f8ddd3049875ab2aedbf223694c74fab827b45c88d558e6a8f24c1214"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-planter-readable.txt",
+      "bytes": 7888,
+      "sha256": "0070fa965a94c002f0d2a617efa38a230d8cbffaca710e469e7b16a5eecf76c1"
+    },
+    {
+      "path": "products/composition-pieces/plant/bird-planter.html",
+      "bytes": 553275,
+      "sha256": "d336c454eb32e67ccc30cb320bd19a016f8022673628b047e79a7ae2b931a3c6"
+    },
+    {
+      "path": "products/composition-pieces/plant/eureka-kentia-js.json",
+      "bytes": 19980,
+      "sha256": "f095c86ede96cddc76ac130b3f181425fb231cbb7176046e14414faff2e376a4"
+    },
+    {
+      "path": "products/composition-pieces/plant/eureka-kentia.html",
+      "bytes": 698678,
+      "sha256": "81618ddb5cc3e24b0144d2afc06987fc87b1a982c823a962c58edd163712106a"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-browse-readable.txt",
+      "bytes": 4051,
+      "sha256": "6ff46a84bd7412acfd6312c59a8945789019b5e1f1a972cb72d72e886a349d1d"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-browse.html",
+      "bytes": 909301,
+      "sha256": "e8f14691500fa0659a08f5a9b346b49c0c1dee199ee99af89d4a3dfa982bc6b1"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-current-product.json",
+      "bytes": 11701,
+      "sha256": "81f6903b1beb421074311930ce6e935fe4c38fe0e9a86dae3e10fbae37e88c23"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-kentia-jsonld.json",
+      "bytes": 2114,
+      "sha256": "70729611beddc61412e6fcf95be1968a19a5ddbf96cb9d219a2891321db556c0"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-kentia-original-0.png",
+      "bytes": 790047,
+      "sha256": "1310d616f6122457beb0dbcef5aaee53ecc809183dfa8f77b71f204ff5d9fc0e"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-kentia-original-1.png",
+      "bytes": 862535,
+      "sha256": "c85c019d6ee8090fcb93ba2210581187b6785a328081a93513be9440a2d51509"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-kentia-original-2.png",
+      "bytes": 786181,
+      "sha256": "446de6d649bc4e32f326fdd2340799c07afbe56ee1469304c5327ec8038750b9"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-kentia-readable.txt",
+      "bytes": 1404,
+      "sha256": "dd3c1ec0176a9d3c8d37207a1a94c728c6b2d77fe3cbc02a0964164fbf19cc95"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-kentia.html",
+      "bytes": 1612716,
+      "sha256": "93092c29a6e14592a164cb629b729eff2ce8146e85423dbac50286860d578530"
+    },
+    {
+      "path": "products/composition-pieces/plant/junglejacks-page-data.json",
+      "bytes": 12424,
+      "sha256": "6cefcd18342aa10672cd5e98feba02d5dd5accd83ebe98bf3118cceeeb2ea49c"
+    },
+    {
+      "path": "products/composition-pieces/plant/plant-proposal.json",
+      "bytes": 8353,
+      "sha256": "976e1af6c9f31bb1c8f040219bf1a0699b86884e5d8daeefc48b24c010366fb1"
+    },
+    {
+      "path": "products/composition-pieces/promote_composition_products.py",
+      "bytes": 17237,
+      "sha256": "081c8a0b0a4cc623630877a50c53781ccb610e36e6a7978d427019825b344b12"
+    },
+    {
+      "path": "products/composition-pieces/sill-parlor-care.html",
+      "bytes": 740725,
+      "sha256": "9b5bf939a051e7d761a74699534d79f6c4f35f4beb28ff4ad11a9ecc37f80627"
+    },
+    {
+      "path": "products/composition-pieces/sill-parlor-js.json",
+      "bytes": 144503,
+      "sha256": "416fcac2ab8f00eafcb58e4f48ace57118116560a38bf2f448f2b4454aae2897"
+    },
+    {
+      "path": "products/composition-pieces/sill-parlor.html",
+      "bytes": 1538319,
+      "sha256": "612cc5a9770149660644b952c7074f752a83c798b3e94151b1ed6c1ff621f360"
+    },
+    {
+      "path": "products/composition-pieces/sill-small-parlor-westcott-black-original.jpg",
+      "bytes": 209513,
+      "sha256": "261229f58c65f4d55e49dd976c8286b3687c29cf3b67f221b4c763c5a3c14e2f"
+    },
+    {
+      "path": "products/composition-pieces/sill-westcott-js.json",
+      "bytes": 8780,
+      "sha256": "35dda4fbdebd203ef480e437c0f1ce365efab891a89dbcaa72d0555653b9964e"
+    },
+    {
+      "path": "products/composition-pieces/sill-westcott.html",
+      "bytes": 852811,
+      "sha256": "30244d26453c819febda93e0184044a3d6211cae1bbe5c33933d1e5f2ccf95f8"
+    },
+    {
+      "path": "products/dark-proposal-reference-index.json",
+      "bytes": 409,
+      "sha256": "b5a180f03a6080655026cb60a525f1d6268a25a8448d50a005c69224c9d8cf38"
+    },
+    {
+      "path": "products/fetch_additional.py",
+      "bytes": 1746,
+      "sha256": "0148257334ae65226b017f41fcfca928b260a7117b2e15b6cb14b381c5ff4b78"
+    },
+    {
+      "path": "products/initial-source-extracts.json",
+      "bytes": 104261,
+      "sha256": "bd02be2250db0b678f497a13781074f275afe9df599729a455b617a32c407c2e"
+    },
+    {
+      "path": "products/owned-chair/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms.skp",
+      "bytes": 5295427,
+      "sha256": "2a492ca6c215242daca61ee3334f5465e1a191ee8ebe6a69c4db6317c1e9f7c2"
+    },
+    {
+      "path": "products/owned-chair/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_2D.dwg",
+      "bytes": 27137,
+      "sha256": "ce88268d6159b23dc2a8db11b22cc37aee00d670e987e66244dc33dc4a443397"
+    },
+    {
+      "path": "products/owned-chair/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_3D.dwg",
+      "bytes": 1887737,
+      "sha256": "75bc5c754063b0affa16f8700c9609959e2fcc11fd2ec9971ace48f19c662337"
+    },
+    {
+      "path": "products/owned-chair/aeron-100099912-jsonld.json",
+      "bytes": 101243,
+      "sha256": "487b948e47a4610a13d4e965973e35838ec22fcb19b88b2c7560613184c555fa"
+    },
+    {
+      "path": "products/owned-chair/aeron-100099912.html",
+      "bytes": 736577,
+      "sha256": "efcc8fc8a82ae3b3591808d88c04b7e5fab62a702c67264a8d094a5514a93e2f"
+    },
+    {
+      "path": "products/owned-chair/aeron-100103080-jsonld.json",
+      "bytes": 101261,
+      "sha256": "6cc6d29e39117476795f2ee2960f46cd5b4f78c5c28b50a0f78007a0e755355c"
+    },
+    {
+      "path": "products/owned-chair/aeron-100103080.html",
+      "bytes": 737455,
+      "sha256": "077c3cad76fef9b16140b8c885a39ef099c6a47280783aec796c3734b0c06808"
+    },
+    {
+      "path": "products/owned-chair/aeron-100103200-jsonld.json",
+      "bytes": 101245,
+      "sha256": "dbb9a68788f69250937a93a34178e72c6c4af46dc34e7399ffd7225b5a69ce4e"
+    },
+    {
+      "path": "products/owned-chair/aeron-100103200.html",
+      "bytes": 732783,
+      "sha256": "42ae2cdf0644649b9cec67d310db56365cc3085321ac6b572fdc55b30ec21c62"
+    },
+    {
+      "path": "products/owned-chair/aeron-c-adjustable-model.html",
+      "bytes": 194233,
+      "sha256": "00753d90b61e550475912580cea589c2446b81436ff3e2cbac7ecaebdf402fc7"
+    },
+    {
+      "path": "products/owned-chair/aeron-c-fixed-model.html",
+      "bytes": 198016,
+      "sha256": "fcf7eceead3c26832f8644899b1be7104af4952ddc6abe012e98ad95fb228be8"
+    },
+    {
+      "path": "products/owned-chair/aeron-c-graphite-official.png",
+      "bytes": 442070,
+      "sha256": "a85a49f41710ae5a0e314538ff2d09d17496b1179e04b711bd29bfa42595106a"
+    },
+    {
+      "path": "products/owned-chair/aeron-c-mineral-official.png",
+      "bytes": 222209,
+      "sha256": "78123f016902ee3f54551e45813605fe8059878516782dac88858835291902ec"
+    },
+    {
+      "path": "products/owned-chair/aeron-c-official-cad-preview.jpg",
+      "bytes": 265794,
+      "sha256": "3b4f998bcbbc2f9e7e91921b32e81d910adb3884df7c10b26f162dcc747d8b75"
+    },
+    {
+      "path": "products/owned-chair/aeron-c-official-dimension-drawing.jpg",
+      "bytes": 189765,
+      "sha256": "5a213c1c78f91ef58461acc238f4d2e33974623ee7e9bb1dca1cb8d1a6a43473"
+    },
+    {
+      "path": "products/owned-chair/aeron-graphite-framebase-official.png",
+      "bytes": 6338,
+      "sha256": "813498c10f55f1a3fe7ab7fa67c9650bae64b6e378b0f98f4b039f2e9bca154d"
+    },
+    {
+      "path": "products/owned-chair/aeron-mineral-framebase-official.png",
+      "bytes": 7876,
+      "sha256": "68e32d1a69988fb7ad8e107d11e42e04b8787eb3bd9f32c86894da9bc874a359"
+    },
+    {
+      "path": "products/owned-chair/aeron-mineral-size-c-reference-variant.json",
+      "bytes": 1283,
+      "sha256": "bc08e94bab347966814e38a9747f99346601973e9d3687951b74650a77e8d16a"
+    },
+    {
+      "path": "products/owned-chair/aeron-mineral-size-c-store-jsonld.json",
+      "bytes": 101221,
+      "sha256": "c5395e7219a3edd4dd0367a67179d2589ad6f65ffee2413b60f1fa398423cf00"
+    },
+    {
+      "path": "products/owned-chair/aeron-mineral-size-c-store.html",
+      "bytes": 736339,
+      "sha256": "495eba5f3c8ec5453d0212270e69e9ea4149e8576047739fb9d9f7feb7114451"
+    },
+    {
+      "path": "products/owned-chair/aeron-pro-resources.html",
+      "bytes": 167005,
+      "sha256": "6be10432680cb3459ec85b9255bb12b9b3660e53ec5a583cdef1d8875c11a2fa"
+    },
+    {
+      "path": "products/owned-chair/aeron-specs.html",
+      "bytes": 175843,
+      "sha256": "e00e1b77a793b715c8c5b36eb2495a90a40a2540f33e58cb48d31cbe69d72033"
+    },
+    {
+      "path": "products/owned-chair/aeron-store-graphite-c-jsonld.json",
+      "bytes": 101226,
+      "sha256": "c84914c41e7815fd19b39dd21cb6169db63cce2fb70819b0ae70711b830bcf84"
+    },
+    {
+      "path": "products/owned-chair/aeron-store.html",
+      "bytes": 732145,
+      "sha256": "f3d7225ca26ca77a277c4f41b66bf337f4caa0ee31eeaed9e5328219366056ff"
+    },
+    {
+      "path": "products/owned-chair/aeron_chairs_brochure.pdf",
+      "bytes": 9611709,
+      "sha256": "a3c558d7fa44f4f6b8c452e8319a653f49f35c87f873bebb95ea4189b7f3b654"
+    },
+    {
+      "path": "products/owned-chair/aeron_chairs_brochure.pdf.txt",
+      "bytes": 8875,
+      "sha256": "d2bf5de37d0d729cb35b15294343edebbb29614eb70a9e3ff0ab03705a56dec3"
+    },
+    {
+      "path": "products/owned-chair/aeron_chairs_product_sheet.pdf",
+      "bytes": 1331895,
+      "sha256": "7adcc6c3eb4b6217a894af9abea1558038cf8acf2c6b7e9eb5e83cf0add391f3"
+    },
+    {
+      "path": "products/owned-chair/aeron_chairs_product_sheet.pdf.txt",
+      "bytes": 3408,
+      "sha256": "2de66740c41b5f14c90c6b4d14b3700b84c584d682d61f98bc2514528b3cec20"
+    },
+    {
+      "path": "products/owned-chair/classic_aeron_chairs_adjustment_guide.pdf",
+      "bytes": 888834,
+      "sha256": "74b5645e8062a8d22052c979e55d32610bc7ae1098ad2ce8def7d73b84ccab9d"
+    },
+    {
+      "path": "products/owned-chair/download-sources.json",
+      "bytes": 1375,
+      "sha256": "1693be6867dc502bb25e8bf54662f42791f1448472ed165fe59dbd66b6ce7392"
+    },
+    {
+      "path": "products/owned-chair/owned-aeron-size-c-mineral.json",
+      "bytes": 9823,
+      "sha256": "6a4cad4d13765d541db6b965e97665fa5b8f3abdd207cf2346c0631fab0d7aa2"
+    },
+    {
+      "path": "products/owned-chair/photo-download-sources.json",
+      "bytes": 1017,
+      "sha256": "c1235652b1605c98b89430f7f152df661547aeb4c659ac52210264c626e8a45d"
+    },
+    {
+      "path": "products/owned-chair/write_owned_aeron_record.py",
+      "bytes": 9306,
+      "sha256": "8311f3f99ab9df701b037ee5b1531d6fe8b321aa4fb9b7be84f67cd1567758ae"
+    },
+    {
+      "path": "products/photo-manifest.json",
+      "bytes": 7701,
+      "sha256": "80ea75cc106cd0e59245f42697bebdc447cb42249a8307f8e390ffd209eb3f3e"
+    },
+    {
+      "path": "products/photos/adils-black-leg.jpg",
+      "bytes": 26598,
+      "sha256": "6a19fbca3e1eea8f807fa12dddfd8466e42f5e2e1e5b6f5da2ce86ffb9c58f28"
+    },
+    {
+      "path": "products/photos/alex-black-drawers.jpg",
+      "bytes": 103609,
+      "sha256": "a9cd20196a7a4998a87c0eddc64a827f16dd6b03f5fbbf34e1d3bd6f1f31ede9"
+    },
+    {
+      "path": "products/photos/art-abstract-scenery-100x70.jpg",
+      "bytes": 255017,
+      "sha256": "d23725c60d53e444e0592ed8bd7712e0cc52a16dfa3e57a51642efe4d487dad2"
+    },
+    {
+      "path": "products/photos/art-abstract-scenery.jpg",
+      "bytes": 80742,
+      "sha256": "afd415c1dd75892a5fccaa611cb683d639fae8c9fbf89094e778ddb9895b3026"
+    },
+    {
+      "path": "products/photos/art-monochrome-mist.jpg",
+      "bytes": 142413,
+      "sha256": "f0453e33b244f1c915f380d65ec83209e7589a72a63831601225544114881173"
+    },
+    {
+      "path": "products/photos/black-frame-landscape.jpg",
+      "bytes": 101115,
+      "sha256": "02c2cb64ab2dc5f0f747f3e7613ea0022fed70e1ce8035c5981da24cd5b31c58"
+    },
+    {
+      "path": "products/photos/branch-pro-selected.jpg",
+      "bytes": 174646,
+      "sha256": "4998c1152afd03dc1a2fd908f2c53e5275759f835117feedef62891f60c0e0b7"
+    },
+    {
+      "path": "products/photos/ekenaset-beige.jpg",
+      "bytes": 314589,
+      "sha256": "ff5129dc3b471fbc30f7544429cc1368d49e89427f767b3b73c04c3e807b22e0"
+    },
+    {
+      "path": "products/photos/grejig-shoes.jpg",
+      "bytes": 93610,
+      "sha256": "e0cdce879fa00d0f1f08c0e8dffb7ba75a8134493d4dba40eee7d70f9a28224b"
+    },
+    {
+      "path": "products/photos/honeywell-B0C3BVYTXP-DIMN.jpg",
+      "bytes": 26374,
+      "sha256": "0d2817e76a84a34cc950a73cda4d94229e54b7f11949a2bd0aebb2f9838f3afe"
+    },
+    {
+      "path": "products/photos/honeywell-B0C3BVYTXP-MAIN.jpg",
+      "bytes": 13936,
+      "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8"
+    },
+    {
+      "path": "products/photos/honeywell-official-02e-pro-01.webp",
+      "bytes": 10151,
+      "sha256": "f153d6e4372839179379bb46f826b5ace7074f0fcdbb470ff8b1317851214425"
+    },
+    {
+      "path": "products/photos/honeywell-official-02e-pro-06.webp",
+      "bytes": 69974,
+      "sha256": "c0a6e1e4a90b816d1167f179e95b1ba39a54a231181f8eeb683971e071db205e"
+    },
+    {
+      "path": "products/photos/lagkapten-alex-black.jpg",
+      "bytes": 75051,
+      "sha256": "c6a087c745ab0817b6731b009d9133fb94a7ada4e5f5c99c6f8a2fd3973a5548"
+    },
+    {
+      "path": "products/photos/lagkapten-top-black.jpg",
+      "bytes": 46194,
+      "sha256": "ed8e765f79aad7d8b10af94e9d65e8256b3bc61e9795cb27e3bdd8819fe982a9"
+    },
+    {
+      "path": "products/photos/muttros-B0HHRC6XBC-MAIN.jpg",
+      "bytes": 484809,
+      "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749"
+    },
+    {
+      "path": "products/photos/muttros-B0HHRC6XBC-PT03.jpg",
+      "bytes": 298901,
+      "sha256": "621fccfd8329b6801a8521b594bbafd4c45548a45fc57476f0f7f3892770923b"
+    },
+    {
+      "path": "products/photos/muttros-B0HHRC6XBC-PT04.jpg",
+      "bytes": 167476,
+      "sha256": "e34a20b0f167cdadc41a18a97900bf6d0a2793f23996c2d68ddd063abe498506"
+    },
+    {
+      "path": "products/photos/ruggable-impasto-taupe-6x9.jpg",
+      "bytes": 815892,
+      "sha256": "9fb0a2573a6bececb8811b44438cd1e33ebe8d0f5a152aaadcd0bc1aa3bed14c"
+    },
+    {
+      "path": "products/photos/ruggable-impasto-taupe.jpg",
+      "bytes": 934626,
+      "sha256": "9cfcddd36cab436449c29cb75588d97286b46100a04f09ab3186c124b338bd44"
+    },
+    {
+      "path": "products/photos/storklinta-low-drawers.jpg",
+      "bytes": 254755,
+      "sha256": "caa0d86f3551c1d5ed00e5863ba706d7e93d3105b57bd566b4387b262d3c6833"
+    },
+    {
+      "path": "products/photos/uplift-live-edge-pheasantwood-front.jpg",
+      "bytes": 40727,
+      "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab"
+    },
+    {
+      "path": "products/photos/uplift-live-edge-pheasantwood-overhead.jpg",
+      "bytes": 202364,
+      "sha256": "ee19930e48a99e94dd4c361b36bd4c8ceab820c447bf245c9151a887158cb376"
+    },
+    {
+      "path": "products/photos/uplift-live-edge-pheasantwood-side.jpg",
+      "bytes": 54338,
+      "sha256": "d73a342602ab2278032b6825a6719a3bedec1602bae9cc7fffd756752e2ce9a7"
+    },
+    {
+      "path": "products/photos/uplift-v2-c-frame-industrial-official.png",
+      "bytes": 55191,
+      "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4"
+    },
+    {
+      "path": "products/promote_cool_selections.py",
+      "bytes": 8955,
+      "sha256": "9236197d103bcb804840f569a3120e78390ff649553febd5becd092e7d35357f"
+    },
+    {
+      "path": "products/proposal-complements/art/abstract-graphic-no1-70x100-official.jpg",
+      "bytes": 423203,
+      "sha256": "540bc2ec7d7baa9795c2f4c1b038518acd01e8110017de6d0fba2b9d8493bc25"
+    },
+    {
+      "path": "products/proposal-complements/art/abstract-graphic-no1-evidence.json",
+      "bytes": 2855,
+      "sha256": "ae5431dd8f584ab40f53c366e1da6948adc46527e36307b335f05d5f10a4c161"
+    },
+    {
+      "path": "products/proposal-complements/art/abstract-graphic-no1-source.html",
+      "bytes": 526328,
+      "sha256": "485d814463d3d640d2e52da5f7c352d5da311e390acf00bc57e2f857dea4eabd"
+    },
+    {
+      "path": "products/proposal-complements/art/abstract-no1-70x100-official.jpg",
+      "bytes": 977406,
+      "sha256": "c7f32b464af9c836ffb61a876cf2c90c81b279b9a4bf9eaaa09d63f71ac13fce"
+    },
+    {
+      "path": "products/proposal-complements/art/abstract-no1-evidence.json",
+      "bytes": 1963,
+      "sha256": "c7609db999ad63037522f69abb8b8cf7453057417a15e682dfbac2e751dd738c"
+    },
+    {
+      "path": "products/proposal-complements/art/abstract-no1-source.html",
+      "bytes": 485877,
+      "sha256": "a729f507dd85b2460ee2c4bdb35d510f1e277a65230a3d125ff8ea960caa2d31"
+    },
+    {
+      "path": "products/proposal-complements/art/art-discovery-evidence.json",
+      "bytes": 12499,
+      "sha256": "a4598f7bcba58a93f93680cec3b5d0eff6d11431a472cd08682ee7ffa772c5ea"
+    },
+    {
+      "path": "products/proposal-complements/art/black-abstract-shapes-no1-evidence.json",
+      "bytes": 1070,
+      "sha256": "d65be989e4e5f68dd864a30f2ef9fd906f0aa96ee8c2d6ceac52ad534bf7df50"
+    },
+    {
+      "path": "products/proposal-complements/art/black-abstract-shapes-no1-source.html",
+      "bytes": 520108,
+      "sha256": "a897ccaea93a845e5096bb5b9fddacbcb48d89c250ae00999a894ae427973fa1"
+    },
+    {
+      "path": "products/proposal-complements/art/black-brush-strokes-no1-evidence.json",
+      "bytes": 1552,
+      "sha256": "ebcf8325142c1b489c77beb826c986af283e8d40eb1227364d954ec44e6dc017"
+    },
+    {
+      "path": "products/proposal-complements/art/black-brush-strokes-no1-source.html",
+      "bytes": 520751,
+      "sha256": "0628a5bbedef59a20e5bb6c3e206a701842d73145b60bf1f4a7424496dd72c94"
+    },
+    {
+      "path": "products/proposal-complements/art/blue-abstract-70x100-official.jpg",
+      "bytes": 322892,
+      "sha256": "34f5534677631aaad62e7caca91c0cdf088ed6e562ce37389a6a6b1641b2138d"
+    },
+    {
+      "path": "products/proposal-complements/art/blue-abstract-evidence.json",
+      "bytes": 3224,
+      "sha256": "30ba04ccf813f813dd90e7083f043227b539a1483bbfeec40392e0cc937087bd"
+    },
+    {
+      "path": "products/proposal-complements/art/blue-abstract-source.html",
+      "bytes": 491896,
+      "sha256": "c7f40d876ca54f3cefd96ce2daee6d777d4677beab93ae8cfc003e97ccac6059"
+    },
+    {
+      "path": "products/proposal-complements/art/contemporary-abstract-no1-70x100-official.jpg",
+      "bytes": 549529,
+      "sha256": "635e4b4000c6eb04a6b8f34049b83a3fa7ed79617089431bb496813af47eb1e7"
+    },
+    {
+      "path": "products/proposal-complements/art/contemporary-abstract-no1-evidence.json",
+      "bytes": 4024,
+      "sha256": "f9da636acda0297c9d25ed31393ac8e481bd8dafb2dce7f488fb863209183c0c"
+    },
+    {
+      "path": "products/proposal-complements/art/contemporary-abstract-no1-source.html",
+      "bytes": 560926,
+      "sha256": "77ae0c43d98e7e32c585487d8a27bcdf279d25751e6435c8995b67c0b75cf015"
+    },
+    {
+      "path": "products/proposal-complements/art/cool-landscape-art-candidates.json",
+      "bytes": 6256,
+      "sha256": "51cd3ffe7a96efd98794869f214461d2beac5288d1f98b4896e1a40699ef7312"
+    },
+    {
+      "path": "products/proposal-complements/art/cool-landscape-art-candidates.txt",
+      "bytes": 2004,
+      "sha256": "e8996b2c2e0cc5276d21169924229cc17f2c6d5361c9deb2860bf44b05db9712"
+    },
+    {
+      "path": "products/proposal-complements/art/cool-landscape-discovery-evidence.json",
+      "bytes": 23328,
+      "sha256": "3b5ea10d1850df89c7f3142d1c5f9d7492f7ae5a5fa4e72c28e487ab0b2779d7"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-hackney-70x100-official.jpg",
+      "bytes": 2876757,
+      "sha256": "910817b939549870ae6d9caa5a5d089e4cf22c4c53be335adc3cf7e7330ebc99"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-hackney-evidence.json",
+      "bytes": 6463,
+      "sha256": "229772b83329d9a5f74e4541bd54dd9fb25f500f9178166c3e87388f7cf214a7"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-hackney-source.html",
+      "bytes": 523267,
+      "sha256": "f9f742ae7de4ec8501db6f507e5ea54051f96079e361a164f6c8c20f941734c4"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-motion-evidence.json",
+      "bytes": 1545,
+      "sha256": "b7424776aba6490c9bb50e24f814078ea9ad9e1205a46c283856e07374083441"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-motion-source.html",
+      "bytes": 494072,
+      "sha256": "84fe0e805b094cc529fe7482dab773977e4d23a65e7a9a5e2f34f48b4db51edd"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+      "bytes": 844295,
+      "sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-richmond-evidence.json",
+      "bytes": 6471,
+      "sha256": "fbb70dca8a57f699b95e5d6d97a5e5dac6c80ddf91e757b412d5a54a1e0a70b6"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-richmond-source.html",
+      "bytes": 519906,
+      "sha256": "e96366bd66ae80f4d5254a1a9c118f52a24c8b9a9b95d2e3802c32a4488664fb"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-wharf-70x100-official.jpg",
+      "bytes": 355800,
+      "sha256": "32e2dce03a91fb8f955c1a4c1744d40381f079785fa544c376fc5e2d4e3f0ac3"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-wharf-evidence.json",
+      "bytes": 3222,
+      "sha256": "96ca1ed3e7fe8f6eda76202ef8781502fa1f3f62545f4806f18cc4ac259c4c16"
+    },
+    {
+      "path": "products/proposal-complements/art/dan-hobday-wharf-source.html",
+      "bytes": 528997,
+      "sha256": "34227f8edf59862a76afef415cd4c571abe3738d3d434cabd8e3dafe704ed254"
+    },
+    {
+      "path": "products/proposal-complements/art/fetch_candidates.py",
+      "bytes": 3629,
+      "sha256": "88733adcea0c789ecbf787337afffc89bf5bd1e160bf0d6922c83b8c9898eb5d"
+    },
+    {
+      "path": "products/proposal-complements/art/forest-green-abstract-no2-70x100-official.jpg",
+      "bytes": 2991533,
+      "sha256": "4e4d8d51cd3060e6692f66ce6c5012716b13d79a7b87e8a847456ee310fbb362"
+    },
+    {
+      "path": "products/proposal-complements/art/forest-green-abstract-no2-evidence.json",
+      "bytes": 4131,
+      "sha256": "092631746aeaf57b74fd82cbd06bfae85a61da9bf2da4fcc0f8be6b69dfa5cfe"
+    },
+    {
+      "path": "products/proposal-complements/art/forest-green-abstract-no2-source.html",
+      "bytes": 542906,
+      "sha256": "2edb871bfabae94aee36d3d0181209b0e28293a8cb652b321770b2f22e841d15"
+    },
+    {
+      "path": "products/proposal-complements/art/grey-graphics-no2-source.html",
+      "bytes": 675580,
+      "sha256": "3e65dd4dd054f399bd138034e3131b01acdbf9785093dcc8d1330202eff3466e"
+    },
+    {
+      "path": "products/proposal-complements/art/horizontal-abstract-category-discovery.json",
+      "bytes": 73768,
+      "sha256": "95bdfc4162fee30c5d81ba5d0412c4192aab881cdd01adf9b36c156ceafe39b3"
+    },
+    {
+      "path": "products/proposal-complements/art/landscape-discovery-evidence.json",
+      "bytes": 11757,
+      "sha256": "c8c29a6b337827f10f977767ce12ee3a7b2cdf215ef7c33c4de4032bbd21e63e"
+    },
+    {
+      "path": "products/proposal-complements/art/linear-70x100-official.jpg",
+      "bytes": 3745498,
+      "sha256": "798ad6040ccf89aa101c6a5e141efdbb591f053edef1224e71787cb86a66e569"
+    },
+    {
+      "path": "products/proposal-complements/art/linear-evidence.json",
+      "bytes": 3612,
+      "sha256": "843d2a8bd6454c07a4a88589e2f70fb900c0aed482e589a91635a3d3d9796ed2"
+    },
+    {
+      "path": "products/proposal-complements/art/linear-source.html",
+      "bytes": 535907,
+      "sha256": "afff032a8418062a13577747e8eeb25bb8ae80296e7a0c6058cf11ab35a53c08"
+    },
+    {
+      "path": "products/proposal-complements/art/orbit-70x100-official.jpg",
+      "bytes": 2568182,
+      "sha256": "e4d08d58169090c5c951eac2284c26066e2a8b174e044c487de060aa0babca40"
+    },
+    {
+      "path": "products/proposal-complements/art/orbit-evidence.json",
+      "bytes": 4085,
+      "sha256": "4023f026e59b1de0d444a532ad37d9d1a371efcf928424d5cdcd8e9eb0634ec5"
+    },
+    {
+      "path": "products/proposal-complements/art/orbit-source.html",
+      "bytes": 552829,
+      "sha256": "cd39cb8db563701045d41f9e743d0a057fd44758f69b1cc7d300d2e814f7998d"
+    },
+    {
+      "path": "products/proposal-complements/cool-complements.json",
+      "bytes": 17197,
+      "sha256": "1dd119ee19a690311c167519c1a5aaf87ff3a5d2e404cde9426449bc5a951d51"
+    },
+    {
+      "path": "products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg",
+      "bytes": 333252,
+      "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb"
+    },
+    {
+      "path": "products/proposal-complements/photos/ekenaset-jonsbyn-black.jpg",
+      "bytes": 172291,
+      "sha256": "e68e4ae1d2595818b9b8fff091ed852b9b56530b8dfb8d5ec73a2e9c77e79206"
+    },
+    {
+      "path": "products/proposal-complements/photos/impasto-6x9.jpg",
+      "bytes": 866993,
+      "sha256": "dc5a11a761176994802a984d5747acf5b3f7362d4ffa0d89549c94d86e3c668f"
+    },
+    {
+      "path": "products/proposal-complements/photos/rift-6x9.jpg",
+      "bytes": 1328428,
+      "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84"
+    },
+    {
+      "path": "products/proposal-complements/photos/storklinta-dark-brown-alt.jpg",
+      "bytes": 263379,
+      "sha256": "86fb06bd61050837da33635d457e99b9fefbc98f6545d9223a42d053a7fe5e6f"
+    },
+    {
+      "path": "products/proposal-complements/photos/storklinta-dark-brown-isolated.jpg",
+      "bytes": 359966,
+      "sha256": "13c2223c7a4c503dd3139416defcf6ec14c43c2d911779af965ef19f3c2fb033"
+    },
+    {
+      "path": "products/proposal-complements/photos/storklinta-dark-brown-product.jpg",
+      "bytes": 196388,
+      "sha256": "476e45c2d8457c3ad3532c1c9acb1a03262d832248bc5cba834a77ea9f467d2f"
+    },
+    {
+      "path": "products/proposal-complements/photos/storklinta-dark-brown.jpg",
+      "bytes": 206741,
+      "sha256": "527698743488c7f16ad7ef3fe669e1d2d9e820c10959f22018dc55334f4f4bc0"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/bingsta-gray-extracted.json",
+      "bytes": 140,
+      "sha256": "7a4eb34d149f7b5363e7e0441560519842d8c98c5d6d1dbdb7a237d4c833fbdd"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/bingsta-gray.html",
+      "bytes": 6662,
+      "sha256": "edf9dc3ca3cac5b7528c342d9c4042f618acea18ebabc0fe7c01c2a194526ac6"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/ekenaset-axvall-gray-blue-extracted.json",
+      "bytes": 3688,
+      "sha256": "66d900a3715f8556b76511403e80e06d92c5683248ac7cb87fc161b2a4feaac6"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/ekenaset-axvall-gray-blue.html",
+      "bytes": 1060830,
+      "sha256": "26331514c1a02d61007a601d917de82f6f35703dcc703bedba838e28e72a780c"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/ekenaset-jonsbyn-black-extracted.json",
+      "bytes": 6653,
+      "sha256": "1cd50c34201259fed9490fb1d84acf7941ba46aa0b20c28a0c72f5c39e8b3950"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/ekenaset-jonsbyn-black.html",
+      "bytes": 1077937,
+      "sha256": "0713e3380d003cf6567aca4e44c37fa95a09b0d01f4487f3de53d866e37e5609"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/impasto-shop-js.json",
+      "bytes": 64178,
+      "sha256": "3cdd51fc589279bf44d40f5bcea282bbf070a10418be0d01742b058ea6655dc2"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/rift-shop-js.json",
+      "bytes": 40031,
+      "sha256": "a845aacdf369bf54708dcae727cd56cd7d634f6dbdd5a0fe93ea98935e19bcd6"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/storklinta-dark-brown-extracted.json",
+      "bytes": 18630,
+      "sha256": "7eb7217af25740a6c93dab168260fb248e82e9fbe18e6eeb1692c7f4b043fd6b"
+    },
+    {
+      "path": "products/proposal-complements/source-pages/storklinta-dark-brown.html",
+      "bytes": 1127156,
+      "sha256": "faf2e13efba2d6e1f9a9a3d74724e04a074e1af794f0e8fc61f408f2aae08589"
+    },
+    {
+      "path": "products/retained-source-extracts.json",
+      "bytes": 276179,
+      "sha256": "84da4850b59d55587e761c5ed028130063623d534bdd26cce6564d31786cab47"
+    },
+    {
+      "path": "products/selected-products.json",
+      "bytes": 90272,
+      "sha256": "92248a7e9009d5a0777dc668506c50c8e3bb45467aa344c521fb6d546c9c97ae"
+    },
+    {
+      "path": "products/selected-products.txt",
+      "bytes": 2681,
+      "sha256": "6a8ebbdee625395e695480e9e52569a55bdd938e062b2505924684ce176e3c58"
+    },
+    {
+      "path": "products/source-pages/adils-black-leg.html",
+      "bytes": 1889454,
+      "sha256": "eb8c9ee3257ef7a79eefc49c91e6b89405bf2a17abf5edb92f9887613f6b1379"
+    },
+    {
+      "path": "products/source-pages/alex-black-drawers.html",
+      "bytes": 1896294,
+      "sha256": "f9ea4a8b461500574c4ccf217aec8cf8d0021010c9f7837efe03dd373327b82a"
+    },
+    {
+      "path": "products/source-pages/art-abstract-scenery.html",
+      "bytes": 602607,
+      "sha256": "18391e9b4f91cee8ffa098505e910629e23977800abedea3b712f82a191f4072"
+    },
+    {
+      "path": "products/source-pages/art-monochrome-mist.html",
+      "bytes": 488558,
+      "sha256": "170fdc689ed1387e11bf7dac200d8e43845c0de5660ccdc6b6f129f40c9a3733"
+    },
+    {
+      "path": "products/source-pages/black-frame-landscape.html",
+      "bytes": 532847,
+      "sha256": "6b6d86bd63dc1e5ce7e49b972e1160a1731ae77b1d28b121b2a52fd95c6163a5"
+    },
+    {
+      "path": "products/source-pages/branch-pro.html",
+      "bytes": 2294531,
+      "sha256": "aa4d10433df8f144ededf05b9ba95978407bd84c81af8de8a30fe4d34385141a"
+    },
+    {
+      "path": "products/source-pages/ekenaset-beige.html",
+      "bytes": 1888065,
+      "sha256": "3fef4ce59b9965acb5f3a8928aa2cb528330b8f38afe7354baefdc79b8273b98"
+    },
+    {
+      "path": "products/source-pages/grejig-shoes.html",
+      "bytes": 1850633,
+      "sha256": "f1e2d0ef60c14682f3aec7c92d60386d1fff9a6f0bf3c077f08add9b2e93b62e"
+    },
+    {
+      "path": "products/source-pages/lagkapten-alex-black.html",
+      "bytes": 1909045,
+      "sha256": "15ead3b9bd015b223faac715eb92ff55910180c65fbb7fc37703b5f2a59c8e8b"
+    },
+    {
+      "path": "products/source-pages/lagkapten-top-black.html",
+      "bytes": 1895041,
+      "sha256": "abc6f6097cbfb6c99b12e9c02dd81cb0d18ee6c1586089ce53da74dbe223b2aa"
+    },
+    {
+      "path": "products/source-pages/ruggable-impasto-taupe.html",
+      "bytes": 1079655,
+      "sha256": "8fc514dd9c766fd30256c11fd5b308a0f94c9af22a0415289e0856a297861d9d"
+    },
+    {
+      "path": "products/source-pages/ruggable-office-guide.html",
+      "bytes": 410474,
+      "sha256": "41df9c2838d29b907a5150f8d5de49899301dcbc9bb09b911d4f2012b714c5d9"
+    },
+    {
+      "path": "products/source-pages/ruggable-standard-pad.html",
+      "bytes": 667647,
+      "sha256": "03a77b0ad8bf6c6132ab676bcd1e51d2e94b6a000bbcff1330e7244bd1503fbe"
+    },
+    {
+      "path": "products/source-pages/storklinta-low-drawers.html",
+      "bytes": 1923521,
+      "sha256": "86ddaecf35b9f0734a0038a5835b3789924a539be7fde9c4a6801a7d9ec5e9d3"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-standing-page.html",
+      "bytes": 1739602,
+      "sha256": "763a1707944fde960a6b20932a8c71249a863dbd8094984596c6b82b8d2d6726"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-blackoak-charcoal-official.jpg",
+      "bytes": 237363,
+      "sha256": "9e6d08eb15c794ad42fc1170cc5c7d6e7a1772129d8f392686a36345c9ff3f08"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-geometry-measurements.json",
+      "bytes": 15461,
+      "sha256": "41eb23f2d8ae928a8ace578fa4555b0323efd1a80e3897e466a7bbd18a82c499"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-gltf.json",
+      "bytes": 55878,
+      "sha256": "da2f18a77697d1fd136e349aea37c12ce82d617ad9543b31cd6f3582cf3ce758"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-image-sources.json",
+      "bytes": 957,
+      "sha256": "831a26e3ba00620211552eaed2a216ca1e5efbcb5110bd4aef23b09ae9d26b7e"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-official-48x27-woodgrain-white.glb",
+      "bytes": 26354780,
+      "sha256": "1122e1e218a4d351b58138637b8d18ada1ec66d2345e7cb2f035dc93e123dbdc"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-page.html",
+      "bytes": 1739602,
+      "sha256": "b78c9125610edaf01c1e604ccdb0ac2b06f595c1e59bf3c9a425230c4203104e"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-specs.pdf",
+      "bytes": 5813750,
+      "sha256": "fbd3029eba8459128031fa8e33010b2e4dda02f0bd67f7636b5f8bdda629140e"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria-walnut-charcoal-official.jpg",
+      "bytes": 209280,
+      "sha256": "d3c7631a0f268e85910d11225c9e21cdef32d3b8c4194a7e8e8d9e1fb1e2f28a"
+    },
+    {
+      "path": "products/standing-desk-candidates/branch-tria.json",
+      "bytes": 61303,
+      "sha256": "57f0eec20e23b7f9f5abb57aab934710b81356ee37f1287afb86226592515697"
+    },
+    {
+      "path": "products/standing-desk-candidates/comparison.json",
+      "bytes": 10456,
+      "sha256": "98e56c56b88f5649835ac09a86bd67ea10c862938d5035ea51be872dcea6bd46"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-cbr4830b-d-component-angle.png",
+      "bytes": 35288,
+      "sha256": "e3a8c546dad6eb0343d3000bf14b35fed873a3cd98772a57c175207656f4fe0c"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-cbr4830b-d-top-swatch.png",
+      "bytes": 101,
+      "sha256": "f75c603ce68f27393e8e51f62dc6871ba6d733a02aa452ad50dcc0ef1bc79781"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7-manual-page1.png",
+      "bytes": 149939,
+      "sha256": "1b5646fdaf12fbad8c9ca6a6fc8b8bfe2a37bbe2a7755ca8e0a575cf9887d9d1"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7-manual-page2.png",
+      "bytes": 207515,
+      "sha256": "a49ce22106ce876ecefb21968eb0ede0ce120013abb2e8612171623e27774109"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7-manual-page3.png",
+      "bytes": 242067,
+      "sha256": "2b8785e8b33cf60fe5712ad18a68df48245e0bb085d087561f398cc356f80c54"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7-manual.txt",
+      "bytes": 7,
+      "sha256": "538d6440534fa5f615e8a26932792a82a2e4a33a97886e2d815eab8fc216d415"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7-selected-black48x30-page.html",
+      "bytes": 1407979,
+      "sha256": "8814b8bdd04152481ec7f157ae7fd14f63566be24f9c4c1d6759ec4d4d25fe58"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7-v3-manual.pdf",
+      "bytes": 4641571,
+      "sha256": "e5d76e76b50eedf50bae0dffec2a39312c45be51bb831e577e2bc4b36ae487ad"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7.html",
+      "bytes": 1407976,
+      "sha256": "5b01d9ca418084aab45c63a0f1b0ad7f1622ea6245af4c86b82916d3f9a29d51"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7b_s-frame-product.png",
+      "bytes": 43195,
+      "sha256": "0e21e0bf188af4ad7819463d9b06d391d36cdb9811be4b4e875996bf332109f2"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-e7b_s-frame-transparent.png",
+      "bytes": 124608,
+      "sha256": "d60364339e033346d7d5d5eb215258d74bcf62dfdc8316a68ad62108b8623472"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-cbr4830b-d.json",
+      "bytes": 3726,
+      "sha256": "e2dbd4b22f5b738688f75c9335a9ec8dcea365df84b5f748dcb259089f51a671"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-cbr4830e-d.json",
+      "bytes": 3727,
+      "sha256": "597282310e413e39a8501205625c9d07ca75f635a9bca796281dcba1d2873c60"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-cbr4830gp-d.json",
+      "bytes": 3589,
+      "sha256": "403ccd40e37f9e06bf744e1daf5c4527d0ff27bf166b8ea4eaedc9d010249a08"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-e7b_b.json",
+      "bytes": 4853,
+      "sha256": "9c3edbf700bf5c6b372b2f20c7775e939f948d4d88e6480b303090652caf498c"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-e7b_game_b.json",
+      "bytes": 4606,
+      "sha256": "167cb62223ae397412ab5268436cf43073fde42152df9503ece24e8ccfad0695"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-e7b_game_s.json",
+      "bytes": 4433,
+      "sha256": "923a53ad965e8df67b33da8f2d6dd00337c1244eee1f9ca45609078779163d9e"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-selected-e7b_s.json",
+      "bytes": 4721,
+      "sha256": "fa40406427d62b140dc363ef7ded990b8562a2cd87ed15ef1c450af25dcac142"
+    },
+    {
+      "path": "products/standing-desk-candidates/flexispot-ssr-data.json",
+      "bytes": 1891731,
+      "sha256": "62f8f226069e9977f7d4b28a24c0ae54cc6c2553de2f14aaba21de04fe0e3405"
+    },
+    {
+      "path": "products/standing-desk-candidates/initial-extracts.json",
+      "bytes": 11368,
+      "sha256": "ef205903d52cca3677454266d014c72861ec06784dda3763c0314ebaab855893"
+    },
+    {
+      "path": "products/standing-desk-candidates/jarvis-bamboo.html",
+      "bytes": 567659,
+      "sha256": "06c8803701f72f8ff190aa5314dbd6e985719d8a884e8254c0d7fb5e2348e239"
+    },
+    {
+      "path": "products/wall-finish-candidates/sherwin-colorsnap-color-extract.txt",
+      "bytes": 211,
+      "sha256": "cd2b76067f4fcff7bbc4f3956b9e964e6c9dc0268daaf5ee8db3360c0d644a73"
+    },
+    {
+      "path": "products/wall-finish-candidates/sherwin-colorsnap-official.pdf",
+      "bytes": 416532,
+      "sha256": "f528617c6066208565d5189b684d233336a17b97594f4a8809f46ef2785ef1ab"
+    },
+    {
+      "path": "products/wall-finish-candidates/sherwin-inkwell-page.html",
+      "bytes": 72839,
+      "sha256": "1b64a53fd57246d8c6e2fec225ced6b841ff69739dd69284102f58f541835ffe"
+    },
+    {
+      "path": "products/wall-finish-candidates/sherwin-naval-page.html",
+      "bytes": 64746,
+      "sha256": "0e10dc22c134bc44addcc4b8ef80c36f9f52deef3be7f91dafb5469712863d4c"
+    },
+    {
+      "path": "products/wall-finish-candidates/sherwin-peppercorn-page.html",
+      "bytes": 64775,
+      "sha256": "7aeb408dbb9747dcc6e621b83418ac7385cfe61d7565c298bd30705508a8c12c"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-hoffmann-black-sisal-original.jpg",
+      "bytes": 595622,
+      "sha256": "5b1b51a33edaad6204e0453c8e3d584ca6dae04a2c4c6f62cfd0c178b3fcaa97"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-hoffmann-page.html",
+      "bytes": 417090,
+      "sha256": "5d231e8f2c5852b9b49a9386f32de3e684605aea64b488d1e20c2936350776ee"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-hoffmann.json",
+      "bytes": 34657,
+      "sha256": "2d11ff612c25f26e3f9f232c9a955f0a360ac781934d5d00eea81ed8f417e5ae"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-horizontal-black-raven-original.jpg",
+      "bytes": 662382,
+      "sha256": "a399c8088e62e28256d5ca087cd2b0619c826cb8204ec12c0fa01c963c41b879"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-horizontal-navy-original-OUTOFSTOCK.jpg",
+      "bytes": 610869,
+      "sha256": "9454057b81c8067997b7385df3c7228c15984047ac8fda0da0812072797eeca4"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-horizontal-page.html",
+      "bytes": 747170,
+      "sha256": "c98f6b331e150d12b9aa593a295a2f3c19abda2d19a92d1ca3ad2686f134c228"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-horizontal.json",
+      "bytes": 94645,
+      "sha256": "fd0a29fb572cd576fd1e02a91247029da99aed92419b514943dc5121d0808cf5"
+    },
+    {
+      "path": "products/wall-finish-candidates/tempaper-textured-check.json",
+      "bytes": 18031,
+      "sha256": "d8181f16f5c070a6e0a0317b887e80342db760ecca53c5aad9a5df4a3fcefec9"
+    },
+    {
+      "path": "products/wall-finish-candidates/wall-finish-proposals.json",
+      "bytes": 9617,
+      "sha256": "34ccd451ac39c7c02d3bfb4c7108f577f320c235ef375346d2feb5280eedde7d"
+    },
+    {
+      "path": "products/wall-finish-candidates/wallpops-grasscloth.json",
+      "bytes": 7454,
+      "sha256": "21162db994ebd0200992c35aa14e894dce69db2e4e95cbe28aef3b993a07fa95"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-akupanel-all.json",
+      "bytes": 6089,
+      "sha256": "889f119bb594b66ebb7a3269d6ff14aaadceb684a9fde276b9bc1cbdc6062dcb"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-archive.json",
+      "bytes": 113861,
+      "sha256": "c8990ae6eabb20b8a1d400ddd8155326f06293cfa3279460cc06d14fac390684"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackash-original-0.jpg",
+      "bytes": 93638,
+      "sha256": "765036d6c5b013e3e7ed48f94bec5ac11f8a667c53e14038bdee05d0dfea042c"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackash-original-2.jpg",
+      "bytes": 712345,
+      "sha256": "c6b274f7d2859262641435cac7ebdec7b433df263683f125675f81f7f80f1cb8"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackash-page.html",
+      "bytes": 2093422,
+      "sha256": "92524c1636dc877f1159d2770b70a6ddc16cf21a44aae11b2bd621f8026a1542"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackash.json",
+      "bytes": 6412,
+      "sha256": "bf579b34fd989552fe68af24280d53ed3176fab895c0b038569baa881cf42ade"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackoak-original-0.jpg",
+      "bytes": 122791,
+      "sha256": "c8cf2768f791a9f405797c7a06797f38507fb1a2a4778ef8c396296f5552e8d7"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackoak-original-2.jpg",
+      "bytes": 713845,
+      "sha256": "1c28ba23dca25f9929f92dc16ce0110c2f47775558c413b08bc51449e5062a7c"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackoak-page.html",
+      "bytes": 1962842,
+      "sha256": "fc4acc137817578b52ce8f118b48c4d23f4d673e8c1718590327bfca8baf712d"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-blackoak.json",
+      "bytes": 6216,
+      "sha256": "68879eaef9443e106e112061f2098527a1c4867f217c41194cb8928f071fdb44"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-charcoal-alt.json",
+      "bytes": 6119,
+      "sha256": "ed9fc7e683291281793325868645a135aaa525792bff2968ad64e26b70f140e0"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-grey-page.html",
+      "bytes": 2015512,
+      "sha256": "59675df0319c577de69973f9ae2a29f7d1cbc67b8cec5ca7a8c3bfad418ee126"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-install-page.html",
+      "bytes": 578711,
+      "sha256": "ffde3cc1b27c0841fa742ca9da74ed06c936f600a4b3454dd49a2dfcf3716782"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-rustic-grey-oak-original-0.jpg",
+      "bytes": 133993,
+      "sha256": "b7f1ecd578b72110722a39db396686ca10a3ddf857ba588562d2bb73f9b85581"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-rustic-grey-oak-original-2.jpg",
+      "bytes": 708509,
+      "sha256": "067d905f8c81f6f0eaff7f33be7ad958339191037c3a211ca981dd1380820cb6"
+    },
+    {
+      "path": "products/wall-finish-candidates/woodupp-rustic-grey-oak.json",
+      "bytes": 7037,
+      "sha256": "75f0bd8651d00d6c93db1256c041650dd98873854648a278487cb4251be97c94"
+    },
+    {
+      "path": "products/write_proposal_references.py",
+      "bytes": 16048,
+      "sha256": "ef79012102fb8143b61583b1a394d7b19ff59e12591a1e7a7f481570712072cf"
+    },
+    {
+      "path": "products/write_selection.py",
+      "bytes": 13086,
+      "sha256": "ab55d018ba1883c145c320646ccb106364337dc82e1c5e5a3cef23bb71056454"
+    },
+    {
+      "path": "qa/final-variants/QA-REPORT.txt",
+      "bytes": 5832,
+      "sha256": "a1638af867fafece335be6cf619db7365e491045b2175dc65b7c53cb3fab38cf"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/STATUS.txt",
+      "bytes": 545,
+      "sha256": "bd90bf04b330002dc3bd5465b3f1e1ee20a5a6a4001c44aa54ac93d20c84a006"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_composition_supports.log",
+      "bytes": 1567,
+      "sha256": "710c0df22f91a210844db82e9f80f5a7f7537aec67736faf631c05d649557961"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_exports.log",
+      "bytes": 248,
+      "sha256": "27ec44d5a2c456f3b8f371b87a60104105b498d0c19150338344af5a768c6368"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_integrated_meshes.log",
+      "bytes": 7536,
+      "sha256": "74e4bbeff9983b5701d9c1b36e991374d1c7d5720c80db0907e99e6e273e8ac9"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_materials.log",
+      "bytes": 291,
+      "sha256": "6a29543f11dff4b32b1b7f09071be51b6ca3f05d8cc9c5299bcde535616e9be6"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_owned_chair_motion.log",
+      "bytes": 243,
+      "sha256": "87cc5ea3b0bfc42d38d8b8b017fbb95e62b5ee66d8a334fee6457155d60e184c"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_protected_parity.log",
+      "bytes": 402,
+      "sha256": "6f229cc660679dcc3ff57b44e8a251955d5cf70d6f06b0c685a752ca6305d0ee"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_tria_motion.log",
+      "bytes": 196,
+      "sha256": "19651a6299a5568be7eb7f61788106910d65b7505778771c8659fc719c24420a"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_tria_source.log",
+      "bytes": 2211,
+      "sha256": "a57512325f4dd5568f77d57d9eec220400b0cf250ea15021afa99eb4e256ce4f"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/check_variant_textures.log",
+      "bytes": 2239,
+      "sha256": "bb4224a4ad182687fd2db3fc147b61c58f3ee17ffbd14a16d3c3a48357c8ded8"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/composition-support-checks.json",
+      "bytes": 62378,
+      "sha256": "9b09de6816ad4860d0da03259fa37ba9d7049f65ba783e44edfb91c63eda7be0"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/desk-neighbor-clearances.json",
+      "bytes": 1308,
+      "sha256": "c5c3971dc26a1ad4247e9f8b077874abd35854beb8790d282f517bb03cd4b3ee"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/dresser-operation-clearances.json",
+      "bytes": 1791,
+      "sha256": "29ace9866bacf6fcfccf915eb0cd1783669b3ca56245eeb256243205278fb1a2"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/export-parity.json",
+      "bytes": 829433,
+      "sha256": "630e648fcc52713d0beeeb69504da4b93c77082c70cd58493ffb83c5375862e4"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/integrated-mesh-checks.json",
+      "bytes": 275135,
+      "sha256": "49ee0342d538c9ac7263968421a9e111d44634a2b5b110ed918a872b63852bef"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/material-availability.json",
+      "bytes": 92260,
+      "sha256": "a0f209c399560a4642ba500e8c4d3f11ed5831bb3e9345e9802ece099d5de7f6"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/owned-chair-motion.json",
+      "bytes": 3612,
+      "sha256": "24fe89baaf1ecc38a7e536fee6bd85e3b4ec91f3e1273616e76f7b2cd6b194dc"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/protected-source-parity.json",
+      "bytes": 68737,
+      "sha256": "433835af276c54d7d64dfcaca6cb6cd4de0d688050d4174a552994e4e50bb98f"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/texture-panel-checks.json",
+      "bytes": 5710,
+      "sha256": "ec58d7a5b42e5d6bbbb69d1e17642dc36c0d0735c732e7f68ad7adcc7ba6d9d0"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/tria-height-operation.json",
+      "bytes": 5023,
+      "sha256": "5183c11cb0309c8a151142a0ece703201fb6b1054340655de7e2d96280bc3e8b"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/tria-supplier-parity.json",
+      "bytes": 11137,
+      "sha256": "1e8c0043010beced829c8ce80b07d4b08d0836aff7e04eb8260865195b4e4ac8"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/viewer-room-a.png",
+      "bytes": 675410,
+      "sha256": "9b158c65633db7a9e50fa527b7bd35bb5a579e4775fe5ffb63cfe7d2e4537d81"
+    },
+    {
+      "path": "qa/final-variants/b-charcoal-slat/viewer-standing-max.png",
+      "bytes": 674022,
+      "sha256": "3b116279d13ee980fc96723cb8ae744041336764ef0416d8a6fa5c9f4227b9d7"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/STATUS.txt",
+      "bytes": 545,
+      "sha256": "bd90bf04b330002dc3bd5465b3f1e1ee20a5a6a4001c44aa54ac93d20c84a006"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_composition_supports.log",
+      "bytes": 1564,
+      "sha256": "ce5897b3a5a6dac52e6f2fd2fe36b8630dbf91f538da1c73f2a3f017d5eb8acd"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_exports.log",
+      "bytes": 245,
+      "sha256": "0be99bf4f7beada825dc7a9f13704502861b0591bc219dba5f4b247d710e7176"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_integrated_meshes.log",
+      "bytes": 7530,
+      "sha256": "468621e6be65dcc95d58a9a1485a61a37fcac2060550ca58a6aeb19491ff9eb0"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_materials.log",
+      "bytes": 285,
+      "sha256": "7fe71b052dd36af5f7e6ce1d1d2959d06e2d16ee588ace2900dc8f88c02fe6e0"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_owned_chair_motion.log",
+      "bytes": 240,
+      "sha256": "ddd1cd62969d7803967a359408437120034915501804ee719484cdf278057e66"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_protected_parity.log",
+      "bytes": 399,
+      "sha256": "de06e4183c72f2787a2b7b1ac372a28c310cada961b9f68bc9c383fec3c8e18d"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_tria_motion.log",
+      "bytes": 193,
+      "sha256": "732686adf86fc6a3af2dcf72886bd4040b216dda6cd8c6495dc691fc3489ce11"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_tria_source.log",
+      "bytes": 2208,
+      "sha256": "88a2b37ced2a08dbff9223103227067540ae12cddc8004b78723a998a0152443"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/check_variant_textures.log",
+      "bytes": 1873,
+      "sha256": "961ee98a6da5bef01b2ce6a847b6d7737eb50ada9ded18584a5989a7f432635b"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/composition-support-checks.json",
+      "bytes": 62375,
+      "sha256": "17fe5f100e8bab00e8f742dfe87855b03a0bdc67e62445946e9f1d316fe560ca"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/desk-neighbor-clearances.json",
+      "bytes": 1308,
+      "sha256": "22fc357a53f96eeb39aa2fdba8d795c0b79b3d9858f012f3f4bdc7286e3c4730"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/dresser-operation-clearances.json",
+      "bytes": 1791,
+      "sha256": "30eda4d19d5206aead7ab8b35617349859c058b6a46c525fc2d95cc9e8753a55"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/export-parity.json",
+      "bytes": 750040,
+      "sha256": "f1dc7aab91923644668f92c2592907070b958d106d45872e98bddefff398a31d"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/integrated-mesh-checks.json",
+      "bytes": 237025,
+      "sha256": "60dc0b3be6d9f13a2869dec8e22528a4335dbab7ae2af448ed4667fd663484a9"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/material-availability.json",
+      "bytes": 82834,
+      "sha256": "02c91c88274047e81521dd716dc4febbfcff90fa3f2af35e64c8adb23db0d2c4"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/owned-chair-motion.json",
+      "bytes": 3609,
+      "sha256": "aefdebcc15335fdfd3cb295a4df0a5d13f13a8ead38a55b9afcaf4dbc7f7d8de"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/protected-source-parity.json",
+      "bytes": 65087,
+      "sha256": "720b06e895adaead6b2dbf781165b21c708d9cdd61188c87f4fdfff525b3575f"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/texture-panel-checks.json",
+      "bytes": 4718,
+      "sha256": "83c4f9c9aae9609a0c484d03b8716f357193d6186205a863416d2322696cd044"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/tria-height-operation.json",
+      "bytes": 5020,
+      "sha256": "e3c076d9dd468ac67bdf5b9be53f5b3f9d2c0d4afe774fbe2719bc54488cd8c5"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/tria-supplier-parity.json",
+      "bytes": 11134,
+      "sha256": "d1c73886efa206652922dbd362689e1b73ada253bd4f29f71b604ee33ac6d425"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/viewer-room-a.png",
+      "bytes": 602421,
+      "sha256": "89351378ce21d56bfb7daf142713032b0a30a831b2c15c8acbc6ed7d8002388e"
+    },
+    {
+      "path": "qa/final-variants/c-ink-studio/viewer-standing-max.png",
+      "bytes": 600621,
+      "sha256": "27fd31eb7e790222531bbe15041fff59f8c5d00cd6005de7f8cc872c137a8fab"
+    },
+    {
+      "path": "qa/final-variants/final-image-QA.json",
+      "bytes": 13021,
+      "sha256": "a29146108fb28fcbb2699afa90d32e01cb0882cfe23568007650017ef06aa163"
+    },
+    {
+      "path": "qa/final-variants/final-image-QA.txt",
+      "bytes": 2507,
+      "sha256": "d39ba8973c83738100e962689bdb3bacd4011f82325de125bb6c4e5e82875300"
+    },
+    {
+      "path": "qa/final-variants/final-model-QA.json",
+      "bytes": 10674,
+      "sha256": "005a0a2621a82f1e0a2618cde28ae1a1d6a8cc41bb7948585d4412889cd2b441"
+    },
+    {
+      "path": "qa/final-variants/final-native-render-visual-QA.json",
+      "bytes": 4766,
+      "sha256": "9f6d66714f04a2c628b793cc76ea303f4132ee4ac3b2fefd823dbaf90084b6aa"
+    },
+    {
+      "path": "qa/final-variants/independent-viewer-QA.json",
+      "bytes": 35238,
+      "sha256": "33850e4c7620c4311c4972d4b2b6f996978a450e08e86ed6f599d2d7cc921505"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_chair_pullback.py",
+      "bytes": 3564,
+      "sha256": "1cc10410aa65a560f65c31da14ea159f9f1bdf6a04bedfa910e813f260784618"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_chair_transfer.py",
+      "bytes": 3786,
+      "sha256": "24c163ce9b4fdc2390e1facc30520e0f665cd6ab499ad3ea7541d11bb7396352"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_composition_supports.py",
+      "bytes": 11053,
+      "sha256": "04a9cfe03f35d0d256aa336759208c5e387d4a45e52ac506a21ac7126d1316e3"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_exports.py",
+      "bytes": 11289,
+      "sha256": "4224cf7e6e461b8e055692d654e29696a8a61b5082e14a7446d460fff28aad42"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_integrated_meshes.py",
+      "bytes": 5797,
+      "sha256": "e2d6e6a3faa884b2295249187234262f7c5d7312de2e8cfed8b0a072e2ad6d40"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_materials.py",
+      "bytes": 3253,
+      "sha256": "0e1a9b7a6ce3550f3aa81374889e4152779b44e2a64aeb767f9c1ac276043bec"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_owned_chair_motion.py",
+      "bytes": 7009,
+      "sha256": "5cc8c5441745041e2a372dde478f64e647d23b5196eb386afb530c3355893fe0"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_protected_parity.py",
+      "bytes": 7107,
+      "sha256": "58903ac51829ea76d74b89232e11911224bd25da9f8bdf9dc4afed782374699e"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_tria_motion.py",
+      "bytes": 4979,
+      "sha256": "d41d859fe25755ac2a7f9dcfc13f5ac7b9ba839fea433a47c6cd0de3e936be99"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_tria_source.py",
+      "bytes": 3826,
+      "sha256": "5d276e255dc6748b2ff1142e699388ecbb86c2ff94094358267bfda6d1b58662"
+    },
+    {
+      "path": "qa/final-variants/scripts/check_variant_textures.py",
+      "bytes": 6872,
+      "sha256": "3b6124ff883b24ab7d997708098ae468629ef15bdd8df30711abd93b283da649"
+    },
+    {
+      "path": "qa/final-variants/scripts/seal_image_qa.py",
+      "bytes": 7628,
+      "sha256": "9e22fc010f00651261257580fef93a9fcd45af7d1847dc5fb099498929663771"
+    },
+    {
+      "path": "qa/final-variants/scripts/seal_model_qa.py",
+      "bytes": 7971,
+      "sha256": "0c81f5444c4b4ce2d001a4331f0e6a320db190b2800163a789fed0c5247be09a"
+    },
+    {
+      "path": "qa/final-variants/scripts/viewer-smoke.mjs",
+      "bytes": 4221,
+      "sha256": "2de08aabf86e583a3cb69f15e4be0e0e5b06808dead63f8e02401facafdd7c48"
+    },
+    {
+      "path": "qa/final-variants/scripts/viewer-standing-ray.mjs",
+      "bytes": 1881,
+      "sha256": "596f84a4e7cd583245d2a22a42c8483f38da75758c3003b2de2001c0ff8e14bd"
+    },
+    {
+      "path": "qa/final-variants/shared-B-C-layout-parity.json",
+      "bytes": 81755,
+      "sha256": "edeb09923c670f78cb58a73a358902e72d8d8ca7cc46fff01630b9b575a5301d"
+    },
+    {
+      "path": "qa/final-variants/viewer-standing-visual-diagnostic.json",
+      "bytes": 6498,
+      "sha256": "911e255a8f51f3c68d025effde014bec21da30935b4d9de3b671124f7e694dc2"
+    },
+    {
+      "path": "research/cohesive-composition/complete-room-composition-findings.txt",
+      "bytes": 2899,
+      "sha256": "33d0feb4b4e50497b0fc27bb40c36a7f508565edabe9d5c188ae2fb8e8b696f2"
+    },
+    {
+      "path": "research/cohesive-composition/complete-room-composition-sources.json",
+      "bytes": 56801,
+      "sha256": "f5132ed0bdd9f08418aa2cbad31925d09dc65da5fd78ea395df72351effe3c32"
+    },
+    {
+      "path": "research/cohesive-composition/fetch_complete_pins.py",
+      "bytes": 1887,
+      "sha256": "a51a20a8bbcc46bf156b7f3df3a1d9f4ae196432730440b20adeeeefac2d537e"
+    },
+    {
+      "path": "research/cohesive-composition/full-dark-office-existing-reference.jpg",
+      "bytes": 53626,
+      "sha256": "83777a7d81dba0822d6c6fb8afff1fdfe8eb6aaee7cd3bf917fd953bbbe7a01e"
+    },
+    {
+      "path": "research/cohesive-composition/full-room-reference-1.json",
+      "bytes": 3583,
+      "sha256": "c84fdaa3d2daa192eb719221d118efeff936ae42dbecb46dae39ec37fc1ffa4a"
+    },
+    {
+      "path": "research/cohesive-composition/pin-records.json",
+      "bytes": 26259,
+      "sha256": "18e8b391ccc3257a7f54d294151520300c27d26d19ef1488b92d892d09e73168"
+    },
+    {
+      "path": "research/cohesive-composition/pins/dark-shelves-office.html",
+      "bytes": 1515321,
+      "sha256": "8fd184cdc2309f35471ff609571e8a11164e5eaf4fd4f35515b68a19a4fa1982"
+    },
+    {
+      "path": "research/cohesive-composition/pins/dark-shelves-office.jpg",
+      "bytes": 151155,
+      "sha256": "752b98ff69eb2913f7052309502d7a48cf6f6c738262f9a13082b591d241da8a"
+    },
+    {
+      "path": "research/cohesive-composition/pins/modern-complete.html",
+      "bytes": 1348046,
+      "sha256": "06a61400479d3002b44e777e2fdc2b82bbe6d089a2061d681a6b2f9ac9e6627e"
+    },
+    {
+      "path": "research/cohesive-composition/pins/modern-complete.jpg",
+      "bytes": 37653,
+      "sha256": "cade71261eefbdc2d11b905e78a6507235b87e473a4e2c3d2a8f2b4c51b49723"
+    },
+    {
+      "path": "research/cohesive-composition/pins/moody-complete.html",
+      "bytes": 1589854,
+      "sha256": "0ce488f2c02295d813f46f551afac4239872e05e798cd414af8c0ce68c2b173c"
+    },
+    {
+      "path": "research/cohesive-composition/pins/moody-complete.jpg",
+      "bytes": 129167,
+      "sha256": "58bb670c972ea645b68f000ccb45e232b909bf4316c22f27204aea0a57d11c94"
+    },
+    {
+      "path": "research/cohesive-composition/pins/moody-refined.html",
+      "bytes": 1283288,
+      "sha256": "12cb49b215eb52c630cba4144339c5f032ed207a09297b6d6b9102c447d9bd28"
+    },
+    {
+      "path": "research/cohesive-composition/pins/moody-refined.jpg",
+      "bytes": 81900,
+      "sha256": "f0f2416df721e6f4d8a4edf74c5e6b74c301a4d5e3ad30992a9094a6ccb93bb8"
+    },
+    {
+      "path": "research/cohesive-composition/pins/moody-small-office.html",
+      "bytes": 1504791,
+      "sha256": "e88e51526d9b6a020d20b5c0903a4b363cbb11bca2a43edc201571a1d22747f9"
+    },
+    {
+      "path": "research/cohesive-composition/pins/navy-library-lounge.html",
+      "bytes": 1267791,
+      "sha256": "0cf95519612720cb588e27eaa7dfdaf7a372e0ea40128f92bf190ce229ddf544"
+    },
+    {
+      "path": "research/cohesive-composition/pins/navy-library-lounge.jpg",
+      "bytes": 88838,
+      "sha256": "419c342755dfc6f5c4e9aa02833705f2b617c0d456bf3e6ad40b5b6233be9cd2"
+    },
+    {
+      "path": "research/dark-proposals/Dark-office-direction-proposals.pdf",
+      "bytes": 309243,
+      "sha256": "4f5a048b7a6a73c36d8fa86f2692fb4459b0319a73e536c972ec850052e3be29"
+    },
+    {
+      "path": "research/dark-proposals/RESEARCH-COMPLETE.txt",
+      "bytes": 1482,
+      "sha256": "939273f7f05997f826a130c4702d3b2f5e791044d9eb19c9c420069ede2b30f4"
+    },
+    {
+      "path": "research/dark-proposals/build_dark_proposals.py",
+      "bytes": 8787,
+      "sha256": "9e38edfa3f7ed6c9b11f38de4a3443cb9274ba75c5c48a72a7e270dec85ea71b"
+    },
+    {
+      "path": "research/dark-proposals/dark-direction-proposals.json",
+      "bytes": 7262,
+      "sha256": "8ca92169fc7d66b40143bf1381e5f3250daf9b37ce73e90104115565a7454006"
+    },
+    {
+      "path": "research/dark-proposals/dark-proposals.txt",
+      "bytes": 1944,
+      "sha256": "cb06b67a4b3ab57db0bbbdcaadeadb2c8dfc05c89cf721dd715cbb31deab3477"
+    },
+    {
+      "path": "research/dark-proposals/dark-research-validation.json",
+      "bytes": 864,
+      "sha256": "280f29bfcc77e546341303886cf694a897d3d0e1d288b1ff946ea58f54df002b"
+    },
+    {
+      "path": "research/dark-proposals/dark-reviewed-pin-records.json",
+      "bytes": 82910,
+      "sha256": "df4b33a1c9ad2b616e1155e88f606cdf91b0bf9cf92dfa0e52eb2b5a34a53d65"
+    },
+    {
+      "path": "research/dark-proposals/fetch_dark_pins.py",
+      "bytes": 2115,
+      "sha256": "46dc1df642bad3a3e7dc0600a4e8754bb1fb69d41f3a55cd3b03fa179c88fe9d"
+    },
+    {
+      "path": "research/dark-proposals/fetch_more_dark_pins.py",
+      "bytes": 1976,
+      "sha256": "dff0e9152f2459a3b498d01a20a0272703f17cb4c2c6c93a4179e174b4244fba"
+    },
+    {
+      "path": "research/dark-proposals/pin-records-more.json",
+      "bytes": 16414,
+      "sha256": "3e49b182994d1505c6ef2648346bd399627f41cf359484ea0ac96801baa4fa1e"
+    },
+    {
+      "path": "research/dark-proposals/pin-records.json",
+      "bytes": 62250,
+      "sha256": "90d3e6232c3471ffbf1525396abe833adddd5745e683c32c3784a8910cd39908"
+    },
+    {
+      "path": "research/dark-proposals/pins/alex-bluewall.html",
+      "bytes": 1265386,
+      "sha256": "3a5717b26c156ce58b903371e54c2be4ffc90bcc8b9c1ccb552708459aec23be"
+    },
+    {
+      "path": "research/dark-proposals/pins/alex-bluewall.jpg",
+      "bytes": 35533,
+      "sha256": "cfe15dff914512972b2480b0347cc543dda377ef3c235eb18b5b2e0c19014212"
+    },
+    {
+      "path": "research/dark-proposals/pins/black-blue-office.html",
+      "bytes": 1345838,
+      "sha256": "00db188942fbba1f4f46e8f0d6aa3fa8e64a279f3e8462b8c096ef468848a7c8"
+    },
+    {
+      "path": "research/dark-proposals/pins/black-blue-office.jpg",
+      "bytes": 67405,
+      "sha256": "591b0898d73d0a0456b758bace840ba7568f190e9c409bbbf20afe528c63134f"
+    },
+    {
+      "path": "research/dark-proposals/pins/blackwall-wooddesk.html",
+      "bytes": 1485719,
+      "sha256": "715c67a252c1d00be11aeff1dd798a026c32245cf1d9475cbeb47d3d8600c92c"
+    },
+    {
+      "path": "research/dark-proposals/pins/blackwall-wooddesk.jpg",
+      "bytes": 61391,
+      "sha256": "33b29187463f7045de9ebe43a3b1f093cb4351279e882af6c32b8f297ed34e7a"
+    },
+    {
+      "path": "research/dark-proposals/pins/bluegray-beadboard.html",
+      "bytes": 1257746,
+      "sha256": "df0c1be48400177607ed554126c1df303d6c2e1fc1d37810dc8f455201afcd4a"
+    },
+    {
+      "path": "research/dark-proposals/pins/cool-bluewall.html",
+      "bytes": 1275304,
+      "sha256": "b86ad9517c8088323c00b9ae741fa68d62147e7a93357b195f2d1b378d50c7e1"
+    },
+    {
+      "path": "research/dark-proposals/pins/cool-bluewall.jpg",
+      "bytes": 20204,
+      "sha256": "4182a8b0371310536b5a5dddb130ddf23bb6f832c17d2346a5f9df2825c78275"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-cement-paper.html",
+      "bytes": 1276089,
+      "sha256": "5a62080fa005d6e122c7aaec0301aeca36ab5002c1c2481b353acd49d1b71dda"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-cement-paper.jpg",
+      "bytes": 53626,
+      "sha256": "83777a7d81dba0822d6c6fb8afff1fdfe8eb6aaee7cd3bf917fd953bbbe7a01e"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-grey-brown.html",
+      "bytes": 1339978,
+      "sha256": "7df9e67921330c5a13b458ef40ab563c61c0b2f3472f855fdc6f0078afbfa33d"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-grey-brown.jpg",
+      "bytes": 140947,
+      "sha256": "cec4275363269457e97e7924918deb7a3328502e89da2174d7680a579791b752"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-minimal-wood.html",
+      "bytes": 1265595,
+      "sha256": "7bc5ae4fb427dc8ed2912981ac2eaf619bd7b2572c9ee769a1a7ec556a31d7c6"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-minimal-wood.jpg",
+      "bytes": 42953,
+      "sha256": "04e03d8998b00e5ab051047cc5ce7d1073266f90c8ea88087b21ddebfd9eba0f"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-moody-desk.html",
+      "bytes": 1274980,
+      "sha256": "a64a8a07d4192fc6b7c5b7584cb716ec24bcff212e58c1805fd42c674b8a84b7"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-moody-desk.jpg",
+      "bytes": 59331,
+      "sha256": "43beba4833e2fea66a7c1495a8c524c9a114bfca8bbe528c4bc1172109d7950c"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-simple-desk.html",
+      "bytes": 1266061,
+      "sha256": "b2c9c055f28ae63adf9113be36bd8817668fd2f16810f44069e63ebf2bd5e251"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-simple-desk.jpg",
+      "bytes": 57722,
+      "sha256": "dfc7b7e9b6c8eab33be09df0b67a706db89843644bc695e291373bff8f8f2723"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-slat-desk.html",
+      "bytes": 1267081,
+      "sha256": "816384e1147910a912ad625248d120cd29606816a5ecf63e60dd8943901f669b"
+    },
+    {
+      "path": "research/dark-proposals/pins/dark-slat-desk.jpg",
+      "bytes": 39654,
+      "sha256": "85fe9b61ab993b6bc7dd26911eba4fddbae5a304b35a0b373bfe7546399a6fdf"
+    },
+    {
+      "path": "research/dark-proposals/pins/linear-overhead.html",
+      "bytes": 1344934,
+      "sha256": "d91ca6f9fe435c0debb463aaba710b59f013a6dfdc4067c612311b2557712747"
+    },
+    {
+      "path": "research/dark-proposals/pins/linear-overhead.jpg",
+      "bytes": 21764,
+      "sha256": "25ef4e5de9443099b400f06bce409df4662109613e30f95e14db06f3aae5b24c"
+    },
+    {
+      "path": "research/dark-proposals/pins/midnight-workstation.html",
+      "bytes": 1269050,
+      "sha256": "b957f47e44bdb4944ba777645446a3d742611d6347b115dfcc9f279a8043dd2e"
+    },
+    {
+      "path": "research/dark-proposals/pins/midnight-workstation.jpg",
+      "bytes": 99114,
+      "sha256": "07370059c37b323bf56e95c2a9d503a7a0c23b089c4be179cfa22d99005498b8"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-attic.html",
+      "bytes": 1260553,
+      "sha256": "0133d096dd3f16400956f435ae7e7fc0f4713d5ce66c475d7b1f80d1e7a2edc0"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-attic.jpg",
+      "bytes": 48386,
+      "sha256": "7bb40dec74d6301f0f90fde47f3b6d74686c2613422f77ed2c2c259985696ec2"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-boucle.html",
+      "bytes": 1596681,
+      "sha256": "86a98f7166d622f272f8cb8319a3c7124d2487d8e3f479c8c5d839eeec463825"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-boucle.jpg",
+      "bytes": 86129,
+      "sha256": "9317b53b313318267f1861a6ac50b0e418fdd64b6e398f94391fe37ab843b35d"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-minimalwall.html",
+      "bytes": 1266284,
+      "sha256": "1f08c876d5980e407277117ec8deece1e3bdf310c4655f4749ee42d9a70afb25"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-minimalwall.jpg",
+      "bytes": 54314,
+      "sha256": "295b836135d7f8de25867e3e677a0f5e6df2e4787a051aea5da8f92a9e1dc953"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-two-desks.html",
+      "bytes": 1547934,
+      "sha256": "3bd97d718a8cfff8d7ef6306ba66ccefa00f211fedfa79183d33bd9a73604884"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-two-desks.jpg",
+      "bytes": 123600,
+      "sha256": "fcc957fb7865960d56cfba397c20dc6a6213247dc81a3fe3571f31172bcc4925"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-white-workwall.html",
+      "bytes": 1278473,
+      "sha256": "6744e1f0b382ff8711a6daba260ffe7f0984b2444c56bf80a61bc083688cc9a5"
+    },
+    {
+      "path": "research/dark-proposals/pins/navy-white-workwall.jpg",
+      "bytes": 114834,
+      "sha256": "086f9030a91e93c1cb5e9cacebb99c64c7a587413c22b468546612430193e87e"
+    },
+    {
+      "path": "research/dark-proposals/pins/slat-ceiling.html",
+      "bytes": 1267858,
+      "sha256": "ed1bb9e165135d7ea0f5b1063c96589acff39dfa2d870ed26578aea4d1498446"
+    },
+    {
+      "path": "research/dark-proposals/pins/slat-ceiling.jpg",
+      "bytes": 63502,
+      "sha256": "9c86e4b92b2adc988a20a0ce06b588d517b7c6c6c471acfababbd26bedb2c800"
+    },
+    {
+      "path": "research/dark-proposals/proposal-a.png",
+      "bytes": 985990,
+      "sha256": "f2f9968267c8ea61b2c0ba3e2fb7e0066490196e04324e621242b29f5ae219cf"
+    },
+    {
+      "path": "research/dark-proposals/proposal-b.png",
+      "bytes": 753205,
+      "sha256": "d2cc10d156bba1781a1bc431a3a26defd0d81c3fe87f5f857349a964108cb23b"
+    },
+    {
+      "path": "research/dark-proposals/proposal-c.png",
+      "bytes": 1114187,
+      "sha256": "c309dbcf44d89e3e47243d902b8e33da63eca19fd731d566959003965c5a1dc9"
+    },
+    {
+      "path": "seal_generation_history.py",
+      "bytes": 1978,
+      "sha256": "08e4a9b4ceca9d2649cb53640ae8cd601d9200c29408fdf1673e0b39faf94e41"
+    },
+    {
+      "path": "variants/b-charcoal-slat/images/concept-a.png",
+      "bytes": 2042305,
+      "sha256": "455592762154ec9f950af9cb7e44addd89d23c9ba1febb3342a2dc21d995d7fa"
+    },
+    {
+      "path": "variants/b-charcoal-slat/images/concept-b.png",
+      "bytes": 2233743,
+      "sha256": "b6008b138ac6d763ac0adfa95fd12776ea6799bd8f6a08d8bd16b575cefb2cd6"
+    },
+    {
+      "path": "variants/b-charcoal-slat/images/concept-c.png",
+      "bytes": 2595294,
+      "sha256": "7109c7e72380dec742c1e74276fa7aa17ed0620254c5f7ce5b1e5a994c407709"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/MODEL-NOTES.txt",
+      "bytes": 4647,
+      "sha256": "87deac14d7594f5601571d1ba8cedc2ec540136fe75ae0f31e49b7273d7deccc"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/camera-poses.json",
+      "bytes": 2555,
+      "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/export-inventory-repair.json",
+      "bytes": 751,
+      "sha256": "2263e433ead1636bb39f9c6f8046db74f2ed99ec1a58381b5723944fa8cef802"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/final-artifacts.json",
+      "bytes": 4915,
+      "sha256": "a7d96357904ad67f43e66ab7a46ad3aa82c3c6d8260f0f554495c4b186e9357b"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/his-office-design.blend",
+      "bytes": 111195691,
+      "sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/his-office-design.glb",
+      "bytes": 41277344,
+      "sha256": "93bee5a6c3658116ee6564be229df62e3952ada833bf8d9b2b0cbd2281511e6f"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/his-office-door-leaves.glb",
+      "bytes": 167556,
+      "sha256": "06339ba97bd086de89d88a605e80360783c36ee0f4f1190def011c01e8d76b17"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/his-office-furniture.glb",
+      "bytes": 39380020,
+      "sha256": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/his-office-shell.glb",
+      "bytes": 1734500,
+      "sha256": "10576a59557d21853473aa69b390ae3554826ebac2c2cb8cfc1484684481bee9"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/layout.json",
+      "bytes": 17118,
+      "sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/model-manifest.json",
+      "bytes": 5067,
+      "sha256": "abd082ebeb507a9a48606b7dd5339680ceaa4cbdd18db4a69e280614c281b9c1"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/render-provenance.json",
+      "bytes": 1614,
+      "sha256": "38099a6693eea04994ce7715c5c741a4e5f6c1eefd0927fc1f20137693c91328"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/renders/room-a.jpg",
+      "bytes": 703366,
+      "sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/renders/room-b.jpg",
+      "bytes": 601163,
+      "sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/renders/room-c.jpg",
+      "bytes": 726417,
+      "sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd"
+    },
+    {
+      "path": "variants/b-charcoal-slat/model/tria-component-map.json",
+      "bytes": 5986,
+      "sha256": "b916d9ad119f0f5e90df363e6d19be3a57e031a55cdfe587a7f0c25938b941e3"
+    },
+    {
+      "path": "variants/c-ink-studio/images/concept-a.png",
+      "bytes": 2223333,
+      "sha256": "e330d012ad37af0dc51b6afac6326d4b9e6b24879ddc8728a9497e98fc9d91c3"
+    },
+    {
+      "path": "variants/c-ink-studio/images/concept-b.png",
+      "bytes": 2326681,
+      "sha256": "5bfe53989383bbffa06df0d7a70fa13d220f134a86f9beed7f95e52d68c8bba2"
+    },
+    {
+      "path": "variants/c-ink-studio/images/concept-c.png",
+      "bytes": 2527320,
+      "sha256": "9aed5fa0c4162fbd1d2a7a3aab0225d2a2aaacd4948e206fef26cd25b387d845"
+    },
+    {
+      "path": "variants/c-ink-studio/model/MODEL-NOTES.txt",
+      "bytes": 4536,
+      "sha256": "7190074d5741b90a471fcef80781065ae8b7e4fdd9bcf15e353504cac97fed68"
+    },
+    {
+      "path": "variants/c-ink-studio/model/camera-poses.json",
+      "bytes": 2555,
+      "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079"
+    },
+    {
+      "path": "variants/c-ink-studio/model/export-inventory-repair.json",
+      "bytes": 751,
+      "sha256": "dcb44a3efc36d5708302cc2d0d9397963088cc17266addd206c260669ee7b200"
+    },
+    {
+      "path": "variants/c-ink-studio/model/final-artifacts.json",
+      "bytes": 4895,
+      "sha256": "684e3e0ac101bf06da5179afedf299a807fd1b94bab7813631f91a41a82d420e"
+    },
+    {
+      "path": "variants/c-ink-studio/model/his-office-design.blend",
+      "bytes": 110628427,
+      "sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c"
+    },
+    {
+      "path": "variants/c-ink-studio/model/his-office-design.glb",
+      "bytes": 40282096,
+      "sha256": "40272b4f8d45af29236a1b4856aae69be3bdaa95b4c73aa66b2ecdf8def57c66"
+    },
+    {
+      "path": "variants/c-ink-studio/model/his-office-door-leaves.glb",
+      "bytes": 167548,
+      "sha256": "cc08f1748c1ed21e2eddcf1344ef1de40c16065ca10fa569bf5dcabf28a111b6"
+    },
+    {
+      "path": "variants/c-ink-studio/model/his-office-furniture.glb",
+      "bytes": 39380008,
+      "sha256": "d90bd2d95da60f4116cf03f83099e88e44076e923e3a4c6ab1c4e145c8363ea5"
+    },
+    {
+      "path": "variants/c-ink-studio/model/his-office-shell.glb",
+      "bytes": 740124,
+      "sha256": "88ec26baf787dc3ad15cade90a6d24fbb4b7492f62f7aa57700b2a03574870c1"
+    },
+    {
+      "path": "variants/c-ink-studio/model/layout.json",
+      "bytes": 16613,
+      "sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54"
+    },
+    {
+      "path": "variants/c-ink-studio/model/model-manifest.json",
+      "bytes": 5063,
+      "sha256": "20f612120192aa46676d45539f17c07619ad965eb1088efb92adb93f75efbb0c"
+    },
+    {
+      "path": "variants/c-ink-studio/model/render-provenance.json",
+      "bytes": 1616,
+      "sha256": "96c37c51fb63603408edbca410c3f05188f92e98e7bcb49532cc5eeb5891c8a0"
+    },
+    {
+      "path": "variants/c-ink-studio/model/renders/room-a.jpg",
+      "bytes": 666038,
+      "sha256": "b66587fdcce1765328eaac9d82a21b84e522d0486b87de14a0b9da32b692c13c"
+    },
+    {
+      "path": "variants/c-ink-studio/model/renders/room-b.jpg",
+      "bytes": 576994,
+      "sha256": "602367170aed3139a8c918cf53c5426db979be84622ff6d2fc2d478f3f8c80ae"
+    },
+    {
+      "path": "variants/c-ink-studio/model/renders/room-c.jpg",
+      "bytes": 720510,
+      "sha256": "b7d85041641b8815d1b9f335305fc70ba27d86b754cb19aa7e1a666882365ce5"
+    },
+    {
+      "path": "variants/c-ink-studio/model/tria-component-map.json",
+      "bytes": 5986,
+      "sha256": "d45dd68259ff0f9a2b745cfe523c4542c001dd10efa812f18408db08d4462d6f"
+    },
+    {
+      "path": "variants/six-view-render-manifest.json",
+      "bytes": 6480,
+      "sha256": "e1f82d9db6525b4130b5d19daa199be85d1c0465a3174e776e28fda435382c0e"
+    },
+    {
+      "path": "verify_delivery_bundle.py",
+      "bytes": 1901,
+      "sha256": "b24c348a58d0237e95a75edd4ff5c832d40076838fde3af2b766b34745c6df81"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "method": "Export-only furniture assembly descendant inclusion; native scene not saved or mutated on disk.",
+  "native_sha256_before": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+  "native_sha256_after": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+  "native_frozen_unchanged": true,
+  "aeron_mesh_count_exported": 40,
+  "furniture_mesh_count": 357,
+  "exports": [
+    {
+      "filename": "his-office-furniture.glb",
+      "sha256": "d90bd2d95da60f4116cf03f83099e88e44076e923e3a4c6ab1c4e145c8363ea5",
+      "bytes": 39380008
+    },
+    {
+      "filename": "his-office-design.glb",
+      "sha256": "40272b4f8d45af29236a1b4856aae69be3bdaa95b4c73aa66b2ecdf8def57c66",
+      "bytes": 40282096
+    }
+  ]
+}

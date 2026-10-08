@@ -1,0 +1,41 @@
+{
+  "read_only": true,
+  "valid_current_records": 6,
+  "rejection_tests": [
+    {
+      "case": "duplicate result ID",
+      "rejected": true,
+      "reason": "Duplicate Generated result views IDs"
+    },
+    {
+      "case": "missing result",
+      "rejected": true,
+      "reason": "Generated result views IDs must be exactly ['b-a', 'b-b', 'b-c', 'c-a', 'c-b', 'c-c']"
+    },
+    {
+      "case": "reference/hash list mismatch",
+      "rejected": true,
+      "reason": "Reference path/hash counts differ for b-a"
+    },
+    {
+      "case": "board authority hash mismatch",
+      "rejected": true,
+      "reason": "Product-board provenance hash mismatch: /workspace/his-office-pinterest/images/product-reference-boards.sources.json"
+    },
+    {
+      "case": "accepted attempt wrong original hash",
+      "rejected": true,
+      "reason": "Generator original hash mismatch: /workspace/generated_images/exec-99f38668-98c5-4947-8499-af8527d3033b.png"
+    },
+    {
+      "case": "accepted attempt bound to initial prompt",
+      "rejected": true,
+      "reason": "Accepted attempt does not match ACTIVE prompt/references: b-a-attempt-2"
+    },
+    {
+      "case": "two accepted attempts",
+      "rejected": true,
+      "reason": "Accepted attempt does not match ACTIVE prompt/references: b-a-attempt-1"
+    }
+  ]
+}

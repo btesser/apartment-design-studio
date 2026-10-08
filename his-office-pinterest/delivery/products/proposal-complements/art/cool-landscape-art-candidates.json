@@ -1,0 +1,99 @@
+{
+  "scope": "Two verified native landscape art alternatives for the dark/cool office proposals only. No selection, model, board, or source photo edited.",
+  "recommended": "dan-hobday-richmond",
+  "candidates": [
+    {
+      "id": "dan-hobday-richmond",
+      "name": "Dan Hobday - Richmond Print",
+      "retailer": "Desenio US",
+      "source_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+      "selected_variant_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/?option=101361",
+      "variant_id": 101361,
+      "selected_variant_sku": "pre0717-1",
+      "retailer_size_key": "70x100",
+      "retailer_US_size_label": "28\" x 39\" in",
+      "actual_landscape_paper_dimensions_m_W_H": [
+        1.0,
+        0.7
+      ],
+      "orientation_verification": "Exact selected70x100cm variant official main image is2000x1400px landscape, matching100:70. No product resizing, image stretching, or90degree reinterpretation.",
+      "finish": "Unframed matte premium paper poster; frame excluded from quoted poster price.",
+      "price_USD": 107,
+      "regular_price_USD": 107,
+      "sale_price_USD": null,
+      "currency": "USD",
+      "price_checked_UTC": "2026-10-08T19:08:13.142837+00:00",
+      "stock_units_in_current_official_page_payload": 100,
+      "availability_note": "Official US page payload lists stock for this exact variant. Destination-specific delivery and future inventory not verified.",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+        "url": "https://media.desenio.com/site_images/69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+        "sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+        "bytes": 844295,
+        "pixel_dimensions": [
+          2000,
+          1400
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true,
+        "provenance": "Original bytes downloaded from the official retailer variant_main_image URL."
+      },
+      "source_evidence_json": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-evidence.json",
+      "source_html_file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-source.html",
+      "mapping_if_selected": "Map complete original image UV0..1 to full100x70cm landscape paper. Retain artwork edge colors. Do not add or remove printed margins unless the retailer reference shows them.",
+      "proposal_status": "Additive candidate awaiting user choice; current selection and Blender files unchanged.",
+      "rank": 1,
+      "style": "Slate gray and charcoal geometric forms with muted olive, ivory, and some dark brown. Stronger quiet graphic direction than the preceding taupe landscape; no gold or ocher accent. Artwork includes textured painterly surface.",
+      "tradeoff": "Has ivory and muted olive/dark brown fields; it is not a pure grayscale poster."
+    },
+    {
+      "id": "blue-abstract",
+      "name": "Blue Abstract Print",
+      "retailer": "Desenio US",
+      "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/blue-abstract-print/",
+      "selected_variant_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/blue-abstract-print/?option=80362",
+      "variant_id": 80362,
+      "selected_variant_sku": "19410-1",
+      "retailer_size_key": "70x100",
+      "retailer_US_size_label": "28\" x 39\" in",
+      "actual_landscape_paper_dimensions_m_W_H": [
+        1.0,
+        0.7
+      ],
+      "orientation_verification": "Exact selected70x100cm variant official main image is2000x1400px landscape, matching100:70. No product resizing, image stretching, or90degree reinterpretation.",
+      "finish": "Unframed matte premium paper poster; frame excluded from quoted poster price.",
+      "price_USD": 64.2,
+      "regular_price_USD": 107,
+      "sale_price_USD": 64.2,
+      "currency": "USD",
+      "price_checked_UTC": "2026-10-08T19:08:13.143574+00:00",
+      "stock_units_in_current_official_page_payload": 90,
+      "availability_note": "Official US page payload lists stock for this exact variant. Destination-specific delivery and future inventory not verified.",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/art/blue-abstract-70x100-official.jpg",
+        "url": "https://media.desenio.com/site_images/685d9d048b7ca77dcb8aef80_1781120986_19410-1.jpg",
+        "sha256": "34f5534677631aaad62e7caca91c0cdf088ed6e562ce37389a6a6b1641b2138d",
+        "bytes": 322892,
+        "pixel_dimensions": [
+          2000,
+          1400
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true,
+        "provenance": "Original bytes downloaded from the official retailer variant_main_image URL."
+      },
+      "source_evidence_json": "/workspace/his-office-pinterest/products/proposal-complements/art/blue-abstract-evidence.json",
+      "source_html_file": "/workspace/his-office-pinterest/products/proposal-complements/art/blue-abstract-source.html",
+      "mapping_if_selected": "Map complete original image UV0..1 to full100x70cm landscape paper. Retain artwork edge colors. Do not add or remove printed margins unless the retailer reference shows them.",
+      "proposal_status": "Additive candidate awaiting user choice; current selection and Blender files unchanged.",
+      "rank": 2,
+      "style": "Bold organic abstract forms in dark navy, cobalt/periwinkle blue and cream. Strong cool graphic contrast.",
+      "tradeoff": "More saturated blue and more lively than a restrained slate/charcoal palette."
+    }
+  ],
+  "discovery_rejections": [
+    "Abstract No1, Contemporary Abstract No1, Abstract Graphic No1: exact70x100 variant official images were portrait; excluded from native-landscape shortlist.",
+    "Black Brush Strokes No1 and Dan Hobday Motion: currently lacked available70x100 variant; do not resize50x70 to100x70.",
+    "Wharf has more soft blue/green and pink than requested charcoal/slate palette; downloaded evidence remains as an optional reference, excluded from final two."
+  ]
+}

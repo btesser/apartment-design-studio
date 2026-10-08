@@ -1,0 +1,2786 @@
+{
+  "variant_layout_sha256": {
+    "b-charcoal-slat": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+    "c-ink-studio": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54"
+  },
+  "variant_native_sha256": {
+    "b-charcoal-slat": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "c-ink-studio": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c"
+  },
+  "items": [
+    {
+      "id": "standing-main-desk",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "aeron-primary",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "secondary-workspace",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "honeywell-lamp",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "muttros-cat-tree",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "clothes-dresser",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "visitor-chair",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "rug",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "grejig-1",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "grejig-2",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "grejig-3",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "richmond-art",
+      "differences": {
+        "position_blender_m": [
+          [
+            -5.55,
+            0.22557,
+            3.425
+          ],
+          [
+            -5.55,
+            0.24757,
+            3.425
+          ]
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "project-display-ledge",
+      "differences": {
+        "position_blender_m": [
+          [
+            -5.55,
+            0.17699984,
+            2.754999985
+          ],
+          [
+            -5.55,
+            0.19899984,
+            2.754999985
+          ]
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "primary-display-ledge",
+      "differences": {
+        "position_blender_m": [
+          [
+            -6.915,
+            0.17699984,
+            3.6049999849999996
+          ],
+          [
+            -6.915,
+            0.19899984,
+            3.6049999849999996
+          ]
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "dresser-fado",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "dresser-parlor-palm",
+      "differences": {},
+      "pass": true
+    },
+    {
+      "id": "primary-felt-mat",
+      "differences": {},
+      "pass": true
+    }
+  ],
+  "geometry_bounds": [
+    {
+      "mesh": "architecture_ceiling \u2014 his-office",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "architecture_floor \u2014 his-office",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall0 segment",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall2 segment",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall4 segment",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected solid 0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected bottom 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected head 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected solid 2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected bottom 3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected head 3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall5 corrected solid 4",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall3 \u2014 lower-Y side",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall3 \u2014 upper-Y side",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall3 \u2014 head continuation",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall3 \u2014 below floor continuation",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall1 \u2014 lower-Y side",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall1 \u2014 upper-Y side",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall1 \u2014 head continuation",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "his-office wall1 \u2014 below floor continuation",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed brick chimney projection",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Local floor continuation to observed brick face",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window glazing",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window vertical trim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window vertical trim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window horizontal trim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window horizontal trim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window horizontal trim.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window projecting sill",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed single-window sill apron",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing closet frame jamb",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing closet frame jamb.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing closet frame header",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing closet transom",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing overhead cupboard frame jamb",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing overhead cupboard frame jamb.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing overhead cupboard frame header",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing overhead cupboard panel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cupboard metal latch",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing living-entry frame jamb",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing living-entry frame jamb.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing living-entry frame header",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door frame jamb",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door frame jamb.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door frame header",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.006",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.007",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing cast-iron radiator section.008",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing radiator foot",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing radiator foot.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing radiator horizontal connection",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing radiator horizontal connection.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf white back",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf board",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf board.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf board.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf board.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf board.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing built-in shelf board.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing rear vertical white pipe",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Observed recessed white arched fireplace infill",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing entry thermostat",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing entry small wall control",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Sky outside window",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "secondary-workspace::official alex-drawers part0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "secondary-workspace::black-brown tabletop",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "secondary-workspace::right black ADILS leg",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "secondary-workspace::black adjustment foot",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "secondary-workspace::right black ADILS leg.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "secondary-workspace::black adjustment foot.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "clothes-dresser::official storklinta-low-drawers part0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "clothes-dresser::official storklinta-low-drawers part1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "clothes-dresser::official storklinta-low-drawers part2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "rug::Standard Pad support",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "rug::actual Rift Charcoal6x9 flatwoven textile",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::generic equipment assumption::monitor stand",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::generic equipment assumption::monitor stem",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::generic equipment assumption::monitor frame",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::generic equipment assumption::dark display",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::generic equipment assumption::keyboard",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing full-height closet leaf",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing closet metal knob",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing living-entry flat white leaf",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing living-entry silver lever",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door six-panel leaf",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door raised panel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door raised panel.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door raised panel.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door raised panel.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door raised panel.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door raised panel.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door brass knob",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Existing exterior-door brass deadbolt",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::folded steel leg",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::folded steel leg.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::folded steel leg.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::folded steel leg.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::top long rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::top long rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::top end rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::top end rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.006",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.007",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.008",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.009",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice across.010",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice lengthwise",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice lengthwise.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice lengthwise.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice lengthwise.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-1::wire lattice lengthwise.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::folded steel leg",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::folded steel leg.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::folded steel leg.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::folded steel leg.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::top long rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::top long rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::top end rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::top end rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.006",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.007",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.008",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.009",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice across.010",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice lengthwise",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice lengthwise.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice lengthwise.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice lengthwise.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-2::wire lattice lengthwise.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::folded steel leg",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::folded steel leg.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::folded steel leg.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::folded steel leg.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::top long rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::top long rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::top end rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::top end rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.006",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.007",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.008",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.009",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice across.010",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice lengthwise",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice lengthwise.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice lengthwise.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice lengthwise.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "grejig-3::wire lattice lengthwise.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Provisional rack floor support \u2014 closet unrecorded",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "U-base closed crossbar",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "U-base open prong",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "U-base open prong.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Slim rectangular upright",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Rotary dimming knob",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Rectangular panel long rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Rectangular panel long rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Rectangular panel end rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Rectangular panel end rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Narrow parallel LED light bar",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Narrow parallel LED light bar.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Triple thickness brown fleece base",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::arched hollow condo wall",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Condo top plush cushion",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Condo dark floor",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch0-0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch0-1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch0-2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch0-3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch1-0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch1-1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch1-2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch2-0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch2-1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch3-0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Natural wood branch3-1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Organic branch junction.006",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Top wicker basket woven horizontal cours",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Top wicker basket crossing wicker strand",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Top wicker basket brown fleece cushion",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "High side wicker basket brown fleece cushion",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Low side wicker basket brown fleece cushion",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Thick fleece hammock rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Sisal rope winding",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Sisal rope winding.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Sisal rope winding.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Hanging pom-pom cord",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Brown play ball",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Brown play ball.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "Brown play ball.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: five-star spoke 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 1 wheel -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 1 wheel 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 1 swivel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: five-star spoke 2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 2 wheel -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 2 wheel 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 2 swivel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: five-star spoke 3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 3 wheel -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 3 wheel 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 3 swivel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: five-star spoke 4",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 4 wheel -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 4 wheel 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 4 swivel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: five-star spoke 5",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 5 wheel -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 5 wheel 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: caster 5 swivel",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: base hub",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: gas lift cylinder",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: tilt mechanism housing",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: underseat cross support",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: right tilt control stem",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: tilt control knob",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: sculpted open oval back perimeter",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: sculpted open seat perimeter",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: fine open curved back weave",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: fine open suspended seat weave",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: rear central back carrier",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: reference lumbar support",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: seat hinge and back carrier -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: seat pivot cap -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: adjustable arm support -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: gray arm pad -1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: seat hinge and back carrier 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: seat pivot cap 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: adjustable arm support 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "aeron-primary :: gray arm pad 1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_right_rear",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_head",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_outer_stage",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::desktop_bracket_left",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_end_right",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::foot_left",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_rail_rear",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_middle_stage",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_left_rear",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::cable_door",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_cover_left",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_head",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::felt_cable_organizer",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::keypad",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_outer_stage",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_right_front",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::cable_door_brush",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_end_left",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::control_box",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::desktop",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_left_inner_stage",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::foot_right",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::keypad_controls",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::desktop_bracket_right",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_rail_front",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_middle_stage",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::frame_cover_right",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::cable_door_lid",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::lifting_column_right_inner_stage",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "standing-main-desk::leveling_glide_left_front",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rounded boucle seat",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rounded sloping boucle back",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rounded walnut arm",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::front walnut leg",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rear walnut leg",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::side seat rail",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rounded walnut arm.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::front walnut leg.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rear walnut leg.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::side seat rail.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::front walnut seat stretcher",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "visitor-chair::rear walnut seat stretcher",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "richmond-art::black wood frame top",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.022000014781951904,
+      "pass": true
+    },
+    {
+      "mesh": "richmond-art::black wood frame bottom",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.022000014781951904,
+      "pass": true
+    },
+    {
+      "mesh": "richmond-art::black wood frame left",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.022000014781951904,
+      "pass": true
+    },
+    {
+      "mesh": "richmond-art::black wood frame right",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.022000014781951904,
+      "pass": true
+    },
+    {
+      "mesh": "richmond-art::full actual native landscape print",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "project-display-ledge::original supplier black ledge",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.022000014781951904,
+      "pass": true
+    },
+    {
+      "mesh": "project-display-ledge::illustrative pocket journal0",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "project-display-ledge::illustrative pocket journal1",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "project-display-ledge::illustrative pocket journal2",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "primary-display-ledge::original supplier black ledge",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.022000014781951904,
+      "pass": true
+    },
+    {
+      "mesh": "primary-display-ledge::illustrative pocket journal0",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "primary-display-ledge::illustrative pocket journal1",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "primary-display-ledge::illustrative pocket journal2",
+      "only_intended_22mm_wall_mount_offset": true,
+      "max_bound_difference_m": 0.02199999988079071,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-fado::original body component0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-fado::original body component1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-fado::original body component2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-fado::original body component3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-fado::illustrative rear cord0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-fado::illustrative rear cord1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::black saucer",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::black Westcott pot proxy",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::soil",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis0",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.004",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.005",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.006",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.007",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.008",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.009",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.010",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.011",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.012",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.013",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis1",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.014",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.015",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.016",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.017",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.018",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.019",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.020",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.021",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.022",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.023",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.024",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.025",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.026",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.027",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis2",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.028",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.029",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.030",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.031",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.032",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.033",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.034",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.035",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.036",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.037",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.038",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.039",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.040",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.041",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis3",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.042",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.043",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.044",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.045",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.046",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.047",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.048",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.049",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.050",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.051",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.052",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.053",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.054",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.055",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis4",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.056",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.057",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.058",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.059",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.060",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.061",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.062",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.063",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.064",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.065",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.066",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.067",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.068",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.069",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis5",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.070",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.071",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.072",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.073",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.074",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.075",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.076",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.077",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.078",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.079",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.080",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.081",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.082",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.083",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::thin palm rachis6",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.084",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.085",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.086",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.087",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.088",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.089",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.090",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.091",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.092",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.093",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.094",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.095",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.096",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser-parlor-palm::representative leaflet.097",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser::illustrative tray base",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser::illustrative tray rim",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser::illustrative tray rim.001",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser::illustrative tray rim.002",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "dresser::illustrative tray rim.003",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    },
+    {
+      "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+      "only_intended_22mm_wall_mount_offset": false,
+      "max_bound_difference_m": 0.0,
+      "pass": true
+    }
+  ],
+  "all_shared_layout_and_world_bounds_pass": true,
+  "scope": "B/C furniture geometry and floor positions shared; only3wall-mounted objects22mm forward for Bslats; wall paint and80panelmesh additions are authorized aesthetic differences. Shader independence checked separately."
+}

@@ -1,0 +1,346 @@
+[
+  {
+    "id": "abstract-no1",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-no1-print/",
+    "currency": "USD",
+    "title": "Abstract No1, Print",
+    "description_html": "<p>The design was originally an acrylic painting on canvas, which means the texture of the canvas can still be seen!</p>",
+    "available_combinations": [
+      {
+        "id": 25186,
+        "size": "70x100",
+        "sizeTitle": "28\" x 39\" in",
+        "articleNumber": "8382-1",
+        "stock": 139,
+        "price": 116,
+        "campaignPrice": 69.6,
+        "images": [
+          {
+            "URL": "6859edaaf9b0f69878ad99d7_411599511_8382-1.jpg",
+            "width": 2000,
+            "height": 2857,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract No1 print with peach, gold, black, and white textured brushstrokes, showcasing paint texture.",
+            "listOrder": 1
+          }
+        ]
+      }
+    ],
+    "selected_70x100": {
+      "id": 25186,
+      "productID": 10207,
+      "stock": 139,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "8382-1",
+      "parentArticleNumber": "8382",
+      "price": 116,
+      "campaignPrice": 69.6,
+      "optionItemIDs": [
+        25186
+      ],
+      "isPrintOnDemand": 0,
+      "images": [
+        {
+          "URL": "6859edaaf9b0f69878ad99d7_411599511_8382-1.jpg",
+          "width": 2000,
+          "height": 2857,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract No1 print with peach, gold, black, and white textured brushstrokes, showcasing paint texture.",
+          "listOrder": 1
+        }
+      ],
+      "image_url": "https://media.desenio.com/site_images/6859edaaf9b0f69878ad99d7_411599511_8382-1.jpg",
+      "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/abstract-no1-70x100-official.jpg",
+      "image_sha256": "c7f32b464af9c836ffb61a876cf2c90c81b279b9a4bf9eaaa09d63f71ac13fce",
+      "actual_image_dimensions": [
+        2000,
+        2857
+      ],
+      "pixels_edited": false
+    }
+  },
+  {
+    "id": "grey-graphics-no2",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/grey-graphics-no2-print/",
+    "error": "KeyError('page')"
+  },
+  {
+    "id": "black-brush-strokes-no1",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/black-brush-strokes-no1-print/",
+    "currency": "USD",
+    "title": "Black Brush Strokes No1 Print",
+    "description_html": "Poster of black strokes on a light greyish colour background.<br><ul><li>Painting with black strokes on a light greyish colour background. Modern print with trendy colours to match your home decor.",
+    "available_combinations": [
+      {
+        "id": 18432,
+        "size": "30x40",
+        "sizeTitle": "12\" x 16\" in",
+        "articleNumber": "17355-5",
+        "stock": 46,
+        "price": 45.95,
+        "campaignPrice": 27.57,
+        "images": [
+          {
+            "URL": "685c839967fd6077b6f2ac6a_1259146434_17355-5.jpg",
+            "width": 2000,
+            "height": 2667,
+            "systemCode": "variant_main_image",
+            "alt": "Black brush strokes abstract art print on a light gray background, modern poster design",
+            "listOrder": 1
+          }
+        ]
+      },
+      {
+        "id": 18433,
+        "size": "50x70",
+        "sizeTitle": "20\" x 28\" in",
+        "articleNumber": "17355-8",
+        "stock": 44,
+        "price": 73.45,
+        "campaignPrice": 44.07,
+        "images": [
+          {
+            "URL": "685c839b8b7ca77dcb8aafa1_1345335740_17355-8.jpg",
+            "width": 2000,
+            "height": 2800,
+            "systemCode": "variant_main_image",
+            "alt": "Black brush strokes abstract art print on a light gray background, modern poster design",
+            "listOrder": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "contemporary-abstract-no1",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/contemporary-abstract-no1-print/",
+    "currency": "USD",
+    "title": "Contemporary Abstract No1 Print",
+    "description_html": "<p><span>- Painting with abstract design in various shades of grey and brown</span></p><p>Abstract painting in shades of grey and brown. The beautiful colors playing together creates an abstract flow of silvery shades with hints of warmth, and the print goes perfectly together with Contemporary Abstract No2.<br><br>The poster is printed with a white margin around the image.</p>",
+    "available_combinations": [
+      {
+        "id": 16122,
+        "size": "30x40",
+        "sizeTitle": "12\" x 16\" in",
+        "articleNumber": "16499-5",
+        "stock": 71,
+        "price": 55.95,
+        "campaignPrice": 33.57,
+        "images": [
+          {
+            "URL": "685c58e6cfde1217aabdbb91_1514889503_16499-5.jpg",
+            "width": 2000,
+            "height": 2667,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+            "listOrder": 1
+          }
+        ]
+      },
+      {
+        "id": 16123,
+        "size": "50x70",
+        "sizeTitle": "20\" x 28\" in",
+        "articleNumber": "16499-8",
+        "stock": 39,
+        "price": 91.95,
+        "campaignPrice": 55.17,
+        "images": [
+          {
+            "URL": "685c58e9cfde1217aabdbb92_1311831650_16499-8.jpg",
+            "width": 2000,
+            "height": 2800,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+            "listOrder": 1
+          }
+        ]
+      },
+      {
+        "id": 16120,
+        "size": "70x100",
+        "sizeTitle": "28\" x 39\" in",
+        "articleNumber": "16499-1",
+        "stock": 111,
+        "price": 107,
+        "campaignPrice": 64.2,
+        "images": [
+          {
+            "URL": "685c58e05bc2e6c81f1cc4e2_1907364562_16499-1.jpg",
+            "width": 2000,
+            "height": 2857,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+            "listOrder": 1
+          }
+        ]
+      },
+      {
+        "id": 16119,
+        "size": "100x150",
+        "sizeTitle": "39\" x 59\" in",
+        "articleNumber": "16499-0",
+        "stock": 999999,
+        "price": 213,
+        "campaignPrice": 127.8,
+        "images": [
+          {
+            "URL": "685c58dd690d8af12d51b28f_2118513202_16499-0.jpg",
+            "width": 2000,
+            "height": 3000,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+            "listOrder": 1
+          }
+        ]
+      }
+    ],
+    "selected_70x100": {
+      "id": 16120,
+      "productID": 6338,
+      "stock": 111,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "16499-1",
+      "parentArticleNumber": "16499",
+      "price": 107,
+      "campaignPrice": 64.2,
+      "optionItemIDs": [
+        16120
+      ],
+      "isPrintOnDemand": 0,
+      "images": [
+        {
+          "URL": "685c58e05bc2e6c81f1cc4e2_1907364562_16499-1.jpg",
+          "width": 2000,
+          "height": 2857,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+          "listOrder": 1
+        }
+      ],
+      "image_url": "https://media.desenio.com/site_images/685c58e05bc2e6c81f1cc4e2_1907364562_16499-1.jpg",
+      "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/contemporary-abstract-no1-70x100-official.jpg",
+      "image_sha256": "635e4b4000c6eb04a6b8f34049b83a3fa7ed79617089431bb496813af47eb1e7",
+      "actual_image_dimensions": [
+        2000,
+        2857
+      ],
+      "pixels_edited": false
+    }
+  },
+  {
+    "id": "abstract-graphic-no1",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-graphic-no1-print/",
+    "currency": "USD",
+    "title": "Abstract Graphic No1 Print",
+    "description_html": "<span>- Painting with abstract shapes in grey, beige, blue and white with paint stroke structure</span><p>Abstract painting with abstract shapes in white, grey, blue and beige with paint stroke structure. The cool and muted tones will add a subtle touch of color to your walls. Match this print with Abstract Graphic No2 for a perfect pair!<br><br>The poster is printed with a white border that nicely frames the design.</p>",
+    "available_combinations": [
+      {
+        "id": 13110,
+        "size": "50x70",
+        "sizeTitle": "20\" x 28\" in",
+        "articleNumber": "15371-8",
+        "stock": 26,
+        "price": 91.95,
+        "campaignPrice": 55.17,
+        "images": [
+          {
+            "URL": "685c25f48b7ca77dcb8a9a33_677731148_15371-8.jpg",
+            "width": 2000,
+            "height": 2800,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract graphic print with grey, beige, blue, and white shapes and paint stroke texture on a poster.",
+            "listOrder": 1
+          }
+        ]
+      },
+      {
+        "id": 13107,
+        "size": "70x100",
+        "sizeTitle": "28\" x 39\" in",
+        "articleNumber": "15371-1",
+        "stock": 121,
+        "price": 107,
+        "campaignPrice": 64.2,
+        "images": [
+          {
+            "URL": "685c25ed9ba509224c9475cf_306388657_15371-1.jpg",
+            "width": 2000,
+            "height": 2857,
+            "systemCode": "variant_main_image",
+            "alt": "Abstract graphic print with grey, beige, blue, and white shapes and paint stroke texture on a poster.",
+            "listOrder": 1
+          }
+        ]
+      }
+    ],
+    "selected_70x100": {
+      "id": 13107,
+      "productID": 5210,
+      "stock": 121,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "15371-1",
+      "parentArticleNumber": "15371",
+      "price": 107,
+      "campaignPrice": 64.2,
+      "optionItemIDs": [
+        13107
+      ],
+      "isPrintOnDemand": 0,
+      "images": [
+        {
+          "URL": "685c25ed9ba509224c9475cf_306388657_15371-1.jpg",
+          "width": 2000,
+          "height": 2857,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract graphic print with grey, beige, blue, and white shapes and paint stroke texture on a poster.",
+          "listOrder": 1
+        }
+      ],
+      "image_url": "https://media.desenio.com/site_images/685c25ed9ba509224c9475cf_306388657_15371-1.jpg",
+      "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/abstract-graphic-no1-70x100-official.jpg",
+      "image_sha256": "540bc2ec7d7baa9795c2f4c1b038518acd01e8110017de6d0fba2b9d8493bc25",
+      "actual_image_dimensions": [
+        2000,
+        2857
+      ],
+      "pixels_edited": false
+    }
+  },
+  {
+    "id": "black-abstract-shapes-no1",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/black-abstract-shapes-no1-print/",
+    "currency": "USD",
+    "title": "Black Abstract Shapes No1 Print",
+    "description_html": "<span>- Poster of black and white shapes and lines</span><p>\u00a0Abstract shapes and lines in black and white on a grey background. Art with a cool motive. <br><br>The poster is printed with a white margin around the image to frame the design nicely.</p>",
+    "available_combinations": [
+      {
+        "id": 18449,
+        "size": "30x40",
+        "sizeTitle": "12\" x 16\" in",
+        "articleNumber": "17363-5",
+        "stock": 70,
+        "price": 45.95,
+        "campaignPrice": 27.57,
+        "images": [
+          {
+            "URL": "685c83d48b7ca77dcb8aafb0_1814526624_17363-5.jpg",
+            "width": 2000,
+            "height": 2667,
+            "systemCode": "variant_main_image",
+            "alt": "Black abstract shapes and lines poster print with white lines on a grey background",
+            "listOrder": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monochrome-waves",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/monochrome-waves-print/",
+    "error": "<HTTPError 404: 'Not Found'>"
+  }
+]

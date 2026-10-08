@@ -1,0 +1,231 @@
+{
+  "id": "dan-hobday-hackney",
+  "source_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-hackney-print/",
+  "currency": "USD",
+  "title": "Dan Hobday - Hackney Print",
+  "description_html": "<p>Abstract poster with geometric shapes in green, pink, beige, brown and black. The soft textures and layered design create a balanced and modern look.</p><p><br></p><p>Artist: Dan Hobday</p>",
+  "available_combinations": [
+    {
+      "id": 103869,
+      "size": "21x30",
+      "sizeTitle": "8\" x 12\" in",
+      "articleNumber": "pre0718-4",
+      "stock": 999999,
+      "price": 39,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09df69809a70459467d99_758950650_pre0718-4.jpg",
+          "width": 2857,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680cb476290bc4b1a73c2_612094136_pre0718-4_variant_display_image_ds.jpg",
+          "width": 4171,
+          "height": 5214,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 101365,
+      "size": "30x40",
+      "sizeTitle": "12\" x 16\" in",
+      "articleNumber": "pre0718-5",
+      "stock": 50,
+      "price": 55.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09df95bea529c9e9c8dd5_1081238029_pre0718-5.jpg",
+          "width": 2666,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680cc199b7fdf562d5c2b_411099817_pre0718-5_variant_display_image_ds.jpg",
+          "width": 4171,
+          "height": 5214,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 103867,
+      "size": "50x50",
+      "sizeTitle": "20\" x 20\" in",
+      "articleNumber": "pre0718-2",
+      "stock": 999999,
+      "price": 70.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09df2f1a24127f4349324_136420931_pre0718-2.jpg",
+          "width": 2000,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680c85a78d38ae54a7b57_900538530_pre0718-2_variant_display_image_ds.jpg",
+          "width": 4171,
+          "height": 5214,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 103868,
+      "size": "40x50",
+      "sizeTitle": "16\" x 20\" in",
+      "articleNumber": "pre0718-6",
+      "stock": 999999,
+      "price": 70.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09dfc9809a70459467d9b_327007249_pre0718-6.jpg",
+          "width": 2500,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680ce199b7fdf562d5c2c_12663852_pre0718-6_variant_display_image_ds.jpg",
+          "width": 4171,
+          "height": 5214,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 101364,
+      "size": "50x70",
+      "sizeTitle": "20\" x 28\" in",
+      "articleNumber": "pre0718-8",
+      "stock": 50,
+      "price": 91.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09dffd6d50b310e860a74_887859642_pre0718-8.jpg",
+          "width": 2800,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680cf9d00acab33b9f65a_2046851702_pre0718-8_variant_display_image_ds.jpg",
+          "width": 4171,
+          "height": 5214,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 101363,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "pre0718-1",
+      "stock": 99,
+      "price": 107,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09df04db949da563f34f3_2026496810_pre0718-1.jpg",
+          "width": 2857,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680c75a78d38ae54a7b55_2111674527_pre0718-1_variant_display_image_ds.jpg",
+          "width": 4649,
+          "height": 5812,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ]
+    },
+    {
+      "id": 103233,
+      "size": "100x150",
+      "sizeTitle": "39\" x 59\" in",
+      "articleNumber": "pre0718-0",
+      "stock": 999999,
+      "price": 213,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "69f09dee5bea529c9e9c8dd3_1885463730_pre0718-0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    }
+  ],
+  "selected_70x100": {
+    "id": 101363,
+    "productID": 44120,
+    "stock": 99,
+    "size": "70x100",
+    "sizeTitle": "28\" x 39\" in",
+    "articleNumber": "pre0718-1",
+    "parentArticleNumber": "pre0718",
+    "price": 107,
+    "campaignPrice": null,
+    "optionItemIDs": [
+      78109
+    ],
+    "isPrintOnDemand": 0,
+    "images": [
+      {
+        "URL": "69f09df04db949da563f34f3_2026496810_pre0718-1.jpg",
+        "width": 2857,
+        "height": 2000,
+        "systemCode": "variant_main_image",
+        "alt": "",
+        "listOrder": 1
+      },
+      {
+        "URL": "6a2680c75a78d38ae54a7b55_2111674527_pre0718-1_variant_display_image_ds.jpg",
+        "width": 4649,
+        "height": 5812,
+        "systemCode": "variant_display_image",
+        "alt": "",
+        "listOrder": 2
+      }
+    ],
+    "image_url": "https://media.desenio.com/site_images/69f09df04db949da563f34f3_2026496810_pre0718-1.jpg",
+    "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-hackney-70x100-official.jpg",
+    "image_sha256": "910817b939549870ae6d9caa5a5d089e4cf22c4c53be335adc3cf7e7330ebc99",
+    "actual_image_dimensions": [
+      2857,
+      2000
+    ],
+    "pixels_edited": false
+  }
+}

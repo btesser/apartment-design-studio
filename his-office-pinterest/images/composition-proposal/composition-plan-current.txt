@@ -1,0 +1,10 @@
+Read-only composition proposal, diagram rather than room render.
+Furniture/architecture: source layout and measured feature anchors.
+Owned Mineral Aeron C: confirmed catalog envelope at saved chair anchor; replacement is not yet built.
+Root wall proposals: B5 panels3m X[-7.60,-4.60] across both desks + Peppercorn wrap; C smooth Naval wrap.
+Two MOSSLANDA115x12cm ledges: benchTOP1.25m/mainTOP2.10m above floor; small illustrative books only.
+Richmond independently mounted center1.85m abovefloor; not leaned on ledge.
+Dresser: FADO/KAJPLATS opposite Small Parlor Palm / Westcott Black, central useful tray space; no floor plant.
+Main worktop: Grovemade Dark Grey Medium Plus mat96.52x40.005cm.
+No source files changed, no Blender modeling, no metric clearance/installation claims.
+See composition-plan-current.json for exact coordinates, source hashes, status and limits.

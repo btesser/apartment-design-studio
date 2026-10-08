@@ -1,0 +1,156 @@
+{
+  "id": "forest-green-abstract-no2",
+  "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/forest-green-abstract-no2-print/",
+  "currency": "USD",
+  "title": "Forest Green Abstract No2 Print",
+  "description_html": "<p>An abstract poster with shades of green and brown. The textured surface has a rough, cracked look that resembles aged paint or dried earth.</p>",
+  "available_combinations": [
+    {
+      "id": 104324,
+      "size": "21x30",
+      "sizeTitle": "8\" x 12\" in",
+      "articleNumber": "20524-4",
+      "stock": 999999,
+      "price": 39,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a2181828285a07b4b6e676f_1305469312_20524-4.jpg",
+          "width": 2857,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104323,
+      "size": "30x40",
+      "sizeTitle": "12\" x 16\" in",
+      "articleNumber": "20524-5",
+      "stock": 48,
+      "price": 55.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a2181858285a07b4b6e6771_1933147260_20524-5.jpg",
+          "width": 2667,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104322,
+      "size": "40x50",
+      "sizeTitle": "16\" x 20\" in",
+      "articleNumber": "20524-6",
+      "stock": 999999,
+      "price": 70.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a2181873fccd08c6490032d_782602481_20524-6.jpg",
+          "width": 2500,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104321,
+      "size": "50x70",
+      "sizeTitle": "20\" x 28\" in",
+      "articleNumber": "20524-8",
+      "stock": 47,
+      "price": 91.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a21818a04d4a79f27e684e1_276706334_20524-8.jpg",
+          "width": 2800,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104320,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "20524-1",
+      "stock": 97,
+      "price": 107,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a21817d9f11c49b64c60eaa_904702827_20524-1.jpg",
+          "width": 2857,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 106353,
+      "size": "100x150",
+      "sizeTitle": "39\" x 59\" in",
+      "articleNumber": "20524-0",
+      "stock": 999999,
+      "price": 213,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a21817bfb59bb30258b5166_1728499191_20524-0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    }
+  ],
+  "selected_70x100": {
+    "id": 104320,
+    "productID": 44341,
+    "stock": 97,
+    "size": "70x100",
+    "sizeTitle": "28\" x 39\" in",
+    "articleNumber": "20524-1",
+    "parentArticleNumber": "20524",
+    "price": 107,
+    "campaignPrice": null,
+    "optionItemIDs": [
+      81066
+    ],
+    "isPrintOnDemand": 0,
+    "images": [
+      {
+        "URL": "6a21817d9f11c49b64c60eaa_904702827_20524-1.jpg",
+        "width": 2857,
+        "height": 2000,
+        "systemCode": "variant_main_image",
+        "alt": "",
+        "listOrder": 1
+      }
+    ],
+    "image_url": "https://media.desenio.com/site_images/6a21817d9f11c49b64c60eaa_904702827_20524-1.jpg",
+    "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/forest-green-abstract-no2-70x100-official.jpg",
+    "image_sha256": "4e4d8d51cd3060e6692f66ce6c5012716b13d79a7b87e8a847456ee310fbb362",
+    "actual_image_dimensions": [
+      2857,
+      2000
+    ],
+    "pixels_edited": false
+  }
+}

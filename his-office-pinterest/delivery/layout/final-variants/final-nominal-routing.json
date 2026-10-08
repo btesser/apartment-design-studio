@@ -1,0 +1,1228 @@
+{
+  "status": "Authoritative final frozen-layout nominal routing refresh; source-guided displayed chair native bbox unioned with published normal/max-arm envelopes.",
+  "method": "Continuous metric polygon configuration space. Each chair profile is the union of actual final native evaluated XY bbox and published normal or expanded-arm reference rectangle. Obstacles expand by a hypothetical person-circle radius plus.1mm numerical guard. A validated centerline witness is supplied for every passing60/61/62cm route.",
+  "coordinate_system": "Original BlenderZ-up metres; +X front/living,-X rear,+Y whitewall,-Y brick; glTF[X,Z,-Y].",
+  "endpoints": {
+    "entry_xy_m": [
+      -3.5,
+      -2.1
+    ],
+    "actual_rear_door_approach_xy_m": [
+      -7.5,
+      -2.1
+    ],
+    "note": "The rear target is within the actual exterior-door approach; it does not use the former rear-room point inside a pulled chair/person exclusion zone."
+  },
+  "source_geometry": [
+    {
+      "path": "/workspace/his-office-redesign/geometry/room-measurements.json",
+      "sha256": "40e86343957dd57fe6045e7e344d7f0f54f7510981e2cf7cb591ca6f05e8239a"
+    },
+    {
+      "path": "/workspace/his-office-redesign/geometry/fixed-features.json",
+      "sha256": "2943ce109b8605e092a0676145b16a9484561fdf7d4a9c31a48afb4c56b2042d"
+    },
+    {
+      "path": "/workspace/his-office-redesign/geometry/access-and-feasible-zones.json",
+      "sha256": "ef6a955ee4c3c73db631241e8fb4f011e2ab98f0373718c50719a305a71933b9"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/products/owned-chair/owned-aeron-size-c-mineral.json",
+      "sha256": "6a4cad4d13765d541db6b965e97665fa5b8f3abdd207cf2346c0631fab0d7aa2"
+    }
+  ],
+  "limits": [
+    "Nominal room/fixed-fixture outlines have5\u201312cm field uncertainty; these results are not surveyed passage widths or accessibility/ergonomic guarantees.",
+    "Actual owned Aeron vintage, arm/cylinder/caster options and settings remain unconfirmed; native dimensions describe the displayed source-guided proxy only.",
+    "Door leaves presumed open for circulation; exact swings are inferred.",
+    "Cat upper branches and lamp upper-head geometry require the separate final native3Dproof; lamp floor U-base is an approximate source-guided shape.",
+    "Closet interior is unrecorded;3shoe racks are conditional and excluded from usable-room routing.",
+    "Fullheight projections of ledges/tabletopdecor/mat are conservatively included; final nativeheight/stroke/mesh checks remain separate."
+  ],
+  "variants": [
+    {
+      "variant": "b-charcoal-slat",
+      "layout": {
+        "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+        "sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9"
+      },
+      "layout_version": "shared-cohesive-B-C-owned-Aeron-2026-10-08",
+      "item_count": 17,
+      "chair_native_proof": {
+        "path": "/workspace/his-office-pinterest/qa/final-variants/b-charcoal-slat/owned-chair-motion.json",
+        "sha256": "24fe89baaf1ecc38a7e536fee6bd85e3b4ec91f3e1273616e76f7b2cd6b194dc"
+      },
+      "chair_native_source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "chair_canonical": {
+        "id": "aeron-primary",
+        "kind": "task_chair",
+        "position_blender_m": [
+          -6.82,
+          -0.85,
+          1.575
+        ],
+        "external_dimensions_m": [
+          0.71882,
+          0.71882,
+          1.0922
+        ],
+        "rotation_z_deg": 0,
+        "front_blender_vector": [
+          0,
+          1,
+          0
+        ],
+        "product_id": "aeron-size-c-mineral",
+        "rolling_base_diameter_m": 0.6731,
+        "desk_offset_x_m": 0.095,
+        "owned": true,
+        "collision_footprint_m": [
+          0.80264,
+          0.71882
+        ],
+        "normal_body_width_m": 0.71882,
+        "max_expanded_arm_width_m": 0.80264,
+        "seat_height_pose_m": 0.45,
+        "arm_height_above_seat_pose_m": 0.1905,
+        "dimension_confidence": "User confirms AeronSizeC/Mineral. Photo/specguided proxy; vintage/base/arm/back/caster/cylinder options and actual settings unconfirmed."
+      },
+      "actual_native_bounds_blender_m": [
+        [
+          -7.179409980773926,
+          -1.2104296684265137,
+          1.5750000476837158
+        ],
+        [
+          -6.460590362548828,
+          -0.49059003591537476,
+          2.6672000885009766
+        ]
+      ],
+      "actual_native_dimensions_m": [
+        0.7188196182250977,
+        0.7198396325111389,
+        1.0922000408172607
+      ],
+      "profiles": [
+        {
+          "profile": "normal_published_plus_actual_native",
+          "published_width_depth_m": [
+            0.71882,
+            0.71882
+          ],
+          "cases": [
+            {
+              "chair_state": "working",
+              "rearward_translation_m": 0,
+              "chair_union_xy_bounds_m": [
+                -7.179410000000001,
+                -1.2104296684265137,
+                -6.46059,
+                -0.49058999999999997
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.185000000000039,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.2400000000000375,
+                        -1.4250000000000291
+                      ],
+                      [
+                        -6.355000000000035,
+                        -1.5000000000000275
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.527803533823285,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3001134504691347,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.345000000000078,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.175000000000039,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.225000000000038,
+                        -1.4150000000000293
+                      ],
+                      [
+                        -6.330000000000036,
+                        -1.4950000000000276
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.5379923974324985,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.30511249999996876,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.33234018715773267,
+                    "person_diameter_m": 0.61,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23500000000008,
+                        -1.3600000000000305
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3150000000000315
+                      ],
+                      [
+                        -6.170000000000039,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.220000000000038,
+                        -1.4200000000000292
+                      ],
+                      [
+                        -6.330000000000036,
+                        -1.5000000000000275
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.5438300381076235,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3105094303068269,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3298694106027766,
+                    "person_diameter_m": 0.62,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                }
+              ]
+            },
+            {
+              "chair_state": "45cmrearward",
+              "rearward_translation_m": 0.45,
+              "chair_union_xy_bounds_m": [
+                -7.179410000000001,
+                -1.6604296684265136,
+                -6.46059,
+                -0.94059
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.155000000000039,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.160000000000039,
+                        -1.7250000000000227
+                      ],
+                      [
+                        -6.215000000000038,
+                        -1.8450000000000202
+                      ],
+                      [
+                        -6.310000000000036,
+                        -1.9300000000000184
+                      ],
+                      [
+                        -6.435000000000033,
+                        -1.9650000000000176
+                      ],
+                      [
+                        -7.370000000000013,
+                        -1.9700000000000175
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.860532262099532,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3001596575023547,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                }
+              ]
+            }
+          ],
+          "drawer_operations": {
+            "exact_drawer_pullout_m": 0.276225,
+            "dresser_open_front_y_m": -1.9940624999999998,
+            "working_chair_union_rear_y_m": -1.2104296684265137,
+            "gap_open_drawer_to_working_chair_m": 0.7836328315734862,
+            "gap_open_drawer_to45cmrearward_chair_m": 0.3336328315734862,
+            "catalog_only_gap_working_m": 0.7846524999999998,
+            "catalog_only_gap45cmrearward_m": 0.3346524999999998,
+            "restriction": "Use full drawer opening and full chair pullback sequentially; the modeled simultaneous gap does not admit the tested60cm person circle.",
+            "optional_dresser_open_route_checks": [
+              {
+                "chair_state": "working",
+                "dresser_fully_open_60cm_route": true
+              },
+              {
+                "chair_state": "45cmrearward",
+                "dresser_fully_open_60cm_route": false
+              }
+            ]
+          }
+        },
+        {
+          "profile": "max_arm_published_plus_actual_native",
+          "published_width_depth_m": [
+            0.80264,
+            0.71882
+          ],
+          "cases": [
+            {
+              "chair_state": "working",
+              "rearward_translation_m": 0,
+              "chair_union_xy_bounds_m": [
+                -7.22132,
+                -1.2104296684265137,
+                -6.41868,
+                -0.49058999999999997
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.14000000000004,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.210000000000038,
+                        -1.435000000000029
+                      ],
+                      [
+                        -6.320000000000036,
+                        -1.5000000000000275
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.520969829682392,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.300324687438822,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.345000000000078,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.13000000000004,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.1950000000000385,
+                        -1.430000000000029
+                      ],
+                      [
+                        -6.315000000000036,
+                        -1.5050000000000274
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.531857594259909,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3051124999999688,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.33234018715773267,
+                    "person_diameter_m": 0.61,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23500000000008,
+                        -1.3600000000000305
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3150000000000315
+                      ],
+                      [
+                        -6.12500000000004,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.190000000000039,
+                        -1.430000000000029
+                      ],
+                      [
+                        -6.300000000000036,
+                        -1.5050000000000274
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.5366234128609,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3105471981827714,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3298694106027766,
+                    "person_diameter_m": 0.62,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                }
+              ]
+            },
+            {
+              "chair_state": "45cmrearward",
+              "rearward_translation_m": 0.45,
+              "chair_union_xy_bounds_m": [
+                -7.22132,
+                -1.6604296684265136,
+                -6.41868,
+                -0.94059
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.11500000000004,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.11500000000004,
+                        -1.7050000000000232
+                      ],
+                      [
+                        -6.160000000000039,
+                        -1.8250000000000206
+                      ],
+                      [
+                        -6.245000000000037,
+                        -1.9150000000000187
+                      ],
+                      [
+                        -6.365000000000035,
+                        -1.9600000000000177
+                      ],
+                      [
+                        -7.375000000000013,
+                        -1.9750000000000174
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.859355264753015,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3002994938299483,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                }
+              ]
+            }
+          ],
+          "drawer_operations": {
+            "exact_drawer_pullout_m": 0.276225,
+            "dresser_open_front_y_m": -1.9940624999999998,
+            "working_chair_union_rear_y_m": -1.2104296684265137,
+            "gap_open_drawer_to_working_chair_m": 0.7836328315734862,
+            "gap_open_drawer_to45cmrearward_chair_m": 0.3336328315734862,
+            "catalog_only_gap_working_m": 0.7846524999999998,
+            "catalog_only_gap45cmrearward_m": 0.3346524999999998,
+            "restriction": "Use full drawer opening and full chair pullback sequentially; the modeled simultaneous gap does not admit the tested60cm person circle.",
+            "optional_dresser_open_route_checks": [
+              {
+                "chair_state": "working",
+                "dresser_fully_open_60cm_route": true
+              },
+              {
+                "chair_state": "45cmrearward",
+                "dresser_fully_open_60cm_route": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "variant": "c-ink-studio",
+      "layout": {
+        "path": "/workspace/his-office-pinterest/variants/c-ink-studio/model/layout.json",
+        "sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54"
+      },
+      "layout_version": "shared-cohesive-B-C-owned-Aeron-2026-10-08",
+      "item_count": 17,
+      "chair_native_proof": {
+        "path": "/workspace/his-office-pinterest/qa/final-variants/c-ink-studio/owned-chair-motion.json",
+        "sha256": "aefdebcc15335fdfd3cb295a4df0a5d13f13a8ead38a55b9afcaf4dbc7f7d8de"
+      },
+      "chair_native_source_blend_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "chair_canonical": {
+        "id": "aeron-primary",
+        "kind": "task_chair",
+        "position_blender_m": [
+          -6.82,
+          -0.85,
+          1.575
+        ],
+        "external_dimensions_m": [
+          0.71882,
+          0.71882,
+          1.0922
+        ],
+        "rotation_z_deg": 0,
+        "front_blender_vector": [
+          0,
+          1,
+          0
+        ],
+        "product_id": "aeron-size-c-mineral",
+        "rolling_base_diameter_m": 0.6731,
+        "desk_offset_x_m": 0.095,
+        "owned": true,
+        "collision_footprint_m": [
+          0.80264,
+          0.71882
+        ],
+        "normal_body_width_m": 0.71882,
+        "max_expanded_arm_width_m": 0.80264,
+        "seat_height_pose_m": 0.45,
+        "arm_height_above_seat_pose_m": 0.1905,
+        "dimension_confidence": "User confirms AeronSizeC/Mineral. Photo/specguided proxy; vintage/base/arm/back/caster/cylinder options and actual settings unconfirmed."
+      },
+      "actual_native_bounds_blender_m": [
+        [
+          -7.179409980773926,
+          -1.2104296684265137,
+          1.5750000476837158
+        ],
+        [
+          -6.460590362548828,
+          -0.49059003591537476,
+          2.6672000885009766
+        ]
+      ],
+      "actual_native_dimensions_m": [
+        0.7188196182250977,
+        0.7198396325111389,
+        1.0922000408172607
+      ],
+      "profiles": [
+        {
+          "profile": "normal_published_plus_actual_native",
+          "published_width_depth_m": [
+            0.71882,
+            0.71882
+          ],
+          "cases": [
+            {
+              "chair_state": "working",
+              "rearward_translation_m": 0,
+              "chair_union_xy_bounds_m": [
+                -7.179410000000001,
+                -1.2104296684265137,
+                -6.46059,
+                -0.49058999999999997
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.185000000000039,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.2400000000000375,
+                        -1.4250000000000291
+                      ],
+                      [
+                        -6.355000000000035,
+                        -1.5000000000000275
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.527803533823285,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3001134504691347,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.345000000000078,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.175000000000039,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.225000000000038,
+                        -1.4150000000000293
+                      ],
+                      [
+                        -6.330000000000036,
+                        -1.4950000000000276
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.5379923974324985,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.30511249999996876,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.33234018715773267,
+                    "person_diameter_m": 0.61,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23500000000008,
+                        -1.3600000000000305
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3150000000000315
+                      ],
+                      [
+                        -6.170000000000039,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.220000000000038,
+                        -1.4200000000000292
+                      ],
+                      [
+                        -6.330000000000036,
+                        -1.5000000000000275
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.5438300381076235,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3105094303068269,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3298694106027766,
+                    "person_diameter_m": 0.62,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                }
+              ]
+            },
+            {
+              "chair_state": "45cmrearward",
+              "rearward_translation_m": 0.45,
+              "chair_union_xy_bounds_m": [
+                -7.179410000000001,
+                -1.6604296684265136,
+                -6.46059,
+                -0.94059
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.155000000000039,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.160000000000039,
+                        -1.7250000000000227
+                      ],
+                      [
+                        -6.215000000000038,
+                        -1.8450000000000202
+                      ],
+                      [
+                        -6.310000000000036,
+                        -1.9300000000000184
+                      ],
+                      [
+                        -6.435000000000033,
+                        -1.9650000000000176
+                      ],
+                      [
+                        -7.370000000000013,
+                        -1.9700000000000175
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.860532262099532,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3001596575023547,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                }
+              ]
+            }
+          ],
+          "drawer_operations": {
+            "exact_drawer_pullout_m": 0.276225,
+            "dresser_open_front_y_m": -1.9940624999999998,
+            "working_chair_union_rear_y_m": -1.2104296684265137,
+            "gap_open_drawer_to_working_chair_m": 0.7836328315734862,
+            "gap_open_drawer_to45cmrearward_chair_m": 0.3336328315734862,
+            "catalog_only_gap_working_m": 0.7846524999999998,
+            "catalog_only_gap45cmrearward_m": 0.3346524999999998,
+            "restriction": "Use full drawer opening and full chair pullback sequentially; the modeled simultaneous gap does not admit the tested60cm person circle.",
+            "optional_dresser_open_route_checks": [
+              {
+                "chair_state": "working",
+                "dresser_fully_open_60cm_route": true
+              },
+              {
+                "chair_state": "45cmrearward",
+                "dresser_fully_open_60cm_route": false
+              }
+            ]
+          }
+        },
+        {
+          "profile": "max_arm_published_plus_actual_native",
+          "published_width_depth_m": [
+            0.80264,
+            0.71882
+          ],
+          "cases": [
+            {
+              "chair_state": "working",
+              "rearward_translation_m": 0,
+              "chair_union_xy_bounds_m": [
+                -7.22132,
+                -1.2104296684265137,
+                -6.41868,
+                -0.49058999999999997
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.14000000000004,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.210000000000038,
+                        -1.435000000000029
+                      ],
+                      [
+                        -6.320000000000036,
+                        -1.5000000000000275
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.520969829682392,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.300324687438822,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.345000000000078,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.13000000000004,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.1950000000000385,
+                        -1.430000000000029
+                      ],
+                      [
+                        -6.315000000000036,
+                        -1.5050000000000274
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.531857594259909,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3051124999999688,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.33234018715773267,
+                    "person_diameter_m": 0.61,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.23500000000008,
+                        -1.3600000000000305
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3150000000000315
+                      ],
+                      [
+                        -6.12500000000004,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.190000000000039,
+                        -1.430000000000029
+                      ],
+                      [
+                        -6.300000000000036,
+                        -1.5050000000000274
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.5366234128609,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3105471981827714,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3298694106027766,
+                    "person_diameter_m": 0.62,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                }
+              ]
+            },
+            {
+              "chair_state": "45cmrearward",
+              "rearward_translation_m": 0.45,
+              "chair_union_xy_bounds_m": [
+                -7.22132,
+                -1.6604296684265136,
+                -6.41868,
+                -0.94059
+              ],
+              "routing_checks": [
+                {
+                  "person_circle_diameter_m": 0.6,
+                  "route_pass": true,
+                  "entry_component": 0,
+                  "rear_component": 0,
+                  "path_witness": {
+                    "witness_found": true,
+                    "centerline_xy_m": [
+                      [
+                        -3.5,
+                        -2.1
+                      ],
+                      [
+                        -4.24000000000008,
+                        -1.3700000000000303
+                      ],
+                      [
+                        -4.3650000000000775,
+                        -1.3250000000000313
+                      ],
+                      [
+                        -6.11500000000004,
+                        -1.335000000000031
+                      ],
+                      [
+                        -6.11500000000004,
+                        -1.7050000000000232
+                      ],
+                      [
+                        -6.160000000000039,
+                        -1.8250000000000206
+                      ],
+                      [
+                        -6.245000000000037,
+                        -1.9150000000000187
+                      ],
+                      [
+                        -6.365000000000035,
+                        -1.9600000000000177
+                      ],
+                      [
+                        -7.375000000000013,
+                        -1.9750000000000174
+                      ],
+                      [
+                        -7.5,
+                        -2.1
+                      ]
+                    ],
+                    "length_m": 4.859355264753015,
+                    "exact_free_space_covers_witness": true,
+                    "minimum_centerline_distance_to_obstacle_m": 0.3002994938299483,
+                    "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+                    "person_diameter_m": 0.6,
+                    "extra_grid_inset_m": 0.002,
+                    "grid_spacing_m": 0.005
+                  }
+                },
+                {
+                  "person_circle_diameter_m": 0.61,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                },
+                {
+                  "person_circle_diameter_m": 0.62,
+                  "route_pass": false,
+                  "entry_component": 1,
+                  "rear_component": 0,
+                  "path_witness": null
+                }
+              ]
+            }
+          ],
+          "drawer_operations": {
+            "exact_drawer_pullout_m": 0.276225,
+            "dresser_open_front_y_m": -1.9940624999999998,
+            "working_chair_union_rear_y_m": -1.2104296684265137,
+            "gap_open_drawer_to_working_chair_m": 0.7836328315734862,
+            "gap_open_drawer_to45cmrearward_chair_m": 0.3336328315734862,
+            "catalog_only_gap_working_m": 0.7846524999999998,
+            "catalog_only_gap45cmrearward_m": 0.3346524999999998,
+            "restriction": "Use full drawer opening and full chair pullback sequentially; the modeled simultaneous gap does not admit the tested60cm person circle.",
+            "optional_dresser_open_route_checks": [
+              {
+                "chair_state": "working",
+                "dresser_fully_open_60cm_route": true
+              },
+              {
+                "chair_state": "45cmrearward",
+                "dresser_fully_open_60cm_route": false
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

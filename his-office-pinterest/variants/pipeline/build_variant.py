@@ -11,25 +11,30 @@ parser=argparse.ArgumentParser();parser.add_argument('--variant',choices=['b-cha
 args=parser.parse_args(sys.argv[sys.argv.index('--')+1:]);VARIANT=args.variant
 ROOT=PIPE.parent/VARIANT/'model';PRODUCTS=PIPE.parent.parent/'products';FLOOR=1.575
 catalog=json.loads((PRODUCTS/'selected-products.json').read_text());products={p['id']:p for p in catalog['items']}
-if catalog['version']!='selected-shared-cool-furniture-two-directions-B-C-2026-10-08':raise RuntimeError('Final shared product spec not promoted')
+products.update({p['id']:p for p in catalog['owned_keepers'] if p.get('id')=='aeron-size-c-mineral'})
+if catalog['version']!='selected-cohesive-B-C-owned-aeron-mineral-composition-2026-10-08':raise RuntimeError('Final shared product spec not promoted')
 guard.ROOT=ROOT;guard.KEEPER_IDS.discard('uplift-main-desk')
 guard.read_source();before=guard.protected_signatures()
 scene=bpy.context.scene
-for id in ['branch-secondary','blue-bold-art','blue-geometric-art','uplift-main-desk','visitor-chair']:delete_tree(resolve_root(id))
+for id in ['branch-primary','branch-secondary','blue-bold-art','blue-geometric-art','uplift-main-desk','visitor-chair']:delete_tree(resolve_root(id))
 delete_tree(bpy.data.objects['secondary-workspace::generic equipment assumption'])
 new=bpy.data.collections.new('07 Shared B-C chosen new products');scene.collection.children.link(new)
 finish=bpy.data.collections.new('08 Chosen workwall finish');scene.collection.children.link(finish)
-layout=json.loads((PIPE.parent.parent/'model/layout.json').read_text());layout['design']='B Charcoal + Slat Bay' if VARIANT[0]=='b' else 'C Ink Studio';layout['layout_version']='shared-B-C-root-approved-2026-10-08'
+layout=json.loads((PIPE.parent.parent/'model/layout.json').read_text());layout['design']='B Charcoal + Slat Bay' if VARIANT[0]=='b' else 'C Ink Studio';layout['layout_version']='shared-cohesive-B-C-owned-Aeron-2026-10-08'
 for item in layout['items']:
  if item['id']=='uplift-main-desk':
-  item.update(id='standing-main-desk',product_id='branch-tria-black-oak-charcoal',position_blender_m=[-6.915,-.131,FLOOR],external_dimensions_m=[1.2,.685,.74],top_thickness_m=.0254,dimension_confidence='Official supplier CAD1:1; desktop1200x685mm vs published1198.88x685.8mm rounding disclosed; top operating height740mm assumed',published_height_range_m=[.6477,1.24206],dimension_scope='DesktopW/D and seated top surface; keypad/cable door projections recorded in component bounds')
+  item.update(id='standing-main-desk',kind='standing_desk',product_id='branch-tria-black-oak-charcoal',position_blender_m=[-6.915,-.131,FLOOR],external_dimensions_m=[1.2,.685,.74],top_thickness_m=.0254,dimension_confidence='Official supplier CAD1:1; desktop1200x685mm vs published1198.88x685.8mm rounding disclosed; top operating height740mm assumed',published_height_range_m=[.6477,1.24206],dimension_scope='DesktopW/D and seated top surface; keypad/cable door projections recorded in component bounds')
+ if item['id']=='branch-primary':
+  item.update(id='aeron-primary',product_id='aeron-size-c-mineral',owned=True,external_dimensions_m=[.71882,.71882,1.0922],rolling_base_diameter_m=.6731,collision_footprint_m=[.80264,.71882],normal_body_width_m=.71882,max_expanded_arm_width_m=.80264,desk_offset_x_m=.095,seat_height_pose_m=.45,arm_height_above_seat_pose_m=.1905,dimension_confidence='User confirms AeronSizeC/Mineral. Photo/specguided proxy; vintage/base/arm/back/caster/cylinder options and actual settings unconfirmed.')
  if item['id']=='secondary-workspace':item['position_blender_m'][1]=-.070;item['panel_clearance_fit_shift_y_m']=-.020
  if item['id']=='visitor-chair':item.update(product_id='ekenaset-axvall-gray-blue',external_dimensions_m=[.650875,.739775,.7493],selected_color='Walnut effect/Axvall dark gray-blue boucle',dimension_confidence='Selected actual506.243.26 US retailer external measurements; new dimensioned proxy, detailed profile approximate')
  if item['id']=='clothes-dresser':item.update(product_id='storklinta-dark-brown',selected_color='Dark-brown/oak effect605.592.93')
  if item['id']=='rug':item.update(product_id='rift',selected_color='Rift Charcoal',texture_file=str(PRODUCTS/'proposal-complements/photos/rift-6x9.jpg'))
  if item['id']=='abstract-scenery-art':
-  item.update(id='richmond-art',product_id='dan-hobday-richmond',position_blender_m=[-5.55,.22557 if VARIANT[0]=='b' else .24757,3.20],texture_file=str(PRODUCTS/'proposal-complements/art/dan-hobday-richmond-70x100-official.jpg'),dimension_confidence='Exact selected native landscape100x70cm paper; thin frame outside profile inferred from verified face/depth')
+  item.update(id='richmond-art',product_id='dan-hobday-richmond',position_blender_m=[-5.55,.22557 if VARIANT[0]=='b' else .24757,3.425],texture_file=str(PRODUCTS/'proposal-complements/art/dan-hobday-richmond-70x100-official.jpg'),dimension_confidence='Exact selected native landscape100x70cm paper; thin frame outside profile inferred from verified face/depth')
 items={p['id']:p for p in layout['items']}
+from aeron_product import add_aeron
+aeron=add_aeron(bpy,new,items['aeron-primary'])
 layout['product_catalog_authority']=str(PRODUCTS/'selected-products.json')
 layout['generic_functional_assumptions']=['One generic monitor/keyboard on primary standing desk only; actual user hardware unknown.','Clear140x60cm project bench with left ALEX five drawers/right two ADILS; no fixed second monitor/task chair.','Closet contents unrecorded: three GREJIG racks conditional on actual internal dimensions.','Wall finishes are proposed; unchanged ceiling/door/window/brick/floor geometry.']
 layout['notes']=['Source room geometry and Honeywell/cat forms/materials unchanged.','Main Tria CAD unscaled; only moving assembly translated to seated740mm top.','Bench moved20mm toward room in both variants to clearB22mm wall panel by8mm.','No separate baseboard geometry exists in source model; B panels floor aligned, mounting/baseboard detail requires site check.','Unrecorded closet rack floor support excluded from GLB; recorded closet leaf closed.']
@@ -101,7 +106,11 @@ for o in added:
  if o.type!='MESH':bpy.data.objects.remove(o,do_unlink=True)
 r['official_geometry_source']=str(asset);r['CAD_shape_preserved_at_scale1']=True;r['supplier_top_height_m']=source_top;r['seated_top_height_m']=.74;r['published_height_range_m']=[.6477,1.24206];r['CAD_source_color']='Woodgrain/White; rematerialized to selected BlackOak/Charcoal from official photograph';r['source_depth_centering_translation_m']=-depth_center
 # Generic functional equipment remains only on primary desktop at the same74cm top surface.
-equipment=bpy.data.objects['uplift-main-desk::generic equipment assumption'];equipment.name='standing-main-desk::generic equipment assumption';equipment.location.x+=.035;equipment['canonical_owner']='standing-main-desk';equipment['supplier_lift_group']='desktop-equipment-proxy'
+equipment=bpy.data.objects['uplift-main-desk::generic equipment assumption'];equipment.name='standing-main-desk::generic equipment assumption';equipment.location.x+=.035;equipment['canonical_owner']='standing-main-desk';equipment['supplier_lift_group']='desktop-equipment-proxy';equipment.location.y-=.075;equipment.location.z+=.0035
+for child in descendants(equipment):
+ if child.type=='MESH' and child.name.endswith('::keyboard'):child.location.y+=.050
+ if child.name.startswith('uplift-main-desk::'):child.name=child.name.replace('uplift-main-desk::','standing-main-desk::',1)
+layout['generic_equipment_pose']={'monitor_root_shift_native_Y_m':-.075,'keyboard_net_shift_native_Y_m':-.025,'equipment_support_raise_Z_m':.0035,'mat_center_XY_m':[-6.915,-.131],'monitor_stand_Y_bounds_m':[-.105,.065],'keyboard_Y_bounds_m':[-.3225,-.1875],'mat_Y_bounds_m':[-.331025,.069025],'actual_hardware_unrecorded':True}
 # Fresh Axvall refresh proxy with its actual dimensions/rounded upholstered silhouettes.
 v=root_for('visitor-chair');fabric=textile('Shared EKENASET Axvall dark gray-blue boucle proxy',(.047,.090,.128));wood=detailed_wood('Shared EKENASET walnut-effect wood proxy',(.085,.068,.053),.53)
 tag(box('visitor-chair::rounded boucle seat',(0,.017,.43),(.548,.515,.125),fabric,new,v,bevel=.035))
@@ -139,31 +148,44 @@ mesh.materials.append(photograph('Actual selected DanHobday Richmond100x70 nativ
 def linear(x):
  t=x/255;return t/12.92 if t<=.04045 else ((t+.055)/1.055)**2.4
 rgb=[88,88,88] if VARIANT[0]=='b' else [47,61,76];paint=material('Chosen PeppercornSW7674 matte workwall'if VARIANT[0]=='b'else'Chosen NavalSW6244 matte workwall',tuple(linear(c)for c in rgb),.9)
-assign(bpy.data.objects['his-office wall4 segment'],paint)
+paint_whitelist=json.loads((PIPE/'wall-wrap-whitelist.json').read_text())
+paint_names=paint_whitelist['exact_combined_whitelist']
+if isinstance(paint_names[0],dict):paint_names=[p['name'] for p in paint_names]
+for name in paint_names:assign(bpy.data.objects[name],paint)
 wallbounds=bounds([bpy.data.objects['his-office wall4 segment']]);wallface=wallbounds[0][1]
 if abs(wallface-.26)>.0001:raise RuntimeError('Measured source workwall face changed')
 if VARIANT[0]=='b':
  felt=material('WoodUpp chosen black PET felt proxy',(.007,.008,.010),.93);slat=detailed_wood('WoodUpp chosen BlackAsh veneer proxy',(.018,.020,.023),.62)
- for j in range(3):
-  r=bpy.data.objects.new('woodupp-panel-'+str(j+1),None);finish.objects.link(r);r.location=(-6.15+j*.6,wallface,FLOOR);r['role']='architecture_finish';r['selected_sku']='1013';r['external_dimensions_m']=[.6,.022,2.4];r['installation_proxy']='Direct-mounted22mm total:9mm felt+13mm veneer/MDF slats; fine profiles inferred; verify substrate/baseboard onsite.'
+ for j in range(5):
+  r=bpy.data.objects.new('woodupp-panel-'+str(j+1),None);finish.objects.link(r);r.location=(-7.30+j*.6,wallface,FLOOR);r['role']='architecture_finish';r['selected_sku']='1013';r['external_dimensions_m']=[.6,.022,2.4];r['installation_proxy']='Direct-mounted22mm total:9mm felt+13mm veneer/MDF slats; fine profiles inferred; verify substrate/baseboard onsite.'
   o=box('WoodUpp panel'+str(j+1)+' black felt',(0,-.0045,1.2),(.6,.009,2.4),felt,finish,r);o['role']='architecture'
   for k in range(15):
    x=-.3+.0065+.027/2+k*.040;o=box('WoodUpp panel'+str(j+1)+' vertical BlackAsh slat'+str(k+1),(x,-.0155,1.2),(.027,.013,2.4),slat,finish,r,bevel=.0005);o['role']='architecture'
- layout['workwall_finish']={'paint':'PeppercornSW7674','screen_sRGB':rgb,'panel_count':3,'panel_W_D_H_m':[.6,.022,2.4],'bay_W_H_m':[1.8,2.4],'panel_bottom_z_m':FLOOR,'panel_top_z_m':FLOOR+2.4,'ceiling_upper_band_m':.620,'baseboard':'No separate workwall baseboard geometry recorded in source; onsite mounting detail unmeasured','slat_profile_proxy_m':[.027,.013],'felt_thickness_proxy_m':.009,'slat_pitch_proxy_m':.040}
+ layout['workwall_finish']={'paint':'PeppercornSW7674','screen_sRGB':rgb,'panel_count':5,'panel_W_D_H_m':[.6,.022,2.4],'bay_W_H_m':[3.0,2.4],'bay_center_X_m':-6.10,'panel_bottom_z_m':FLOOR,'panel_top_z_m':FLOOR+2.4,'ceiling_upper_band_m':.620,'baseboard':'No separate workwall baseboard geometry recorded in source; onsite mounting detail unmeasured','slat_profile_proxy_m':[.027,.013],'felt_thickness_proxy_m':.009,'slat_pitch_proxy_m':.040}
 else:layout['workwall_finish']={'paint':'NavalSW6244','screen_sRGB':rgb,'panels':False}
+from composition_products import add_composition
+composition_supports=add_composition(new,layout,products,VARIANT,PRODUCTS)
+layout['workwall_finish']['paint_mesh_names']=paint_names
+layout['workwall_finish']['window_wall_wrap']=True
 # Same neutral/cool overhead/daylight in both; no invented ceiling luminaires.
 for o in bpy.data.objects:
- if o.type=='LIGHT':o.data.color=(.91,.96,1.0) if 'ceiling'in o.name else(.87,.93,1.0)
-scene.view_settings.exposure=-.5;scene.cycles.samples=32;scene.cycles.use_adaptive_sampling=True;scene.cycles.adaptive_threshold=.035;scene.cycles.adaptive_min_samples=12;scene.cycles.use_denoising=False;scene.render.resolution_x=1440;scene.render.resolution_y=1000;scene.render.resolution_percentage=100
+ if o.type=='LIGHT':
+  o.data.color=(.91,.96,1.0) if 'ceiling'in o.name else(.87,.93,1.0)
+  o.data.energy=170 if 'ceiling'in o.name else 230
+scene.view_settings.exposure=-.9;scene.cycles.samples=64;scene.cycles.use_adaptive_sampling=True;scene.cycles.adaptive_threshold=.025;scene.cycles.adaptive_min_samples=16;scene.cycles.use_denoising=False;scene.render.resolution_x=1440;scene.render.resolution_y=1000;scene.render.resolution_percentage=100
 scene.camera=bpy.data.objects['CAM room-a'];scene['design_revision']=layout['design'];scene['source_geometry_authority']=str(guard.SOURCE)
 # Canonical identity/nominal dimensions for every chosen product; keep source fitted geometry metadata.
 for s in layout['items']:
  rr=resolve_root(s['id']);p=products.get(s.get('product_id'),{});rr['pinterest_layout_id']=s['id'];rr['selected_product_id']=s.get('product_id','');rr['canonical_position_blender_m']=s['position_blender_m']
  if p:rr['product_name']=p.get('name',rr.get('product_name',''));rr['product_url']=p.get('source_url',rr.get('product_url',''))
-bpy.data.collections['His Office — kept products and two Branch task chairs'].name='His Office — exact Honeywell-cat and one Branch chair'
+bpy.data.collections['His Office — kept products and two Branch task chairs'].name='His Office — exact Honeywell and cat; owned Mineral Aeron separate'
 bpy.context.view_layer.update();guard.assert_protected(before);images=guard.active_image_checks()
 structure={o for n in guard.STRUCTURE_COLLECTIONS for o in bpy.data.collections[n].all_objects}|set(finish.all_objects);doors=set(bpy.data.collections['02b Existing door leaves — closed observed state'].all_objects)
 furniture={o for o in bpy.data.objects if o.type in ['MESH','EMPTY'] and o.get('role')=='furniture'}
+# Product factories may identify the assembly root rather than each individual
+# mesh. Export every descendant of a furniture assembly, including Aeron mesh.
+for o in list(furniture):
+ furniture.update(guard.descendants(o))
 for o in list(furniture):
  p=o.parent
  while p:furniture.add(p);p=p.parent
@@ -175,7 +197,7 @@ for name in ['room-a','room-b','room-c']:
  cam=bpy.data.objects['CAM '+name];f=cam.matrix_world.to_quaternion()@Vector((0,0,-1));t=cam.location+f
  poses.append({'id':name,'filename':'renders/'+name+'.jpg','eye_blender_m':list(cam.location),'look_direction_blender':list(f),'eye_gltf_m':[cam.location.x,cam.location.z,-cam.location.y],'target_gltf_m':[t.x,t.z,-t.y],'eye':[cam.location.x,cam.location.z,-cam.location.y],'target':[t.x,t.z,-t.y],'lens_mm':cam.data.lens,'sensor_width_mm':cam.data.sensor_width,'horizontal_FOV_deg':math.degrees(2*math.atan(cam.data.sensor_width/(2*cam.data.lens))),'pixels':[1440,1000],'unit':'metres; BlenderZ-up; GLTF[X,Z,-Y]'})
 (ROOT/'camera-poses.json').write_text(json.dumps(poses,indent=2))
-manifest={'variant':VARIANT,'protected_geometry_pass':True,'unchanged_source_sha256':guard.file_hash(guard.SOURCE),'allowed_material_exception':'his-office wall4 segment only; paint screenRGB converted correctly to linear shader values','owned_products_protected':['honeywell-lamp','muttros-cat-tree'],'shared_product_count':len(layout['items']),'mesh_count':sum(o.type=='MESH'for o in bpy.data.objects),'active_images':images,'exports':[]}
+manifest={'variant':VARIANT,'protected_geometry_pass':True,'unchanged_source_sha256':guard.file_hash(guard.SOURCE),'allowed_material_exception':paint_names,'paint_screen_RGB_converted_to_linear_shader':True,'composition_supports':composition_supports,'proposal_status':'Concrete source-photo composition shown before rootGO; no invented additional userapproval','owned_products_protected':['honeywell-lamp','muttros-cat-tree'],'shared_product_count':len(layout['items']),'mesh_count':sum(o.type=='MESH'for o in bpy.data.objects),'active_images':images,'exports':[]}
 for p in sorted(ROOT.iterdir()):
  if p.suffix in ['.blend','.glb','.json'] and p.name!='model-manifest.json':manifest['exports'].append({'filename':p.name,'sha256':guard.file_hash(p),'bytes':p.stat().st_size})
 (ROOT/'model-manifest.json').write_text(json.dumps(manifest,indent=2));print('AUTHORIZED_VARIANT_READY',VARIANT,flush=True)

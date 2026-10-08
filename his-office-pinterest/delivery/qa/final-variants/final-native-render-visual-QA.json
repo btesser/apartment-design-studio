@@ -1,0 +1,82 @@
+{
+  "status": "PASS FOR FINAL NATIVE MODEL VISUAL GUIDES",
+  "method": "Independent visual inspection of allsix final Cycles camera JPGs after native/export proof. Images do not establish metric fit; model coordinate/supplier checks are authoritative.",
+  "images": [
+    {
+      "variant": "b-charcoal-slat",
+      "angle": "a",
+      "file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-a.jpg",
+      "sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+      "pixel_dimensions": [
+        1440,
+        1000
+      ],
+      "visual_result": "PASS: visible source room openings, fixed architecture, furniture facing/count/placement and selected finish coherent; no missing texture/magenta failure.",
+      "notes": "One Mineral Aeron, one monitor on primary only; clear ALEX/ADILS bench, two ledges and independent Richmond. Bfive-panel bay retains upper band; C plain Naval wall. Honeywellhead/tree/window/door relationships coherent."
+    },
+    {
+      "variant": "b-charcoal-slat",
+      "angle": "b",
+      "file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-b.jpg",
+      "sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+      "pixel_dimensions": [
+        1440,
+        1000
+      ],
+      "visual_result": "PASS: visible source room openings, fixed architecture, furniture facing/count/placement and selected finish coherent; no missing texture/magenta failure.",
+      "notes": "Closet/cupboard and living doorway unchanged. Visitor facingdesks, taskchairforeground, print/lowledge above clearbench; highledge partly cropped legitimately."
+    },
+    {
+      "variant": "b-charcoal-slat",
+      "angle": "c",
+      "file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-c.jpg",
+      "sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+      "pixel_dimensions": [
+        1440,
+        1000
+      ],
+      "visual_result": "PASS: visible source room openings, fixed architecture, furniture facing/count/placement and selected finish coherent; no missing texture/magenta failure.",
+      "notes": "Recessed white fireplace arch with thin internal bottom brick course; no mantel/raisedhearth. Three wickerbaskets, dresser/radiator/reardoor, opalglobe/small tabletopplant and visitor relationship coherent."
+    },
+    {
+      "variant": "c-ink-studio",
+      "angle": "a",
+      "file": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-a.jpg",
+      "sha256": "b66587fdcce1765328eaac9d82a21b84e522d0486b87de14a0b9da32b692c13c",
+      "pixel_dimensions": [
+        1440,
+        1000
+      ],
+      "visual_result": "PASS: visible source room openings, fixed architecture, furniture facing/count/placement and selected finish coherent; no missing texture/magenta failure.",
+      "notes": "One Mineral Aeron, one monitor on primary only; clear ALEX/ADILS bench, two ledges and independent Richmond. Bfive-panel bay retains upper band; C plain Naval wall. Honeywellhead/tree/window/door relationships coherent."
+    },
+    {
+      "variant": "c-ink-studio",
+      "angle": "b",
+      "file": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-b.jpg",
+      "sha256": "602367170aed3139a8c918cf53c5426db979be84622ff6d2fc2d478f3f8c80ae",
+      "pixel_dimensions": [
+        1440,
+        1000
+      ],
+      "visual_result": "PASS: visible source room openings, fixed architecture, furniture facing/count/placement and selected finish coherent; no missing texture/magenta failure.",
+      "notes": "Closet/cupboard and living doorway unchanged. Visitor facingdesks, taskchairforeground, print/lowledge above clearbench; highledge partly cropped legitimately."
+    },
+    {
+      "variant": "c-ink-studio",
+      "angle": "c",
+      "file": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-c.jpg",
+      "sha256": "b7d85041641b8815d1b9f335305fc70ba27d86b754cb19aa7e1a666882365ce5",
+      "pixel_dimensions": [
+        1440,
+        1000
+      ],
+      "visual_result": "PASS: visible source room openings, fixed architecture, furniture facing/count/placement and selected finish coherent; no missing texture/magenta failure.",
+      "notes": "Recessed white fireplace arch with thin internal bottom brick course; no mantel/raisedhearth. Three wickerbaskets, dresser/radiator/reardoor, opalglobe/small tabletopplant and visitor relationship coherent."
+    }
+  ],
+  "limits": [
+    "Lighting/noise/photo-proxy silhouettes are presentation differences, not additional measured geometry.",
+    "Owned Aeron options/live palm form/Honeywell and cat detailed profiles retain explicitly recorded source uncertainty."
+  ]
+}

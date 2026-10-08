@@ -1,0 +1,216 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@id": "https://bloomscape.com/product/parlor-palm/#product",
+        "additionalProperty": [
+          {
+            "name": "Pot",
+            "@type": "PropertyValue",
+            "value": "CO\u2082-neutral Eco-Pot, 80% recycled"
+          },
+          {
+            "name": "Difficulty",
+            "@type": "PropertyValue",
+            "value": "No-Fuss - Easy Care"
+          },
+          {
+            "name": "Height",
+            "@type": "PropertyValue",
+            "value": "MD - 15\"-22\" tall (including recycled plastic Ecopot)"
+          },
+          {
+            "name": "Light",
+            "@type": "PropertyValue",
+            "value": "Low to Bright Indirect"
+          },
+          {
+            "name": "Pet-safe",
+            "@type": "PropertyValue",
+            "value": "Yes"
+          }
+        ],
+        "brand": {
+          "name": "Bloomscape",
+          "@type": "Brand"
+        },
+        "description": "Buy a Parlor Palm indoor plant available in 5 pot colors. 30-Day Guarantee on all plants.",
+        "hasVariant": [
+          {
+            "@type": "Product",
+            "name": "EcoPot / Charcoal",
+            "sku": "48754443616552",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Charcoal",
+            "material": "EcoPot",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_parlor-palmloomscape_charcoal-e1628866521690_580x696_crop_center@2x.jpg?v=1718655792",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "69.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=48754443616552"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "EcoPot / White",
+            "sku": "50710705537320",
+            "inProductGroupWithID": "9305147572520",
+            "color": "White",
+            "material": "EcoPot",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/parlor-palm__md__white_580x696_crop_center@2x.png?v=1776783128",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "69.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=50710705537320"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "EcoPot / Clay",
+            "sku": "48754443583784",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Clay",
+            "material": "EcoPot",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_parlor-palmloomscape_clay-e1628866461622_580x696_crop_center@2x.jpg?v=1718655791",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "69.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=48754443583784"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "EcoPot / Slate",
+            "sku": "48754443551016",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Slate",
+            "material": "EcoPot",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_parlor-palmloomscape_slate-e1625249746437_580x696_crop_center@2x.jpg?v=1718655788",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "69.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=48754443551016"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "EcoPot / Stone",
+            "sku": "48754443518248",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Stone",
+            "material": "EcoPot",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_parlor-palmloomscape_stone-e1628866595817_580x696_crop_center@2x.jpg?v=1718655790",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "69.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=48754443518248"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "EcoPot / Indigo",
+            "sku": "48754443485480",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Indigo",
+            "material": "EcoPot",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_parlor-palmloomscape_indigo-e1628866657954_580x696_crop_center@2x.jpg?v=1718655790",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "69.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=48754443485480"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Self-Watering / Charcoal",
+            "sku": "50320852746536",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Charcoal",
+            "material": "Self-Watering",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/self-watering-charcoal-pot_7c729323-2194-42b4-9051-fbafe1c21fed_580x696_crop_center@2x.png?v=1750347318",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "89.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=50320852746536"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Self-Watering / Clay",
+            "sku": "50320852713768",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Clay",
+            "material": "Self-Watering",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/self-watering-clay-pot_5fb6c618-6d36-4e47-91a6-151de0995c62_580x696_crop_center@2x.png?v=1750347330",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "89.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=50320852713768"
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Self-Watering / Slate",
+            "sku": "50320852681000",
+            "inProductGroupWithID": "9305147572520",
+            "color": "Slate",
+            "material": "Self-Watering",
+            "image": "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/self-watering-slate-pot_32522042-412d-4f14-9ef8-f0a17da6b8c2_580x696_crop_center@2x.png?v=1750347585",
+            "offers": {
+              "availability": "https://schema.org/OutOfStock",
+              "priceCurrency": "USD",
+              "itemCondition": "https://schema.org/NewCondition",
+              "price": "89.0",
+              "@type": "Offer",
+              "url": "https://bloomscape.com/product/parlor-palm/?variant=50320852681000"
+            }
+          }
+        ],
+        "image": [
+          "https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_parlor-palmloomscape_charcoal-e1628866521690_580x696_crop_center@2x.jpg?v=1718655792"
+        ],
+        "name": "Parlor Palm",
+        "offers": {
+          "availability": "https://schema.org/OutOfStock",
+          "priceCurrency": "USD",
+          "itemCondition": "https://schema.org/NewCondition",
+          "price": "69.0",
+          "@type": "Offer",
+          "url": "https://bloomscape.com/product/parlor-palm/"
+        },
+        "@type": "ProductGroup",
+        "url": "https://bloomscape.com/product/parlor-palm/",
+        "productGroupID": "9305147572520",
+        "variesBy": [
+          "https://schema.org/color",
+          "https://schema.org/material"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+{
+  "id": "aeron-size-c-mineral",
+  "category": "owned_primary_task_chair",
+  "name": "Owned Herman Miller Aeron Large / Size C, Mineral light gray",
+  "brand": "Herman Miller",
+  "owned_status": "Already owned by user; no chair purchase",
+  "quantity": 1,
+  "price_USD": 0,
+  "line_total_USD": 0,
+  "user_confirmed": {
+    "model": "Aeron",
+    "size": "Large / Size C",
+    "finish": "Light gray / Mineral"
+  },
+  "unconfirmed_owned_details": [
+    "Classic versus Remastered vintage",
+    "base material/polish",
+    "arm-adjustability configuration",
+    "back support configuration",
+    "caster surface specification",
+    "cylinder-height option"
+  ],
+  "source_reference": {
+    "source_url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099909.html?lang=en_US",
+    "reference_sku": "100099909",
+    "reference_configuration": "Aeron Chair, Mineral / Satin Aluminum, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Leather, Carpet Caster",
+    "reference_only_note": "Current manufacturer remastered-family Mineral Size C reference; do not identify the owned chair as this exact SKU or vintage. No price is used because the chair is owned."
+  },
+  "source_url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099909.html?lang=en_US",
+  "selected_color": "Mineral light gray",
+  "official_image_file": "/workspace/his-office-pinterest/products/owned-chair/aeron-c-mineral-official.png",
+  "official_photos": [
+    {
+      "file": "/workspace/his-office-pinterest/products/owned-chair/aeron-c-mineral-official.png",
+      "url": "https://images.hermanmiller.group/asset/3c19a51c-19a3-4010-bef9-61e0dbfde38f/W/AeronChair_100099909_Front.png",
+      "sha256": "78123f016902ee3f54551e45813605fe8059878516782dac88858835291902ec",
+      "bytes": 222209,
+      "description": "Original official product photo attached to exact current Mineral/Satin Aluminum Size C reference SKU100099909. Owned base polish/back/arm/caster options are not confirmed.",
+      "pixels_edited": false,
+      "visually_inspected": true,
+      "pixel_dimensions": [
+        2000,
+        2000
+      ]
+    }
+  ],
+  "dimensions_m_W_D_H": [
+    0.71882,
+    0.71882,
+    1.0922
+  ],
+  "dimensions_note": "Current manufacturer Size C normal-width/max-depth and retail43in nominal height for display. Final pose height derives from seat-height setting. This is a source-guided proxy envelope, not measurements of the actual owned chair.",
+  "manufacturer_specs": {
+    "source_url": "https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/specs/",
+    "source_file": "/workspace/his-office-pinterest/products/owned-chair/aeron-specs.html",
+    "fully_adjustable_arm_model": {
+      "overall_height_inches": [
+        40,
+        45.4
+      ],
+      "overall_height_m": [
+        1.016,
+        1.15316
+      ],
+      "overall_width_inches": [
+        28.3,
+        31.6
+      ],
+      "overall_width_m": [
+        0.71882,
+        0.80264
+      ],
+      "overall_depth_inches": [
+        27.5,
+        28.3
+      ],
+      "overall_depth_m": [
+        0.6985,
+        0.71882
+      ],
+      "seat_depth_inches": 18.5,
+      "seat_depth_m": 0.4699,
+      "seat_height_inches": [
+        15.8,
+        22.8
+      ],
+      "seat_height_m": [
+        0.40132,
+        0.57912
+      ],
+      "arm_height_above_seat_inches": [
+        7.5,
+        11.5
+      ],
+      "arm_height_above_seat_m": [
+        0.1905,
+        0.2921
+      ]
+    },
+    "notes": "Width varies with arm configuration/position. These current manufacturer ranges vary by cylinder/arm options; actual owned settings are not established. Overall-depth range is the correct room-fit reference;18.5in is seat pan, not overall chair depth."
+  },
+  "retail_reference_specs": {
+    "source_file": "/workspace/his-office-pinterest/products/owned-chair/aeron-mineral-size-c-store.html",
+    "normal_width_inches": 28.25,
+    "base_diameter_inches": 26.5,
+    "base_diameter_m": 0.6731,
+    "caster_diameter_inches": 2.5,
+    "caster_diameter_m": 0.0635,
+    "seat_height_inches": [
+      16,
+      20.5
+    ],
+    "seat_height_m": [
+      0.4064,
+      0.5207
+    ],
+    "nominal_height_inches": 43,
+    "nominal_height_m": 1.0922,
+    "difference_note": "Retail normal width28.25in versus professional nominal28.3in is rounding. Retail standard-cylinder seat travel differs from professional available-cylinder range; preserve both sources."
+  },
+  "collision_footprint_m": [
+    0.80264,
+    0.71882
+  ],
+  "base_diameter_m": 0.6731,
+  "caster_diameter_m": 0.0635,
+  "fit_note": "Check chair transfer/turning with the maximum published expanded-arm envelope, plus ergonomic clearance; do not use seat-pan depth as floor footprint. Arm settings can be reduced for the transfer if actual user configuration supports it. Layout agent owns the resulting fit proof.",
+  "geometry_source": {
+    "official_assets": [
+      {
+        "file": "/workspace/his-office-pinterest/products/owned-chair/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms.skp",
+        "url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/a/aeron_chairs/aeron_chair_c_size_fully_adjustable_arms/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms.skp",
+        "sha256": "2a492ca6c215242daca61ee3334f5465e1a191ee8ebe6a69c4db6317c1e9f7c2",
+        "bytes": 5295427,
+        "description": "Original supplier Size C Fully Adjustable Arms planning asset from current primary Aeron professional resources page; not converted or geometrically measured.",
+        "pixels_edited": false,
+        "visually_inspected": false
+      },
+      {
+        "file": "/workspace/his-office-pinterest/products/owned-chair/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_3D.dwg",
+        "url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/a/aeron_chairs/aeron_chair_c_size_fully_adjustable_arms/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_3D.dwg",
+        "sha256": "75bc5c754063b0affa16f8700c9609959e2fcc11fd2ec9971ace48f19c662337",
+        "bytes": 1887737,
+        "description": "Original supplier Size C Fully Adjustable Arms planning asset from current primary Aeron professional resources page; not converted or geometrically measured.",
+        "pixels_edited": false,
+        "visually_inspected": false
+      },
+      {
+        "file": "/workspace/his-office-pinterest/products/owned-chair/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_2D.dwg",
+        "url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/a/aeron_chairs/aeron_chair_c_size_fully_adjustable_arms/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_2D.dwg",
+        "sha256": "ce88268d6159b23dc2a8db11b22cc37aee00d670e987e66244dc33dc4a443397",
+        "bytes": 27137,
+        "description": "Original supplier Size C Fully Adjustable Arms planning asset from current primary Aeron professional resources page; not converted or geometrically measured.",
+        "pixels_edited": false,
+        "visually_inspected": false
+      }
+    ],
+    "source_page_url": "https://www.hermanmiller.com/products/seating/office-chairs/aeron-chair/pro-resources/",
+    "source_page_file": "/workspace/his-office-pinterest/products/owned-chair/aeron-pro-resources.html",
+    "source_subtype": "Aeron Chair C Size Fully Adjustable Arms",
+    "status": "Official original SketchUp/AutoCAD files downloaded. No directly advertised supplier GLB/OBJ/DAE/3DS located in bounded primary research; no successful conversion to Blender geometry yet.",
+    "units_note": "Native CAD units/bounds not yet decoded; do not assume SketchUp numeric coordinates are meters. Blender proxy must be scaled to verified published Size C envelope and disclosed until converted CAD is validated.",
+    "model_vintage_note": "Model files are currently published by manufacturer; SKU/photo references are current remastered-family. Source file or brochure does not prove the exact vintage/options of the owned chair.",
+    "preview": {
+      "file": "/workspace/his-office-pinterest/products/owned-chair/aeron-c-official-cad-preview.jpg",
+      "url": "https://www.hermanmiller.com/content/dam/hmicom/app_assets/product_models/a/aeron_chairs/aeron_chair_c_size_fully_adjustable_arms/HMI_Aeron_Chair_C_Size_Fully_Adjustable_Arms_mdl_c.jpg",
+      "sha256": "3b4f998bcbbc2f9e7e91921b32e81d910adb3884df7c10b26f162dcc747d8b75",
+      "bytes": 265794,
+      "description": "Manufacturer generic supplier CAD preview, not Mineral finish photography.",
+      "pixels_edited": false,
+      "visually_inspected": true,
+      "pixel_dimensions": [
+        1600,
+        1200
+      ]
+    },
+    "outline": {
+      "file": "/workspace/his-office-pinterest/products/owned-chair/aeron-c-official-dimension-drawing.jpg",
+      "url": "https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/aeron_chair/202106/dim_prd_spc_aeron_chair_c_size_fully_adjustable_arms.jpg",
+      "sha256": "5a213c1c78f91ef58461acc238f4d2e33974623ee7e9bb1dca1cb8d1a6a43473",
+      "bytes": 189765,
+      "description": "Official C-size outline. Image itself has no dimension labels; numerical dimensions come from primary specs page.",
+      "pixels_edited": false,
+      "visually_inspected": true,
+      "pixel_dimensions": [
+        1600,
+        1600
+      ]
+    }
+  },
+  "source_evidence_files": [
+    "/workspace/his-office-pinterest/products/owned-chair/aeron-mineral-size-c-reference-variant.json",
+    "/workspace/his-office-pinterest/products/owned-chair/aeron-mineral-size-c-store-jsonld.json",
+    "/workspace/his-office-pinterest/products/owned-chair/aeron-specs.html"
+  ],
+  "research_date": "2026-10-08",
+  "selection_status": "User-confirmed owned model/size/finish. Reference options/vintage remain disclosed; no purchases or room-model changes by product researcher."
+}

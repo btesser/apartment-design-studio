@@ -1,0 +1,17 @@
+{
+  "variant": "c-ink-studio",
+  "views": {
+    "room-a": {
+      "image_sha256": "b66587fdcce1765328eaac9d82a21b84e522d0486b87de14a0b9da32b692c13c",
+      "source_blend_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "visual_review_utc": "2026-10-08T20:34:57.305733+00:00",
+      "status": "PASS for source geometry reference",
+      "observations": [
+        "One light-gray open-weave Aeron task chair, one clear fixed project bench, primary monitor only.",
+        "Open Honeywell head, source window/door positions, correct ledge and independent landscape-art mounts.",
+        "Materials intact; no missing-texture magenta. Dark palette remains readable; fine residual CPU path-tracing grain."
+      ],
+      "note": "Geometry and product fit are established by independent mesh/support tests, not judged from this perspective image alone."
+    }
+  }
+}

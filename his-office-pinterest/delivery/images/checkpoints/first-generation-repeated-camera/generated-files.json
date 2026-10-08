@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b-a",
+    "generator_file": "/workspace/generated_images/exec-1d607165-b6e0-4c6d-acfe-8301c8bc278c.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-1d607165-b6e0-4c6d-acfe-8301c8bc278c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "b-b",
+    "generator_file": "/workspace/generated_images/exec-3cc95f51-d89d-4240-a8c9-6376f380170e.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-3cc95f51-d89d-4240-a8c9-6376f380170e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "b-c",
+    "generator_file": "/workspace/generated_images/exec-2467472c-a875-44c0-8620-f64d141a074c.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-2467472c-a875-44c0-8620-f64d141a074c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "c-a",
+    "generator_file": "/workspace/generated_images/exec-b1c8054b-6af3-424b-9371-3bd193e68cb7.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-b1c8054b-6af3-424b-9371-3bd193e68cb7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "c-b",
+    "generator_file": "/workspace/generated_images/exec-bb3e59c9-56a3-40b8-8be2-edd231923908.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-bb3e59c9-56a3-40b8-8be2-edd231923908.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "c-c",
+    "generator_file": "/workspace/generated_images/exec-7656464b-4452-4737-b839-2f3a3d8bb9b0.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-7656464b-4452-4737-b839-2f3a3d8bb9b0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

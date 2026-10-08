@@ -1,0 +1,24 @@
+HIS OFFICE — TWO COHESIVE DARK DESIGN ALTERNATIVES
+
+Start with His-office-B-C-design-review.pdf for the shared plan, real products,
+budgets and three matched comparisons of B and C.
+
+Open his-office-viewer.html in a current desktop browser to explore the actual
+3D room and switch between B Charcoal + Slat Bay and C Naval Studio. The viewer
+is self-contained; it does not need a server or an internet connection. The
+included his-office-viewer-source.zip contains editable source and instructions.
+
+The six final appearance studies are the original generator PNGs:
+  variants/b-charcoal-slat/images/concept-a.png, concept-b.png, concept-c.png
+  variants/c-ink-studio/images/concept-a.png, concept-b.png, concept-c.png
+
+Each variant's model/ folder contains his-office-design.blend, portable GLB
+files, its exact furniture layout, camera poses and the corresponding source
+renders. The models define proposed dimensions and placement; generated photos
+illustrate finishes and atmosphere.
+
+layout/final-furnished-plan.pdf is the full dimensioned standalone plan.
+DESIGN-BRIEF.txt explains the composition and practical limits. Product URLs,
+prices and original photographs are in products/selected-products.json.
+Source hashes and final fit/image checks accompany the package. FILE-MANIFEST.json
+lists the packaged files and their SHA-256 hashes.

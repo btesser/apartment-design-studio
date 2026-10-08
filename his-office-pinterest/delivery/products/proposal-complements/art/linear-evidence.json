@@ -1,0 +1,137 @@
+{
+  "id": "linear",
+  "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/linear-print/",
+  "currency": "USD",
+  "title": "Linear Print",
+  "description_html": "<p>A hand-painted poster with a large red rectangle on a dark maroon background. Thin pink lines form abstract shapes on top, creating depth and movement.</p>",
+  "available_combinations": [
+    {
+      "id": 104180,
+      "size": "21x30",
+      "sizeTitle": "8\" x 12\" in",
+      "articleNumber": "20490-4",
+      "stock": 999999,
+      "price": 29.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a217f44318e9b4d8e507271_490751029_20490-4.jpg",
+          "width": 2857,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104178,
+      "size": "30x40",
+      "sizeTitle": "12\" x 16\" in",
+      "articleNumber": "20490-5",
+      "stock": 45,
+      "price": 45.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a217f480889af99dddf53dd_317445827_20490-5.jpg",
+          "width": 2667,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104179,
+      "size": "40x50",
+      "sizeTitle": "16\" x 20\" in",
+      "articleNumber": "20490-6",
+      "stock": 999999,
+      "price": 53.95,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a217f4a2c54dd98cf94e715_1361619653_20490-6.jpg",
+          "width": 2500,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104177,
+      "size": "50x70",
+      "sizeTitle": "20\" x 28\" in",
+      "articleNumber": "20490-8",
+      "stock": 42,
+      "price": 73.45,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a217f4d2c54dd98cf94e718_249707456_20490-8.jpg",
+          "width": 2800,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 104176,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "20490-1",
+      "stock": 96,
+      "price": 98,
+      "campaignPrice": null,
+      "images": [
+        {
+          "URL": "6a217f3e04d4a79f27e6843f_1387306218_20490-1.jpg",
+          "width": 2857,
+          "height": 2000,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        }
+      ]
+    }
+  ],
+  "selected_70x100": {
+    "id": 104176,
+    "productID": 44316,
+    "stock": 96,
+    "size": "70x100",
+    "sizeTitle": "28\" x 39\" in",
+    "articleNumber": "20490-1",
+    "parentArticleNumber": "20490",
+    "price": 98,
+    "campaignPrice": null,
+    "optionItemIDs": [
+      80922
+    ],
+    "isPrintOnDemand": 0,
+    "images": [
+      {
+        "URL": "6a217f3e04d4a79f27e6843f_1387306218_20490-1.jpg",
+        "width": 2857,
+        "height": 2000,
+        "systemCode": "variant_main_image",
+        "alt": "",
+        "listOrder": 1
+      }
+    ],
+    "image_url": "https://media.desenio.com/site_images/6a217f3e04d4a79f27e6843f_1387306218_20490-1.jpg",
+    "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/linear-70x100-official.jpg",
+    "image_sha256": "798ad6040ccf89aa101c6a5e141efdbb591f053edef1224e71787cb86a66e569",
+    "actual_image_dimensions": [
+      2857,
+      2000
+    ],
+    "pixels_edited": false
+  }
+}

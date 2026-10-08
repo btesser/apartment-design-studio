@@ -1,0 +1,341 @@
+{
+  "version": "selected-composition-pieces-2026-10-08",
+  "research_date": "2026-10-08",
+  "status": "Root-selected shared finishing pieces for B/C; no purchases/model edits by product researcher.",
+  "items": [
+    {
+      "id": "mosslanda-black-display-ledge",
+      "category": "display_shelving",
+      "name": "IKEA MOSSLANDA black picture/display ledge, 115cm",
+      "sku": "702.921.04",
+      "price_USD": 19.99,
+      "quantity": 2,
+      "line_total_USD": 39.98,
+      "source_url": "https://www.ikea.com/us/en/p/mosslanda-picture-ledge-black-70292104/",
+      "price_checked_date": "2026-10-08",
+      "selection_status": "Selected by root for both B/C composition; not purchased.",
+      "dimensions_m_W_D_H": [
+        1.1499348878860474,
+        0.12000032141804695,
+        0.07000001519918442
+      ],
+      "dimensions_note": "Official 1:1 supplier GLB: 1.149935W\u00d7.120000D\u00d7.070000H meters. US rounded label45\u00bc\u00d74\u00bein differs slightly; 12cm includes front/back lips and is not usable tray depth.",
+      "official_photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/mosslanda-black-original.jpg",
+          "url": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__0634120_pe696314_s5.jpg",
+          "sha256": "ddab7fcca179a589fc7311f07911bc068fb2182ef780ddbd60e3f1e77af35df1",
+          "bytes": 33455,
+          "original_bytes": true,
+          "description": "Original IKEA black MOSSLANDA product photo, no image editing.",
+          "visually_inspected": true,
+          "pixels": [
+            1400,
+            1400
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "geometry": {
+        "type": "Official IKEA GLB",
+        "asset": {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/mosslanda-official.glb",
+          "url": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/isp3/glb/70292104_PS01_S01_NV01_ISP3_2.0_1ef2619cca174365bf915b96c1518f6a.glb?cn=pip",
+          "sha256": "0e33f5566c41471a5ec4bf91f737a188a5b10380b4ace5cc7616a2673d19507b",
+          "bytes": 2022816,
+          "original_bytes": true,
+          "description": "Official black ledge geometry, native glTF Y-up; Blender importer converts to Z-up.",
+          "visually_inspected": false
+        },
+        "bounds_file": "/workspace/his-office-pinterest/products/composition-pieces/official-assets-bounds.json",
+        "scale": "Preserve supplier meters 1:1."
+      },
+      "source_details_file": "/workspace/his-office-pinterest/products/composition-pieces/finishing-selected-products.json",
+      "max_load_kg": 7.4989,
+      "max_load_source_lb": 16.53,
+      "max_picture_height_m": 0.45085,
+      "materials": "Fiberboard with paper foil.",
+      "mounting_note": "Screws/wall hardware not included. Select fasteners for substrate; through any acoustic panel/felt into suitable structural wall support, not supported by felt or adhesive alone.",
+      "art_relationship": "Richmond70cm-high print is independently wall-mounted; do not lean it on ledge whose published picture-height limit is45cm.",
+      "placement_intent": [
+        {
+          "where": "Above fixed project bench",
+          "center_height_m": 1.25,
+          "contents": "A few illustrative small books/low objects only."
+        },
+        {
+          "where": "Above primary standing desk",
+          "center_height_m": 2.1,
+          "bottom_approx_m": 2.03,
+          "contents": "A few illustrative small books; verify monitor at full desk lift before installation."
+        }
+      ],
+      "availability_note": "IKEA metadata InStock on research date; local store/ZIP availability not checked.",
+      "source_page_file": "/workspace/his-office-pinterest/products/composition-pieces/mosslanda.html"
+    },
+    {
+      "id": "fado-kajplats-opal-table-lamp",
+      "category": "decorative_table_lighting",
+      "name": "IKEA FADO / KAJPLATS white opal-glass table lamp, smart white/color bulb + remote kit",
+      "sku": "296.549.71",
+      "price_USD": 44.98,
+      "quantity": 1,
+      "line_total_USD": 44.98,
+      "source_url": "https://www.ikea.com/us/en/p/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum-s29654971/",
+      "price_checked_date": "2026-10-08",
+      "selection_status": "Selected by root for both B/C composition; not purchased.",
+      "dimensions_m_W_D_H": [
+        0.254,
+        0.254,
+        0.2286
+      ],
+      "dimensions_note": "US published lamp body\u00d810in\u00d7H9in. Official source body\u00d8.239882\u00d7H.236489m differs from rounded catalog; entire cord-inclusive CAD X.472768m is not body diameter. Both original CAD and explicit separated-body measurements retained.",
+      "official_photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/fado-white-original.jpg",
+          "url": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0606976_pe682645_s5.jpg",
+          "sha256": "b58d42da2aadaa735cfbb7bb94cf919ca2bd731ca7514c31c38eb38e14d459ce",
+          "bytes": 29863,
+          "original_bytes": true,
+          "description": "Original pure FADO globe component photo; selected complete kit includes bulb and remote.",
+          "visually_inspected": true,
+          "pixels": [
+            1400,
+            1400
+          ],
+          "format": "JPEG"
+        },
+        {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/fado-kajplats-kit-original.jpg",
+          "url": "https://www.ikea.com/us/en/images/products/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum__1560525_pe1025400_s5.jpg",
+          "sha256": "c834f65101e09eff74dddfada602a94abe7ae513392ded9a96d7cc99878092ce",
+          "bytes": 35487,
+          "original_bytes": true,
+          "description": "Original actual kit photograph showing white globe, bulb and remote.",
+          "visually_inspected": true,
+          "pixels": [
+            1400,
+            1400
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "geometry": {
+        "type": "Original supplier CAD reference; catalog-dimensioned body proxy permitted with disclosed source-envelope difference.",
+        "asset": {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/fado-official.glb",
+          "url": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp3/glb/93bd49030f65437d811a53b42db2f382-70096377_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+          "sha256": "bc7b2361f095c43f672dce1af723d1b2065e30197196281d12233c27b85db056",
+          "bytes": 1733584,
+          "original_bytes": true,
+          "description": "Official FADO body/cord/switch mesh; no scaling to entire source bounding box.",
+          "visually_inspected": false
+        },
+        "body_measurements": {
+          "measurement_method": "Connected components of original manufacturer mesh, temporary in-memory weld for measurement only; original GLB unchanged.",
+          "included_components_by_vertices": [
+            7426,
+            2097,
+            896,
+            896
+          ],
+          "excluded": "Cord, inline switch and cable-entry pieces",
+          "native_body_min_m": [
+            -0.0034976378083229065,
+            -0.11994076520204544,
+            0.0
+          ],
+          "native_body_max_m": [
+            0.23638391494750977,
+            0.11994076520204544,
+            0.23648911714553833
+          ],
+          "native_body_dimensions_m": [
+            0.23988155275583267,
+            0.23988153040409088,
+            0.23648911714553833
+          ],
+          "native_body_center_XY_m": [
+            0.11644313856959343,
+            0.0
+          ],
+          "catalog_body_diameter_height_m": [
+            0.254,
+            0.2286
+          ],
+          "model_recommendation": "Use catalog-dimensioned body proxy with the actual globe/base silhouette, disclosing source CAD versus catalog envelope adjustment. Route cord independently. Do not rescale the whole cord-inclusive source GLB to the globe diameter."
+        },
+        "body_measurements_file": "/workspace/his-office-pinterest/products/composition-pieces/fado-body-measurements.json",
+        "original_overall_bounds": {
+          "importer": "Blender glTF native Y-up converted to Blender Z-up",
+          "world_min_m": [
+            -0.23638390004634857,
+            -0.11994076520204544,
+            0.0
+          ],
+          "world_max_m": [
+            0.23638391494750977,
+            0.11994076520204544,
+            0.23648911714553833
+          ],
+          "dimensions_m": [
+            0.47276781499385834,
+            0.23988153040409088,
+            0.23648911714553833
+          ],
+          "materials": [
+            "Material_0.3038"
+          ],
+          "mesh_count": 1,
+          "source_transform_preserved": true
+        }
+      },
+      "source_details_file": "/workspace/his-office-pinterest/products/composition-pieces/finishing-selected-products.json",
+      "components": [
+        {
+          "id": "700.963.77",
+          "name": "FADO white glass table lamp",
+          "quantity": 1
+        },
+        {
+          "id": "906.114.78",
+          "name": "KAJPLATS E26 smart white/color bulb and remote starter kit",
+          "quantity": 1
+        }
+      ],
+      "luminous_flux_lm": 1055,
+      "bulb_power_W": 8,
+      "rated_lifetime_h": 25000,
+      "default_CCT_K": 2700,
+      "selectable_white_CCT_K": [
+        2200,
+        2700,
+        4000,
+        6500
+      ],
+      "remote_control_note": "Kit pre-paired, remote included. Basic included-remote use does not require app/hub; optional Matter-enabled hub/app adds functions. Remote power/batteries to check at installation; batteries not priced as a selected product.",
+      "materials": "White opal glass shade, polypropylene base.",
+      "cord_length_published_m": 1.8034,
+      "cord_note": "Bundle page5ft11in; standalone lamp page6ft1in. Route actual cord to outlet and verify reach, not through circulation.",
+      "family_price_note": "IKEA Family$34.98 Oct7\u2013Nov11 2026 or while supplies last, membership conditional; budget uses regular$44.98.",
+      "availability_note": "Local store/ZIP availability not checked.",
+      "placement_intent": "On folded-clothes dresser opposite compact palm; central tray/top remains useful.",
+      "source_page_file": "/workspace/his-office-pinterest/products/composition-pieces/fado-kajplats.html",
+      "source_reliability_note": "Use written product details/technical specifications. Auto-caption describing touch-sensitive lamp is not taken as control evidence; actual selected control is included remote."
+    },
+    {
+      "id": "grovemade-dark-grey-medium-plus",
+      "category": "desk_organization",
+      "name": "Grovemade Wool Felt Desk Pad, Dark Grey / Medium Plus",
+      "sku": "FG-DESKPAD-WOOL-MDP-DKGREY",
+      "price_USD": 100.0,
+      "quantity": 1,
+      "line_total_USD": 100.0,
+      "source_url": "https://grovemade.com/product/wool-felt-desk-pad/?initial=683",
+      "price_checked_date": "2026-10-08",
+      "selection_status": "Selected by root for both B/C composition; not purchased.",
+      "dimensions_m_W_D_H": [
+        0.9652,
+        0.40005,
+        0.0035
+      ],
+      "dimensions_note": "Exact38W\u00d715.75D inches converted to meters; technical specifications say3.5mm thick while intro says3mm. Render uses3.5mm technical value. No supplier CAD found.",
+      "official_photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/grovemade-darkgrey-mediumplus-original.jpg",
+          "url": "https://grovemade.com/shop-static/shop/variant/grovemade-woolfelt-desk-pad-dark-deepmedium-galA-A1.jpg?_v=1631199017.5250502",
+          "sha256": "3891f7b90a716ee4afb5b5a70ec7a54dd8bd8f2ae29cbf7ef5317f67825d6ad9",
+          "bytes": 386032,
+          "original_bytes": true,
+          "description": "Original selected MediumPlus DarkGrey product photo; pictured keyboard/mouse/mug are supplier styling and not included purchases.",
+          "visually_inspected": true,
+          "pixels": [
+            1920,
+            1920
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "geometry": {
+        "type": "Dimensioned/photo-guided proxy, not supplier CAD"
+      },
+      "source_details_file": "/workspace/his-office-pinterest/products/composition-pieces/finishing-selected-products.json",
+      "variant_id": 683,
+      "materials": "Premium German virgin Merino wool felt, vegetable-tanned leather label.",
+      "fit_note": "On120\u00d768.5cm primary desk leaves about11.74cm each side when centered and28.495cm total remaining depth. Does not cover or join the independent project bench.",
+      "use_note": "Manufacturer says not designed as a writing surface; works with optical mice. Fixed project bench remains available for handwriting/project work.",
+      "availability_note": "Manufacturer lists InStock, ships in2weeks on research date; destination delivery not checked.",
+      "source_page_file": "/workspace/his-office-pinterest/products/composition-pieces/grovemade-felt-mediumplus.html"
+    },
+    {
+      "id": "sill-small-parlor-westcott-black",
+      "category": "live_tabletop_greenery",
+      "name": "The Sill Small Parlor Palm + Westcott Black ceramic planter/saucer",
+      "sku": "BN-PAL-PAR-4-WC5BK",
+      "price_USD": 79.0,
+      "quantity": 1,
+      "line_total_USD": 79.0,
+      "source_url": "https://www.thesill.com/products/parlor-palm?variant=41732265410665",
+      "price_checked_date": "2026-10-08",
+      "selection_status": "Selected by root for both B/C composition; not purchased.",
+      "dimensions_m_W_D_H": [
+        0.127,
+        0.127,
+        0.2794
+      ],
+      "dimensions_note": "Product variant labels small plant6\u201311in tall from nursery-pot bottom to foliage top (.1524\u2013.2794m), planter4.75in wide; separate official Westcott page rounds small planter5in=.127m outerdiameter. .2794m is upper source plant height used as design envelope, not guaranteed full outer-pot assembly height or measured delivered specimen. Pot height and crown diameter unpublished; any proxy must disclose those shape/size assumptions. No supplier CAD.",
+      "official_photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/composition-pieces/sill-small-parlor-westcott-black-original.jpg",
+          "url": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Parlor-Palm_Small_Westcott_Black_Variant.jpg?v=1770151098",
+          "sha256": "261229f58c65f4d55e49dd976c8286b3687c29cf3b67f221b4c763c5a3c14e2f",
+          "bytes": 209513,
+          "original_bytes": true,
+          "description": "Original exact available small ParlorPalm/WestcottBlack variant photograph; preserve complete image and never enlarge into a floor tree.",
+          "visually_inspected": true,
+          "pixels": [
+            1200,
+            1553
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "geometry": {
+        "type": "Dimensioned/photo-guided proxy, not supplier CAD"
+      },
+      "source_details_file": "/workspace/his-office-pinterest/products/composition-pieces/finishing-selected-products.json",
+      "variant_id": 41732265410665,
+      "exact_species": "Chamaedorea elegans",
+      "common_name": "Parlor Palm / Neanthe Bella Palm",
+      "species_source_url": "https://www.thesill.com/blogs/plants-101/how-to-care-for-bamboo-palm-chamaedorea-seifrizii",
+      "species_source_note": "The retailer care article has a legacy bamboo-palm slug but current title/text explicitly identify ParlorPalm as Chamaedorea elegans.",
+      "pet_evidence": {
+        "authority": "ASPCA",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/parlor-palm",
+        "species": "Chamaedorea elegans",
+        "statement": "Non-toxic to cats and dogs",
+        "source_page_file": "/workspace/his-office-pinterest/products/composition-pieces/aspca-parlor.html"
+      },
+      "published_plant_height_range_m": [
+        0.1524,
+        0.2794
+      ],
+      "planter_diameter_label_m": 0.12065,
+      "conservative_planter_diameter_m": 0.127,
+      "nursery_diameter_m": 0.1016,
+      "pot_height_status": "Unpublished; photo-guided geometry assumption only.",
+      "plant_crown_width_status": "Unpublished and naturally variable; tabletop decorative proxy, not a verified floor circulation envelope.",
+      "planter_details": "Westcott ceramic bowl planter with drainage hole and matching saucer; live plant arrives in nursery grow pot nestled in selected outer planter.",
+      "placement_intent": "On dresser opposite FADO; no floor palm and not on MOSSLANDA usable tray.",
+      "growth_note": "Each live plant varies by season/specimen. Keep source small size; do not use mature plant height as current delivery dimensions.",
+      "availability_note": "Exact Shopify variant available=true on research date; price$79 USD. Shipping/tax not checked.",
+      "source_page_file": "/workspace/his-office-pinterest/products/composition-pieces/sill-parlor.html",
+      "variant_source_file": "/workspace/his-office-pinterest/products/composition-pieces/sill-parlor-js.json",
+      "planter_source_url": "https://www.thesill.com/products/westcott-planter",
+      "planter_source_file": "/workspace/his-office-pinterest/products/composition-pieces/sill-westcott-js.json"
+    }
+  ],
+  "additions_subtotal_USD": 263.96,
+  "styling_assumptions": "A few small books and one central dresser tray are illustrative unpriced props, not selected/owned product claims.",
+  "floor_plant": "No floor plant selected. Actual Kentia source research retained as rejected/unfit-verified reference under plant/plant-proposal.json."
+}

@@ -1,0 +1,1041 @@
+{
+  "stage": "Completed supporting research for upgraded B and C composition; no model mutation",
+  "brief": "Two dark/cool versions of the same complete usable room composition, with working wall, styled storage/light console and visitor/cat corner.",
+  "source_limit": "These are original downloaded public Pin images, visually inspected. Creator authorship and image-production method are not independently verified. Their room geometry and furniture scale are not authoritative. No logged-in Pinterest feed was accessed.",
+  "current_model_intent": {
+    "B": "Five Black Ash panels form a 3.0 m wide feature across both working sections; Peppercorn wraps the rest of the work wall and window wall.",
+    "C": "Naval wraps the work wall and window wall; both variants share the same furniture and composed zones.",
+    "both": [
+      "Retain the white ceiling, trim, original brick, owned white Honeywell lamp and natural cat tree.",
+      "The owned Mineral Aeron Size C is the primary working chair.",
+      "Keep two usable independent work surfaces: a primary standing desk and fixed IKEA project bench.",
+      "Group a 115 \u00d7 12 cm dark MOSSLANDA ledge, 100 \u00d7 70 cm Richmond print, small plant and books above the fixed bench.",
+      "An opal table lamp turns the folded-clothes chest into a styled storage console.",
+      "Place a medium floor palm by the visitor seat if its footprint passes the fit check; add a felt mat to the primary worktop."
+    ]
+  },
+  "selected_references": [
+    {
+      "label": "dark-cement-paper",
+      "pin_id": "488922103315018879",
+      "url": "https://www.pinterest.com/pin/488922103315018879/",
+      "status": "Selected complete working/lounge composition reference",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/7e/a0/b6/7ea0b681287492b121c0555d738aa31b.jpg",
+        "og:image:height": "705",
+        "og:image:width": "564",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2024-12-02T13:30:27.000Z",
+        "og:url": "https://www.pinterest.com/pin/office-space--633387443168208/",
+        "twitter:image:src": "https://i.pinimg.com/736x/7e/a0/b6/7ea0b681287492b121c0555d738aa31b.jpg",
+        "pinterestapp:repins": "0",
+        "twitter:title": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0441 \u043a\u043d\u0438\u0436\u043d\u043e\u0439 \u043f\u043e\u043b\u043a\u043e\u0439 \u0438 \u0434\u0438\u0432\u0430\u043d\u043e\u043c \u0443 \u043e\u043a\u043d\u0430 | Gaming computer room ideas, All black gaming room, Office space for men",
+        "og:title": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0441 \u043a\u043d\u0438\u0436\u043d\u043e\u0439 \u043f\u043e\u043b\u043a\u043e\u0439 \u0438 \u0434\u0438\u0432\u0430\u043d\u043e\u043c \u0443 \u043e\u043a\u043d\u0430 | Gaming computer room ideas, All black gaming room, Office space for men",
+        "description": "\u0423\u044e\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0441 \u0434\u0438\u0432\u0430\u043d\u043e\u043c, \u0441\u0442\u043e\u043b\u043e\u043c \u0438 \u043a\u043d\u0438\u0436\u043d\u043e\u0439 \u043f\u043e\u043b\u043a\u043e\u0439 \u0443 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043e\u043a\u043d\u0430 | Office room, Home office design, Modern home offices",
+        "og:description": "\u0423\u044e\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0441 \u0434\u0438\u0432\u0430\u043d\u043e\u043c, \u0441\u0442\u043e\u043b\u043e\u043c \u0438 \u043a\u043d\u0438\u0436\u043d\u043e\u0439 \u043f\u043e\u043b\u043a\u043e\u0439 \u0443 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043e\u043a\u043d\u0430 | Office room, Home office design, Modern home offices",
+        "twitter:description": "\u0423\u044e\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0441 \u0434\u0438\u0432\u0430\u043d\u043e\u043c, \u0441\u0442\u043e\u043b\u043e\u043c \u0438 \u043a\u043d\u0438\u0436\u043d\u043e\u0439 \u043f\u043e\u043b\u043a\u043e\u0439 \u0443 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043e\u043a\u043d\u0430 | Office room, Home office design, Modern home offices",
+        "og:see_also": "https://amzn.to/46OskuJ",
+        "pinterestapp:source": "https://amzn.to/46OskuJ",
+        "robots": "max-image-preview:large",
+        "pinterestapp:pinboard": "https://www.pinterest.com/xnina18x/future-living/",
+        "pinterestapp:pinner": "https://www.pinterest.com/xnina18x/"
+      },
+      "pin_objects": {},
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/full-dark-office-existing-reference.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/7e/a0/b6/7ea0b681287492b121c0555d738aa31b.jpg",
+      "visually_inspected": true,
+      "original_image_sha256": "83777a7d81dba0822d6c6fb8afff1fdfe8eb6aaee7cd3bf917fd953bbbe7a01e",
+      "auth_access": "Public logged-out Pin page and public Pin image; no session data used.",
+      "use": "Complete room composition: coordinated wall-facing strip, shelf/art system, decorative lamp, greenery and visitor corner. Inspiration only; source room is larger and uses a sofa.",
+      "visually_reviewed": true,
+      "limit": "Source uses a larger sofa/bookcase installation and darker ceiling than ours; borrow linked zone hierarchy, not room geometry or exact fixture count."
+    },
+    {
+      "label": "moody-refined",
+      "pin_id": "479703797832033753",
+      "url": "https://www.pinterest.com/pin/479703797832033753/",
+      "status": "Selected complete visitor-corner reference",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+        "og:image:height": "1280",
+        "og:image:width": "720",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2025-06-18T15:00:16.000Z",
+        "og:url": "https://www.pinterest.com/pin/this-office-moody-focused-and-quietly-refined-a-space-that-gets-things-done-without-trying-too-hard-do-you-see-yo-video--479703797832033753/",
+        "twitter:image:src": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+        "pinterestapp:repins": "0",
+        "og:see_also": "https://www.instagram.com/reel/DLCwT7Ayo0K/",
+        "pinterestapp:source": "https://www.instagram.com/reel/DLCwT7Ayo0K/",
+        "robots": "noindex,noimageindex",
+        "pinterestapp:pinboard": "https://www.pinterest.com/luxdecor/_tpd_social/",
+        "pinterestapp:pinner": "https://www.pinterest.com/luxdecor/"
+      },
+      "pin_objects": {},
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/moody-refined.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+      "use": "Dark wall wrap, light ceiling/trim, pale textural rug, large artwork, comfortable visitor seat with throw, greenery and a small dark console act as one composition. The worktable foreground links visitor and working zones.",
+      "limit": "Source doors/large sofa and room dimensions are unrelated to apartment; image is a public video preview.",
+      "visually_reviewed": true,
+      "original_image_sha256": "f0f2416df721e6f4d8a4edf74c5e6b74c301a4d5e3ad30992a9094a6ccb93bb8",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    },
+    {
+      "label": "moody-complete",
+      "pin_id": "691513717824164023",
+      "url": "https://www.pinterest.com/pin/691513717824164023/",
+      "status": "Supporting work-wall reference",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+        "og:image:height": "1104",
+        "og:image:width": "736",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2025-03-10T11:15:45.000Z",
+        "og:url": "https://www.pinterest.com/pin/691513717824164023/",
+        "twitter:image:src": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+        "pinterestapp:repins": "1",
+        "twitter:title": "10 Moody Office Ideas for a Bold, Stylish Workspace | Home office dark blue, Midnight blue office, Dark blue office design",
+        "og:title": "10 Moody Office Ideas for a Bold, Stylish Workspace | Home office dark blue, Midnight blue office, Dark blue office design",
+        "description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+        "og:description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+        "twitter:description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+        "og:see_also": "https://theolivebranchnest.com/moody-office-ideas/",
+        "pinterestapp:source": "https://theolivebranchnest.com/moody-office-ideas/",
+        "robots": "noindex,noimageindex",
+        "pinterestapp:pinboard": "https://www.pinterest.com/purewellnessaustrailia/wwwpurewellnesscomau/",
+        "pinterestapp:pinner": "https://www.pinterest.com/purewellnessaustrailia/"
+      },
+      "pin_objects": {
+        "691513717824164023": {
+          "node_id": "UGluOjY5MTUxMzcxNzgyNDE2NDAyMw==",
+          "share_count": 0,
+          "tracking_params": "CwABAAAAEDQwOTQ4MTAwODI2OTk2MDILAAcAAAAPdW5rbm93bi91bmtub3duAA",
+          "seo_title": "10 Moody Office Ideas for a Bold, Stylish Workspace | Home office dark blue, Midnight blue office, Dark blue office design",
+          "price_currency": "USD",
+          "product_pin_data": null,
+          "type": "pin",
+          "content_sensitivity": {},
+          "should_open_in_stream": false,
+          "music_attributions": [],
+          "pin_join": {
+            "shopping_klp_urls": null,
+            "seo_canonical_domain": "www.pinterest.com",
+            "annotations_with_links": {
+              "Home Office Dark Blue": {
+                "url": "/ideas/home-office-dark-blue/915979894613/",
+                "name": "Home Office Dark Blue"
+              },
+              "Midnight Blue Office": {
+                "url": "/ideas/midnight-blue-office/931306168660/",
+                "name": "Midnight Blue Office"
+              },
+              "Dark Blue Office Design": {
+                "url": "/ideas/dark-blue-office-design/955657130837/",
+                "name": "Dark Blue Office Design"
+              },
+              "Moody Blue Office Paint Colors": {
+                "url": "/ideas/moody-blue-office-paint-colors/951215065582/",
+                "name": "Moody Blue Office Paint Colors"
+              },
+              "Moody Blue Home Office": {
+                "url": "/ideas/moody-blue-home-office/961666404199/",
+                "name": "Moody Blue Home Office"
+              },
+              "Dark Blue Office Aesthetic": {
+                "url": "/ideas/dark-blue-office-aesthetic/961983569156/",
+                "name": "Dark Blue Office Aesthetic"
+              },
+              "Modern Blue Home Office Setup": {
+                "url": "/ideas/modern-blue-home-office-setup/927237953779/",
+                "name": "Modern Blue Home Office Setup"
+              },
+              "Blue And Wood Office Setup": {
+                "url": "/ideas/blue-and-wood-office-setup/947846100674/",
+                "name": "Blue And Wood Office Setup"
+              },
+              "Moody Blue Office": {
+                "url": "/ideas/moody-blue-office/958976399959/",
+                "name": "Moody Blue Office"
+              }
+            },
+            "visual_annotation": [
+              "Home Office Dark Blue",
+              "Midnight Blue Office",
+              "Dark Blue Office Design",
+              "Moody Blue Office Paint Colors",
+              "Moody Blue Home Office",
+              "Dark Blue Office Aesthetic",
+              "Modern Blue Home Office Setup",
+              "Blue And Wood Office Setup",
+              "Moody Blue Office"
+            ],
+            "seo_breadcrumbs": [
+              {
+                "name": "Home Decor",
+                "url": ""
+              }
+            ],
+            "seo_canonical_url": null,
+            "canonical_pin": null
+          },
+          "is_repin": false,
+          "story_pin_data": null,
+          "related_article": {},
+          "seo_noindex_reason": null,
+          "carousel_data": null,
+          "via_pinner": null,
+          "aggregated_pin_data": {
+            "node_id": "QWdncmVnYXRlZFBpbkRhdGE6NTQwNTIzNDg0MDExMzAzNzQwMA==",
+            "id": "5405234840113037400",
+            "did_it_data": {
+              "responses_count": 0,
+              "images_count": 0,
+              "tags": [],
+              "user_count": 0,
+              "recommend_scores": [
+                {
+                  "score": 1,
+                  "count": 0
+                },
+                {
+                  "score": 0.5,
+                  "count": 0
+                },
+                {
+                  "score": 0,
+                  "count": 0
+                }
+              ],
+              "type": "aggregateddiditdata",
+              "details_count": 0,
+              "videos_count": 0,
+              "rating": -1,
+              "recommended_count": 0
+            },
+            "comment_count": 0,
+            "is_shop_the_look": false,
+            "aggregated_stats": {
+              "saves": 18,
+              "done": 0
+            }
+          },
+          "pinned_to_board": null,
+          "is_native": false,
+          "is_oos_product": false,
+          "reaction_counts": {},
+          "affiliate_disclosure": null,
+          "promoted_is_removable": false,
+          "is_promoted": false,
+          "description_links": [],
+          "link_domain": {
+            "id": "theolivebranchnest.com"
+          },
+          "closeup_user_note": "Moody home office",
+          "access": [],
+          "can_delete_did_it_and_comments": false,
+          "story_pin_data_id": null,
+          "dominant_color": "#24343b",
+          "is_hidden": false,
+          "sponsorship": null,
+          "seo_alt_text": "a desk with a laptop and monitor on it in front of a bookshelf",
+          "tracked_link": "https://theolivebranchnest.com/moody-office-ideas/",
+          "title": "",
+          "grid_title": "10 Moody Office Ideas for a Bold, Stylish Workspace",
+          "image_signature": "093ad9d24343675f1aed6817cb73613f",
+          "closeup_description": "When you imagine a workspace, you probably think of bright white desks, clean lines, and tons of natural light pouring in. But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric,",
+          "closeup_unified_attribution": {
+            "node_id": "VXNlcjo5Njc0Mjk3MDExMTMxMjQ4OTI=",
+            "ads_only_profile_site": null,
+            "image_small_url": "https://i.pinimg.com/30x30_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "is_verified_merchant": false,
+            "explicitly_followed_by_me": false,
+            "type": "user",
+            "indexed": true,
+            "domain_verified": true,
+            "verified_identity": {},
+            "is_default_image": false,
+            "followed_by_me": false,
+            "id": "967429701113124892",
+            "full_name": "The Olive Branch Nest",
+            "follower_count": 15408,
+            "first_name": "The Olive Branch Nest",
+            "image_medium_url": "https://i.pinimg.com/75x75_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "domain_url": "theolivebranchnest.com",
+            "username": "theolivebranchnest",
+            "blocked_by_me": false,
+            "is_ads_only_profile": false
+          },
+          "digital_media_source_type": null,
+          "is_go_linkless": false,
+          "auto_alt_text": "a desk with a laptop and monitor on it in front of a bookshelf",
+          "image_medium_url": "https://i.pinimg.com/236x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+          "product_metadata": null,
+          "rich_metadata": null,
+          "is_quick_promotable_by_pinner": false,
+          "seo_description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+          "embed": null,
+          "promoter": null,
+          "method": "in_app_browser",
+          "description": "Moody home office",
+          "is_quick_promotable": false,
+          "hashtags": [],
+          "did_it_disabled": false,
+          "third_party_pin_owner": null,
+          "is_eligible_for_pdp": false,
+          "comments_disabled": false,
+          "seo_url": "/pin/691513717824164023/",
+          "creator_class": null,
+          "pin_additional_note": null,
+          "closeup_unified_description": "Moody home office",
+          "buyable_product_availability": null,
+          "translations": null,
+          "should_redirect_id_only_url_to_text_url": false,
+          "domain": "theolivebranchnest.com",
+          "created_at": "Mon, 10 Mar 2025 11:15:45 +0000",
+          "privacy": "public",
+          "is_video": false,
+          "board": {
+            "node_id": "Qm9hcmQ6NjkxNTEzNzg2NDczMzI1Nzgx",
+            "id": "691513786473325781",
+            "image_cover_url": "https://i.pinimg.com/200x150/33/cd/47/33cd479b6e643a0a81e6fd171965c258.jpg",
+            "owner": {
+              "node_id": "VXNlcjo2OTE1MTM4NTUxOTI1MDg2NDc=",
+              "ads_only_profile_site": null,
+              "image_small_url": "https://i.pinimg.com/30x30_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+              "is_verified_merchant": false,
+              "explicitly_followed_by_me": false,
+              "type": "user",
+              "indexed": true,
+              "domain_verified": true,
+              "verified_identity": {},
+              "is_default_image": false,
+              "followed_by_me": false,
+              "id": "691513855192508647",
+              "full_name": "Purewellness",
+              "follower_count": 0,
+              "first_name": "Purewellness",
+              "image_medium_url": "https://i.pinimg.com/75x75_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+              "domain_url": "www.purewellness.com.au",
+              "username": "purewellnessaustrailia",
+              "blocked_by_me": false,
+              "is_ads_only_profile": false
+            },
+            "is_collaborative": false,
+            "image_thumbnail_url": "https://i.pinimg.com/upload/691513786473325781_board_thumbnail_2025-03-10-11-15-47_89402_60.jpg",
+            "pin_thumbnail_urls": [
+              "https://i.pinimg.com/150x150/fb/8d/db/fb8ddb860ba41ea17093c5a2df434c69.jpg",
+              "https://i.pinimg.com/150x150/77/b4/16/77b416a361ddb28d32fa54c57bf403b6.jpg",
+              "https://i.pinimg.com/150x150/a0/51/8d/a0518d703737fb74085b8fd6b23c3601.jpg",
+              "https://i.pinimg.com/150x150/a8/e4/c5/a8e4c51087b63d16c70cbc970dfc2f36.jpg",
+              "https://i.pinimg.com/150x150/6d/4f/b2/6d4fb2001814ad5808b0113cb21d21c3.jpg"
+            ],
+            "layout": "default",
+            "privacy": "public",
+            "followed_by_me": false,
+            "name": "www.purewellness.com.au",
+            "category": null,
+            "access": [],
+            "type": "board",
+            "description": "",
+            "url": "/purewellnessaustrailia/wwwpurewellnesscomau/",
+            "collaborated_by_me": false,
+            "map_id": "pinterest.ijz1714i"
+          },
+          "price_value": 0,
+          "link": "https://theolivebranchnest.com/moody-office-ideas/",
+          "should_mute": false,
+          "attribution": null,
+          "native_creator": null,
+          "link_id": "0da00dcf75effd7f7f0b56d1992d1bb5",
+          "media_attribution": null,
+          "collection_pin": null,
+          "origin_pinner": null,
+          "pinner": {
+            "node_id": "VXNlcjo2OTE1MTM4NTUxOTI1MDg2NDc=",
+            "ads_only_profile_site": null,
+            "image_small_url": "https://i.pinimg.com/30x30_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+            "is_verified_merchant": false,
+            "explicitly_followed_by_me": false,
+            "type": "user",
+            "indexed": true,
+            "domain_verified": true,
+            "verified_identity": {},
+            "is_default_image": false,
+            "followed_by_me": false,
+            "id": "691513855192508647",
+            "full_name": "Purewellness",
+            "follower_count": 0,
+            "first_name": "Purewellness",
+            "image_medium_url": "https://i.pinimg.com/75x75_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+            "domain_url": "www.purewellness.com.au",
+            "username": "purewellnessaustrailia",
+            "blocked_by_me": false,
+            "is_ads_only_profile": false
+          },
+          "images": {
+            "60x60": {
+              "width": 60,
+              "height": 60,
+              "url": "https://i.pinimg.com/60x60/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "136x136": {
+              "width": 136,
+              "height": 136,
+              "url": "https://i.pinimg.com/136x136/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "170x": {
+              "width": 236,
+              "height": 354,
+              "url": "https://i.pinimg.com/236x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "236x": {
+              "width": 236,
+              "height": 354,
+              "url": "https://i.pinimg.com/236x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "474x": {
+              "width": 474,
+              "height": 711,
+              "url": "https://i.pinimg.com/474x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "564x": {
+              "width": 564,
+              "height": 846,
+              "url": "https://i.pinimg.com/564x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "736x": {
+              "width": 736,
+              "height": 1104,
+              "url": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "600x315": {
+              "width": 600,
+              "height": 315,
+              "url": "https://i.pinimg.com/600x315/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "orig": {
+              "width": 896,
+              "height": 1344,
+              "url": "https://i.pinimg.com/originals/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            }
+          },
+          "alt_text": null,
+          "category": "",
+          "shopping_rec_disabled": false,
+          "is_stale_product": false,
+          "closeup_attribution": {
+            "node_id": "VXNlcjo5Njc0Mjk3MDExMTMxMjQ4OTI=",
+            "ads_only_profile_site": null,
+            "image_small_url": "https://i.pinimg.com/30x30_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "is_verified_merchant": false,
+            "explicitly_followed_by_me": false,
+            "type": "user",
+            "indexed": true,
+            "domain_verified": true,
+            "verified_identity": {},
+            "is_default_image": false,
+            "followed_by_me": false,
+            "id": "967429701113124892",
+            "full_name": "The Olive Branch Nest",
+            "follower_count": 15408,
+            "first_name": "The Olive Branch Nest",
+            "image_medium_url": "https://i.pinimg.com/75x75_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "domain_url": "theolivebranchnest.com",
+            "username": "theolivebranchnest",
+            "blocked_by_me": false,
+            "is_ads_only_profile": false
+          },
+          "description_html": "Moody home office",
+          "is_eligible_for_aggregated_comments": true,
+          "is_promotable": true,
+          "repin_count": 1,
+          "creator_class_instance": null,
+          "id": "691513717824164023",
+          "is_playable": false,
+          "utm_link": "https://theolivebranchnest.com/moody-office-ideas/?utm_source=Pinterest&utm_medium=organic",
+          "mobile_link": null,
+          "shopping_flags": [],
+          "link_utm_applicable_and_replaced": 1,
+          "affiliate_link": null,
+          "formatted_description": {},
+          "is_whitelisted_for_tried_it": true,
+          "is_eligible_for_brand_catalog": false,
+          "videos": null,
+          "comment_count": 0,
+          "section": null
+        }
+      },
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/moody-complete.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+      "use": "A coordinated dark-blue composition of shelving, books, artwork, lamps and greenery around the working surface. Borrow a deliberate shelf/art grouping rather than individual decoration scattered around the room.",
+      "limit": "Closer workstation view; freestanding desk and large bookcase geometry are not transferable.",
+      "visually_reviewed": true,
+      "original_image_sha256": "58bb670c972ea645b68f000ccb45e232b909bf4316c22f27204aea0a57d11c94",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    }
+  ],
+  "new_pin_candidates": [
+    {
+      "label": "moody-complete",
+      "pin_id": "691513717824164023",
+      "url": "https://www.pinterest.com/pin/691513717824164023/",
+      "status": "Supporting work-wall reference",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+        "og:image:height": "1104",
+        "og:image:width": "736",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2025-03-10T11:15:45.000Z",
+        "og:url": "https://www.pinterest.com/pin/691513717824164023/",
+        "twitter:image:src": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+        "pinterestapp:repins": "1",
+        "twitter:title": "10 Moody Office Ideas for a Bold, Stylish Workspace | Home office dark blue, Midnight blue office, Dark blue office design",
+        "og:title": "10 Moody Office Ideas for a Bold, Stylish Workspace | Home office dark blue, Midnight blue office, Dark blue office design",
+        "description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+        "og:description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+        "twitter:description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+        "og:see_also": "https://theolivebranchnest.com/moody-office-ideas/",
+        "pinterestapp:source": "https://theolivebranchnest.com/moody-office-ideas/",
+        "robots": "noindex,noimageindex",
+        "pinterestapp:pinboard": "https://www.pinterest.com/purewellnessaustrailia/wwwpurewellnesscomau/",
+        "pinterestapp:pinner": "https://www.pinterest.com/purewellnessaustrailia/"
+      },
+      "pin_objects": {
+        "691513717824164023": {
+          "node_id": "UGluOjY5MTUxMzcxNzgyNDE2NDAyMw==",
+          "share_count": 0,
+          "tracking_params": "CwABAAAAEDQwOTQ4MTAwODI2OTk2MDILAAcAAAAPdW5rbm93bi91bmtub3duAA",
+          "seo_title": "10 Moody Office Ideas for a Bold, Stylish Workspace | Home office dark blue, Midnight blue office, Dark blue office design",
+          "price_currency": "USD",
+          "product_pin_data": null,
+          "type": "pin",
+          "content_sensitivity": {},
+          "should_open_in_stream": false,
+          "music_attributions": [],
+          "pin_join": {
+            "shopping_klp_urls": null,
+            "seo_canonical_domain": "www.pinterest.com",
+            "annotations_with_links": {
+              "Home Office Dark Blue": {
+                "url": "/ideas/home-office-dark-blue/915979894613/",
+                "name": "Home Office Dark Blue"
+              },
+              "Midnight Blue Office": {
+                "url": "/ideas/midnight-blue-office/931306168660/",
+                "name": "Midnight Blue Office"
+              },
+              "Dark Blue Office Design": {
+                "url": "/ideas/dark-blue-office-design/955657130837/",
+                "name": "Dark Blue Office Design"
+              },
+              "Moody Blue Office Paint Colors": {
+                "url": "/ideas/moody-blue-office-paint-colors/951215065582/",
+                "name": "Moody Blue Office Paint Colors"
+              },
+              "Moody Blue Home Office": {
+                "url": "/ideas/moody-blue-home-office/961666404199/",
+                "name": "Moody Blue Home Office"
+              },
+              "Dark Blue Office Aesthetic": {
+                "url": "/ideas/dark-blue-office-aesthetic/961983569156/",
+                "name": "Dark Blue Office Aesthetic"
+              },
+              "Modern Blue Home Office Setup": {
+                "url": "/ideas/modern-blue-home-office-setup/927237953779/",
+                "name": "Modern Blue Home Office Setup"
+              },
+              "Blue And Wood Office Setup": {
+                "url": "/ideas/blue-and-wood-office-setup/947846100674/",
+                "name": "Blue And Wood Office Setup"
+              },
+              "Moody Blue Office": {
+                "url": "/ideas/moody-blue-office/958976399959/",
+                "name": "Moody Blue Office"
+              }
+            },
+            "visual_annotation": [
+              "Home Office Dark Blue",
+              "Midnight Blue Office",
+              "Dark Blue Office Design",
+              "Moody Blue Office Paint Colors",
+              "Moody Blue Home Office",
+              "Dark Blue Office Aesthetic",
+              "Modern Blue Home Office Setup",
+              "Blue And Wood Office Setup",
+              "Moody Blue Office"
+            ],
+            "seo_breadcrumbs": [
+              {
+                "name": "Home Decor",
+                "url": ""
+              }
+            ],
+            "seo_canonical_url": null,
+            "canonical_pin": null
+          },
+          "is_repin": false,
+          "story_pin_data": null,
+          "related_article": {},
+          "seo_noindex_reason": null,
+          "carousel_data": null,
+          "via_pinner": null,
+          "aggregated_pin_data": {
+            "node_id": "QWdncmVnYXRlZFBpbkRhdGE6NTQwNTIzNDg0MDExMzAzNzQwMA==",
+            "id": "5405234840113037400",
+            "did_it_data": {
+              "responses_count": 0,
+              "images_count": 0,
+              "tags": [],
+              "user_count": 0,
+              "recommend_scores": [
+                {
+                  "score": 1,
+                  "count": 0
+                },
+                {
+                  "score": 0.5,
+                  "count": 0
+                },
+                {
+                  "score": 0,
+                  "count": 0
+                }
+              ],
+              "type": "aggregateddiditdata",
+              "details_count": 0,
+              "videos_count": 0,
+              "rating": -1,
+              "recommended_count": 0
+            },
+            "comment_count": 0,
+            "is_shop_the_look": false,
+            "aggregated_stats": {
+              "saves": 18,
+              "done": 0
+            }
+          },
+          "pinned_to_board": null,
+          "is_native": false,
+          "is_oos_product": false,
+          "reaction_counts": {},
+          "affiliate_disclosure": null,
+          "promoted_is_removable": false,
+          "is_promoted": false,
+          "description_links": [],
+          "link_domain": {
+            "id": "theolivebranchnest.com"
+          },
+          "closeup_user_note": "Moody home office",
+          "access": [],
+          "can_delete_did_it_and_comments": false,
+          "story_pin_data_id": null,
+          "dominant_color": "#24343b",
+          "is_hidden": false,
+          "sponsorship": null,
+          "seo_alt_text": "a desk with a laptop and monitor on it in front of a bookshelf",
+          "tracked_link": "https://theolivebranchnest.com/moody-office-ideas/",
+          "title": "",
+          "grid_title": "10 Moody Office Ideas for a Bold, Stylish Workspace",
+          "image_signature": "093ad9d24343675f1aed6817cb73613f",
+          "closeup_description": "When you imagine a workspace, you probably think of bright white desks, clean lines, and tons of natural light pouring in. But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric,",
+          "closeup_unified_attribution": {
+            "node_id": "VXNlcjo5Njc0Mjk3MDExMTMxMjQ4OTI=",
+            "ads_only_profile_site": null,
+            "image_small_url": "https://i.pinimg.com/30x30_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "is_verified_merchant": false,
+            "explicitly_followed_by_me": false,
+            "type": "user",
+            "indexed": true,
+            "domain_verified": true,
+            "verified_identity": {},
+            "is_default_image": false,
+            "followed_by_me": false,
+            "id": "967429701113124892",
+            "full_name": "The Olive Branch Nest",
+            "follower_count": 15408,
+            "first_name": "The Olive Branch Nest",
+            "image_medium_url": "https://i.pinimg.com/75x75_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "domain_url": "theolivebranchnest.com",
+            "username": "theolivebranchnest",
+            "blocked_by_me": false,
+            "is_ads_only_profile": false
+          },
+          "digital_media_source_type": null,
+          "is_go_linkless": false,
+          "auto_alt_text": "a desk with a laptop and monitor on it in front of a bookshelf",
+          "image_medium_url": "https://i.pinimg.com/236x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+          "product_metadata": null,
+          "rich_metadata": null,
+          "is_quick_promotable_by_pinner": false,
+          "seo_description": "But what if your office could channel a completely different mood\u2014one that's cozy, atmospheric, and uniquely you? Enter the moody office. Desk office, Moody home office, Office space",
+          "embed": null,
+          "promoter": null,
+          "method": "in_app_browser",
+          "description": "Moody home office",
+          "is_quick_promotable": false,
+          "hashtags": [],
+          "did_it_disabled": false,
+          "third_party_pin_owner": null,
+          "is_eligible_for_pdp": false,
+          "comments_disabled": false,
+          "seo_url": "/pin/691513717824164023/",
+          "creator_class": null,
+          "pin_additional_note": null,
+          "closeup_unified_description": "Moody home office",
+          "buyable_product_availability": null,
+          "translations": null,
+          "should_redirect_id_only_url_to_text_url": false,
+          "domain": "theolivebranchnest.com",
+          "created_at": "Mon, 10 Mar 2025 11:15:45 +0000",
+          "privacy": "public",
+          "is_video": false,
+          "board": {
+            "node_id": "Qm9hcmQ6NjkxNTEzNzg2NDczMzI1Nzgx",
+            "id": "691513786473325781",
+            "image_cover_url": "https://i.pinimg.com/200x150/33/cd/47/33cd479b6e643a0a81e6fd171965c258.jpg",
+            "owner": {
+              "node_id": "VXNlcjo2OTE1MTM4NTUxOTI1MDg2NDc=",
+              "ads_only_profile_site": null,
+              "image_small_url": "https://i.pinimg.com/30x30_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+              "is_verified_merchant": false,
+              "explicitly_followed_by_me": false,
+              "type": "user",
+              "indexed": true,
+              "domain_verified": true,
+              "verified_identity": {},
+              "is_default_image": false,
+              "followed_by_me": false,
+              "id": "691513855192508647",
+              "full_name": "Purewellness",
+              "follower_count": 0,
+              "first_name": "Purewellness",
+              "image_medium_url": "https://i.pinimg.com/75x75_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+              "domain_url": "www.purewellness.com.au",
+              "username": "purewellnessaustrailia",
+              "blocked_by_me": false,
+              "is_ads_only_profile": false
+            },
+            "is_collaborative": false,
+            "image_thumbnail_url": "https://i.pinimg.com/upload/691513786473325781_board_thumbnail_2025-03-10-11-15-47_89402_60.jpg",
+            "pin_thumbnail_urls": [
+              "https://i.pinimg.com/150x150/fb/8d/db/fb8ddb860ba41ea17093c5a2df434c69.jpg",
+              "https://i.pinimg.com/150x150/77/b4/16/77b416a361ddb28d32fa54c57bf403b6.jpg",
+              "https://i.pinimg.com/150x150/a0/51/8d/a0518d703737fb74085b8fd6b23c3601.jpg",
+              "https://i.pinimg.com/150x150/a8/e4/c5/a8e4c51087b63d16c70cbc970dfc2f36.jpg",
+              "https://i.pinimg.com/150x150/6d/4f/b2/6d4fb2001814ad5808b0113cb21d21c3.jpg"
+            ],
+            "layout": "default",
+            "privacy": "public",
+            "followed_by_me": false,
+            "name": "www.purewellness.com.au",
+            "category": null,
+            "access": [],
+            "type": "board",
+            "description": "",
+            "url": "/purewellnessaustrailia/wwwpurewellnesscomau/",
+            "collaborated_by_me": false,
+            "map_id": "pinterest.ijz1714i"
+          },
+          "price_value": 0,
+          "link": "https://theolivebranchnest.com/moody-office-ideas/",
+          "should_mute": false,
+          "attribution": null,
+          "native_creator": null,
+          "link_id": "0da00dcf75effd7f7f0b56d1992d1bb5",
+          "media_attribution": null,
+          "collection_pin": null,
+          "origin_pinner": null,
+          "pinner": {
+            "node_id": "VXNlcjo2OTE1MTM4NTUxOTI1MDg2NDc=",
+            "ads_only_profile_site": null,
+            "image_small_url": "https://i.pinimg.com/30x30_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+            "is_verified_merchant": false,
+            "explicitly_followed_by_me": false,
+            "type": "user",
+            "indexed": true,
+            "domain_verified": true,
+            "verified_identity": {},
+            "is_default_image": false,
+            "followed_by_me": false,
+            "id": "691513855192508647",
+            "full_name": "Purewellness",
+            "follower_count": 0,
+            "first_name": "Purewellness",
+            "image_medium_url": "https://i.pinimg.com/75x75_RS/e8/47/b4/e847b4bbe36266ff0fbaa37f5dac7c03.jpg",
+            "domain_url": "www.purewellness.com.au",
+            "username": "purewellnessaustrailia",
+            "blocked_by_me": false,
+            "is_ads_only_profile": false
+          },
+          "images": {
+            "60x60": {
+              "width": 60,
+              "height": 60,
+              "url": "https://i.pinimg.com/60x60/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "136x136": {
+              "width": 136,
+              "height": 136,
+              "url": "https://i.pinimg.com/136x136/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "170x": {
+              "width": 236,
+              "height": 354,
+              "url": "https://i.pinimg.com/236x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "236x": {
+              "width": 236,
+              "height": 354,
+              "url": "https://i.pinimg.com/236x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "474x": {
+              "width": 474,
+              "height": 711,
+              "url": "https://i.pinimg.com/474x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "564x": {
+              "width": 564,
+              "height": 846,
+              "url": "https://i.pinimg.com/564x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "736x": {
+              "width": 736,
+              "height": 1104,
+              "url": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "600x315": {
+              "width": 600,
+              "height": 315,
+              "url": "https://i.pinimg.com/600x315/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            },
+            "orig": {
+              "width": 896,
+              "height": 1344,
+              "url": "https://i.pinimg.com/originals/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg"
+            }
+          },
+          "alt_text": null,
+          "category": "",
+          "shopping_rec_disabled": false,
+          "is_stale_product": false,
+          "closeup_attribution": {
+            "node_id": "VXNlcjo5Njc0Mjk3MDExMTMxMjQ4OTI=",
+            "ads_only_profile_site": null,
+            "image_small_url": "https://i.pinimg.com/30x30_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "is_verified_merchant": false,
+            "explicitly_followed_by_me": false,
+            "type": "user",
+            "indexed": true,
+            "domain_verified": true,
+            "verified_identity": {},
+            "is_default_image": false,
+            "followed_by_me": false,
+            "id": "967429701113124892",
+            "full_name": "The Olive Branch Nest",
+            "follower_count": 15408,
+            "first_name": "The Olive Branch Nest",
+            "image_medium_url": "https://i.pinimg.com/75x75_RS/e7/f5/25/e7f525896b598ef631191deeb82dc20c.jpg",
+            "domain_url": "theolivebranchnest.com",
+            "username": "theolivebranchnest",
+            "blocked_by_me": false,
+            "is_ads_only_profile": false
+          },
+          "description_html": "Moody home office",
+          "is_eligible_for_aggregated_comments": true,
+          "is_promotable": true,
+          "repin_count": 1,
+          "creator_class_instance": null,
+          "id": "691513717824164023",
+          "is_playable": false,
+          "utm_link": "https://theolivebranchnest.com/moody-office-ideas/?utm_source=Pinterest&utm_medium=organic",
+          "mobile_link": null,
+          "shopping_flags": [],
+          "link_utm_applicable_and_replaced": 1,
+          "affiliate_link": null,
+          "formatted_description": {},
+          "is_whitelisted_for_tried_it": true,
+          "is_eligible_for_brand_catalog": false,
+          "videos": null,
+          "comment_count": 0,
+          "section": null
+        }
+      },
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/moody-complete.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/09/3a/d9/093ad9d24343675f1aed6817cb73613f.jpg",
+      "use": "A coordinated dark-blue composition of shelving, books, artwork, lamps and greenery around the working surface. Borrow a deliberate shelf/art grouping rather than individual decoration scattered around the room.",
+      "limit": "Closer workstation view; freestanding desk and large bookcase geometry are not transferable.",
+      "visually_reviewed": true,
+      "original_image_sha256": "58bb670c972ea645b68f000ccb45e232b909bf4316c22f27204aea0a57d11c94",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    },
+    {
+      "label": "moody-refined",
+      "pin_id": "479703797832033753",
+      "url": "https://www.pinterest.com/pin/479703797832033753/",
+      "status": "Selected complete visitor-corner reference",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+        "og:image:height": "1280",
+        "og:image:width": "720",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2025-06-18T15:00:16.000Z",
+        "og:url": "https://www.pinterest.com/pin/this-office-moody-focused-and-quietly-refined-a-space-that-gets-things-done-without-trying-too-hard-do-you-see-yo-video--479703797832033753/",
+        "twitter:image:src": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+        "pinterestapp:repins": "0",
+        "og:see_also": "https://www.instagram.com/reel/DLCwT7Ayo0K/",
+        "pinterestapp:source": "https://www.instagram.com/reel/DLCwT7Ayo0K/",
+        "robots": "noindex,noimageindex",
+        "pinterestapp:pinboard": "https://www.pinterest.com/luxdecor/_tpd_social/",
+        "pinterestapp:pinner": "https://www.pinterest.com/luxdecor/"
+      },
+      "pin_objects": {},
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/moody-refined.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+      "use": "Dark wall wrap, light ceiling/trim, pale textural rug, large artwork, comfortable visitor seat with throw, greenery and a small dark console act as one composition. The worktable foreground links visitor and working zones.",
+      "limit": "Source doors/large sofa and room dimensions are unrelated to apartment; image is a public video preview.",
+      "visually_reviewed": true,
+      "original_image_sha256": "f0f2416df721e6f4d8a4edf74c5e6b74c301a4d5e3ad30992a9094a6ccb93bb8",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    },
+    {
+      "label": "navy-library-lounge",
+      "pin_id": "169025792262469612",
+      "url": "https://www.pinterest.com/pin/169025792262469612/",
+      "status": "Not selected",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/da/c8/2e/dac82eb1b1fff1be8240a2a39367edd5.jpg",
+        "og:image:height": "846",
+        "og:image:width": "564",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2024-10-13T14:29:47.000Z",
+        "og:url": "https://www.pinterest.com/pin/cozy-home-library-with-leather-couch--4925880835531942/",
+        "twitter:image:src": "https://i.pinimg.com/736x/da/c8/2e/dac82eb1b1fff1be8240a2a39367edd5.jpg",
+        "pinterestapp:repins": "0",
+        "twitter:title": "Cozy Home Library with Leather Couch | Home library rooms, Built in shelves living room, Dark living rooms",
+        "og:title": "Cozy Home Library with Leather Couch | Home library rooms, Built in shelves living room, Dark living rooms",
+        "description": "Create the perfect reading nook with a cozy home library featuring a leather couch and a bookshelf filled with books. Get inspired by this room decor idea for your own home. Arched bookcases, Bookcase designs, Home library design",
+        "og:description": "Create the perfect reading nook with a cozy home library featuring a leather couch and a bookshelf filled with books. Get inspired by this room decor idea for your own home. Arched bookcases, Bookcase designs, Home library design",
+        "twitter:description": "Create the perfect reading nook with a cozy home library featuring a leather couch and a bookshelf filled with books. Get inspired by this room decor idea for your own home. Arched bookcases, Bookcase designs, Home library design",
+        "og:see_also": "https://www.digsdigs.com/arched-bookcases/pictures/204655/",
+        "pinterestapp:source": "https://www.digsdigs.com/arched-bookcases/pictures/204655/",
+        "robots": "max-image-preview:large",
+        "pinterestapp:pinboard": "https://www.pinterest.com/bantydosso/biblioth%C3%A8que-%C3%A0-domicile/",
+        "pinterestapp:pinner": "https://www.pinterest.com/bantydosso/"
+      },
+      "pin_objects": {},
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/navy-library-lounge.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/da/c8/2e/dac82eb1b1fff1be8240a2a39367edd5.jpg",
+      "use": "Color family and library styling only.",
+      "limit": "Too traditional and heavy for the requested clean studio; close sofa/library crop.",
+      "visually_reviewed": true,
+      "original_image_sha256": "419c342755dfc6f5c4e9aa02833705f2b617c0d456bf3e6ad40b5b6233be9cd2",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    },
+    {
+      "label": "dark-shelves-office",
+      "pin_id": "55028426685351096",
+      "url": "https://www.pinterest.com/pin/55028426685351096/",
+      "status": "Not selected",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/40/c9/3a/40c93a5703d696df725b3360499b2b9b.jpg",
+        "og:image:height": "981",
+        "og:image:width": "736",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2020-10-06T16:40:57.000Z",
+        "og:url": "https://www.pinterest.com/pin/theredfernhome-on-ltk--1055599906577567/",
+        "twitter:image:src": "https://i.pinimg.com/736x/40/c9/3a/40c93a5703d696df725b3360499b2b9b.jpg",
+        "pinterestapp:repins": "246",
+        "twitter:title": "Moody Builtins in the Home Office | Office layout ideas, Office built ins, Built in shelves living room",
+        "og:title": "Moody Builtins in the Home Office | Office layout ideas, Office built ins, Built in shelves living room",
+        "description": "We painted the builtin bookshelves in Benjamin Moore Blue Note and the Pottery Barn desk and chair perfectly balance the moody blue \ud83d\ude4c A neutral area rug and a few fall touches in the shelves balance the ginger jars for a fresh fall feel! | Builtin bookcases, Bookcases office, Built in shelves office",
+        "og:description": "We painted the builtin bookshelves in Benjamin Moore Blue Note and the Pottery Barn desk and chair perfectly balance the moody blue \ud83d\ude4c A neutral area rug and a few fall touches in the shelves balance the ginger jars for a fresh fall feel! | Builtin bookcases, Bookcases office, Built in shelves office",
+        "twitter:description": "We painted the builtin bookshelves in Benjamin Moore Blue Note and the Pottery Barn desk and chair perfectly balance the moody blue \ud83d\ude4c A neutral area rug and a few fall touches in the shelves balance the ginger jars for a fresh fall feel! | Builtin bookcases, Bookcases office, Built in shelves office",
+        "og:see_also": "http://liketk.it/2XNk2",
+        "pinterestapp:source": "http://liketk.it/2XNk2",
+        "robots": "max-image-preview:large",
+        "pinterestapp:pinboard": "https://www.pinterest.com/theredfernhome/home-design/",
+        "pinterestapp:pinner": "https://www.pinterest.com/theredfernhome/"
+      },
+      "pin_objects": {},
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/dark-shelves-office.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/40/c9/3a/40c93a5703d696df725b3360499b2b9b.jpg",
+      "use": "Repeatable shelf/art hierarchy.",
+      "limit": "Traditional oversized built-ins and floated desk are too bulky; the source also uses a warmer palette.",
+      "visually_reviewed": true,
+      "original_image_sha256": "752b98ff69eb2913f7052309502d7a48cf6f6c738262f9a13082b591d241da8a",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    },
+    {
+      "label": "moody-small-office",
+      "pin_id": "774124930296201",
+      "url": "https://www.pinterest.com/pin/774124930296201/",
+      "status": "Unavailable",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest"
+      },
+      "pin_objects": {},
+      "use": "No image available.",
+      "limit": "No visual review possible.",
+      "visually_reviewed": false,
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    },
+    {
+      "label": "modern-complete",
+      "pin_id": "261279215870122923",
+      "url": "https://www.pinterest.com/pin/261279215870122923/",
+      "status": "Not selected",
+      "metadata": {
+        "fb:app_id": "274266067164",
+        "og:site_name": "Pinterest",
+        "og:image": "https://i.pinimg.com/736x/ba/4a/58/ba4a58598296f8a187242941f081ab58.jpg",
+        "og:image:height": "490",
+        "og:image:width": "736",
+        "og:type": "pinterestapp:pin",
+        "og:updated_time": "2020-04-28T10:35:09.000Z",
+        "og:url": "https://ar.pinterest.com/pin/212091463690232313/",
+        "twitter:image:src": "https://i.pinimg.com/736x/ba/4a/58/ba4a58598296f8a187242941f081ab58.jpg",
+        "pinterestapp:repins": "6",
+        "twitter:title": "Modern Home Office with Wood Shelves | Sala de estudio en casa, Egue y seta, Estudio oficina en casa",
+        "og:title": "Modern Home Office with Wood Shelves | Sala de estudio en casa, Egue y seta, Estudio oficina en casa",
+        "description": "Create a stylish and functional home office with this modern design featuring wood shelves. Stay organized and inspired in your workspace. #Casas #Moderno #Estudio #Salon #Oficina #Estanterias #Almacenamiento #Madera #Sillas #Iluminacion #revestimiento | Madera de escritorio, Librer\u00eda, Estudio salon",
+        "og:description": "Create a stylish and functional home office with this modern design featuring wood shelves. Stay organized and inspired in your workspace. #Casas #Moderno #Estudio #Salon #Oficina #Estanterias #Almacenamiento #Madera #Sillas #Iluminacion #revestimiento | Madera de escritorio, Librer\u00eda, Estudio salon",
+        "twitter:description": "Create a stylish and functional home office with this modern design featuring wood shelves. Stay organized and inspired in your workspace. #Casas #Moderno #Estudio #Salon #Oficina #Estanterias #Almacenamiento #Madera #Sillas #Iluminacion #revestimiento | Madera de escritorio, Librer\u00eda, Estudio salon",
+        "og:see_also": "http://planreforma.com/cajon_de_ideas/estudio_salon_oficina_estilo_moderno_color_marron_beige_blanco/40610/",
+        "pinterestapp:source": "http://planreforma.com/cajon_de_ideas/estudio_salon_oficina_estilo_moderno_color_marron_beige_blanco/40610/",
+        "robots": "max-image-preview:large",
+        "pinterestapp:pinboard": "https://www.pinterest.com/planreforma/cajon-de-ideas-plan-reforma/",
+        "pinterestapp:pinner": "https://www.pinterest.com/planreforma/"
+      },
+      "pin_objects": {},
+      "local_image_path": "/workspace/his-office-pinterest/research/cohesive-composition/pins/modern-complete.jpg",
+      "image_source_url": "https://i.pinimg.com/736x/ba/4a/58/ba4a58598296f8a187242941f081ab58.jpg",
+      "use": "Integrated storage and restrained repeated modules.",
+      "limit": "Light warm palette does not match current dark/cool request.",
+      "visually_reviewed": true,
+      "original_image_sha256": "cade71261eefbdc2d11b905e78a6507235b87e473a4e2c3d2a8f2b4c51b49723",
+      "access": "Public individual Pin page and public image URL; no login or account session used."
+    }
+  ],
+  "composition_recommendation": [
+    "Compose the desk wall as one continuous backdrop across both working sections. Place the shelf and art grouping above the fixed bench while preserving standing-monitor travel.",
+    "Repeat cool gray and black frames, stone textiles and restrained greenery across the working and visitor zones.",
+    "Use the closed clothes chest as a console: an opal lamp creates a visual anchor near the brick and visitor corner while its top remains usable.",
+    "Frame the visitor chair with the rug edge and a medium plant if its fit is verified; keep door approaches clear.",
+    "Keep overhead lighting bright for work while decorative light adds depth. Atmospheric reference exposure does not establish required working illumination."
+  ],
+  "selected_status": "B and C remain the selected variants. This work adds room composition; no third color option."
+}

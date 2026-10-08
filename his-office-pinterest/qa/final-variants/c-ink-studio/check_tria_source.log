@@ -1,0 +1,37 @@
+20:24:39 | INFO: Data are loaded, start creating Blender stuff
+20:24:39 | INFO: Blender create Mesh node foot_left
+20:24:39 | INFO: Blender create Mesh node foot_right
+20:24:39 | INFO: Blender create Mesh node leveling_glide_left_front
+20:24:39 | INFO: Blender create Mesh node leveling_glide_left_rear
+20:24:39 | INFO: Blender create Mesh node leveling_glide_right_front
+20:24:39 | INFO: Blender create Mesh node leveling_glide_right_rear
+20:24:39 | INFO: Blender create Mesh node cable_door
+20:24:39 | INFO: Blender create Mesh node cable_door_brush
+20:24:39 | INFO: Blender create Mesh node cable_door_lid
+20:24:39 | INFO: Blender create Mesh node control_box
+20:24:39 | INFO: Blender create Mesh node desktop
+20:24:39 | INFO: Blender create Mesh node desktop_bracket_left
+20:24:39 | INFO: Blender create Mesh node desktop_bracket_right
+20:24:39 | INFO: Blender create Mesh node felt_cable_organizer
+20:24:39 | INFO: Blender create Mesh node frame_cover_left
+20:24:40 | INFO: Blender create Mesh node frame_cover_right
+20:24:40 | INFO: Blender create Mesh node frame_end_left
+20:24:40 | INFO: Blender create Mesh node frame_end_right
+20:24:40 | INFO: Blender create Mesh node frame_rail_front
+20:24:40 | INFO: Blender create Mesh node frame_rail_rear
+20:24:40 | INFO: Blender create Mesh node keypad
+20:24:41 | INFO: Blender create Mesh node keypad_controls
+20:24:41 | INFO: Blender create Mesh node lifting_column_left_head
+20:24:41 | INFO: Blender create Mesh node lifting_column_left_inner_stage
+20:24:41 | INFO: Blender create Mesh node lifting_column_right_head
+20:24:41 | INFO: Blender create Mesh node lifting_column_right_inner_stage
+20:24:41 | INFO: Blender create Mesh node lifting_column_left_middle_stage
+20:24:41 | INFO: Blender create Mesh node lifting_column_right_middle_stage
+20:24:41 | INFO: Blender create Mesh node lifting_column_left_outer_stage
+20:24:41 | INFO: Blender create Mesh node lifting_column_right_outer_stage
+20:24:41 | INFO: glTF import finished in 2.40s
+{"parts": 30, "all_pass": true, "max_deviation_m": 2.384185791015625e-07, "failures": []}
+Blender 4.3.2
+Read blend: "/workspace/his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend"
+
+Blender quit

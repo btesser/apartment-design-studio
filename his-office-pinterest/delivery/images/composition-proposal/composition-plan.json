@@ -1,0 +1,727 @@
+{
+  "created_UTC": "2026-10-08T19:42:19.300310+00:00",
+  "status": "Composition proposal diagram for review before any new model changes",
+  "coordinate_system": "Blender native metric XY; +Y workwall, -Y exposed brick; -X rear windowwall",
+  "source_files": [
+    {
+      "file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a"
+    },
+    {
+      "file": "/workspace/his-office-redesign/geometry/room-measurements.json",
+      "sha256": "40e86343957dd57fe6045e7e344d7f0f54f7510981e2cf7cb591ca6f05e8239a"
+    },
+    {
+      "file": "/workspace/his-office-redesign/geometry/fixed-features.json",
+      "sha256": "2943ce109b8605e092a0676145b16a9484561fdf7d4a9c31a48afb4c56b2042d"
+    },
+    {
+      "file": "/workspace/his-office-pinterest/products/selected-products.json",
+      "sha256": "0f159442873c455db1eb344197679ef247d79e2b18b9400e87acbaf11694d264"
+    },
+    {
+      "file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend",
+      "sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488"
+    },
+    {
+      "file": "/workspace/his-office-pinterest/products/owned-chair/aeron-c-mineral-official.png",
+      "sha256": "78123f016902ee3f54551e45813605fe8059878516782dac88858835291902ec"
+    }
+  ],
+  "room_outline_blender_xy_m": [
+    [
+      -7.98,
+      -2.79
+    ],
+    [
+      -3.08,
+      -2.79
+    ],
+    [
+      -3.08,
+      -1.35
+    ],
+    [
+      -3.78,
+      -1.35
+    ],
+    [
+      -3.78,
+      0.31
+    ],
+    [
+      -7.98,
+      0.31
+    ]
+  ],
+  "room_outline_confidence": "Generalized floor/inside-wall outline, typical5\u201312cm uncertainty. Mesh walls are warped/slightly off-axis. Do not stretch to listing.",
+  "room_floor_z_m": 1.575,
+  "room_ceiling_z_m": 4.595,
+  "fixed_architecture": [
+    {
+      "id": "closet-door",
+      "label": "Existing hanging closet door",
+      "bounds_blender_xyz_m": [
+        -3.9,
+        -3.72,
+        -0.88,
+        -0.16,
+        1.6,
+        3.65
+      ],
+      "evidence_status": "observed scan frame and partly missing leaf",
+      "confidence": "high placement; medium depth/leaf details",
+      "notes": "Nominal closet face X=-3.78 is generalized. Raw face/trim locally ranges X\u2248-3.90..-3.72. Actual leaf approxY[-.83,-.21],Z[1.61,3.64]. White plain panel, metal knob at -Y/right edge in face-on view; hinge at +Y edge is inferred from knob, not directly seen.",
+      "nominal_plane_x": -3.78,
+      "opening_yz": [
+        -0.83,
+        -0.21,
+        1.61,
+        3.64
+      ],
+      "observed_state": "closed, scan leaf has large holes",
+      "hinge": {
+        "y": -0.21,
+        "status": "inferred from knob side"
+      },
+      "swing": "Toward room plausible, not directly observed. Reserve approach regardless."
+    },
+    {
+      "id": "upper-cupboard",
+      "label": "Existing overhead cupboard",
+      "bounds_blender_xyz_m": [
+        -3.9,
+        -3.84,
+        -0.83,
+        -0.21,
+        3.7,
+        4.56
+      ],
+      "evidence_status": "observed scan",
+      "confidence": "high placement; medium trim details",
+      "notes": "White plain panel above closet; small metal latch at -Y edge. Plane sits about8\u201310cm forward of nominal wall face; do not omit it.",
+      "opening_yz": [
+        -0.83,
+        -0.21,
+        3.7,
+        4.56
+      ]
+    },
+    {
+      "id": "living-entry",
+      "label": "Door to living room",
+      "bounds_blender_xyz_m": [
+        -3.18,
+        -2.97,
+        -2.73,
+        -1.65,
+        1.6,
+        3.65
+      ],
+      "evidence_status": "observed scan frame and partly missing leaf",
+      "confidence": "high frame placement; medium plane/depth; low swing",
+      "notes": "White plain panel, silver lever at +Y side; substantial human occlusion. Frame width1.08m, actual clear opening likely~1.00m. Previously used0.80m was incomplete. Observed door appears closed. Separate open leaf in a viewer is an inferred viewing state.",
+      "nominal_plane_x": -3.08,
+      "frame_yz": [
+        -2.73,
+        -1.65,
+        1.6,
+        3.65
+      ],
+      "clear_width_approx_m": 1.0,
+      "observed_state": "closed, partly occluded",
+      "hinge": {
+        "y": -2.73,
+        "status": "inferred from visible handle opposite side"
+      }
+    },
+    {
+      "id": "rear-exterior-door",
+      "label": "Rear exterior door",
+      "bounds_blender_xyz_m": [
+        -8.15,
+        -7.91,
+        -2.55,
+        -1.64,
+        1.61,
+        3.64
+      ],
+      "evidence_status": "observed scan plus listing door",
+      "confidence": "high placement; medium depth/swing",
+      "notes": "White six-panel door with brass knob and deadbolt at +Y/right edge in rear face-on view. Frame width~.91m, clear leaf~.80m. Knob side implies hinge at -Y edge; swing not directly observed. Do not replace with solid black rectangle.",
+      "nominal_plane_x": -7.98,
+      "frame_yz": [
+        -2.55,
+        -1.64,
+        1.61,
+        3.64
+      ],
+      "clear_width_approx_m": 0.8,
+      "observed_state": "closed",
+      "hinge": {
+        "y": -2.55,
+        "status": "inferred from knob side"
+      }
+    },
+    {
+      "id": "rear-window",
+      "label": "Single rear sash window",
+      "bounds_blender_xyz_m": [
+        -8.24,
+        -7.93,
+        -1.01,
+        -0.11,
+        2.46,
+        4.37
+      ],
+      "evidence_status": "observed calibrated raw ortho and scan vertices",
+      "confidence": "high Y/Z position; medium recess depth",
+      "notes": "Outer vertical/header trim~.82m wide\u00d71.84m high; clear glass~.72m wide. Sill board wider Y[-1.01,-.11]. White double-hung sash, upper roller blind, exterior bars. Sill~.95m above scan floor. Prior integrated proxy Y[-.98,.03],Z[2.38,4.23] was too wide and too low.",
+      "nominal_wall_x": -7.98,
+      "outer_trim_yz": [
+        -0.96,
+        -0.14,
+        2.53,
+        4.37
+      ],
+      "clear_glass_y": [
+        -0.92,
+        -0.2
+      ],
+      "sill_y": [
+        -1.01,
+        -0.11
+      ],
+      "sill_and_apron_z": [
+        2.46,
+        2.56
+      ],
+      "sill_height_above_floor_m": 0.955,
+      "measured_tolerance_m": 0.04
+    },
+    {
+      "id": "rear-radiator",
+      "label": "Existing small rear radiator",
+      "bounds_blender_xyz_m": [
+        -7.96,
+        -7.43,
+        -2.79,
+        -2.47,
+        1.61,
+        2.3
+      ],
+      "evidence_status": "observed scan in two orthos plus local geometry",
+      "confidence": "high location; medium envelope\u00b1.05\u2013.08m",
+      "notes": "Dark cast-iron vertical fins in rear brick corner beside exterior door, not beneath window. Actual surface front modeY\u2248-2.60; envelope includes irregular fins/projection. Radiator function not tested.",
+      "nominal_envelope_m": [
+        0.53,
+        0.32,
+        0.69
+      ]
+    },
+    {
+      "id": "rear-pipe",
+      "label": "Existing vertical white pipe",
+      "bounds_blender_xyz_m": [
+        -8.0,
+        -7.72,
+        0.14,
+        0.31,
+        1.6,
+        4.6
+      ],
+      "evidence_status": "observed scan",
+      "confidence": "medium: warped mesh and ceiling merge",
+      "notes": "Vertical white pipe in rear white-wall corner; protrudes into room near X\u2248-7.91. Keep this feature instead of flattening corner.",
+      "approx_center_xy": [
+        -7.91,
+        0.24
+      ],
+      "diameter_approx_m": 0.1
+    },
+    {
+      "id": "closed-fireplace",
+      "label": "Existing infilled fireplace/chimney",
+      "bounds_blender_xyz_m": [
+        -6.1,
+        -4.48,
+        -2.85,
+        -2.71,
+        1.59,
+        4.6
+      ],
+      "evidence_status": "observed textured brick, white infill and prior calibrated anchor",
+      "confidence": "high center; medium broad envelope",
+      "notes": "Opening center X=-5.31; opening X[-5.65,-4.98]~.67m. White closed arched infill is recessed at median Y=-2.835. Full-height brick chimney face at median Y=-2.722, about .115m forward of adjacent brick Y=-2.837. Broad span~1.62m; edges taper/warp. Raw arch has brick voussoirs, without a big rectangular white mantel/trim. Closed appearance does not establish operability.",
+      "opening_center_x": -5.31,
+      "opening_bounds_approx": [
+        -5.65,
+        -4.98,
+        -2.85,
+        -2.82,
+        1.62,
+        2.48
+      ],
+      "chimney_face_y": -2.722,
+      "adjacent_brick_face_y": -2.837,
+      "infill_face_y": -2.835,
+      "old_proxy_trim_status": "Old forward white trim Y=-2.63 is not observed and must not be treated as measured.",
+      "hearth_keepout_xy": [
+        -6.1,
+        -4.48,
+        -2.94,
+        -2.48
+      ],
+      "hearth_keepout_status": "conservative architectural footprint including uncertain low lip, not an exact measured raised hearth polygon"
+    },
+    {
+      "id": "front-shelf-nook",
+      "label": "Existing built-in shelf nook near entry",
+      "bounds_blender_xyz_m": [
+        -3.95,
+        -3.08,
+        -2.9,
+        -2.55,
+        1.6,
+        4.15
+      ],
+      "evidence_status": "observed raw angle4 and horizontal triangle peaks",
+      "confidence": "medium topology; low individual shelf detail",
+      "notes": "White boards/brackets sit in brick-side front recess. Approx shelf surface modesZ2.33,2.61,2.80,3.05,3.24,3.60; holes/occlusion prevent reliable count. Do not turn scan fragments into arbitrary tall cabinet. Visible shelf fronts project to roughlyY-2.58.",
+      "approx_shelf_surface_z": [
+        2.33,
+        2.61,
+        2.8,
+        3.05,
+        3.24,
+        3.6
+      ]
+    },
+    {
+      "id": "entry-controls",
+      "label": "Thermostat and small control near entry",
+      "bounds_blender_xyz_m": [
+        -3.18,
+        -2.97,
+        -1.56,
+        -1.35,
+        2.7,
+        3.29
+      ],
+      "evidence_status": "observed raw closet/entry ortho",
+      "confidence": "medium placement",
+      "notes": "Two small wall controls plus switch near +Y jamb of living door; preserve as approximate visual details if modeled."
+    }
+  ],
+  "existing_furniture_and_owned_chair_proposal": [
+    {
+      "id": "standing-main-desk",
+      "kind": "kept_desk",
+      "position_blender_m": [
+        -6.915,
+        -0.131,
+        1.575
+      ],
+      "external_dimensions_m": [
+        1.2,
+        0.685,
+        0.74
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "product_id": "branch-tria-black-oak-charcoal",
+      "top_thickness_m": 0.0254,
+      "dimension_confidence": "Official supplier CAD1:1; desktop1200x685mm vs published1198.88x685.8mm rounding disclosed; top operating height740mm assumed",
+      "published_height_range_m": [
+        0.6477,
+        1.24206
+      ],
+      "dimension_scope": "DesktopW/D and seated top surface; keypad/cable door projections recorded in component bounds",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "secondary-workspace",
+      "kind": "secondary_desk",
+      "position_blender_m": [
+        -5.55,
+        -0.07,
+        1.575
+      ],
+      "external_dimensions_m": [
+        1.4,
+        0.6,
+        0.734925
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "product_id": "lagkapten-alex-black-components",
+      "ALEX_pedestal_side": "LEFT / -X",
+      "ALEX_count": 1,
+      "right_ADILS_leg_count": 2,
+      "use": "Clear 140\u00d760 cm project/work surface; no fixed monitor or permanent second chair. Primary chair can roll over if required.",
+      "selected_color": "Black-brown LAGKAPTEN top, black ALEX 5-drawer unit, two black ADILS legs",
+      "product_components": [
+        {
+          "id": "lagkapten-top-black",
+          "sku": "804.870.16",
+          "quantity": 1
+        },
+        {
+          "id": "alex-black-drawers",
+          "sku": "604.735.48",
+          "quantity": 1
+        },
+        {
+          "id": "adils-black-leg",
+          "sku": "702.179.73",
+          "quantity": 2
+        }
+      ],
+      "dimension_confidence": "140\u00d760\u00d773cm retailer nominal modular desk envelope retained; top34.925mm verified. Support/top contact height must be coherently fitted within nominal published measurements.",
+      "top_thickness_m": 0.034925,
+      "catalog_nominal_external_dimensions_m": [
+        1.4,
+        0.6,
+        0.73
+      ],
+      "modeled_assembled_height_m": 0.734925,
+      "assembly_height_note": "700mm nominal ALEX/ADILS supports plus verified34.925mm top;734.925mm coherent physical proxy versus730mm rounded catalogue label.",
+      "panel_clearance_fit_shift_y_m": -0.02,
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "visitor-chair",
+      "kind": "lounge_chair",
+      "position_blender_m": [
+        -4.73,
+        -2.0,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.650875,
+        0.739775,
+        0.7493
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "ekenaset-axvall-gray-blue",
+      "dimension_confidence": "Selected actual506.243.26 US retailer external measurements; new dimensioned proxy, detailed profile approximate",
+      "selected_color": "Walnut effect/Axvall dark gray-blue boucle",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "clothes-dresser",
+      "kind": "clothes_dresser",
+      "position_blender_m": [
+        -6.6,
+        -2.51,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.6985,
+        0.479425,
+        0.7493
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "storklinta-dark-brown",
+      "drawer_count": 3,
+      "drawer_pullout_m": 0.276225,
+      "dimension_confidence": "Retailer imperial nominal dimensions; official CAD proxy fitted to this stated envelope",
+      "selected_color": "Dark-brown/oak effect605.592.93",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "honeywell-lamp",
+      "kind": "kept_lamp",
+      "position_blender_m": [
+        -7.67,
+        -0.24,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.288036,
+        0.610108,
+        1.9685
+      ],
+      "rotation_z_deg": 0,
+      "product_id": "honeywell-B0C3BVYTXP-white",
+      "major_axis": "Y",
+      "dimension_confidence": "Exact seller diagram outer dimensions; detailed joint geometry approximate",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "muttros-cat-tree",
+      "kind": "kept_cat_tree",
+      "position_blender_m": [
+        -7.59,
+        -1.0,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.59944,
+        0.5588,
+        1.4986
+      ],
+      "rotation_z_deg": 0,
+      "product_id": "muttros-B0HHRC6XBC-brown",
+      "upper_provisional_envelope_m": [
+        0.7,
+        1.1,
+        1.4986
+      ],
+      "branch_basket_major_axis": "Y",
+      "basket_count": 3,
+      "dimension_confidence": "Seller base/height confirmed; upper basket/branch dimensions unpublished and provisional",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "rug",
+      "kind": "rug",
+      "position_blender_m": [
+        -6.1,
+        -1.1,
+        1.575
+      ],
+      "external_dimensions_m": [
+        2.7432,
+        1.8288,
+        0.005175
+      ],
+      "rotation_z_deg": 0,
+      "product_id": "rift",
+      "nominal_size": "6x9ft flatwoven plus Standard Pad",
+      "major_axis": "X",
+      "texture_file": "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg",
+      "selected_color": "Rift Charcoal",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "richmond-art",
+      "kind": "art",
+      "position_blender_m": [
+        -5.55,
+        0.22557,
+        3.2
+      ],
+      "external_dimensions_m": [
+        1.0254,
+        0.02286,
+        0.7254
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "product_id": "dan-hobday-richmond",
+      "paper_size_m": [
+        1.0,
+        0.7
+      ],
+      "frame": "Landscape100\u00d770cm paper; assumed external black frame1.0254\u00d7.7254m and22.86mm depth; outside profile not vendor-CAD verified.",
+      "dimension_confidence": "Exact selected native landscape100x70cm paper; thin frame outside profile inferred from verified face/depth",
+      "texture_file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+      "source": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "placement_status": "Existing saved layout anchor; diagram does not move furniture"
+    },
+    {
+      "id": "owned-aeron",
+      "kind": "owned_task_chair",
+      "position_blender_m": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.71882,
+        0.71882,
+        1.0922
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "aeron-size-c-mineral",
+      "rolling_base_diameter_m": 0.6731,
+      "desk_offset_x_m": 0.13,
+      "expanded_arm_footprint_m": [
+        0.80264,
+        0.71882
+      ],
+      "source": "Confirmed owned chair catalog; current saved chair anchor",
+      "pose_status": "Proposal anchor retained from saved layout; new owned-chair scene is not built",
+      "actual_owned_options_status": "Vintage, base, arm/back/caster options unconfirmed"
+    }
+  ],
+  "zones": [
+    {
+      "id": "WORK",
+      "members": [
+        "standing-main-desk",
+        "secondary-workspace",
+        "owned-aeron",
+        "honeywell-lamp",
+        "muttros-cat-tree"
+      ],
+      "label_anchor_blender_xy_m": [
+        -5.6,
+        -0.9
+      ],
+      "status": "Diagram grouping only; no clearance boundary"
+    },
+    {
+      "id": "CONSOLE",
+      "members": [
+        "clothes-dresser"
+      ],
+      "label_anchor_blender_xy_m": [
+        -6.6,
+        -2.99
+      ],
+      "status": "Existing chest grouped as console; no furniture change"
+    },
+    {
+      "id": "LOUNGE",
+      "members": [
+        "visitor-chair"
+      ],
+      "label_anchor_blender_xy_m": [
+        -4.7,
+        -1.4
+      ],
+      "status": "Diagram grouping only; existing fireplace/brick retained"
+    }
+  ],
+  "provisional_additions": [
+    {
+      "id": "bench-ledge",
+      "label": "MOSSLANDA ledge",
+      "dimensions_m_W_D": [
+        1.15,
+        0.12
+      ],
+      "suggestion_target_blender_xy_m": [
+        -5.55,
+        0.31
+      ],
+      "alignment": "Centered above fixed clear bench",
+      "vertical_placement": "Not specified; coordinate with Richmond and task reach",
+      "status": "Provisional idea only; not modeled or fit-tested"
+    },
+    {
+      "id": "console-lamp-tray",
+      "label": "Small table lamp + tray on existing chest",
+      "suggestion_target_blender_xy_m": [
+        -6.6,
+        -2.51
+      ],
+      "status": "Provisional styling idea; final product dimensions/placement unselected"
+    },
+    {
+      "id": "plant",
+      "label": "Modest plant near visitor / brick",
+      "suggestion_target_blender_xy_m": [
+        -4.22,
+        -2.3
+      ],
+      "status": "Area of interest only; exact location/size pending fit and door approach check"
+    }
+  ],
+  "wall_finish_proposals": [
+    {
+      "variant": "B",
+      "paint": "Peppercorn SW7674",
+      "paint_sRGB": [
+        88,
+        88,
+        88
+      ],
+      "wrap_surfaces": [
+        "existing workwall +Y",
+        "adjacent rear windowwall -X"
+      ],
+      "slat_material": "Black Ash / black felt",
+      "panel_count": 5,
+      "panel_width_m": 0.6,
+      "total_bay_width_m": 3.0,
+      "bay_span_blender_x_m": [
+        -7.6825,
+        -4.6825
+      ],
+      "bay_status": "Diagram alignment centered across both desk sections; root-directed proposal, not installed geometry"
+    },
+    {
+      "variant": "C",
+      "paint": "Naval SW6244",
+      "paint_sRGB": [
+        47,
+        61,
+        76
+      ],
+      "wrap_surfaces": [
+        "existing smooth workwall +Y",
+        "adjacent rear windowwall -X"
+      ],
+      "slats": false
+    }
+  ],
+  "retained": [
+    "White ceiling",
+    "Existing white door/window trim and doors",
+    "Exposed brick and infilled fireplace",
+    "Existing radiator, pipe, closet/upper cupboard, shelf nook and controls"
+  ],
+  "source_transition_note": "Saved layout still uses Branch Pro and a 3-panel bay. This diagram replaces the chair label/envelope from confirmed owned Mineral Aeron Size C catalog and shows root-directed 5-panel/wrap proposals. These overrides are not represented as existing model geometry.",
+  "limits": [
+    "Furniture is shown as simplified product envelopes, not a render.",
+    "No additions have been modeled, purchased or physically fit-tested.",
+    "No dimensional clearance, door-swing, accessibility or installation claim is made.",
+    "Dashed symbols/arrows are suggestions; height/product choices remain open."
+  ],
+  "model_mutations": false,
+  "outputs": {
+    "PNG": {
+      "file": "/workspace/his-office-pinterest/images/composition-proposal/composition-plan.png",
+      "sha256": "dff40e327620e84d539abd5579949906e14aa2b92d022cf23872056277779277"
+    },
+    "script": {
+      "file": "/workspace/his-office-pinterest/images/composition-proposal/build_composition_plan.py",
+      "sha256": "d24de38f8b84ec945e9c97d299d9baa2955c3f27c3173e924927ee14ec45ede7"
+    }
+  },
+  "source_hashes_rechecked_after_diagram": {
+    "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json": true,
+    "/workspace/his-office-redesign/geometry/room-measurements.json": true,
+    "/workspace/his-office-redesign/geometry/fixed-features.json": true,
+    "/workspace/his-office-pinterest/products/selected-products.json": true,
+    "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend": true,
+    "/workspace/his-office-pinterest/products/owned-chair/aeron-c-mineral-official.png": true
+  }
+}

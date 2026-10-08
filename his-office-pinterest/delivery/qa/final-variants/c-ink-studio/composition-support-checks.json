@@ -1,0 +1,2189 @@
+{
+  "source_file": "/workspace/his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend",
+  "source_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+  "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+  "method": "Read-only evaluated world-space mesh down-rays for actual supporting surfaces, not lip-top labels; meter-coordinate vertex proofs for original suppliers. No file saved or model changed.",
+  "mat": {
+    "supported_bounds_blender_m": [
+      [
+        -7.397600173950195,
+        -0.33102500438690186,
+        2.315000057220459
+      ],
+      [
+        -6.432399749755859,
+        0.06902500987052917,
+        2.31850004196167
+      ]
+    ],
+    "samples": [
+      {
+        "xy_m": [
+          -7.301080131530762,
+          -0.29102000296115876
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -7.301080226898193,
+            -0.291020005941391,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -7.301080131530762,
+          -0.13099999725818634
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -7.301080226898193,
+            -0.13099999725818634,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -7.301080131530762,
+          0.029020008444786083
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -7.301080226898193,
+            0.029020007699728012,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.914999961853027,
+          -0.29102000296115876
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -6.914999961853027,
+            -0.291020005941391,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.914999961853027,
+          -0.13099999725818634
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -6.914999961853027,
+            -0.13099999725818634,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.914999961853027,
+          0.029020008444786083
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -6.914999961853027,
+            0.029020007699728012,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.528919792175293,
+          -0.29102000296115876
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -6.528919696807861,
+            -0.291020005941391,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.528919792175293,
+          -0.13099999725818634
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -6.528919696807861,
+            -0.13099999725818634,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.528919792175293,
+          0.029020008444786083
+        ],
+        "support_hit": {
+          "mesh": "standing-main-desk::desktop",
+          "point_blender_m": [
+            -6.528919696807861,
+            0.029020007699728012,
+            2.315000057220459
+          ]
+        },
+        "vertical_gap_m": 0.0,
+        "pass": true
+      }
+    ],
+    "pass": true,
+    "xy_contained_on_desktop": true,
+    "moves_with_standing_desk": true
+  },
+  "monitor_keyboard": [
+    {
+      "supported_bounds_blender_m": [
+        [
+          -7.0,
+          -0.10500000417232513,
+          2.31850004196167
+        ],
+        [
+          -6.829999923706055,
+          0.06499999761581421,
+          2.3425002098083496
+        ]
+      ],
+      "samples": [
+        {
+          "xy_m": [
+            -6.982999992370606,
+            -0.0880000039935112
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.982999801635742,
+              -0.08800000697374344,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.982999992370606,
+            -0.020000003278255463
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.982999801635742,
+              -0.020000003278255463,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.982999992370606,
+            0.047999997437000286
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.982999801635742,
+              0.047999996691942215,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.914999961853027,
+            -0.0880000039935112
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.914999961853027,
+              -0.08800000697374344,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.914999961853027,
+            -0.020000003278255463
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.914999961853027,
+              -0.020000003278255463,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.914999961853027,
+            0.047999997437000286
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.914999961853027,
+              0.047999996691942215,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.846999931335449,
+            -0.0880000039935112
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.8470001220703125,
+              -0.08800000697374344,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.846999931335449,
+            -0.020000003278255463
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.8470001220703125,
+              -0.020000003278255463,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.846999931335449,
+            0.047999997437000286
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.8470001220703125,
+              0.047999996691942215,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        }
+      ],
+      "pass": true,
+      "mesh_names": [
+        "standing-main-desk::generic equipment assumption::monitor stand"
+      ],
+      "xy_margin_inside_mat_m": [
+        0.3976001739501953,
+        0.3976001739501953,
+        0.22602500021457672,
+        0.004025012254714966
+      ]
+    },
+    {
+      "supported_bounds_blender_m": [
+        [
+          -7.119999885559082,
+          -0.32249999046325684,
+          2.31850004196167
+        ],
+        [
+          -6.710000038146973,
+          -0.1875,
+          2.3425002098083496
+        ]
+      ],
+      "samples": [
+        {
+          "xy_m": [
+            -7.0789999008178714,
+            -0.30899999141693113
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -7.078999996185303,
+              -0.3089999854564667,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -7.0789999008178714,
+            -0.2549999952316284
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -7.078999996185303,
+              -0.2549999952316284,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -7.0789999008178714,
+            -0.20099999904632568
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -7.078999996185303,
+              -0.20100000500679016,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.914999961853027,
+            -0.30899999141693113
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.914999961853027,
+              -0.3089999854564667,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.914999961853027,
+            -0.2549999952316284
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.914999961853027,
+              -0.2549999952316284,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.914999961853027,
+            -0.20099999904632568
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.914999961853027,
+              -0.20100000500679016,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.751000022888183,
+            -0.30899999141693113
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.750999927520752,
+              -0.3089999854564667,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.751000022888183,
+            -0.2549999952316284
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.750999927520752,
+              -0.2549999952316284,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        },
+        {
+          "xy_m": [
+            -6.751000022888183,
+            -0.20099999904632568
+          ],
+          "support_hit": {
+            "mesh": "primary-felt-mat::MediumPlus darkgray wool felt",
+            "point_blender_m": [
+              -6.750999927520752,
+              -0.20100000500679016,
+              2.31850004196167
+            ]
+          },
+          "vertical_gap_m": 0.0,
+          "pass": true
+        }
+      ],
+      "pass": true,
+      "mesh_names": [
+        "standing-main-desk::generic equipment assumption::keyboard"
+      ],
+      "xy_margin_inside_mat_m": [
+        0.2776002883911133,
+        0.2776002883911133,
+        0.00852501392364502,
+        0.2565250098705292
+      ]
+    }
+  ],
+  "ledges": [
+    {
+      "id": "project-display-ledge",
+      "bounds_blender_m": [
+        [
+          -6.124967575073242,
+          0.13899967074394226,
+          2.754999876022339
+        ],
+        [
+          -4.975032806396484,
+          0.2590000033378601,
+          2.8249998092651367
+        ]
+      ],
+      "actual_center_down_ray_support_z_m": 2.7669999599456787,
+      "declared_tray_support_z_m": 2.766999900341034,
+      "overall_top_height_above_floor_m": 1.2499998092651368,
+      "books": [
+        {
+          "supported_bounds_blender_m": [
+            [
+              -5.954500198364258,
+              0.21899984776973724,
+              2.7669999599456787
+            ],
+            [
+              -5.865500450134277,
+              0.22899983823299408,
+              2.9069998264312744
+            ]
+          ],
+          "samples": [
+            {
+              "xy_m": [
+                -5.94560022354126,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.9456000328063965,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.94560022354126,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.9456000328063965,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.94560022354126,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.9456000328063965,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.910000324249268,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.910000324249268,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.910000324249268,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.910000324249268,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.910000324249268,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.910000324249268,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.874400424957275,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.874400615692139,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.874400424957275,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.874400615692139,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.874400424957275,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.874400615692139,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            }
+          ],
+          "pass": true,
+          "mesh": "project-display-ledge::illustrative pocket journal0",
+          "book_height_m": 0.1399998664855957
+        },
+        {
+          "supported_bounds_blender_m": [
+            [
+              -5.8445000648498535,
+              0.21899984776973724,
+              2.7669997215270996
+            ],
+            [
+              -5.755500316619873,
+              0.22899983823299408,
+              2.9019999504089355
+            ]
+          ],
+          "samples": [
+            {
+              "xy_m": [
+                -5.835600090026856,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.835599899291992,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.835600090026856,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.835599899291992,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.835600090026856,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.835599899291992,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.800000190734863,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.800000190734863,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.800000190734863,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.800000190734863,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.800000190734863,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.800000190734863,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.764400291442871,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.764400482177734,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.764400291442871,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.764400482177734,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.764400291442871,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.764400482177734,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            }
+          ],
+          "pass": true,
+          "mesh": "project-display-ledge::illustrative pocket journal1",
+          "book_height_m": 0.13500022888183594
+        },
+        {
+          "supported_bounds_blender_m": [
+            [
+              -5.734499931335449,
+              0.21899984776973724,
+              2.7669999599456787
+            ],
+            [
+              -5.645500183105469,
+              0.22899983823299408,
+              2.9119999408721924
+            ]
+          ],
+          "samples": [
+            {
+              "xy_m": [
+                -5.725599956512451,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.725599765777588,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.725599956512451,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.725599765777588,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.725599956512451,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.725599765777588,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.690000057220459,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.690000057220459,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.690000057220459,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.690000057220459,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.690000057220459,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.690000057220459,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.654400157928467,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.65440034866333,
+                  0.21999984979629517,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.654400157928467,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.65440034866333,
+                  0.22399984300136566,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -5.654400157928467,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "project-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -5.65440034866333,
+                  0.22799983620643616,
+                  2.7669999599456787
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            }
+          ],
+          "pass": true,
+          "mesh": "project-display-ledge::illustrative pocket journal2",
+          "book_height_m": 0.14499998092651367
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "primary-display-ledge",
+      "bounds_blender_m": [
+        [
+          -7.489967346191406,
+          0.13899967074394226,
+          3.6050000190734863
+        ],
+        [
+          -6.340032577514648,
+          0.2590000033378601,
+          3.674999952316284
+        ]
+      ],
+      "actual_center_down_ray_support_z_m": 3.617000102996826,
+      "declared_tray_support_z_m": 3.6170000433921814,
+      "overall_top_height_above_floor_m": 2.099999952316284,
+      "books": [
+        {
+          "supported_bounds_blender_m": [
+            [
+              -7.319499969482422,
+              0.21899984776973724,
+              3.617000102996826
+            ],
+            [
+              -7.230500221252441,
+              0.22899983823299408,
+              3.756999969482422
+            ]
+          ],
+          "samples": [
+            {
+              "xy_m": [
+                -7.310599994659424,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.3105998039245605,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.310599994659424,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.3105998039245605,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.310599994659424,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.3105998039245605,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.275000095367432,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.275000095367432,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.275000095367432,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.275000095367432,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.275000095367432,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.275000095367432,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.239400196075439,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.239400386810303,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.239400196075439,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.239400386810303,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.239400196075439,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.239400386810303,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            }
+          ],
+          "pass": true,
+          "mesh": "primary-display-ledge::illustrative pocket journal0",
+          "book_height_m": 0.1399998664855957
+        },
+        {
+          "supported_bounds_blender_m": [
+            [
+              -7.209499835968018,
+              0.21899984776973724,
+              3.616999864578247
+            ],
+            [
+              -7.120500087738037,
+              0.22899983823299408,
+              3.752000093460083
+            ]
+          ],
+          "samples": [
+            {
+              "xy_m": [
+                -7.20059986114502,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.200599670410156,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.20059986114502,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.200599670410156,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.20059986114502,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.200599670410156,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.164999961853027,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.164999961853027,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.164999961853027,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.164999961853027,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.164999961853027,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.164999961853027,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.129400062561035,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.129400253295898,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.129400062561035,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.129400253295898,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.129400062561035,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.129400253295898,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": -2.384185791015625e-07,
+              "pass": true
+            }
+          ],
+          "pass": true,
+          "mesh": "primary-display-ledge::illustrative pocket journal1",
+          "book_height_m": 0.13500022888183594
+        },
+        {
+          "supported_bounds_blender_m": [
+            [
+              -7.099499702453613,
+              0.21899984776973724,
+              3.617000102996826
+            ],
+            [
+              -7.010499954223633,
+              0.22899983823299408,
+              3.76200008392334
+            ]
+          ],
+          "samples": [
+            {
+              "xy_m": [
+                -7.090599727630615,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.090599536895752,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.090599727630615,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.090599536895752,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.090599727630615,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.090599536895752,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.054999828338623,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.054999828338623,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.054999828338623,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.054999828338623,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.054999828338623,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.054999828338623,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.019399929046631,
+                0.21999984681606294
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.019400119781494,
+                  0.21999984979629517,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.019399929046631,
+                0.22399984300136566
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.019400119781494,
+                  0.22399984300136566,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            },
+            {
+              "xy_m": [
+                -7.019399929046631,
+                0.22799983918666838
+              ],
+              "support_hit": {
+                "mesh": "primary-display-ledge::original supplier black ledge",
+                "point_blender_m": [
+                  -7.019400119781494,
+                  0.22799983620643616,
+                  3.617000102996826
+                ]
+              },
+              "vertical_gap_m": 0.0,
+              "pass": true
+            }
+          ],
+          "pass": true,
+          "mesh": "primary-display-ledge::illustrative pocket journal2",
+          "book_height_m": 0.14499998092651367
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "supplier_ledges": [
+    {
+      "id": "project-display-ledge",
+      "original_source_vertex_count": 960,
+      "actual_vertex_count": 960,
+      "vertex_counts_match": true,
+      "max_bidirectional_nearest_vertex_deviation_m": 5.339525159797631e-07,
+      "unscaled_source_shape_pass": true
+    },
+    {
+      "id": "primary-display-ledge",
+      "original_source_vertex_count": 960,
+      "actual_vertex_count": 960,
+      "vertex_counts_match": true,
+      "max_bidirectional_nearest_vertex_deviation_m": 5.331201577973843e-07,
+      "unscaled_source_shape_pass": true
+    }
+  ],
+  "fado": {
+    "supported_bounds_blender_m": [
+      [
+        -6.919940948486328,
+        -2.6299407482147217,
+        2.3243000507354736
+      ],
+      [
+        -6.680059432983398,
+        -2.390059232711792,
+        2.560789108276367
+      ]
+    ],
+    "samples": [
+      {
+        "xy_m": [
+          -6.766306,
+          -2.457339
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.766305923461914,
+            -2.45733904838562,
+            2.3242857456207275
+          ]
+        },
+        "vertical_gap_m": 1.430511474609375e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.772946,
+          -2.555617
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.772945880889893,
+            -2.555617094039917,
+            2.3242814540863037
+          ]
+        },
+        "vertical_gap_m": 1.8596649169921875e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.773168,
+          -2.46485
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.773168087005615,
+            -2.4648499488830566,
+            2.3242857456207275
+          ]
+        },
+        "vertical_gap_m": 1.430511474609375e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.767834,
+          -2.561327
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.767834186553955,
+            -2.5613269805908203,
+            2.3242809772491455
+          ]
+        },
+        "vertical_gap_m": 1.9073486328125e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.77088,
+          -2.456249
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.770880222320557,
+            -2.4562489986419678,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.774082,
+          -2.458701
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.774082183837891,
+            -2.4587008953094482,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.853941,
+          -2.504463
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.853940963745117,
+            -2.504462957382202,
+            2.3242862224578857
+          ]
+        },
+        "vertical_gap_m": 1.3828277587890625e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.769018,
+          -2.456133
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.769018173217773,
+            -2.4561328887939453,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.774402,
+          -2.45939
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.774402141571045,
+            -2.4593899250030518,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.765434,
+          -2.458319
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.7654337882995605,
+            -2.4583189487457275,
+            2.3242857456207275
+          ]
+        },
+        "vertical_gap_m": 1.430511474609375e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.860804,
+          -2.511974
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.860804080963135,
+            -2.5119740962982178,
+            2.3242862224578857
+          ]
+        },
+        "vertical_gap_m": 1.3828277587890625e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.771666,
+          -2.465851
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.771666049957275,
+            -2.465851068496704,
+            2.3242855072021484
+          ]
+        },
+        "vertical_gap_m": 1.4543533325195312e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.771433,
+          -2.465945
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.771432876586914,
+            -2.46594500541687,
+            2.3242855072021484
+          ]
+        },
+        "vertical_gap_m": 1.4543533325195312e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.766357,
+          -2.465072
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.766356945037842,
+            -2.4650719165802,
+            2.3242855072021484
+          ]
+        },
+        "vertical_gap_m": 1.4543533325195312e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.768082,
+          -2.45634
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.768082141876221,
+            -2.4563400745391846,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.862459,
+          -2.509131
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.862459182739258,
+            -2.5091309547424316,
+            2.3242862224578857
+          ]
+        },
+        "vertical_gap_m": 1.3828277587890625e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.776937,
+          -2.563782
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.776937007904053,
+            -2.563781976699829,
+            2.3242812156677246
+          ]
+        },
+        "vertical_gap_m": 1.8835067749023438e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.773886,
+          -2.555716
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.773886203765869,
+            -2.555716037750244,
+            2.3242814540863037
+          ]
+        },
+        "vertical_gap_m": 1.8596649169921875e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.771595,
+          -2.456486
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.771595001220703,
+            -2.4564859867095947,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.772719,
+          -2.555619
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.772718906402588,
+            -2.55561900138855,
+            2.3242814540863037
+          ]
+        },
+        "vertical_gap_m": 1.8596649169921875e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.852601,
+          -2.50665
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.852601051330566,
+            -2.506649971008301,
+            2.3242862224578857
+          ]
+        },
+        "vertical_gap_m": 1.3828277587890625e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.774603,
+          -2.555915
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.774602890014648,
+            -2.555915117263794,
+            2.3242814540863037
+          ]
+        },
+        "vertical_gap_m": 1.8596649169921875e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.853303,
+          -2.511052
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.853302955627441,
+            -2.511051893234253,
+            2.3242859840393066
+          ]
+        },
+        "vertical_gap_m": 1.4066696166992188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.764727,
+          -2.462507
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.7647271156311035,
+            -2.4625070095062256,
+            2.3242855072021484
+          ]
+        },
+        "vertical_gap_m": 1.4543533325195312e-05,
+        "pass": true
+      }
+    ],
+    "pass": true,
+    "body_component_vertex_counts": [
+      896,
+      896,
+      2097,
+      7426
+    ],
+    "actual_body_dimensions_m": [
+      0.2398815155029297,
+      0.2398815155029297,
+      0.23648905754089355
+    ],
+    "catalog_body_diameter_height_m": [
+      0.254,
+      0.2286
+    ],
+    "source_body_diameter_height_m": [
+      0.23988155,
+      0.23648912
+    ],
+    "support_base_fully_on_dresser": true,
+    "cord_mesh_names": [
+      "dresser-fado::illustrative rear cord0",
+      "dresser-fado::illustrative rear cord1"
+    ],
+    "cord_scope": "Separate illustrative rear cord; source cord/switch not scaled to a claimed globe dimension; outlet reach unmeasured."
+  },
+  "supplier_fado": {
+    "source_connected_component_counts": [
+      896,
+      896,
+      2097,
+      7426
+    ],
+    "vertex_counts_match": true,
+    "max_bidirectional_nearest_vertex_deviation_m": 5.840038852511498e-07,
+    "unscaled_source_shape_pass": true,
+    "source_asset_sha256": "bc7b2361f095c43f672dce1af723d1b2065e30197196281d12233c27b85db056",
+    "method": "Compare final evaluated world vertex multiset to original supplier connected body components after only documented re-centering/translation. Exclude source cord/switch from body, no catalog body rescale."
+  },
+  "tabletop_plant": {
+    "supported_bounds_blender_m": [
+      [
+        -6.463500022888184,
+        -2.573499917984009,
+        2.3243000507354736
+      ],
+      [
+        -6.33650016784668,
+        -2.446500062942505,
+        2.3322999477386475
+      ]
+    ],
+    "samples": [
+      {
+        "xy_m": [
+          -6.431750059127808,
+          -2.541749954223633
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.431750297546387,
+            -2.541749954223633,
+            2.32428240776062
+          ]
+        },
+        "vertical_gap_m": 1.7642974853515625e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.431750059127808,
+          -2.509999990463257
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.431750297546387,
+            -2.509999990463257,
+            2.3242814540863037
+          ]
+        },
+        "vertical_gap_m": 1.8596649169921875e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.431750059127808,
+          -2.478250026702881
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.431750297546387,
+            -2.478250026702881,
+            2.3242807388305664
+          ]
+        },
+        "vertical_gap_m": 1.9311904907226562e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.400000095367432,
+          -2.541749954223633
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.400000095367432,
+            -2.541749954223633,
+            2.3242828845977783
+          ]
+        },
+        "vertical_gap_m": 1.71661376953125e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.400000095367432,
+          -2.509999990463257
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.400000095367432,
+            -2.509999990463257,
+            2.324282169342041
+          ]
+        },
+        "vertical_gap_m": 1.7881393432617188e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.400000095367432,
+          -2.478250026702881
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.400000095367432,
+            -2.478250026702881,
+            2.3242812156677246
+          ]
+        },
+        "vertical_gap_m": 1.8835067749023438e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.368250131607056,
+          -2.541749954223633
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.368249893188477,
+            -2.541749954223633,
+            2.3242833614349365
+          ]
+        },
+        "vertical_gap_m": 1.6689300537109375e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.368250131607056,
+          -2.509999990463257
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.368249893188477,
+            -2.509999990463257,
+            2.324282646179199
+          ]
+        },
+        "vertical_gap_m": 1.7404556274414062e-05,
+        "pass": true
+      },
+      {
+        "xy_m": [
+          -6.368250131607056,
+          -2.478250026702881
+        ],
+        "support_hit": {
+          "mesh": "clothes-dresser::official storklinta-low-drawers part3",
+          "point_blender_m": [
+            -6.368249893188477,
+            -2.478250026702881,
+            2.324281930923462
+          ]
+        },
+        "vertical_gap_m": 1.811981201171875e-05,
+        "pass": true
+      }
+    ],
+    "pass": true,
+    "proxy_actual_bounds_blender_m": [
+      [
+        -6.5087175369262695,
+        -2.6129751205444336,
+        2.3243000507354736
+      ],
+      [
+        -6.279383659362793,
+        -2.392427682876587,
+        2.6041266918182373
+      ]
+    ],
+    "actual_proxy_dimensions_m": [
+      0.22933387756347656,
+      0.22054743766784668,
+      0.27982664108276367
+    ],
+    "declared_max_envelope_m": [
+      0.28,
+      0.28,
+      0.2794
+    ],
+    "support_base_on_dresser": true,
+    "limitation": "Pot shape/height and live crown spread are illustrative, not guaranteed catalog dimensions.",
+    "actual_envelope_excess_m": [
+      0,
+      0,
+      0.00042664108276369017
+    ],
+    "proxy_bound_tolerance_m": 0.001,
+    "proxy_bound_note": "Illustrative rachis-cylinder end cap exceeds declared crown height by0.43mm; below1mm proxy tolerance, explicitly recorded, not exact botanical/product sizing."
+  },
+  "all_composition_supports_pass": true,
+  "limits": [
+    "These are authored mesh contact tests, not installation/load/electrical certification.",
+    "Books/tray/palm foliage are labeled illustrative proxies.",
+    "FADO body preserves supplier CAD239.9mm diameter/236.5mm height; rounded US catalog254mm diameter/228.6mm height is separately disclosed.",
+    "Rigid mesh floor supports overlap a deformable5.2mm rug pad where appropriate; textile compression not simulated."
+  ]
+}

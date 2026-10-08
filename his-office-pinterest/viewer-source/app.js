@@ -23,17 +23,50 @@ const fill=new THREE.DirectionalLight(0xe2ecff,.8);fill.position.set(-10,7,-4);s
 let shell=new THREE.Group(),furniture=new THREE.Group(),doors=new THREE.Group();
 const variantCache=new Map();let variantRequest=0;
 const decodedChunkCache=new Map();
+let deskLift=null,deskHeight=config.desk?.operatingHeight||.74;
 function embeddedAssetBuffer(reference){
   if(typeof reference==='string')return Uint8Array.from(atob(reference),character=>character.charCodeAt(0)).buffer;
   const parts=reference.map(hash=>{if(!decodedChunkCache.has(hash))decodedChunkCache.set(hash,Uint8Array.from(atob(window.OFFICE_EMBED.assetChunks[hash]),character=>character.charCodeAt(0)));return decodedChunkCache.get(hash);});
   const bytes=new Uint8Array(parts.reduce((total,part)=>total+part.length,0));let offset=0;
   for(const part of parts){bytes.set(part,offset);offset+=part.length;}return bytes.buffer;
 }
+function liftFactor(node){
+  if(Number.isFinite(node.userData.viewer_desk_height_factor))return node.userData.viewer_desk_height_factor;
+  return{desktop:1,middle:.5,fixed:0,'desktop-equipment-proxy':1}[node.userData.supplier_lift_group]??null;
+}
+function prepareDeskLift(state){
+  const specification=state.variant.config.deskLift;if(!specification)return null;
+  const records=[],errors=[];state.furniture.updateMatrixWorld(true);
+  state.furniture.traverse(node=>{
+    const factor=liftFactor(node);if(factor===null)return;
+    for(let ancestor=node.parent;ancestor&&ancestor!==state.furniture;ancestor=ancestor.parent){const parentFactor=liftFactor(ancestor);if(parentFactor!==null){if(parentFactor!==factor)errors.push('Nested inconsistent height factors: '+node.name);return;}}
+    const ids=[];for(let ancestor=node;ancestor;ancestor=ancestor.parent)for(const key of ['id','canonical_layout_id'])if(ancestor.userData[key])ids.push(ancestor.userData[key]);
+    records.push({node,factor,ids,sourceComponent:node.userData.source_component_name,sourcePosition:node.position.clone(),sourceScale:node.scale.clone(),sourceQuaternion:node.quaternion.clone(),sourceWorld:node.getWorldPosition(new THREE.Vector3())});
+  });
+  for(const part of specification.parts){const record=records.find(r=>r.sourceComponent===part.source_name);if(!record||record.factor!==part.height_factor)errors.push('Supplier component missing or incorrect: '+part.source_name);}
+  for(const id of specification.requiredCarryRoots||[])if(!records.some(record=>record.factor===1&&record.ids.includes(id)))errors.push('Desktop carry item is untagged: '+id);
+  if(!records.some(record=>record.node.userData.supplier_lift_group==='desktop-equipment-proxy'))errors.push('Desk equipment root is untagged.');
+  return{specification,records,errors,enabled:!errors.length};
+}
+function setDeskHeight(value){
+  if(!deskLift?.enabled)return false;
+  if(!Number.isFinite(Number(value)))return false;
+  const [minimum,maximum]=deskLift.specification.heightRange_m,seated=deskLift.specification.seatedHeight_m;
+  deskHeight=THREE.MathUtils.clamp(Number(value),minimum,maximum);if(!Number.isFinite(deskHeight)){deskHeight=seated;return false;}
+  const delta=deskHeight-seated;
+  for(const record of deskLift.records){
+    if(Math.abs(delta)<1e-10||record.factor===0)record.node.position.copy(record.sourcePosition);
+    else{record.node.parent?.updateWorldMatrix(true,false);const world=record.sourceWorld.clone();world.y+=delta*record.factor;record.node.position.copy(record.node.parent?record.node.parent.worldToLocal(world):world);}
+    record.node.updateMatrix();
+  }
+  furniture.updateMatrixWorld(true);$('desk-height').value=String(deskHeight);$('desk-height-value').textContent=(deskHeight*100).toFixed(1)+' cm';dirty=true;return true;
+}
+function resetDeskHeight(){if(deskLift?.enabled)setDeskHeight(deskLift.specification.seatedHeight_m);}
 const grid=new THREE.GridHelper(12,12,0x789496,0xbfc9b9);grid.position.set(-6,config.room.floor+.015,1);grid.material.transparent=true;grid.material.opacity=.4;grid.visible=false;scene.add(grid);
 let shellPlanes=[],furniturePlanes=[],shellMaterials=new Set(),furnitureMaterials=new Set(),doorMeshes=[],closetSuggestionMeshes=[],wallArtMeshes=[];
 const raycaster=new THREE.Raycaster();raycaster.firstHitOnly=true;
 const clock=new THREE.Clock(),forward=new THREE.Vector3();
-let mode='orbit',selectedView='overview',yaw=0,pitch=0,cutaway=Number($('cutaway').value),ready=false,pointer=null,toastTimer;
+let mode='orbit',selectedView='room-a',yaw=0,pitch=0,cutaway=Number($('cutaway').value),ready=false,pointer=null,toastTimer;
 const keys=new Set();let assetState={};
 
 function notify(message){$('toast').textContent=message;$('toast').style.opacity=1;clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('toast').style.opacity=0,3500);}
@@ -68,8 +101,8 @@ function isClosetSuggestion(object){
 }
 function wallArtFootprint(object,roomConfig=config){
   for(let current=object;current;current=current.parent){
-    const id=current.userData.id;
-    const art=(roomConfig.footprints||[]).find(item=>['art','wall_art'].includes(item.kind)&&(item.id===id||current.name.startsWith(item.id+'::')));
+    const id=current.userData.canonical_layout_id||current.userData.id;
+    const art=(roomConfig.footprints||[]).find(item=>['art','wall_art'].includes(item.kind)&&(item.id===id||current.name===item.id||current.name.startsWith(item.id+'::')));
     if(art)return art;
   }
   return null;
@@ -103,7 +136,7 @@ async function prepareVariant(next){
   const promise=(async()=>{
     const state={variant:next,shell:new THREE.Group(),furniture:new THREE.Group(),doors:new THREE.Group(),shellMaterials:new Set(),furnitureMaterials:new Set(),shellPlanes:[],furniturePlanes:[],doorMeshes:[],closetSuggestionMeshes:[],wallArtMeshes:[],assetState:{}};
     state.shell.name=next.id+'-room-shell';state.furniture.name=next.id+'-furnishings';state.doors.name=next.id+'-recorded-door-leaves';
-    await Promise.all(['shell','doors','furniture'].map(key=>loadAsset(key,state)));return state;
+    await Promise.all(['shell','doors','furniture'].map(key=>loadAsset(key,state)));state.deskLift=prepareDeskLift(state);return state;
   })();variantCache.set(next.id,promise);return promise;
 }
 function updateProductInspection(){
@@ -121,14 +154,17 @@ function updateVariantUI(){
   $('inspect-product').replaceChildren(...(config.products||[]).map(item=>new Option(item.name,item.id)));updateProductInspection();
   $('model-source').href=(window.OFFICE_EMBED?'':'../')+variant.model_source;$('model-source').textContent='Download '+variant.label+' Blender model';
   $('model-hash').textContent='SHA-256: '+variant.model_sha256;
+  $('desk-height-panel').hidden=!deskLift?.enabled;
+  if(deskLift?.enabled){const[min,max]=deskLift.specification.heightRange_m;$('desk-height').min=String(min);$('desk-height').max=String(max);resetDeskHeight();}
 }
 async function switchVariant(id){
   const next=catalog.variants.find(item=>item.id===id);if(!next)throw new Error('Unknown room alternative.');
   const request=++variantRequest;ready=false;keys.clear();$('loading').style.display='flex';$('loading-detail').textContent='Opening '+next.label+'…';
   try{
     const state=await prepareVariant(next);if(request!==variantRequest)return;
-    scene.remove(shell,furniture,doors);variant=next;config=next.config;
+    resetDeskHeight();scene.remove(shell,furniture,doors);variant=next;config=next.config;
     ({shell,furniture,doors,shellMaterials,furnitureMaterials,shellPlanes,furniturePlanes,doorMeshes,closetSuggestionMeshes,wallArtMeshes,assetState}=state);
+    deskLift=state.deskLift;deskHeight=config.desk.operatingHeight;
     scene.add(shell,furniture,doors);setFurniture($('furniture').checked);setDoorsHidden($('hide-doors').checked);updateVariantUI();updateClip();updateProjection();
     if(selectedView==='overview')overview();else goToView(selectedView);
     await renderer.compileAsync(scene,camera);if(request!==variantRequest)return;
@@ -156,6 +192,7 @@ function setMode(next,place=true){
 function goToView(id){
   if(id==='overview'){overview();return;}
   const view=config.views.find(view=>view.id===id);if(!view)return;
+  resetDeskHeight();
   selectedView=id;$('view').value=id;setMode('walk',false);camera.position.fromArray(view.eye);lookAt(view.target);
   updateProjection();$('view-title').textContent=view.label;$('view-description').textContent=view.description||'The selected design inside the measured office shell.';
   $('panel').classList.remove('open');$('controls-toggle').setAttribute('aria-expanded','false');viewport.focus({preventScroll:true});dirty=true;
@@ -227,11 +264,12 @@ config.views.forEach(view=>$('view').appendChild(new Option(view.label,view.id))
 $('dimensions').textContent=`Approximately ${config.room.width.toFixed(1)} × ${config.room.depth.toFixed(1)} m · ${config.room.area.toFixed(1)} m² · irregular outline. Ceiling ${(config.room.ceiling-config.room.floor).toFixed(2)} m.`;
 $('variant').addEventListener('change',event=>switchVariant(event.target.value).catch(()=>{}));
 $('inspect-product').addEventListener('change',updateProductInspection);
+$('desk-height').addEventListener('input',event=>setDeskHeight(event.target.value));$('reset-desk-height').addEventListener('click',resetDeskHeight);
 $('view').addEventListener('change',event=>goToView(event.target.value));$('overview').addEventListener('click',overview);$('orbit').addEventListener('click',()=>setMode('orbit'));$('walk').addEventListener('click',()=>setMode('walk'));
 $('furniture').addEventListener('change',event=>setFurniture(event.target.checked));$('hide-doors').addEventListener('change',event=>setDoorsHidden(event.target.checked));$('grid').addEventListener('change',event=>{grid.visible=event.target.checked;dirty=true;});
 $('cutaway').addEventListener('input',event=>{cutaway=Number(event.target.value);$('cutaway-value').value=cutaway.toFixed(1)+' m';updateClip();});
 $('controls-toggle').addEventListener('click',()=>{$('controls-toggle').setAttribute('aria-expanded',String($('panel').classList.toggle('open')));});
-$('save-view').addEventListener('click',()=>{updateArtViewingState();renderer.render(scene,camera);const link=document.createElement('a');link.href=renderer.domElement.toDataURL('image/png');link.download=`his-office-${variant.id}-${selectedView}-${mode}.png`;link.click();notify('Image saved from the current 3D geometry.');});
+$('save-view').addEventListener('click',()=>{updateArtViewingState();renderer.render(scene,camera);const link=document.createElement('a');link.href=renderer.domElement.toDataURL('image/png');const heightSuffix=deskLift?.enabled&&Math.abs(deskHeight-deskLift.specification.seatedHeight_m)>.0001?'-'+Math.round(deskHeight*1000)+'mm':'';link.download=`his-office-${variant.id}-${selectedView}-${mode}${heightSuffix}.png`;link.click();notify('Image saved from the current 3D geometry.');});
 $('enter-walk').addEventListener('click',()=>renderer.domElement.requestPointerLock?.());
 document.addEventListener('pointerlockchange',()=>{app.classList.toggle('locked',!!document.pointerLockElement);keys.clear();});
 document.addEventListener('mousemove',event=>{if(mode!=='walk'||!document.pointerLockElement)return;yaw-=event.movementX*.002;pitch=THREE.MathUtils.clamp(pitch-event.movementY*.002,-Math.PI*.46,Math.PI*.46);setWalkRotation();});
@@ -248,7 +286,7 @@ window.addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;rende
 try{
   await switchVariant(variant.id);
 }catch(error){$('loading-detail').textContent=`Could not open this model: ${error.message}`;console.error(error);}
-window.officeViewer={ready:()=>ready,get config(){return config;},catalog,scene,camera,renderer,goToView,overview,setMode,setDoorsHidden,setFurniture,switchVariant,advanceWalk:move,pressedKeys:()=>[...keys],canMoveTo:point=>canMoveTo(new THREE.Vector3().fromArray(point)),lampAperture:()=>{
+window.officeViewer={ready:()=>ready,get config(){return config;},catalog,scene,camera,renderer,goToView,overview,setMode,setDoorsHidden,setFurniture,switchVariant,setDeskHeight,resetDeskHeight,deskLiftProof:()=>({enabled:!!deskLift?.enabled,errors:deskLift?.errors||[],height_m:deskHeight,seatedHeight_m:deskLift?.specification.seatedHeight_m,heightRange_m:deskLift?.specification.heightRange_m,requiredCarryRoots:deskLift?.specification.requiredCarryRoots||[],components:(deskLift?.records||[]).map(record=>({name:record.node.name,sourceComponent:record.sourceComponent,factor:record.factor,ids:record.ids,worldDelta_m:record.node.getWorldPosition(new THREE.Vector3()).sub(record.sourceWorld).toArray(),scaleUnchanged:record.node.scale.equals(record.sourceScale),rotationUnchanged:record.node.quaternion.equals(record.sourceQuaternion),sourcePositionResetExact:record.node.position.equals(record.sourcePosition)}))}),advanceWalk:move,pressedKeys:()=>[...keys],canMoveTo:point=>canMoveTo(new THREE.Vector3().fromArray(point)),lampAperture:()=>{
   scene.updateMatrixWorld(true);const objects=[];
   furniture.traverse(mesh=>{if(!mesh.isMesh)return;for(let node=mesh;node;node=node.parent)if(node.userData.canonical_layout_id==='honeywell-lamp'||node.userData.id==='honeywell-lamp'||node.name==='kept-honeywell-02e-pro'){objects.push(mesh);break;}});
   const cases=[];for(const x of [-.03,0,.03])for(const y of [-.1,0,.1])cases.push([x,y,null]);

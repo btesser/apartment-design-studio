@@ -1,0 +1,177 @@
+{
+  "status": "PASS FOR FROZEN MODELED GEOMETRY AND NOMINAL OPERATION, SUBJECT TO EXPLICIT FIELD CHECKS",
+  "sealed_UTC": "2026-10-08T20:45:34.584908+00:00",
+  "variants": [
+    {
+      "variant": "b-charcoal-slat",
+      "assertions": {
+        "all17canonical_roots": true,
+        "native_assembly_no_unintended_surface_crossings": true,
+        "all_original_architecture_keeper_world_geometry_UVs_unchanged": true,
+        "retained_Honeywell_cat_materials_unchanged": true,
+        "only_eight_authorized_wall_materials_changed": true,
+        "all_supplier_Tria_components_unscaled": true,
+        "full_published_stroke_includes_monitor_mat_ownedchair_ledge": true,
+        "owned_chair_45cm_pullback_transfer_full_turn": true,
+        "actual_mat_books_lamp_plant_supports_and_supplier_forms": true,
+        "all_native_geometry_present_in_corrected_export": true,
+        "furniture_layer_full_composite_geometry_parity": true,
+        "export_material_assignments_constants_match": true,
+        "selected_original_rug_art_JPEG_bytes_and_UVs": true,
+        "all_active_images_available_and_packed": true,
+        "variant_panel_envelope": true,
+        "all_native_proof_hashes_current": true,
+        "all_proof_layout_hashes_current": true,
+        "final_route_proof_cites_current_layout_and_native_proxy": true,
+        "normal_maxarm_working_pulled_nominal60cm_paths_pass": true,
+        "every_passing_route_has_validated_continuous_witness": true
+      },
+      "files": {
+        "layout.json": {
+          "sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+          "bytes": 17118
+        },
+        "his-office-design.blend": {
+          "sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+          "bytes": 111195691
+        },
+        "tria-component-map.json": {
+          "sha256": "b916d9ad119f0f5e90df363e6d19be3a57e031a55cdfe587a7f0c25938b941e3",
+          "bytes": 5986
+        },
+        "camera-poses.json": {
+          "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+          "bytes": 2555
+        },
+        "his-office-furniture.glb": {
+          "sha256": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1",
+          "bytes": 39380020
+        },
+        "his-office-door-leaves.glb": {
+          "sha256": "06339ba97bd086de89d88a605e80360783c36ee0f4f1190def011c01e8d76b17",
+          "bytes": 167556
+        },
+        "his-office-shell.glb": {
+          "sha256": "10576a59557d21853473aa69b390ae3554826ebac2c2cb8cfc1484684481bee9",
+          "bytes": 1734500
+        },
+        "his-office-design.glb": {
+          "sha256": "93bee5a6c3658116ee6564be229df62e3952ada833bf8d9b2b0cbd2281511e6f",
+          "bytes": 41277344
+        }
+      },
+      "evidence_sha256": {
+        "tria-height-operation.json": "5183c11cb0309c8a151142a0ece703201fb6b1054340655de7e2d96280bc3e8b",
+        "protected-source-parity.json": "433835af276c54d7d64dfcaca6cb6cd4de0d688050d4174a552994e4e50bb98f",
+        "material-availability.json": "a0f209c399560a4642ba500e8c4d3f11ed5831bb3e9345e9802ece099d5de7f6",
+        "owned-chair-motion.json": "24fe89baaf1ecc38a7e536fee6bd85e3b4ec91f3e1273616e76f7b2cd6b194dc",
+        "tria-supplier-parity.json": "1e8c0043010beced829c8ce80b07d4b08d0836aff7e04eb8260865195b4e4ac8",
+        "dresser-operation-clearances.json": "29ace9866bacf6fcfccf915eb0cd1783669b3ca56245eeb256243205278fb1a2",
+        "desk-neighbor-clearances.json": "c5c3971dc26a1ad4247e9f8b077874abd35854beb8790d282f517bb03cd4b3ee",
+        "integrated-mesh-checks.json": "49ee0342d538c9ac7263968421a9e111d44634a2b5b110ed918a872b63852bef",
+        "export-parity.json": "630e648fcc52713d0beeeb69504da4b93c77082c70cd58493ffb83c5375862e4",
+        "composition-support-checks.json": "9b09de6816ad4860d0da03259fa37ba9d7049f65ba783e44edfb91c63eda7be0",
+        "texture-panel-checks.json": "ec58d7a5b42e5d6bbbb69d1e17642dc36c0d0735c732e7f68ad7adcc7ba6d9d0"
+      },
+      "mesh_counts": {
+        "native": 521,
+        "integrated": 519,
+        "furniture": 357
+      }
+    },
+    {
+      "variant": "c-ink-studio",
+      "assertions": {
+        "all17canonical_roots": true,
+        "native_assembly_no_unintended_surface_crossings": true,
+        "all_original_architecture_keeper_world_geometry_UVs_unchanged": true,
+        "retained_Honeywell_cat_materials_unchanged": true,
+        "only_eight_authorized_wall_materials_changed": true,
+        "all_supplier_Tria_components_unscaled": true,
+        "full_published_stroke_includes_monitor_mat_ownedchair_ledge": true,
+        "owned_chair_45cm_pullback_transfer_full_turn": true,
+        "actual_mat_books_lamp_plant_supports_and_supplier_forms": true,
+        "all_native_geometry_present_in_corrected_export": true,
+        "furniture_layer_full_composite_geometry_parity": true,
+        "export_material_assignments_constants_match": true,
+        "selected_original_rug_art_JPEG_bytes_and_UVs": true,
+        "all_active_images_available_and_packed": true,
+        "variant_panel_envelope": true,
+        "all_native_proof_hashes_current": true,
+        "all_proof_layout_hashes_current": true,
+        "final_route_proof_cites_current_layout_and_native_proxy": true,
+        "normal_maxarm_working_pulled_nominal60cm_paths_pass": true,
+        "every_passing_route_has_validated_continuous_witness": true
+      },
+      "files": {
+        "layout.json": {
+          "sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+          "bytes": 16613
+        },
+        "his-office-design.blend": {
+          "sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+          "bytes": 110628427
+        },
+        "tria-component-map.json": {
+          "sha256": "d45dd68259ff0f9a2b745cfe523c4542c001dd10efa812f18408db08d4462d6f",
+          "bytes": 5986
+        },
+        "camera-poses.json": {
+          "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+          "bytes": 2555
+        },
+        "his-office-furniture.glb": {
+          "sha256": "d90bd2d95da60f4116cf03f83099e88e44076e923e3a4c6ab1c4e145c8363ea5",
+          "bytes": 39380008
+        },
+        "his-office-door-leaves.glb": {
+          "sha256": "cc08f1748c1ed21e2eddcf1344ef1de40c16065ca10fa569bf5dcabf28a111b6",
+          "bytes": 167548
+        },
+        "his-office-shell.glb": {
+          "sha256": "88ec26baf787dc3ad15cade90a6d24fbb4b7492f62f7aa57700b2a03574870c1",
+          "bytes": 740124
+        },
+        "his-office-design.glb": {
+          "sha256": "40272b4f8d45af29236a1b4856aae69be3bdaa95b4c73aa66b2ecdf8def57c66",
+          "bytes": 40282096
+        }
+      },
+      "evidence_sha256": {
+        "tria-height-operation.json": "e3c076d9dd468ac67bdf5b9be53f5b3f9d2c0d4afe774fbe2719bc54488cd8c5",
+        "protected-source-parity.json": "720b06e895adaead6b2dbf781165b21c708d9cdd61188c87f4fdfff525b3575f",
+        "material-availability.json": "02c91c88274047e81521dd716dc4febbfcff90fa3f2af35e64c8adb23db0d2c4",
+        "owned-chair-motion.json": "aefdebcc15335fdfd3cb295a4df0a5d13f13a8ead38a55b9afcaf4dbc7f7d8de",
+        "tria-supplier-parity.json": "d1c73886efa206652922dbd362689e1b73ada253bd4f29f71b604ee33ac6d425",
+        "dresser-operation-clearances.json": "30eda4d19d5206aead7ab8b35617349859c058b6a46c525fc2d95cc9e8753a55",
+        "desk-neighbor-clearances.json": "22fc357a53f96eeb39aa2fdba8d795c0b79b3d9858f012f3f4bdc7286e3c4730",
+        "integrated-mesh-checks.json": "60dc0b3be6d9f13a2869dec8e22528a4335dbab7ae2af448ed4667fd663484a9",
+        "export-parity.json": "f1dc7aab91923644668f92c2592907070b958d106d45872e98bddefff398a31d",
+        "composition-support-checks.json": "17fe5f100e8bab00e8f742dfe87855b03a0bdc67e62445946e9f1d316fe560ca",
+        "texture-panel-checks.json": "83c4f9c9aae9609a0c484d03b8716f357193d6186205a863416d2322696cd044"
+      },
+      "mesh_counts": {
+        "native": 441,
+        "integrated": 439,
+        "furniture": 357
+      }
+    }
+  ],
+  "shared_layout_and_geometry_proof_sha256": "edeb09923c670f78cb58a73a358902e72d8d8ca7cc46fff01630b9b575a5301d",
+  "circulation_proof_file": "/workspace/his-office-pinterest/layout/final-variants/final-nominal-routing.json",
+  "circulation_proof_sha256": "956a676df334d9e148778a27af162d726105cfc38a7b1b52b1c0aad959bb85b9",
+  "circulation_review": "Independent route proof reviewed separately before invoking this seal; documented60cm planning-circle paths, not real-world accessibility/installation certification.",
+  "images_status": "Photographic concepts require separate visual QA; this model seal is not image-based metric validation.",
+  "limits": [
+    "Room surfaces are generalized from the original Polycam record with typical5\u201312cm uncertainty. Exact supplier/export equality is an authored-coordinate check, not site accuracy.",
+    "Owned AeronSizeC/Mineral is a manufacturer-photo/spec-guided proxy. Actual vintage/options/arm/cylinder/caster settings are unconfirmed; normal/max-arm planning bounds and stated displayed pose are distinguished.",
+    "Nominal60cm route has little spare tolerance; dresser draws and full chair pullback are sequential operations. No accessibility/code or real shoulder-width guarantee.",
+    "Tria stroke proof translates supplier upper parts/equipment/mat byfullheight andmiddle stages byhalf. Mechanism load/stability, realhuman body, cables, hatch operation and equipment changes are not simulated.",
+    "HoneywellUbase detail/catbranch reach are photo-derived and must be measured onsite; closet interior/rack fit and door swings remain conditional/inferred.",
+    "Anchor STORKLINTA per IKEA instructions: at most one drawer can open before attachment, proper Anchor/Unlock attachment permits multiple. The modeled87mm rear gap needs an approved brick spacer/fixing or dresser repositioning at installation.",
+    "Wall ledge/frame fasteners, substrate/baseboard detail, electrical outlet/cord reach and book loads require site verification. Books/tray/plant are illustrative.",
+    "FADO body preserves supplier239.9mm diameter/236.5mmheight1:1; US catalog254mm/228.6mm differs. Separate illustrative cord is not included in globe sizing.",
+    "Palm proxy envelope actual230\u00d7221\u00d7279.83mm fits the declared280mm crown allowance, with a0.43mm rachis cap-height overshoot explicitly recorded; live plant dimensions are not guaranteed.",
+    "Soft5.2mmrug-pad contacts with feet/casters are expected; compression is not simulated. Procedural detail differs between Blender/coreglTF; source photographic JPEGs retain exact bytes, recorded floor/brick PNGs are JPEG95 reencoded."
+  ]
+}

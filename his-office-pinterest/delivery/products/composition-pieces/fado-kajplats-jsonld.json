@@ -1,0 +1,121 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Products",
+        "item": "https://www.ikea.com/us/en/cat/products-products/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Lighting",
+        "item": "https://www.ikea.com/us/en/cat/lighting-li001/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Lamps & light fixtures",
+        "item": "https://www.ikea.com/us/en/cat/lamps-light-fixtures-li002/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Table lamps",
+        "item": "https://www.ikea.com/us/en/cat/table-lamps-10732/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.3",
+      "reviewCount": "3"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "IKEA"
+    },
+    "category": "Table lamps",
+    "color": "white",
+    "description": "FADO / KAJPLATS Table lamp with LED bulb - smart color and white spectrum. This kit is already pre-paired, so all you have to do is screw the light source into the lamp socket and then start using your smart lighting. 2200 kelvin, 2700 kelvin, 4000 kelvin and 6500 kelvin. Remote control included.",
+    "height": "9 \"",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum__1560525_pe1025400_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum__1481772_pe1005760_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum__1158342_pe888106_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    ],
+    "material": "Plastic",
+    "mpn": "296.549.71",
+    "name": "FADO / KAJPLATS Table lamp with LED bulb - smart color and white spectrum",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "price": "44.98",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "34.98",
+        "priceCurrency": "USD",
+        "validForMemberTier": {
+          "@type": "MemberProgramTier",
+          "name": "IKEA Family"
+        },
+        "validFrom": "2026-10-07Z",
+        "validThrough": "2026-11-11Z"
+      },
+      "seller": {
+        "@type": "Organization",
+        "name": "IKEA",
+        "url": "https://www.ikea.com/us/en/"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "US"
+        }
+      },
+      "url": "https://www.ikea.com/us/en/p/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum-s29654971/"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Stephanie"
+        },
+        "datePublished": "2026-08-31",
+        "name": "Cutest lamp",
+        "reviewBody": "Bought this for my daughter who loves it. It goes from quite bright to a very dim and relaxing. Also purchased the color bulb very fun. Great price.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      }
+    ],
+    "sku": "296.549.71",
+    "url": "https://www.ikea.com/us/en/p/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum-s29654971/"
+  }
+]

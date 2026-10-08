@@ -19,12 +19,17 @@ try{
     else await page.setContent(await fs.readFile(new URL('../../his-office-viewer.html',import.meta.url),'utf8'),{timeout:120000});
   }else await page.goto(sourceUrl);
   await page.waitForFunction(()=>window.officeViewer?.ready(),{timeout:180000});
+  const initial=await page.evaluate(()=>({state:window.officeViewer.state(),pose:window.officeViewer.config.views.find(view=>view.id==='room-a')}));
+  assert.equal(initial.state.selectedView,'room-a');assert.equal(initial.state.mode,'walk');assert.deepEqual(initial.state.position,initial.pose.eye);report.initial=initial;
+  if(process.argv.includes('--capture'))await page.screenshot({path:new URL('entry-default.png',import.meta.url).pathname,timeout:60000});
   const variantIds=await page.evaluate(()=>window.officeViewer.catalog.variants.map(v=>v.id));
   assert.deepEqual(variantIds,['b-charcoal-slat','c-ink-studio']);assert.equal(await page.locator('#variant option').count(),2);
   for(const variantId of variantIds){
     await selectControl('variant',variantId);await page.waitForFunction(id=>window.officeViewer.ready()&&window.officeViewer.state().variant===id,variantId,{timeout:180000});
     const state=await page.evaluate(()=>window.officeViewer.state());
     assert.equal(state.assets.shell,'loaded');assert.equal(state.assets.doors,'loaded');assert.equal(state.assets.furniture,'loaded');assert.equal(state.doorsHidden,false);assert.ok(state.doorMeshCount>0);assert.ok(state.closetSuggestionMeshCount>0);assert.equal(state.closetSuggestionVisible,false);
+    const expectedBounds=[-8.03,1.535,-.36,-3.03,4.635,2.937];
+    state.bounds.forEach((value,index)=>assert.ok(Math.abs(value-expectedBounds[index])<1e-5,'Native room-shell extent '+index+' must remain fixed.'));
     const detail=await page.evaluate(()=>({config:window.officeViewer.config,source:document.getElementById('model-source').getAttribute('href'),hash:document.getElementById('model-hash').textContent}));
     assert.equal(detail.config.desk.width,1.2);assert.equal(detail.config.desk.depth,.685);
     assert.equal(detail.config.products.filter(p=>p.kind==='task_chair').length,1);
@@ -33,6 +38,18 @@ try{
     assert.equal(await page.locator('#inspect-product option').count(),detail.config.products.length);
     const primary=detail.config.products.find(p=>p.kind==='task_chair');assert.deepEqual(primary.front_blender_vector,[0,1,0]);
     const visitor=detail.config.products.find(p=>p.id==='visitor-chair');assert.deepEqual(visitor.front_blender_vector,[0,1,0]);
+    const geometryPresence=await page.evaluate(()=>{
+      const result={};window.officeViewer.scene.traverse(mesh=>{
+        if(!mesh.isMesh||!mesh.geometry?.attributes.position?.count)return;
+        const ids=new Set();for(let node=mesh;node;node=node.parent)for(const key of ['id','canonical_layout_id'])if(node.userData[key])ids.add(node.userData[key]);
+        let shown=true;for(let node=mesh;node;node=node.parent)if(!node.visible)shown=false;
+        const opaque=[mesh.material].flat().some(material=>material.opacity>0);
+        for(const id of ids){result[id]??={meshCount:0,visibleMeshCount:0,vertices:0};result[id].meshCount++;if(shown&&opaque)result[id].visibleMeshCount++;result[id].vertices+=mesh.geometry.attributes.position.count;}
+      });return result;
+    });
+    assert.ok(geometryPresence[primary.id]?.meshCount>=40,'Owned Aeron must have its40 actual mesh parts, not only an empty product root.');
+    assert.ok(geometryPresence[primary.id]?.visibleMeshCount>=40,'All40 exported Aeron parts are visible in the recorded room state.');
+    for(const item of detail.config.products.filter(item=>item.kind!=='wall_finish'))assert.ok(geometryPresence[item.id]?.vertices>0,item.id+' must contain exported geometry.');
     const textures=await page.evaluate(()=>{
       const seen=new Set(),invalid=[],productMaps={};
       window.officeViewer.scene.traverse(mesh=>{
@@ -45,6 +62,25 @@ try{
       });return{uniqueLoadedTextures:seen.size,invalid,productMaps};
     });
     assert.deepEqual(textures.invalid,[]);assert.ok(textures.uniqueLoadedTextures>0);
+    const liftStart=await page.evaluate(()=>window.officeViewer.deskLiftProof());
+    assert.equal(liftStart.enabled,true,'Every official supplier stage and desktop carry root must resolve before height control is offered.');
+    if(!await page.locator('#desk-height-panel').isVisible())await page.locator('#controls-toggle').click();
+    assert.deepEqual(liftStart.errors,[]);assert.ok(await page.locator('#desk-height-panel').isVisible());
+    const liftHeights=[];
+    for(const height of liftStart.heightRange_m){
+      await page.evaluate(height=>{const slider=document.getElementById('desk-height');slider.value=String(height);slider.dispatchEvent(new Event('input',{bubbles:true}));},height);
+      const proof=await page.evaluate(()=>window.officeViewer.deskLiftProof());
+      const delta=height-proof.seatedHeight_m;assert.ok(Math.abs(proof.height_m-height)<1e-9);
+      for(const component of proof.components){assert.ok(Math.abs(component.worldDelta_m[0])<1e-7);assert.ok(Math.abs(component.worldDelta_m[2])<1e-7);assert.ok(Math.abs(component.worldDelta_m[1]-delta*component.factor)<1e-7,component.name);assert.equal(component.scaleUnchanged,true);assert.equal(component.rotationUnchanged,true);}
+      for(const id of proof.requiredCarryRoots)assert.ok(proof.components.some(component=>component.factor===1&&component.ids.includes(id)),id+' must travel with desktop');
+      liftHeights.push(proof);
+    }
+    await page.locator('#reset-desk-height').click();
+    const liftReset=await page.evaluate(()=>window.officeViewer.deskLiftProof());assert.ok(liftReset.components.every(component=>component.sourcePositionResetExact));
+    // Selecting a matched model camera must also restore the exact source pose.
+    await page.evaluate(()=>window.officeViewer.setDeskHeight(1.10));
+    await selectControl('view',detail.config.views[0].id);
+    assert.ok((await page.evaluate(()=>window.officeViewer.deskLiftProof())).components.every(component=>component.sourcePositionResetExact));
     const poses=[];
     for(const id of detail.config.views.map(v=>v.id)){
       await selectControl('view',id);
@@ -60,9 +96,9 @@ try{
     await page.evaluate(()=>window.officeViewer.overview());
     const toggles=await page.evaluate(()=>{document.getElementById('hide-doors').click();const hidden=window.officeViewer.state().doorsHidden,racks=window.officeViewer.state().closetSuggestionVisible;document.getElementById('furniture').click();const empty=!window.officeViewer.state().furniture;document.getElementById('hide-doors').click();document.getElementById('furniture').click();return{hidden,empty,racks,restored:!window.officeViewer.state().closetSuggestionVisible};});
     assert.deepEqual(toggles,{hidden:true,empty:true,racks:true,restored:true});
-    if(process.argv.includes('--capture'))await page.screenshot({path:new URL(variantId+'-overview.png',import.meta.url).pathname,timeout:60000});
+    if(process.argv.includes('--capture')){await page.evaluate(()=>document.getElementById('panel').scrollTop=0);await page.screenshot({path:new URL(variantId+'-overview.png',import.meta.url).pathname,timeout:60000});}
     const lamp=await page.evaluate(()=>window.officeViewer.lampAperture());assert.ok(lamp.lampMeshCount>0);assert.equal(lamp.allRaysPass,true,variantId+' open lamp head aperture and LED/rim controls');
-    report.variants.push({id:variantId,state,poses,textures,walkDistance,toggles,lamp,sourceLink:detail.source});
+    report.variants.push({id:variantId,state,poses,textures,geometryPresence,walkDistance,toggles,lamp,deskLift:{start:liftStart,heights:liftHeights,reset:liftReset},sourceLink:detail.source});
   }
   // Switch back to the cached alternative without resetting camera or navigation mode.
   await selectControl('view','room-b');const beforeSwitch=await page.evaluate(()=>window.officeViewer.state());
@@ -91,6 +127,7 @@ try{
   }
   assert.deepEqual(report.errors,[]);
   report.checks.push('All camera poses/lenses, textures, native dimensions, orientations, controls, and keyboard walking pass for both alternatives.');
+  report.checks.push('Standing desk moves upper/equipment/mat by1×, middle stages by0.5× and fixed parts by0× at both limits, without scaling; reset restores exact source transforms.');
   await fs.writeFile(new URL(fileMode?'file-results.json':standalone?'offline-results.json':'source-results.json',import.meta.url),JSON.stringify(report,null,2)+'\n');
   console.log(JSON.stringify({checks:report.checks,errors:report.errors},null,2));
 }catch(error){report.failure=error.stack;await fs.writeFile(new URL(fileMode?'file-failure.json':standalone?'offline-failure.json':'source-failure.json',import.meta.url),JSON.stringify(report,null,2)+'\n');throw error;}finally{await browser.close();}

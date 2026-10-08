@@ -1,0 +1,20 @@
+PASS FOR CONCEPT VISUALIZATION — SIX FINAL B/C PHOTOGRAPHIC VIEWS
+
+All three angles for both variants were compared with their corresponding frozen native views and original-product references. The corrected final files use distinct Camera A/B/C projections, preserve the room-opening relationships and furniture facing, and retain one owned task chair, one visitor chair and a clear project bench. B keeps its slat bay; C keeps plain Naval walls. Camera C retains the closed recessed fireplace and shallow internal lower brick course. No blocking architecture, facing, room-topology or furniture-count defect remains.
+
+These are appearance concepts, not metric image validation. The exact modeled positions, dimensions, clearances, desk-height motion and nominal routes remain established by QA-REPORT.txt and the native/export proofs. True crop and occlusion are allowed. Generated palm foliage is fuller than the procedural proxy; chairs, shelf lips, wood/rug/brick/art detail and lighting have modest photorealistic variation. A narrow wall-floor finishing strip suggested in Camera B is unmeasured. Live plant spread and finishing details require site checks.
+
+Each delivered PNG is byte-identical to its recorded image-generator original. Initial repeated Camera A and oversized-palm candidates are superseded and are not accepted. Exact final hashes, native-target hashes, dimensions, manifest and original paths are recorded in final-image-QA.json.
+
+b-a: /workspace/his-office-pinterest/variants/b-charcoal-slat/images/concept-a.png
+SHA256 455592762154ec9f950af9cb7e44addd89d23c9ba1febb3342a2dc21d995d7fa (1504 x 1046 pixels)
+b-b: /workspace/his-office-pinterest/variants/b-charcoal-slat/images/concept-b.png
+SHA256 b6008b138ac6d763ac0adfa95fd12776ea6799bd8f6a08d8bd16b575cefb2cd6 (1505 x 1045 pixels)
+b-c: /workspace/his-office-pinterest/variants/b-charcoal-slat/images/concept-c.png
+SHA256 7109c7e72380dec742c1e74276fa7aa17ed0620254c5f7ce5b1e5a994c407709 (1506 x 1045 pixels)
+c-a: /workspace/his-office-pinterest/variants/c-ink-studio/images/concept-a.png
+SHA256 e330d012ad37af0dc51b6afac6326d4b9e6b24879ddc8728a9497e98fc9d91c3 (1505 x 1045 pixels)
+c-b: /workspace/his-office-pinterest/variants/c-ink-studio/images/concept-b.png
+SHA256 5bfe53989383bbffa06df0d7a70fa13d220f134a86f9beed7f95e52d68c8bba2 (1505 x 1045 pixels)
+c-c: /workspace/his-office-pinterest/variants/c-ink-studio/images/concept-c.png
+SHA256 9aed5fa0c4162fbd1d2a7a3aab0225d2a2aaacd4948e206fef26cd25b387d845 (1505 x 1045 pixels)

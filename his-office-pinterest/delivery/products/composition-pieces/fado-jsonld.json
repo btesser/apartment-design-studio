@@ -1,0 +1,525 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Products",
+        "item": "https://www.ikea.com/us/en/cat/products-products/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Lighting",
+        "item": "https://www.ikea.com/us/en/cat/lighting-li001/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Lamps & light fixtures",
+        "item": "https://www.ikea.com/us/en/cat/lamps-light-fixtures-li002/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Table lamps",
+        "item": "https://www.ikea.com/us/en/cat/table-lamps-10732/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "1018"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "IKEA"
+    },
+    "category": "Table lamps",
+    "color": "white",
+    "description": "FADO Table lamp - white 10 \". Creates a soft, cozy mood light in your room. Light bulb sold separately. IKEA recommends LED bulb E26 globe opal white. Use an opal light bulb if you have an ordinary lamp shade or lamp and want an even, diffused distribution of light.",
+    "height": "9 \"",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0606976_pe682645_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__1158342_pe888106_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__1481772_pe1005760_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0176843_pe267072_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0969841_ph174718_s5.jpg",
+        "height": "2000px",
+        "width": "1998px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0340391_pe217413_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__1061714_ph177857_s5.jpg",
+        "height": "2000px",
+        "width": "1501px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0879252_pe614411_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    ],
+    "material": "Glass",
+    "mpn": "700.963.77",
+    "name": "FADO Table lamp - white 10 \"",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "validForMemberTier": {
+          "@type": "MemberProgramTier",
+          "name": "IKEA Family"
+        },
+        "validFrom": "2026-10-07Z",
+        "validThrough": "2026-11-11Z"
+      },
+      "seller": {
+        "@type": "Organization",
+        "name": "IKEA",
+        "url": "https://www.ikea.com/us/en/"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "US"
+        }
+      },
+      "url": "https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Avery"
+        },
+        "datePublished": "2026-10-03",
+        "name": "Package was dry but lamp was damp",
+        "reviewBody": "Package arrived 2 days late and the lamp itself was damp and smelled bad. It also arrived with a small chip in it :(",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Alyssa"
+        },
+        "datePublished": "2026-09-22",
+        "name": "In love with the color variations!",
+        "reviewBody": "The glass ball gives off a super sleek touch to any space and I love the color changes the light bulb allows you to make. It\u2019s perfect to light any space and give it a cool, fun and cozy vibe!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Ben"
+        },
+        "datePublished": "2026-09-19",
+        "name": "Beautiful but super thin glass",
+        "reviewBody": "I've had a few of these over the years. They break very easily. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Naila"
+        },
+        "datePublished": "2026-09-10",
+        "name": "L\u00e1mpara redonda",
+        "reviewBody": "Me encant\u00f3. Le doy todo los cr\u00e9ditos !!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anna"
+        },
+        "datePublished": "2026-09-01",
+        "name": "Timeless Classic",
+        "reviewBody": "Ikea made a timeless classic with the FADO. I\u2019ve had mine for years and it\u2019s one of the only lamps that has survived my many home redesigns. The light is warm and still receive compliments as if it was brand new. You can\u2019t go wrong with a perfectly proportioned orb lamp. 10/10 stars",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Chanel"
+        },
+        "datePublished": "2026-08-31",
+        "name": "Really cool~",
+        "reviewBody": "What a fun cute lamp! Love it so far, fits perfectly in my space as someone who hates overhead lights.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Breann"
+        },
+        "datePublished": "2026-08-26",
+        "name": "beautiful and broken",
+        "reviewBody": "this lamp is beautiful and works so well with colorful bulbs. but, similar to other reviewers, the springs that hold in the glass WILL shatter it if you move it. i lifted it maybe an inch to dust underneath and it shattered and i was cut. they replaced it, and i will not be using the springs to hold it onto the base next time. maybe some putty or something else would be better to hold it in place, but be warned if you try to move it that there should be NO pressure on the cord when you shift it!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Vanessa"
+        },
+        "datePublished": "2026-08-15",
+        "name": "Black mark on glass",
+        "reviewBody": "Im not sure what it\u2019s from but its not worth the process of returning, there\u2019s just a black mark that was hidden under a sticker than won\u2019t wipe off maybe it was debris that got into it during the glass making process. It\u2019s not the end of the world but I just have to position the lamp a certain way to make sure it doesn\u2019t show.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Haley"
+        },
+        "datePublished": "2026-08-09",
+        "name": "Love it!",
+        "reviewBody": "Looks so great in our space, exactly what we wanted and incredibly inexpensive for the quality!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Preston"
+        },
+        "datePublished": "2026-07-09",
+        "name": "Visible defects in the glass",
+        "reviewBody": "The lamp itself is attractive and works as expected, but my glass globe arrived with several visible cosmetic defects. They're noticeable when the lamp is turned on, although I was able to rotate the globe so they're less visible from my normal viewing angle.\n\nIf you're buying this lamp, inspect the globe carefully when you unbox it in case yours has similar cosmetic defects.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Lorren"
+        },
+        "datePublished": "2026-06-20",
+        "name": "Perfect!",
+        "reviewBody": "This lamp is an excellent value and is such a fun way to add ambient lighting to a space. Great with the addition of a color changing bulb.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Charles"
+        },
+        "datePublished": "2026-06-15",
+        "name": "The perfect lamp.",
+        "reviewBody": "This lamp was the perfect choice for my small room that I am renting. It was very easy to assemble, offered perfect mood lighting and has a timeless look to it that blends in with any style of decor. I can see why it is a best-seller. I absolutely love this little lamp and how versatile it is.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Inae"
+        },
+        "datePublished": "2026-06-13",
+        "name": "Goooood~",
+        "reviewBody": "It\u2019s butiful!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Mary"
+        },
+        "datePublished": "2026-05-25",
+        "name": "SO COOL",
+        "reviewBody": "Adds such a cool look to my otherwise boring desk!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Kevin"
+        },
+        "datePublished": "2026-05-22",
+        "name": "Great value and stylish",
+        "reviewBody": "Love the fact that colored bulbs can be used to enhance this product.  I have three!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Amanda"
+        },
+        "datePublished": "2026-05-22",
+        "name": "Broken",
+        "reviewBody": "When I lifted it to change the lightbulb, the clamps that keep the glass and lightbulb base together came undone and broke the glass..",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Chelsea"
+        },
+        "datePublished": "2026-05-20",
+        "name": "extremely fragile",
+        "reviewBody": "Obviously it's glass so you should be careful but I literally never got to use this glass even once. As soon as I took it out of the box, it fell off my nightstand (very los, about 1 foot of the ground) onto carpet and completely broken. I've held onto it since because I can't bring myself to just toss it. But unfortunately no globe replacement is available. be extremely careful",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Dianna"
+        },
+        "datePublished": "2026-04-25",
+        "name": "Ball Lamp",
+        "reviewBody": "Like the product cute lamp for my room.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jazmine"
+        },
+        "datePublished": "2026-04-21",
+        "name": "I Love this lamp ",
+        "reviewBody": "It's the perfect size, and it makes my room very cozy. I love it. I will be buying more lamps from Ikea.\n",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Hyunyoung"
+        },
+        "datePublished": "2026-04-18",
+        "name": "Love it",
+        "reviewBody": "This is exactly my style.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      }
+    ],
+    "sku": "700.963.77",
+    "url": "https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "3DModel",
+    "encoding": [
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp3/glb_draco/1e63883096e8a98c6b51c0b3e0834756-70096377_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp2/glb_draco/2452428f671c2eabd48644c7f4c5079a-70096377_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp1/glb_draco/5c3fec2f805c4422ae5961da8ca5e2ed-70096377_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp3/glb_draco/4da2db5127fd48da9426be161b8c9729-70096377_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp2/glb_draco/b58f14ae5dd44b82a9687d4a40eac2d7-70096377_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp1/glb_draco/ed38b3afb50d426f9d4627624b76e5d1-70096377_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp3/glb/93bd49030f65437d811a53b42db2f382-70096377_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp2/glb/21de701437ab4586b31c4e45ab8c1971-70096377_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp1/glb/a1562cc894544ea6915cef9dc4300019-70096377_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp3/glb/e93511e711404157a54df38b4eb2362f-70096377_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp2/glb/259618a7e5ec4a02801688900299fa6c-70096377_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp1/glb/873b9b286ba447eca8e8a6d90c2b9afd-70096377_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/80096372/PS01_S01_NV_01/simple/glb/0096bb7149064f14ae450e07065d26ac-G-80096372-764a3400dec9a65e0a6d1587d82799d093ff1b51-simple.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/80096372/PS01_S01_NV_01/simple/glb/07db346c2389163a635fb56a6b37f4d3-G-80096372-ad9509f667357ed94a71d9dad29036cba2d7fa1c-simple.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp3/gltf/62389625b55728c521f1bdc710c96d58-70096377_PS01_S01_NV01_IQP3_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp2/gltf/1cfffe1d59d78683b6f9d9fe6b522437-70096377_PS01_S01_NV01_IQP2_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/iqp1/gltf/b0a83e473906f9e0abf3bb95b4074962-70096377_PS01_S01_NV01_IQP1_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp3/gltf/30838c930c904b5693c16488619ec8f7-70096377_PS01_S01_NV01_RQP3_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp2/gltf/a841acd822014811bc9403b0732b8acf-70096377_PS01_S01_NV01_RQP2_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/70096377/PS01_S01_NV01/rqp1/gltf/808cc5da72874095a55fc1d8c556c564-70096377_PS01_S01_NV01_RQP1_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      }
+    ],
+    "image": "",
+    "name": "FADO"
+  }
+]

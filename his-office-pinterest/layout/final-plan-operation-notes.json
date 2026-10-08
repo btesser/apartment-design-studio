@@ -1,0 +1,20 @@
+{
+  "layout_sha256_B": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+  "layout_sha256_C": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+  "status": "PASS for frozen modeled geometry and nominal operation; site checks remain explicit.",
+  "display_notes": [
+    "One owned Aeron; clear project bench, no second task chair/monitor.",
+    "600 mm nominal route passes working + 450 mm chair pullback.",
+    "610/620 mm pass working; fail with full chair pullback.",
+    "Open dresser / chair-back gap: 784 mm working, 334 mm pulled.",
+    "Drawers and full pullback are sequential operations.",
+    "Aeron staged roll + full turn and full Tria stroke pass mesh QA.",
+    "Shelf books rest on actual trays; monitor/mat move with desktop.",
+    "Room uncertainty ~50-120 mm; closet/cat/lamp/anchors need site checks."
+  ],
+  "source_report_paths": [
+    "/workspace/his-office-pinterest/qa/final-variants/QA-REPORT.txt",
+    "/workspace/his-office-pinterest/qa/final-variants/final-model-QA.json",
+    "/workspace/his-office-pinterest/layout/final-variants/final-nominal-routing.json"
+  ]
+}

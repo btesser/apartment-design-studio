@@ -1,8 +1,8 @@
 {
   "room-a": {
     "filename": "previews/room-a.jpg",
-    "scene_sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
-    "image_sha256": "9f668f1413bd014a57c242d45edf1529156208a38e364473d5bbce812b427e7e",
+    "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "image_sha256": "7aaa42d681dbf1a14885e015043b809d282c389881dd0f95f9e7cb403680bc23",
     "pixels": [
       1000,
       694
@@ -10,10 +10,10 @@
     "maximum_samples": 16,
     "minimum_samples": 8,
     "adaptive_threshold": 0.05000000074505806,
-    "exposure": -0.5,
+    "exposure": -0.8999999761581421,
     "engine": "CyclesCPU",
     "denoising": false,
-    "elapsed_seconds": 26.764469623565674,
+    "elapsed_seconds": 24.93758463859558,
     "camera": "CAM room-a"
   }
 }

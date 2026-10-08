@@ -5,6 +5,7 @@ import argparse
 import hashlib
 import json
 import math
+import re
 import shutil
 from pathlib import Path
 
@@ -28,18 +29,20 @@ room={'floor':measurements['floor']['nominal_z_m'],'ceiling':measurements['ceili
 products_document=json.loads((project/'products/selected-products.json').read_text())
 products_by_id={i['id']:i for i in products_document.get('items',[])+products_document.get('owned_keepers',[])}
 labels={'room-a':('From the entry','See the primary desk, clear project bench, lamp and window.'),'room-b':('Rear door side','Look toward the clear project bench, closet and entrance.'),'room-c':('Work wall corner','Review the brick arch, visitor chair and folded-clothes storage.'),'room-d':('Window side','Look across both work surfaces and the visitor area.')}
-item_names={'branch-primary':'Primary task chair','secondary-workspace':'Clear project bench','honeywell-lamp':'Honeywell 02E floor lamp','muttros-cat-tree':'MUTTROS cat tree','clothes-dresser':'Folded-clothes drawers','visitor-chair':'Visitor armchair','rug':'Rift rug'}
-kind_names={'wall_shelf':'Floating shelf','floating_shelf':'Floating shelf','table_lamp':'Decorative table lamp','floor_plant':'Floor plant','desk_mat':'Desk mat','wall_finish':'Wall finish','accent_panel':'Accent paneling','wall_panel':'Wall paneling','wall_art':'Wall art'}
+item_names={'branch-primary':'Primary task chair','secondary-workspace':'Clear project bench','honeywell-lamp':'Honeywell 02E floor lamp','muttros-cat-tree':'MUTTROS cat tree','clothes-dresser':'Folded-clothes drawers','visitor-chair':'Visitor armchair','rug':'Rift rug','project-display-ledge':'Project bench picture ledge','primary-display-ledge':'High ledge above the standing desk','dresser-fado':'FADO opal table lamp','dresser-parlor-palm':'Compact parlor palm on clothes drawers','primary-felt-mat':'Dark-gray felt desk mat'}
+kind_names={'wall_shelf':'Floating shelf','floating_shelf':'Floating shelf','picture_ledge':'Picture ledge','wall_ledge':'Picture ledge','table_lamp':'Decorative table lamp','floor_plant':'Floor plant','table_plant':'Tabletop palm','tabletop_plant':'Tabletop palm','desk_mat':'Desk mat','felt_mat':'Felt desk mat','tray':'Small tray','wall_finish':'Wall finish','accent_panel':'Accent paneling','wall_panel':'Wall paneling','wall_art':'Wall art'}
 
 def footprint(item,dimensions=None,suffix='',provisional=False):
     x,y,_=item['position_blender_m']; w,d,_=dimensions or item.get('collision_dimensions_m')or item['external_dimensions_m']
-    if item.get('rolling_base_diameter_m') and not dimensions:w=d=item['rolling_base_diameter_m']
+    if item.get('collision_footprint_m')and not dimensions:w,d=item['collision_footprint_m']
+    elif item.get('rolling_base_diameter_m')and not dimensions:
+        diameter=item['rolling_base_diameter_m'];w=max(w,diameter);d=max(d,diameter)
     angle=math.radians(item.get('rotation_z_deg',0)); corners=[]
     for dx,dy in [(-w/2,-d/2),(w/2,-d/2),(w/2,d/2),(-w/2,d/2)]:
         corners.append([x+dx*math.cos(angle)-dy*math.sin(angle),-(y+dx*math.sin(angle)+dy*math.cos(angle))])
     facing=item.get('front_blender_vector');kind=item['kind']
-    wall_mounted=kind in ('wall_shelf','floating_shelf','art','wall_art','wall_finish','accent_panel','wall_panel')or item.get('wall_mounted',False)
-    walk_blocker=item.get('walk_blocker',not wall_mounted and kind not in ('rug','desk_mat','closet_shoe_rack','table_lamp','decorative_object','shelf_object'))
+    wall_mounted=kind in ('wall_shelf','floating_shelf','picture_ledge','art','wall_art','wall_finish','accent_panel','wall_panel')or item.get('wall_mounted',False)
+    walk_blocker=item.get('walk_blocker',not wall_mounted and kind not in ('rug','desk_mat','desktop_mat','felt_mat','closet_shoe_rack','table_lamp','table_plant','potted_table_plant','decor_tray','tray','decorative_object','shelf_object'))
     return {'id':item['id']+suffix,'kind':kind,'polygon':corners,'center':[x,-y],'facing':[facing[0],-facing[1]]if facing else None,'provisional':provisional or 'provisional'in item.get('placement_confidence','').lower(),'hiddenWhenDoorsClosed':item.get('hide_in_closed_door_views',False),'walkBlocker':walk_blocker}
 
 def product_fact(item):
@@ -54,14 +57,24 @@ def product_fact(item):
     if item['kind']=='task_chair'and product.get('owned_status'):name=product.get('name',name)
     notes=[]
     if item.get('rolling_base_diameter_m'):notes.append('caster base '+str(round(item['rolling_base_diameter_m']*100))+' cm')
+    if item.get('max_expanded_arm_width_m'):notes.append('expanded-arm envelope '+str(round(item['max_expanded_arm_width_m']*100))+' cm')
     if item.get('upper_provisional_envelope_m'):notes.append('upper branch reach is approximate')
     if item.get('branch_basket_major_axis')=='Y':notes.append('branches run along the window wall')
     if item['kind']=='rug'and item.get('major_axis')=='X':notes.append('long edge runs parallel to the two work surfaces')
     if item['kind']=='kept_lamp'and item.get('major_axis')=='Y':notes.append('long open head runs along the window wall')
     if item.get('hide_in_closed_door_views'):notes.append('closet interior fit is unverified; hidden with recorded closed doors')
     if item['kind']in ('art','wall_art'):notes.append(item.get('placement_note','installed on the work wall above the project bench'))
-    if item['kind']in ('wall_shelf','floating_shelf'):notes.append('wall mounted; does not occupy the floor')
+    if item['kind']in ('wall_shelf','floating_shelf','picture_ledge','wall_ledge'):notes.append('wall mounted; does not occupy the floor')
+    if item.get('top_height_above_floor_m'):notes.append('ledge top '+f'{item["top_height_above_floor_m"]*100:g}'+' cm above floor')
+    if item.get('moves_with')=='standing-main-desk':notes.append('travels with the primary standing desk')
+    if item.get('shape_confidence'):notes.append(item['shape_confidence'])
     if item.get('placement_note')and item['kind']not in ('art','wall_art'):notes.append(item['placement_note'])
+    if item['kind']=='task_chair'and product.get('owned_status'):notes.append('owned Aeron Size C; vintage and detailed options unconfirmed; reference envelope is a proxy')
+    confidence=item.get('dimension_confidence','')
+    if 'proxy'in confidence.lower()and item['kind']!='task_chair':notes.append(confidence)
+    if item.get('geometry_note'):notes.append(item['geometry_note'])
+    if item.get('catalog_body_dimensions_m')and item['catalog_body_dimensions_m']!=item['external_dimensions_m']:
+        notes.append('catalog body '+ ' × '.join(f'{v*100:g}'for v in item['catalog_body_dimensions_m'])+' cm; unscaled supplier body shown')
     if 'desk'in item['kind'] or 'standing'in item['id']:notes.append('worktop height is shown at seated setting')
     return {'id':item['id'],'kind':item['kind'],'name':name,'dimensions_m':item['external_dimensions_m'],'orientation':orientation,'front_blender_vector':facing,'note':'; '.join(notes)}
 
@@ -72,12 +85,16 @@ def finish_facts(layout):
     if not isinstance(roles,dict):roles={}
     if not roles:
         roles={key:value for key,value in [('workwall',layout.get('workwall_finish')),('windowwall',layout.get('windowwall_finish'))]if value}
+        if roles.get('workwall',{}).get('window_wall_wrap')and'windowwall'not in roles:
+            roles['windowwall']={'paint':roles['workwall']['paint'],'treatment':'Matching paint wraps the window wall; recorded openings and white trim remain.'}
     for id,finish in roles.items():
         if not isinstance(finish,dict):finish={'treatment':str(finish)}
         name=finish.get('name')or{'workwall':'Work wall finish','windowwall':'Window wall finish'}.get(id,id.replace('-',' ').replace('_',' ').title())
         notes=[]
         for key in ('paint','treatment','scope','note','mounting_note'):
-            if finish.get(key):notes.append(str(finish[key]))
+            if finish.get(key):
+                value=str(finish[key]);match=re.match(r'^(.*?)\s*SW\s*(\d{4})$',value)if key=='paint'else None
+                notes.append(f'{match[1].strip()} (SW {match[2]})'if match else value)
         if finish.get('panel_count')and finish.get('bay_W_H_m'):
             w,h=finish['bay_W_H_m'];notes.append(f'{w:g} × {h:g} m panel bay; {finish["panel_count"]} panels')
         elif finish.get('panels')is False:notes.append('paint finish, without paneling')
@@ -114,6 +131,11 @@ for id,label,description in variants:
         origin=model/name
         if origin.exists():shutil.copy2(origin,destination/name)
     scene=model/'his-office-design.blend'
+    lift_path=model/'tria-component-map.json'
+    if lift_path.exists():
+        lift=json.loads(lift_path.read_text())
+        config['deskLift']={'seatedHeight_m':lift['seated_top_m'],'heightRange_m':lift['height_range_m'],'parts':lift['parts'],'requiredCarryRoots':[i['id']for i in layout['items']if i['kind']in ('desk_mat','desktop_mat','felt_mat','desk_pad')]}
+        shutil.copy2(lift_path,destination/lift_path.name)
     catalog['variants'].append({'id':id,'label':label,'description':layout.get('viewer_description',description),'model_source':str(scene.relative_to(project)),'model_sha256':sha(scene),'layout_sha256':sha(layout_path),'camera_sha256':sha(camera_path),'config':config})
 (assets/'config.json').write_text(json.dumps(catalog,indent=2)+'\n')
 (assets/'source-hashes.json').write_text(json.dumps(hashes,indent=2)+'\n')

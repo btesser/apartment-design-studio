@@ -1,0 +1,11 @@
+20:28:40 | INFO: Data are loaded, start creating Blender stuff
+20:28:40 | INFO: Blender create Mesh node 0
+20:28:40 | INFO: glTF import finished in 0.01s
+20:28:40 | INFO: Data are loaded, start creating Blender stuff
+20:28:40 | INFO: Blender create Mesh node Mesh_0.3038
+20:28:40 | INFO: glTF import finished in 0.07s
+{"all_pass": true, "mat": true, "equipment": [true, true], "ledges": [true, true], "fado": true, "fado_source": {"source_connected_component_counts": [896, 896, 2097, 7426], "vertex_counts_match": true, "max_bidirectional_nearest_vertex_deviation_m": 5.840038852511498e-07, "unscaled_source_shape_pass": true, "source_asset_sha256": "bc7b2361f095c43f672dce1af723d1b2065e30197196281d12233c27b85db056", "method": "Compare final evaluated world vertex multiset to original supplier connected body components after only documented re-centering/translation. Exclude source cord/switch from body, no catalog body rescale."}, "plant": true, "ledge_source": [{"id": "project-display-ledge", "original_source_vertex_count": 960, "actual_vertex_count": 960, "vertex_counts_match": true, "max_bidirectional_nearest_vertex_deviation_m": 5.339525159797631e-07, "unscaled_source_shape_pass": true}, {"id": "primary-display-ledge", "original_source_vertex_count": 960, "actual_vertex_count": 960, "vertex_counts_match": true, "max_bidirectional_nearest_vertex_deviation_m": 5.331201577973843e-07, "unscaled_source_shape_pass": true}]}
+Blender 4.3.2
+Read blend: "/workspace/his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend"
+
+Blender quit

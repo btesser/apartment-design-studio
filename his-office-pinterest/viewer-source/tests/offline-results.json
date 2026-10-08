@@ -1,0 +1,5040 @@
+{
+  "source": "Embedded standalone, network blocked",
+  "errors": [],
+  "requests": [],
+  "checks": [
+    "Both alternatives load independently, switch in both directions, and preserve the selected camera.",
+    "Save image exports the selected alternative as a valid PNG.",
+    "Every embedded GLB decodes to its sealed SHA-256, with no network requests.",
+    "All camera poses/lenses, textures, native dimensions, orientations, controls, and keyboard walking pass for both alternatives.",
+    "Standing desk moves upper/equipment/mat by1×, middle stages by0.5× and fixed parts by0× at both limits, without scaling; reset restores exact source transforms."
+  ],
+  "variants": [
+    {
+      "id": "b-charcoal-slat",
+      "state": {
+        "variant": "b-charcoal-slat",
+        "modelSHA256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "mode": "walk",
+        "selectedView": "room-a",
+        "position": [
+          -3.4600000381469727,
+          3.125,
+          2.3399999141693115
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 72,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ]
+      },
+      "poses": [
+        {
+          "variant": "b-charcoal-slat",
+          "modelSHA256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+          "mode": "walk",
+          "selectedView": "room-a",
+          "position": [
+            -3.4600000381469727,
+            3.125,
+            2.3399999141693115
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "b-charcoal-slat",
+          "modelSHA256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+          "mode": "walk",
+          "selectedView": "room-b",
+          "position": [
+            -7.480000019073486,
+            3.125,
+            2.2699999809265137
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "b-charcoal-slat",
+          "modelSHA256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+          "mode": "walk",
+          "selectedView": "room-c",
+          "position": [
+            -4.179999828338623,
+            3.125,
+            0.3499999940395355
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        }
+      ],
+      "textures": {
+        "uniqueLoadedTextures": 4,
+        "invalid": [],
+        "productMaps": {
+          "rug": 1,
+          "richmond-art": 1
+        }
+      },
+      "geometryPresence": {
+        "secondary-workspace": {
+          "meshCount": 6,
+          "visibleMeshCount": 6,
+          "vertices": 20582
+        },
+        "clothes-dresser": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 1819
+        },
+        "rug": {
+          "meshCount": 2,
+          "visibleMeshCount": 2,
+          "vertices": 28
+        },
+        "grejig-1": {
+          "meshCount": 24,
+          "visibleMeshCount": 0,
+          "vertices": 1344
+        },
+        "grejig-2": {
+          "meshCount": 24,
+          "visibleMeshCount": 0,
+          "vertices": 1344
+        },
+        "grejig-3": {
+          "meshCount": 24,
+          "visibleMeshCount": 0,
+          "vertices": 1344
+        },
+        "honeywell-lamp": {
+          "meshCount": 11,
+          "visibleMeshCount": 11,
+          "vertices": 1440
+        },
+        "muttros-cat-tree": {
+          "meshCount": 43,
+          "visibleMeshCount": 43,
+          "vertices": 61562
+        },
+        "aeron-primary": {
+          "meshCount": 40,
+          "visibleMeshCount": 40,
+          "vertices": 171666
+        },
+        "standing-main-desk": {
+          "meshCount": 30,
+          "visibleMeshCount": 30,
+          "vertices": 790149
+        },
+        "visitor-chair": {
+          "meshCount": 12,
+          "visibleMeshCount": 12,
+          "vertices": 3168
+        },
+        "richmond-art": {
+          "meshCount": 5,
+          "visibleMeshCount": 5,
+          "vertices": 1540
+        },
+        "project-display-ledge": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 2151
+        },
+        "primary-display-ledge": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 2151
+        },
+        "dresser-fado": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 11315
+        },
+        "dresser-parlor-palm": {
+          "meshCount": 108,
+          "visibleMeshCount": 108,
+          "vertices": 1784
+        },
+        "primary-felt-mat": {
+          "meshCount": 1,
+          "visibleMeshCount": 1,
+          "vertices": 384
+        }
+      },
+      "walkDistance": 0.3340000000000011,
+      "toggles": {
+        "hidden": true,
+        "empty": true,
+        "racks": true,
+        "restored": true
+      },
+      "lamp": {
+        "variant": "b-charcoal-slat",
+        "lampMeshCount": 11,
+        "rays": [
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.74,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.59,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar001",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.805018,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.534982,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim001",
+            "pass": true
+          }
+        ],
+        "allRaysPass": true
+      },
+      "deskLift": {
+        "start": {
+          "enabled": true,
+          "errors": [],
+          "height_m": 0.74,
+          "seatedHeight_m": 0.74,
+          "heightRange_m": [
+            0.6477,
+            1.24206
+          ],
+          "requiredCarryRoots": [
+            "primary-felt-mat"
+          ],
+          "components": [
+            {
+              "name": "standing-main-deskgeneric_equipment_assumption",
+              "factor": 1,
+              "ids": [],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door",
+              "sourceComponent": "cable_door",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_brush",
+              "sourceComponent": "cable_door_brush",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_lid",
+              "sourceComponent": "cable_door_lid",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcontrol_box",
+              "sourceComponent": "control_box",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop",
+              "sourceComponent": "desktop",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_left",
+              "sourceComponent": "desktop_bracket_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_right",
+              "sourceComponent": "desktop_bracket_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfelt_cable_organizer",
+              "sourceComponent": "felt_cable_organizer",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_left",
+              "sourceComponent": "foot_left",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_right",
+              "sourceComponent": "foot_right",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_left",
+              "sourceComponent": "frame_cover_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_right",
+              "sourceComponent": "frame_cover_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_left",
+              "sourceComponent": "frame_end_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_right",
+              "sourceComponent": "frame_end_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_front",
+              "sourceComponent": "frame_rail_front",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_rear",
+              "sourceComponent": "frame_rail_rear",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad",
+              "sourceComponent": "keypad",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad_controls",
+              "sourceComponent": "keypad_controls",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_front",
+              "sourceComponent": "leveling_glide_left_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_rear",
+              "sourceComponent": "leveling_glide_left_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_front",
+              "sourceComponent": "leveling_glide_right_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_rear",
+              "sourceComponent": "leveling_glide_right_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_head",
+              "sourceComponent": "lifting_column_left_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_inner_stage",
+              "sourceComponent": "lifting_column_left_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_middle_stage",
+              "sourceComponent": "lifting_column_left_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_outer_stage",
+              "sourceComponent": "lifting_column_left_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_head",
+              "sourceComponent": "lifting_column_right_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_inner_stage",
+              "sourceComponent": "lifting_column_right_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_middle_stage",
+              "sourceComponent": "lifting_column_right_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_outer_stage",
+              "sourceComponent": "lifting_column_right_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "primary-felt-mat",
+              "factor": 1,
+              "ids": [
+                "primary-felt-mat"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            }
+          ]
+        },
+        "heights": [
+          {
+            "enabled": true,
+            "errors": [],
+            "height_m": 0.6477,
+            "seatedHeight_m": 0.74,
+            "heightRange_m": [
+              0.6477,
+              1.24206
+            ],
+            "requiredCarryRoots": [
+              "primary-felt-mat"
+            ],
+            "components": [
+              {
+                "name": "standing-main-deskgeneric_equipment_assumption",
+                "factor": 1,
+                "ids": [],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door",
+                "sourceComponent": "cable_door",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_brush",
+                "sourceComponent": "cable_door_brush",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_lid",
+                "sourceComponent": "cable_door_lid",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcontrol_box",
+                "sourceComponent": "control_box",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop",
+                "sourceComponent": "desktop",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_left",
+                "sourceComponent": "desktop_bracket_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_right",
+                "sourceComponent": "desktop_bracket_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfelt_cable_organizer",
+                "sourceComponent": "felt_cable_organizer",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfoot_left",
+                "sourceComponent": "foot_left",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskfoot_right",
+                "sourceComponent": "foot_right",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskframe_cover_left",
+                "sourceComponent": "frame_cover_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_cover_right",
+                "sourceComponent": "frame_cover_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_left",
+                "sourceComponent": "frame_end_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_right",
+                "sourceComponent": "frame_end_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_front",
+                "sourceComponent": "frame_rail_front",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_rear",
+                "sourceComponent": "frame_rail_rear",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad",
+                "sourceComponent": "keypad",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad_controls",
+                "sourceComponent": "keypad_controls",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_front",
+                "sourceComponent": "leveling_glide_left_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_rear",
+                "sourceComponent": "leveling_glide_left_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_front",
+                "sourceComponent": "leveling_glide_right_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_rear",
+                "sourceComponent": "leveling_glide_right_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_left_head",
+                "sourceComponent": "lifting_column_left_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_inner_stage",
+                "sourceComponent": "lifting_column_left_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_middle_stage",
+                "sourceComponent": "lifting_column_left_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.04614999999999991,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_outer_stage",
+                "sourceComponent": "lifting_column_left_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_right_head",
+                "sourceComponent": "lifting_column_right_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_inner_stage",
+                "sourceComponent": "lifting_column_right_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_middle_stage",
+                "sourceComponent": "lifting_column_right_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.04614999999999991,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_outer_stage",
+                "sourceComponent": "lifting_column_right_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "primary-felt-mat",
+                "factor": 1,
+                "ids": [
+                  "primary-felt-mat"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "errors": [],
+            "height_m": 1.24206,
+            "seatedHeight_m": 0.74,
+            "heightRange_m": [
+              0.6477,
+              1.24206
+            ],
+            "requiredCarryRoots": [
+              "primary-felt-mat"
+            ],
+            "components": [
+              {
+                "name": "standing-main-deskgeneric_equipment_assumption",
+                "factor": 1,
+                "ids": [],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door",
+                "sourceComponent": "cable_door",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_brush",
+                "sourceComponent": "cable_door_brush",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_lid",
+                "sourceComponent": "cable_door_lid",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcontrol_box",
+                "sourceComponent": "control_box",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop",
+                "sourceComponent": "desktop",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_left",
+                "sourceComponent": "desktop_bracket_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_right",
+                "sourceComponent": "desktop_bracket_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfelt_cable_organizer",
+                "sourceComponent": "felt_cable_organizer",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfoot_left",
+                "sourceComponent": "foot_left",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskfoot_right",
+                "sourceComponent": "foot_right",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskframe_cover_left",
+                "sourceComponent": "frame_cover_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_cover_right",
+                "sourceComponent": "frame_cover_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_left",
+                "sourceComponent": "frame_end_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_right",
+                "sourceComponent": "frame_end_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_front",
+                "sourceComponent": "frame_rail_front",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_rear",
+                "sourceComponent": "frame_rail_rear",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad",
+                "sourceComponent": "keypad",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad_controls",
+                "sourceComponent": "keypad_controls",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_front",
+                "sourceComponent": "leveling_glide_left_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_rear",
+                "sourceComponent": "leveling_glide_left_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_front",
+                "sourceComponent": "leveling_glide_right_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_rear",
+                "sourceComponent": "leveling_glide_right_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_left_head",
+                "sourceComponent": "lifting_column_left_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_inner_stage",
+                "sourceComponent": "lifting_column_left_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_middle_stage",
+                "sourceComponent": "lifting_column_left_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.2510300000000001,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_outer_stage",
+                "sourceComponent": "lifting_column_left_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_right_head",
+                "sourceComponent": "lifting_column_right_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_inner_stage",
+                "sourceComponent": "lifting_column_right_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_middle_stage",
+                "sourceComponent": "lifting_column_right_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.2510300000000001,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_outer_stage",
+                "sourceComponent": "lifting_column_right_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "primary-felt-mat",
+                "factor": 1,
+                "ids": [
+                  "primary-felt-mat"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              }
+            ]
+          }
+        ],
+        "reset": {
+          "enabled": true,
+          "errors": [],
+          "height_m": 0.74,
+          "seatedHeight_m": 0.74,
+          "heightRange_m": [
+            0.6477,
+            1.24206
+          ],
+          "requiredCarryRoots": [
+            "primary-felt-mat"
+          ],
+          "components": [
+            {
+              "name": "standing-main-deskgeneric_equipment_assumption",
+              "factor": 1,
+              "ids": [],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door",
+              "sourceComponent": "cable_door",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_brush",
+              "sourceComponent": "cable_door_brush",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_lid",
+              "sourceComponent": "cable_door_lid",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcontrol_box",
+              "sourceComponent": "control_box",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop",
+              "sourceComponent": "desktop",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_left",
+              "sourceComponent": "desktop_bracket_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_right",
+              "sourceComponent": "desktop_bracket_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfelt_cable_organizer",
+              "sourceComponent": "felt_cable_organizer",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_left",
+              "sourceComponent": "foot_left",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_right",
+              "sourceComponent": "foot_right",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_left",
+              "sourceComponent": "frame_cover_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_right",
+              "sourceComponent": "frame_cover_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_left",
+              "sourceComponent": "frame_end_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_right",
+              "sourceComponent": "frame_end_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_front",
+              "sourceComponent": "frame_rail_front",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_rear",
+              "sourceComponent": "frame_rail_rear",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad",
+              "sourceComponent": "keypad",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad_controls",
+              "sourceComponent": "keypad_controls",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_front",
+              "sourceComponent": "leveling_glide_left_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_rear",
+              "sourceComponent": "leveling_glide_left_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_front",
+              "sourceComponent": "leveling_glide_right_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_rear",
+              "sourceComponent": "leveling_glide_right_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_head",
+              "sourceComponent": "lifting_column_left_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_inner_stage",
+              "sourceComponent": "lifting_column_left_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_middle_stage",
+              "sourceComponent": "lifting_column_left_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_outer_stage",
+              "sourceComponent": "lifting_column_left_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_head",
+              "sourceComponent": "lifting_column_right_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_inner_stage",
+              "sourceComponent": "lifting_column_right_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_middle_stage",
+              "sourceComponent": "lifting_column_right_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_outer_stage",
+              "sourceComponent": "lifting_column_right_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "primary-felt-mat",
+              "factor": 1,
+              "ids": [
+                "primary-felt-mat"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            }
+          ]
+        }
+      },
+      "sourceLink": "variants/b-charcoal-slat/model/his-office-design.blend"
+    },
+    {
+      "id": "c-ink-studio",
+      "state": {
+        "variant": "c-ink-studio",
+        "modelSHA256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+        "mode": "orbit",
+        "selectedView": "overview",
+        "position": [
+          -1.330000000000001,
+          7.075,
+          6.640000000000001
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 72,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ]
+      },
+      "poses": [
+        {
+          "variant": "c-ink-studio",
+          "modelSHA256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+          "mode": "walk",
+          "selectedView": "room-a",
+          "position": [
+            -3.4600000381469727,
+            3.125,
+            2.3399999141693115
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "c-ink-studio",
+          "modelSHA256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+          "mode": "walk",
+          "selectedView": "room-b",
+          "position": [
+            -7.480000019073486,
+            3.125,
+            2.2699999809265137
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        },
+        {
+          "variant": "c-ink-studio",
+          "modelSHA256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+          "mode": "walk",
+          "selectedView": "room-c",
+          "position": [
+            -4.179999828338623,
+            3.125,
+            0.3499999940395355
+          ],
+          "assets": {
+            "doors": "loaded",
+            "shell": "loaded",
+            "furniture": "loaded"
+          },
+          "furniture": true,
+          "doorsHidden": false,
+          "doorMeshCount": 13,
+          "closetSuggestionMeshCount": 72,
+          "closetSuggestionVisible": false,
+          "bounds": [
+            -8.030000019818544,
+            1.5349999479949474,
+            -0.3600001867170663,
+            -3.0299999229609966,
+            4.635000050067902,
+            2.937000084668398
+          ],
+          "clearStart": true,
+          "fov": 54.04316318235408
+        }
+      ],
+      "textures": {
+        "uniqueLoadedTextures": 4,
+        "invalid": [],
+        "productMaps": {
+          "rug": 1,
+          "richmond-art": 1
+        }
+      },
+      "geometryPresence": {
+        "secondary-workspace": {
+          "meshCount": 6,
+          "visibleMeshCount": 6,
+          "vertices": 20582
+        },
+        "clothes-dresser": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 1819
+        },
+        "rug": {
+          "meshCount": 2,
+          "visibleMeshCount": 2,
+          "vertices": 28
+        },
+        "grejig-1": {
+          "meshCount": 24,
+          "visibleMeshCount": 0,
+          "vertices": 1344
+        },
+        "grejig-2": {
+          "meshCount": 24,
+          "visibleMeshCount": 0,
+          "vertices": 1344
+        },
+        "grejig-3": {
+          "meshCount": 24,
+          "visibleMeshCount": 0,
+          "vertices": 1344
+        },
+        "honeywell-lamp": {
+          "meshCount": 11,
+          "visibleMeshCount": 11,
+          "vertices": 1440
+        },
+        "muttros-cat-tree": {
+          "meshCount": 43,
+          "visibleMeshCount": 43,
+          "vertices": 61562
+        },
+        "aeron-primary": {
+          "meshCount": 40,
+          "visibleMeshCount": 40,
+          "vertices": 171666
+        },
+        "standing-main-desk": {
+          "meshCount": 30,
+          "visibleMeshCount": 30,
+          "vertices": 790149
+        },
+        "visitor-chair": {
+          "meshCount": 12,
+          "visibleMeshCount": 12,
+          "vertices": 3168
+        },
+        "richmond-art": {
+          "meshCount": 5,
+          "visibleMeshCount": 5,
+          "vertices": 1540
+        },
+        "project-display-ledge": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 2151
+        },
+        "primary-display-ledge": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 2151
+        },
+        "dresser-fado": {
+          "meshCount": 4,
+          "visibleMeshCount": 4,
+          "vertices": 11315
+        },
+        "dresser-parlor-palm": {
+          "meshCount": 108,
+          "visibleMeshCount": 108,
+          "vertices": 1784
+        },
+        "primary-felt-mat": {
+          "meshCount": 1,
+          "visibleMeshCount": 1,
+          "vertices": 384
+        }
+      },
+      "walkDistance": 0.3185999999940404,
+      "toggles": {
+        "hidden": true,
+        "empty": true,
+        "racks": true,
+        "restored": true
+      },
+      "lamp": {
+        "variant": "c-ink-studio",
+        "lampMeshCount": 11,
+        "rays": [
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.7,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.67,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.33999999999999997
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.24
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.64,
+              3.8,
+              0.13999999999999999
+            ],
+            "expected": "Open aperture",
+            "actual": null,
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.74,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.59,
+              3.8,
+              0.15999999999999998
+            ],
+            "expected": "Narrow_parallel_LED_light_bar",
+            "actual": "Narrow_parallel_LED_light_bar001",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.805018,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim",
+            "pass": true
+          },
+          {
+            "originGltfM": [
+              -7.534982,
+              3.8,
+              0.24
+            ],
+            "expected": "Rectangular_panel_long_rim",
+            "actual": "Rectangular_panel_long_rim001",
+            "pass": true
+          }
+        ],
+        "allRaysPass": true
+      },
+      "deskLift": {
+        "start": {
+          "enabled": true,
+          "errors": [],
+          "height_m": 0.74,
+          "seatedHeight_m": 0.74,
+          "heightRange_m": [
+            0.6477,
+            1.24206
+          ],
+          "requiredCarryRoots": [
+            "primary-felt-mat"
+          ],
+          "components": [
+            {
+              "name": "standing-main-deskgeneric_equipment_assumption",
+              "factor": 1,
+              "ids": [],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door",
+              "sourceComponent": "cable_door",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_brush",
+              "sourceComponent": "cable_door_brush",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_lid",
+              "sourceComponent": "cable_door_lid",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcontrol_box",
+              "sourceComponent": "control_box",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop",
+              "sourceComponent": "desktop",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_left",
+              "sourceComponent": "desktop_bracket_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_right",
+              "sourceComponent": "desktop_bracket_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfelt_cable_organizer",
+              "sourceComponent": "felt_cable_organizer",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_left",
+              "sourceComponent": "foot_left",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_right",
+              "sourceComponent": "foot_right",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_left",
+              "sourceComponent": "frame_cover_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_right",
+              "sourceComponent": "frame_cover_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_left",
+              "sourceComponent": "frame_end_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_right",
+              "sourceComponent": "frame_end_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_front",
+              "sourceComponent": "frame_rail_front",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_rear",
+              "sourceComponent": "frame_rail_rear",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad",
+              "sourceComponent": "keypad",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad_controls",
+              "sourceComponent": "keypad_controls",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_front",
+              "sourceComponent": "leveling_glide_left_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_rear",
+              "sourceComponent": "leveling_glide_left_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_front",
+              "sourceComponent": "leveling_glide_right_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_rear",
+              "sourceComponent": "leveling_glide_right_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_head",
+              "sourceComponent": "lifting_column_left_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_inner_stage",
+              "sourceComponent": "lifting_column_left_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_middle_stage",
+              "sourceComponent": "lifting_column_left_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_outer_stage",
+              "sourceComponent": "lifting_column_left_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_head",
+              "sourceComponent": "lifting_column_right_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_inner_stage",
+              "sourceComponent": "lifting_column_right_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_middle_stage",
+              "sourceComponent": "lifting_column_right_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_outer_stage",
+              "sourceComponent": "lifting_column_right_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "primary-felt-mat",
+              "factor": 1,
+              "ids": [
+                "primary-felt-mat"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            }
+          ]
+        },
+        "heights": [
+          {
+            "enabled": true,
+            "errors": [],
+            "height_m": 0.6477,
+            "seatedHeight_m": 0.74,
+            "heightRange_m": [
+              0.6477,
+              1.24206
+            ],
+            "requiredCarryRoots": [
+              "primary-felt-mat"
+            ],
+            "components": [
+              {
+                "name": "standing-main-deskgeneric_equipment_assumption",
+                "factor": 1,
+                "ids": [],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door",
+                "sourceComponent": "cable_door",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_brush",
+                "sourceComponent": "cable_door_brush",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_lid",
+                "sourceComponent": "cable_door_lid",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcontrol_box",
+                "sourceComponent": "control_box",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop",
+                "sourceComponent": "desktop",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_left",
+                "sourceComponent": "desktop_bracket_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_right",
+                "sourceComponent": "desktop_bracket_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfelt_cable_organizer",
+                "sourceComponent": "felt_cable_organizer",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfoot_left",
+                "sourceComponent": "foot_left",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskfoot_right",
+                "sourceComponent": "foot_right",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskframe_cover_left",
+                "sourceComponent": "frame_cover_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_cover_right",
+                "sourceComponent": "frame_cover_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_left",
+                "sourceComponent": "frame_end_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_right",
+                "sourceComponent": "frame_end_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_front",
+                "sourceComponent": "frame_rail_front",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_rear",
+                "sourceComponent": "frame_rail_rear",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad",
+                "sourceComponent": "keypad",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad_controls",
+                "sourceComponent": "keypad_controls",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_front",
+                "sourceComponent": "leveling_glide_left_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_rear",
+                "sourceComponent": "leveling_glide_left_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_front",
+                "sourceComponent": "leveling_glide_right_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_rear",
+                "sourceComponent": "leveling_glide_right_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_left_head",
+                "sourceComponent": "lifting_column_left_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_inner_stage",
+                "sourceComponent": "lifting_column_left_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_middle_stage",
+                "sourceComponent": "lifting_column_left_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.04614999999999991,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_outer_stage",
+                "sourceComponent": "lifting_column_left_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_right_head",
+                "sourceComponent": "lifting_column_right_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_inner_stage",
+                "sourceComponent": "lifting_column_right_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_middle_stage",
+                "sourceComponent": "lifting_column_right_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.04614999999999991,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_outer_stage",
+                "sourceComponent": "lifting_column_right_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "primary-felt-mat",
+                "factor": 1,
+                "ids": [
+                  "primary-felt-mat"
+                ],
+                "worldDelta_m": [
+                  0,
+                  -0.09229999999999983,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "errors": [],
+            "height_m": 1.24206,
+            "seatedHeight_m": 0.74,
+            "heightRange_m": [
+              0.6477,
+              1.24206
+            ],
+            "requiredCarryRoots": [
+              "primary-felt-mat"
+            ],
+            "components": [
+              {
+                "name": "standing-main-deskgeneric_equipment_assumption",
+                "factor": 1,
+                "ids": [],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door",
+                "sourceComponent": "cable_door",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_brush",
+                "sourceComponent": "cable_door_brush",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcable_door_lid",
+                "sourceComponent": "cable_door_lid",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskcontrol_box",
+                "sourceComponent": "control_box",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop",
+                "sourceComponent": "desktop",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_left",
+                "sourceComponent": "desktop_bracket_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskdesktop_bracket_right",
+                "sourceComponent": "desktop_bracket_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfelt_cable_organizer",
+                "sourceComponent": "felt_cable_organizer",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskfoot_left",
+                "sourceComponent": "foot_left",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskfoot_right",
+                "sourceComponent": "foot_right",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskframe_cover_left",
+                "sourceComponent": "frame_cover_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_cover_right",
+                "sourceComponent": "frame_cover_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_left",
+                "sourceComponent": "frame_end_left",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_end_right",
+                "sourceComponent": "frame_end_right",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_front",
+                "sourceComponent": "frame_rail_front",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskframe_rail_rear",
+                "sourceComponent": "frame_rail_rear",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad",
+                "sourceComponent": "keypad",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskkeypad_controls",
+                "sourceComponent": "keypad_controls",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_front",
+                "sourceComponent": "leveling_glide_left_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_left_rear",
+                "sourceComponent": "leveling_glide_left_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_front",
+                "sourceComponent": "leveling_glide_right_front",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-deskleveling_glide_right_rear",
+                "sourceComponent": "leveling_glide_right_rear",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_left_head",
+                "sourceComponent": "lifting_column_left_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_inner_stage",
+                "sourceComponent": "lifting_column_left_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_middle_stage",
+                "sourceComponent": "lifting_column_left_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.2510300000000001,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_left_outer_stage",
+                "sourceComponent": "lifting_column_left_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "standing-main-desklifting_column_right_head",
+                "sourceComponent": "lifting_column_right_head",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_inner_stage",
+                "sourceComponent": "lifting_column_right_inner_stage",
+                "factor": 1,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_middle_stage",
+                "sourceComponent": "lifting_column_right_middle_stage",
+                "factor": 0.5,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.2510300000000001,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              },
+              {
+                "name": "standing-main-desklifting_column_right_outer_stage",
+                "sourceComponent": "lifting_column_right_outer_stage",
+                "factor": 0,
+                "ids": [
+                  "standing-main-desk"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": true
+              },
+              {
+                "name": "primary-felt-mat",
+                "factor": 1,
+                "ids": [
+                  "primary-felt-mat"
+                ],
+                "worldDelta_m": [
+                  0,
+                  0.5020600000000002,
+                  0
+                ],
+                "scaleUnchanged": true,
+                "rotationUnchanged": true,
+                "sourcePositionResetExact": false
+              }
+            ]
+          }
+        ],
+        "reset": {
+          "enabled": true,
+          "errors": [],
+          "height_m": 0.74,
+          "seatedHeight_m": 0.74,
+          "heightRange_m": [
+            0.6477,
+            1.24206
+          ],
+          "requiredCarryRoots": [
+            "primary-felt-mat"
+          ],
+          "components": [
+            {
+              "name": "standing-main-deskgeneric_equipment_assumption",
+              "factor": 1,
+              "ids": [],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door",
+              "sourceComponent": "cable_door",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_brush",
+              "sourceComponent": "cable_door_brush",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcable_door_lid",
+              "sourceComponent": "cable_door_lid",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskcontrol_box",
+              "sourceComponent": "control_box",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop",
+              "sourceComponent": "desktop",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_left",
+              "sourceComponent": "desktop_bracket_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskdesktop_bracket_right",
+              "sourceComponent": "desktop_bracket_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfelt_cable_organizer",
+              "sourceComponent": "felt_cable_organizer",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_left",
+              "sourceComponent": "foot_left",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskfoot_right",
+              "sourceComponent": "foot_right",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_left",
+              "sourceComponent": "frame_cover_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_cover_right",
+              "sourceComponent": "frame_cover_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_left",
+              "sourceComponent": "frame_end_left",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_end_right",
+              "sourceComponent": "frame_end_right",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_front",
+              "sourceComponent": "frame_rail_front",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskframe_rail_rear",
+              "sourceComponent": "frame_rail_rear",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad",
+              "sourceComponent": "keypad",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskkeypad_controls",
+              "sourceComponent": "keypad_controls",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_front",
+              "sourceComponent": "leveling_glide_left_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_left_rear",
+              "sourceComponent": "leveling_glide_left_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_front",
+              "sourceComponent": "leveling_glide_right_front",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-deskleveling_glide_right_rear",
+              "sourceComponent": "leveling_glide_right_rear",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_head",
+              "sourceComponent": "lifting_column_left_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_inner_stage",
+              "sourceComponent": "lifting_column_left_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_middle_stage",
+              "sourceComponent": "lifting_column_left_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_left_outer_stage",
+              "sourceComponent": "lifting_column_left_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_head",
+              "sourceComponent": "lifting_column_right_head",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_inner_stage",
+              "sourceComponent": "lifting_column_right_inner_stage",
+              "factor": 1,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_middle_stage",
+              "sourceComponent": "lifting_column_right_middle_stage",
+              "factor": 0.5,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "standing-main-desklifting_column_right_outer_stage",
+              "sourceComponent": "lifting_column_right_outer_stage",
+              "factor": 0,
+              "ids": [
+                "standing-main-desk"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            },
+            {
+              "name": "primary-felt-mat",
+              "factor": 1,
+              "ids": [
+                "primary-felt-mat"
+              ],
+              "worldDelta_m": [
+                0,
+                0,
+                0
+              ],
+              "scaleUnchanged": true,
+              "rotationUnchanged": true,
+              "sourcePositionResetExact": true
+            }
+          ]
+        }
+      },
+      "sourceLink": "variants/c-ink-studio/model/his-office-design.blend"
+    }
+  ],
+  "initial": {
+    "state": {
+      "variant": "b-charcoal-slat",
+      "modelSHA256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "mode": "walk",
+      "selectedView": "room-a",
+      "position": [
+        -3.4600000381469727,
+        3.125,
+        2.3399999141693115
+      ],
+      "assets": {
+        "doors": "loaded",
+        "shell": "loaded",
+        "furniture": "loaded"
+      },
+      "furniture": true,
+      "doorsHidden": false,
+      "doorMeshCount": 13,
+      "closetSuggestionMeshCount": 72,
+      "closetSuggestionVisible": false,
+      "bounds": [
+        -8.030000019818544,
+        1.5349999479949474,
+        -0.3600001867170663,
+        -3.0299999229609966,
+        4.635000050067902,
+        2.937000084668398
+      ]
+    },
+    "pose": {
+      "id": "room-a",
+      "filename": "renders/room-a.jpg",
+      "eye_blender_m": [
+        -3.4600000381469727,
+        -2.3399999141693115,
+        3.125
+      ],
+      "look_direction_blender": [
+        -0.8195406794548035,
+        0.5559120178222656,
+        -0.13897785544395447
+      ],
+      "eye_gltf_m": [
+        -3.4600000381469727,
+        3.125,
+        2.3399999141693115
+      ],
+      "target_gltf_m": [
+        -4.279540538787842,
+        2.9860222339630127,
+        1.784087896347046
+      ],
+      "eye": [
+        -3.4600000381469727,
+        3.125,
+        2.3399999141693115
+      ],
+      "target": [
+        -4.279540538787842,
+        2.9860222339630127,
+        1.784087896347046
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "unit": "metres; BlenderZ-up; GLTF[X,Z,-Y]",
+      "label": "From the entry",
+      "description": "See the primary desk, clear project bench, lamp and window."
+    }
+  },
+  "exportPngBytes": 338432,
+  "assetHashes": {
+    "b-charcoal-slat": {
+      "shell": "10576a59557d21853473aa69b390ae3554826ebac2c2cb8cfc1484684481bee9",
+      "doors": "06339ba97bd086de89d88a605e80360783c36ee0f4f1190def011c01e8d76b17",
+      "furniture": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1"
+    },
+    "c-ink-studio": {
+      "shell": "88ec26baf787dc3ad15cade90a6d24fbb4b7492f62f7aa57700b2a03574870c1",
+      "doors": "cc08f1748c1ed21e2eddcf1344ef1de40c16065ca10fa569bf5dcabf28a111b6",
+      "furniture": "d90bd2d95da60f4116cf03f83099e88e44076e923e3a4c6ab1c4e145c8363ea5"
+    }
+  },
+  "runtimeEmbeddedBytes": {
+    "b-charcoal-slat": {
+      "shell": 1734500,
+      "doors": 167556,
+      "furniture": 39380020
+    },
+    "c-ink-studio": {
+      "shell": 740124,
+      "doors": 167548,
+      "furniture": 39380008
+    }
+  }
+}

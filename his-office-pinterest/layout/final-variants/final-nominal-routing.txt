@@ -1,0 +1,21 @@
+Final frozen B/C — owned Aeron circulation and drawer proof
+
+Both variants use the final 17-item composition and the owned Aeron Size C Mineral. The conservative normal and maximum-arm profiles union published dimensions with the actual displayed native chair bounds, including its 1.02mm rearward extension beyond catalog depth.
+
+Results are identical for B and C:
+Chair working: nominal 60cm, 61cm and 62cm person-circle routes pass.
+Chair pulled back 45cm: nominal 60cm passes; 61cm and 62cm fail.
+
+Every passing case has a continuous centerline fully covered by exact free space in the JSON. Endpoints are the entry [-3.50,-2.10] and actual rear-door approach [-7.50,-2.10]. Door leaves are presumed open.
+
+Fully open dresser drawers extend .276225m. Gap to the displayed chair back is .78363m at the working pose, or .33363m after 45cm pullback. Use fully open drawers and full chair pullback sequentially. Catalog-only gaps are .78465m/.33465m; the final figures include the actual native rear extent.
+
+These are hypothetical planning circles, rather than measured passage widths or ergonomic/accessibility guarantees. Room and fixed-feature bounds have about 5–12cm field uncertainty. Actual owned chair vintage, options and settings remain unconfirmed. The closet interior and shoe-rack fit remain conditional.
+
+Tabletop decor, ledges and mat projections are conservatively included in the floor exclusions. Final native chair-motion, full-turn, standing-stroke and export proofs are separate QA artifacts. No model positions were changed by this refresh.
+
+b-charcoal-slat:
+Layout SHA256 baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9
+
+c-ink-studio:
+Layout SHA256 0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54

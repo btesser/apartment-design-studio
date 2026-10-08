@@ -1,0 +1,49 @@
+{
+  "status": "B and C selected by user; final modeling, QA and image generation in progress",
+  "date_UTC": "2026-10-08",
+  "user_requirements": [
+    "Two separate dark, cool design alternatives, B and C, reviewed before Blender revision",
+    "Adult, clean atmosphere and ample usable working room",
+    "Primary electric standing desk; owned UPLIFT may be replaced by a good real product",
+    "Second usable fixed project surface with knee space",
+    "Folded clothes, shoes and office storage; existing closet provides hanging storage",
+    "Compact comfortable visitor chair",
+    "Keep exact white Honeywell 02E Pro lamp and brown MUTTROS 59-inch cat tree",
+    "Use measured room geometry and multiple model angles, then real product photos with image generation"
+  ],
+  "selected_products": "products/selected-products.json",
+  "shared_geometry_decisions": {
+    "room_geometry": "Preserve frozen scan-informed architecture, openings and fixed features; do not mirror, enlarge or recenter",
+    "primary_desk": "Branch Tria Black Oak / Charcoal; official supplier 48x27 nominal CAD at 1:1 meter scale; catalog 47.2x27 inches",
+    "primary_desk_center_blender_m": [-6.915, -0.131, 1.575],
+    "seated_desk_top_height_m": 0.74,
+    "primary_desk_published_height_range_m": [0.6477, 1.24206],
+    "project_bench_center_blender_m": [-5.55, -0.07, 1.575],
+    "project_bench": "140x60cm black-brown LAGKAPTEN, one LEFT five-drawer black-brown ALEX, two RIGHT black ADILS legs; clear worktop",
+    "daily_task_chairs": 1,
+    "visitor_chairs": 1,
+    "rug": "Rift Charcoal Flatwoven 6x9ft with Standard Pad; same modeled footprint and rotation in both versions",
+    "art": "One native landscape Dan Hobday Richmond 100x70cm print above the project bench; black frame",
+    "lighting": "Existing overhead light represented with a neutral/cool presentation; white ceiling retained; no claim of verified fixture dimmability"
+  },
+  "variants": [
+    {
+      "id": "b",
+      "directory": "variants/b-charcoal-slat",
+      "name": "B — Charcoal + Slat Bay",
+      "workwall_color": {"brand": "Sherwin-Williams", "name": "Peppercorn", "code": "SW7674", "screen_sRGB": [88,88,88], "screen_hex": "#585858"},
+      "panel": {"brand": "WoodUpp", "name": "Black Ash / Black Felt", "sku": "1013", "quantity": 3, "each_dimensions_m_W_D_H": [0.6,0.022,2.4], "bay_width_m": 1.8, "center_x_m": -5.55, "lower_z_m": 1.575, "upper_charcoal_band_m": 0.62},
+      "mounting": "22mm direct-wall projection. Real veneer panel mounting uses screws or adhesive; not claimed peel-and-stick/removable. Existing model has no separate workwall baseboard; actual mounting/substrate/baseboard details require field confirmation."
+    },
+    {
+      "id": "c",
+      "directory": "variants/c-ink-studio",
+      "name": "C — Ink Studio",
+      "workwall_color": {"brand": "Sherwin-Williams", "name": "Naval", "code": "SW6244", "screen_sRGB": [47,61,76], "screen_hex": "#2F3D4C"},
+      "panel": null,
+      "mounting": "Matte deep-navy workwall; no slat panels. Paint product, quantity and cost require final takeoff."
+    }
+  ],
+  "authority": "Blender geometry and final layout define measurements and placement. Generated images illustrate appearance and can vary product details. Screen paint colors are reference values, not physical color matches.",
+  "field_limits": "Room outline uncertainty approximately5–12cm; openings3–6cm. Cat branches and lamp details include photo-derived proxies. Closed closet interior and door hinges remain unmeasured. Verify installation and purchase-critical dimensions on site."
+}

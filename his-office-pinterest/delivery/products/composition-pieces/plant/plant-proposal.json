@@ -1,0 +1,148 @@
+{
+  "proposal_status": "UNSELECTED FLOOR-PLANT CANDIDATE: geometry not fit-verified; current floor location maximum full foliage diameter 0.45 m. No purchase made, no canonical budget changed.",
+  "checked_date": "2026-10-08",
+  "plant": {
+    "id": "junglejacks-kentia-2g",
+    "name": "Jungle Jack’s Kentia Palm, 2g",
+    "retailer": "Jungle Jack’s Palms, Plumeria & More",
+    "scientific_species": "Howea forsteriana",
+    "url": "https://www.junglejacksplumeria.com/product-page/howea-forsteriana",
+    "product_id": "5bff239c-2793-c6c8-f01f-6041bc1d6693",
+    "variant_id": "0d2fabad-2d1d-4f80-858f-a1636976287e",
+    "variant_selection": "Palms = 2g (selection id 51)",
+    "sku": null,
+    "price_usd": 120.0,
+    "shipping_usd_published": 30.0,
+    "availability": "Product + visible selected variant report in_stock; available true. Exact delivery/address availability unverified. Inventory quantity=0 is not interpreted as sold out because status=in_stock and isInStock=true.",
+    "supplier_height_ft": [
+      3,
+      4
+    ],
+    "supplier_height_m": [
+      0.9144,
+      1.2192
+    ],
+    "height_measurement_basis": "Supplier says 2 gal pot ~3–4 ft tall height. Does not explicitly state inclusion/exclusion of pot; actual specimen height must be checked.",
+    "growpot_volume_gal": 2,
+    "growpot_outer_diameter_m": null,
+    "growpot_height_m": null,
+    "growpot_caution": "Current visible variant is 2g; older 8-inch retail variant is hidden and must not be substituted or claimed in stock. Gallon volume does not establish outer diameter.",
+    "source_photos": [
+      {
+        "path": "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-kentia-original-0.png",
+        "source_url": "https://static.wixstatic.com/media/68ce25_a9828c6bee724088ab9acc8fda72b8d0~mv2.png",
+        "sha256": "1310d616f6122457beb0dbcef5aaee53ecc809183dfa8f77b71f204ff5d9fc0e",
+        "width_px": 600,
+        "height_px": 921,
+        "alteration": "None. Full original retailer photo. Manufacturer copyright attribution remains visible.",
+        "configuration_caution": "Photographs illustrate species and retail shape; not an exact shipped specimen. White decorative pot in photos is not included or selected."
+      },
+      {
+        "path": "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-kentia-original-1.png",
+        "source_url": "https://static.wixstatic.com/media/68ce25_e2bb300d8d874f78be055559ee5bec1b~mv2.png",
+        "sha256": "c85c019d6ee8090fcb93ba2210581187b6785a328081a93513be9440a2d51509",
+        "width_px": 661,
+        "height_px": 702,
+        "alteration": "None. Full original retailer photo. Manufacturer copyright attribution remains visible.",
+        "configuration_caution": "Photographs illustrate species and retail shape; not an exact shipped specimen. White decorative pot in photos is not included or selected."
+      },
+      {
+        "path": "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-kentia-original-2.png",
+        "source_url": "https://static.wixstatic.com/media/68ce25_ba97e1127b2f435982af9fd7dc37041b~mv2.png",
+        "sha256": "446de6d649bc4e32f326fdd2340799c07afbe56ee1469304c5327ec8038750b9",
+        "width_px": 600,
+        "height_px": 809,
+        "alteration": "None. Full original retailer photo. Manufacturer copyright attribution remains visible.",
+        "configuration_caution": "Photographs illustrate species and retail shape; not an exact shipped specimen. White decorative pot in photos is not included or selected."
+      }
+    ],
+    "sources_archived": [
+      "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-kentia.html",
+      "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-current-product.json",
+      "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-kentia-jsonld.json",
+      "/workspace/his-office-pinterest/products/composition-pieces/plant/junglejacks-browse.html"
+    ],
+    "species_safety": {
+      "authority": "ASPCA",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/kentia-palm",
+      "scientific_species": "Howea forsteriana",
+      "cats": "Non-toxic",
+      "dogs": "Non-toxic",
+      "source_html": "/workspace/his-office-pinterest/products/composition-pieces/plant/aspca-kentia.html",
+      "source_readable": "/workspace/his-office-pinterest/products/composition-pieces/plant/aspca-kentia-readable.txt",
+      "scope": "Applies to this exact species. Not a claim that every palm species is cat-compatible."
+    }
+  },
+  "proposed_planter_pair": {
+    "id": "ikea-persillade-darkgray-10346765",
+    "url": "https://www.ikea.com/us/en/p/persillade-plant-pot-dark-gray-10346765/",
+    "price_usd": 29.99,
+    "outer_diameter_m": 0.2794,
+    "outer_height_m": 0.27305,
+    "max_nursery_pot_diameter_m": 0.2413,
+    "fit_status": "PROVISIONAL. Current plant nursery rim diameter and height unpublished. Check nursery diameter ≤24.13 cm and practical drainage/base height before acquisition. Do not describe guaranteed physical fit.",
+    "source_photo": "/workspace/his-office-pinterest/products/composition-pieces/persillade-darkgray-original.jpg",
+    "render_policy": "Do not render this floor palm in constrained spot. Pair is not selected; nursery sizing and crown clearance unverified."
+  },
+  "research_bounded_to": [
+    "PlantVine direct exact-species page unavailable; Chamaedorea seifrizii Hybrid substitute rejected",
+    "Jungle Jack’s current product/variant, winning species/size",
+    "Eureka Farms exact Kentia, available 2gal 3–4ft $299 alternative",
+    "Bird of Paradise Florida current primary variants, Kentia3–4ft$130.48 and repotted matte black10in cylinder$69; not promoted due missing growpot diameter and planter height"
+  ],
+  "alternatives": [
+    {
+      "retailer": "Eureka Farms",
+      "url": "https://eureka-farms.com/products/kentia-palm-exotic-and-rare?variant=42733056917661",
+      "species": "Howea forsteriana",
+      "variant_id": 42733056917661,
+      "sku": "2gal-3-4ft-Pkent",
+      "price_usd": 299,
+      "available": true,
+      "height_m": [
+        0.9144,
+        1.2192
+      ],
+      "growpot_volume_gal": 2,
+      "growpot_outer_diameter_m": null,
+      "reason_not_selected": "Higher price, exact outer nursery diameter still unpublished. Multi-size shared photos not exact specimen."
+    },
+    {
+      "retailer": "Bird of Paradise Florida",
+      "url": "https://birdofparadiseflorida.com/products/kentia-palm?variant=43829105754172",
+      "species": "Howea forsteriana",
+      "variant_id": 43829105754172,
+      "price_usd": 130.48,
+      "available": true,
+      "height_m": [
+        0.9144,
+        1.2192
+      ],
+      "growpot_outer_diameter_m": null,
+      "matching_retailer_planter": {
+        "url": "https://birdofparadiseflorida.com/products/minimalist-cylinder?variant=43829126692924",
+        "variant_id": 43829126692924,
+        "price_usd": 69,
+        "available": true,
+        "finish": "Matte Black",
+        "published_diameter_m": 0.254,
+        "published_height_m": null,
+        "published_capacity_gal": 3,
+        "service": "Kentia product page advertises repot service for plant + planter orders. Specific combined configuration and height unverified."
+      },
+      "reason_not_selected": "Less established primary source and unresolved growpot/planter dimensions; kept bounded fallback."
+    }
+  ],
+  "model_assumptions": {
+    "total_display_height_m": 1.05,
+    "foliage_width_m": 0.75,
+    "status": "UNSELECTED hypothetical silhouette, not approved for current floor spot; 0.75 m modeled canopy exceeds 0.45 m fit constraint. Not surveyed/shipped plant geometry."
+  },
+  "floor_fit_assessment": {
+    "allowed_full_foliage_diameter_m": 0.45,
+    "published_full_foliage_diameter_m": null,
+    "verdict": "NOT VERIFIED TO FIT. Do not select or render in current constrained floor spot.",
+    "basis": "Supplier current specimen crown width unpublished; source photo indicates a broad palm relative to height. Nursery pot compatibility would not prove full plant fit.",
+    "fallback": "Compact ledge plant may be researched separately if root approves; no current small plant has been selected by this agent."
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "schema_version": 1,
+  "read_only_audit": true,
+  "scene_mutations": false,
+  "source": "/workspace/his-office-redesign/model/his-office-design.blend",
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "execution_status": "Builder execution held pending root GO",
+  "paint_targets": {
+    "B": {
+      "paint": "Peppercorn SW7674",
+      "screen_sRGB": [
+        88,
+        88,
+        88
+      ]
+    },
+    "C": {
+      "paint": "Naval SW6244",
+      "screen_sRGB": [
+        47,
+        61,
+        76
+      ]
+    }
+  },
+  "exact_workwall_object_names": [
+    "his-office wall4 segment"
+  ],
+  "exact_windowwall_object_names": [
+    "his-office wall5 corrected solid 0",
+    "his-office wall5 corrected solid 2",
+    "his-office wall5 corrected solid 4",
+    "his-office wall5 corrected bottom 1",
+    "his-office wall5 corrected bottom 3",
+    "his-office wall5 corrected head 1",
+    "his-office wall5 corrected head 3"
+  ],
+  "exact_combined_whitelist": [
+    "his-office wall4 segment",
+    "his-office wall5 corrected solid 0",
+    "his-office wall5 corrected solid 2",
+    "his-office wall5 corrected solid 4",
+    "his-office wall5 corrected bottom 1",
+    "his-office wall5 corrected bottom 3",
+    "his-office wall5 corrected head 1",
+    "his-office wall5 corrected head 3"
+  ],
+  "object_records": [
+    {
+      "name": "his-office wall4 segment",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "workwall",
+      "world_bounds_xyz_m": [
+        [
+          -7.980000019073486,
+          -3.7800002098083496
+        ],
+        [
+          0.2599998116493225,
+          0.3600001931190491
+        ],
+        [
+          1.5350000858306885,
+          4.635000228881836
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.015",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected solid 0",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -2.7899999618530273,
+          -2.5500001907348633
+        ],
+        [
+          1.5350000858306885,
+          4.635000228881836
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected solid 2",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -1.6399999856948853,
+          -0.9599999189376831
+        ],
+        [
+          1.5350000858306885,
+          4.635000228881836
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.008",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected solid 4",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -0.13999998569488525,
+          0.3100000023841858
+        ],
+        [
+          1.5350000858306885,
+          4.635000228881836
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.012",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected bottom 1",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -2.549999952316284,
+          -1.6399999856948853
+        ],
+        [
+          1.534999966621399,
+          1.5749999284744263
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.002",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected bottom 3",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -0.9600000381469727,
+          -0.14000001549720764
+        ],
+        [
+          1.5350000858306885,
+          2.5299999713897705
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.009",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected head 1",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -2.549999952316284,
+          -1.6399999856948853
+        ],
+        [
+          3.6399998664855957,
+          4.634999752044678
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.007",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    },
+    {
+      "name": "his-office wall5 corrected head 3",
+      "type": "MESH",
+      "collection_names": [
+        "01 Measured room shell"
+      ],
+      "role": "windowwall plaster around existing openings",
+      "world_bounds_xyz_m": [
+        [
+          -8.029999732971191,
+          -7.929999828338623
+        ],
+        [
+          -0.9600000381469727,
+          -0.14000001549720764
+        ],
+        [
+          4.369999885559082,
+          4.635000228881836
+        ]
+      ],
+      "material_names": [
+        "Reconstructed warm plaster"
+      ],
+      "mesh_datablock": "Cube.010",
+      "mesh_datablock_users": 1,
+      "other_objects_sharing_mesh": []
+    }
+  ],
+  "source_material_sharing": {
+    "Reconstructed warm plaster": {
+      "all_object_users": [
+        "his-office wall1 \u2014 below floor continuation",
+        "his-office wall1 \u2014 head continuation",
+        "his-office wall1 \u2014 lower-Y side",
+        "his-office wall1 \u2014 upper-Y side",
+        "his-office wall2 segment",
+        "his-office wall3 \u2014 below floor continuation",
+        "his-office wall3 \u2014 head continuation",
+        "his-office wall3 \u2014 lower-Y side",
+        "his-office wall3 \u2014 upper-Y side",
+        "his-office wall4 segment",
+        "his-office wall5 corrected bottom 1",
+        "his-office wall5 corrected bottom 3",
+        "his-office wall5 corrected head 1",
+        "his-office wall5 corrected head 3",
+        "his-office wall5 corrected solid 0",
+        "his-office wall5 corrected solid 2",
+        "his-office wall5 corrected solid 4"
+      ],
+      "paint_whitelist_users": [
+        "his-office wall4 segment",
+        "his-office wall5 corrected bottom 1",
+        "his-office wall5 corrected bottom 3",
+        "his-office wall5 corrected head 1",
+        "his-office wall5 corrected head 3",
+        "his-office wall5 corrected solid 0",
+        "his-office wall5 corrected solid 2",
+        "his-office wall5 corrected solid 4"
+      ],
+      "must_remain_unchanged_users": [
+        "his-office wall1 \u2014 below floor continuation",
+        "his-office wall1 \u2014 head continuation",
+        "his-office wall1 \u2014 lower-Y side",
+        "his-office wall1 \u2014 upper-Y side",
+        "his-office wall2 segment",
+        "his-office wall3 \u2014 below floor continuation",
+        "his-office wall3 \u2014 head continuation",
+        "his-office wall3 \u2014 lower-Y side",
+        "his-office wall3 \u2014 upper-Y side"
+      ],
+      "trim_sharing": false,
+      "required_action": "Assign a new variant-private paint material to exact whitelisted wall objects; never mutate this original shared material."
+    }
+  },
+  "preserve_objects": [
+    {
+      "name": "Existing built-in shelf board",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing built-in shelf board.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing built-in shelf board.002",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing built-in shelf board.003",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing built-in shelf board.004",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing built-in shelf board.005",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing built-in shelf white back",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.002",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.003",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.004",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.005",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.006",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.007",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing cast-iron radiator section.008",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing closet frame header",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing closet frame jamb",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing closet frame jamb.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing closet metal knob",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Existing silver hardware"
+      ]
+    },
+    {
+      "name": "Existing closet transom",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing cupboard metal latch",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing silver hardware"
+      ]
+    },
+    {
+      "name": "Existing entry small wall control",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing entry thermostat",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door brass deadbolt",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Existing exterior brass hardware"
+      ]
+    },
+    {
+      "name": "Existing exterior-door brass knob",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Existing exterior brass hardware"
+      ]
+    },
+    {
+      "name": "Existing exterior-door frame header",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door frame jamb",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door frame jamb.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door raised panel",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door raised panel.001",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door raised panel.002",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door raised panel.003",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door raised panel.004",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door raised panel.005",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing exterior-door six-panel leaf",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing full-height closet leaf",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing living-entry flat white leaf",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing living-entry frame header",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing living-entry frame jamb",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing living-entry frame jamb.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing living-entry silver lever",
+      "collection": "02b Existing door leaves \u2014 closed observed state",
+      "materials": [
+        "Existing silver hardware"
+      ]
+    },
+    {
+      "name": "Existing overhead cupboard frame header",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing overhead cupboard frame jamb",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing overhead cupboard frame jamb.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing overhead cupboard panel",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Existing radiator foot",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing radiator foot.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing radiator horizontal connection",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing radiator horizontal connection.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Existing dark cast-iron radiator"
+      ]
+    },
+    {
+      "name": "Existing rear vertical white pipe",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Local floor continuation to observed brick face",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed upper wood"
+      ]
+    },
+    {
+      "name": "Observed brick chimney projection",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed exposed brick"
+      ]
+    },
+    {
+      "name": "Observed recessed white arched fireplace infill",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window glazing",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Window glass"
+      ]
+    },
+    {
+      "name": "Observed single-window horizontal trim",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window horizontal trim.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window horizontal trim.002",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window projecting sill",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window sill apron",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window vertical trim",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "Observed single-window vertical trim.001",
+      "collection": "02 Existing fixed feature proxies",
+      "materials": [
+        "Fixture porcelain"
+      ]
+    },
+    {
+      "name": "architecture_ceiling \u2014 his-office",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed ceiling"
+      ]
+    },
+    {
+      "name": "architecture_floor \u2014 his-office",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed upper wood"
+      ]
+    },
+    {
+      "name": "his-office wall0 segment",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed exposed brick"
+      ]
+    },
+    {
+      "name": "his-office wall1 \u2014 below floor continuation",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall1 \u2014 head continuation",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall1 \u2014 lower-Y side",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall1 \u2014 upper-Y side",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall2 segment",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall3 \u2014 below floor continuation",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall3 \u2014 head continuation",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall3 \u2014 lower-Y side",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    },
+    {
+      "name": "his-office wall3 \u2014 upper-Y side",
+      "collection": "01 Measured room shell",
+      "materials": [
+        "Reconstructed warm plaster"
+      ]
+    }
+  ],
+  "preserve_material_names": [
+    "Existing dark cast-iron radiator",
+    "Existing exterior brass hardware",
+    "Existing silver hardware",
+    "Fixture porcelain",
+    "Reconstructed ceiling",
+    "Reconstructed exposed brick",
+    "Reconstructed upper wood",
+    "Reconstructed warm plaster",
+    "Window glass"
+  ],
+  "implementation_rules": [
+    "Use exact object-name whitelist, not collection-wide or substring paint.",
+    "Create fresh B/C private paint materials; do not recolor Reconstructed warm plaster in place.",
+    "If a whitelisted mesh is shared with an excluded object, copy its mesh datablock before changing material slots.",
+    "Preserve all source vertex coordinates, transforms, openings and wall thickness.",
+    "Preserve Fixture porcelain white trim, pipe and leaves; Window glass; all brick, wood floor and ceiling materials.",
+    "Dark wrap is source workwall plus all corrected windowwall plaster pieces, including plaster over/under opening boundaries; no new wall or opening geometry.",
+    "Do not pack or reload any already packed source images."
+  ],
+  "source_sha256_after_audit": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "source_unchanged": true
+}

@@ -1,0 +1,8 @@
+{
+  "source": "http://127.0.0.1:8773",
+  "errors": [],
+  "requests": [],
+  "checks": [],
+  "variants": [],
+  "failure": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8773/\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:8773/\", waiting until \"load\"\u001b[22m\n\n    at /workspace/his-office-pinterest/viewer-source/tests/browser.mjs:20:20"
+}

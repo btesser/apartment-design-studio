@@ -1,0 +1,110 @@
+HIS OFFICE — ANCHORED WORKSPACE, LIT CONSOLE, CALM VISITOR CORNER
+
+B and C are two separate alternatives with the same furniture and room layout.
+They turn the room into a connected composition: repeated dark worktops and
+black ledges, one grouped landscape print, a softly lit storage console and a
+visitor corner tied together by gray-blue upholstery and a charcoal graphic rug.
+
+B: CHARCOAL + SLAT BAY
+Peppercorn SW7674 (#585858) wraps the work wall and adjacent window wall. Five
+WoodUpp Black Ash/Black Felt panels form a bounded 3.0 m-wide × 2.4 m-high vertical
+bay across both desk sections. It is a deliberate feature below the 3.02 m ceiling,
+with painted margins and an upper band, not a full-height invented product.
+
+C: NAVAL STUDIO
+Naval SW6244 (#2F3D4C) wraps the same two walls in smooth matte deep navy. There
+are no slats or copied Pinterest grooves. The shelves, artwork, opal light and
+textiles supply the visual depth. White ceiling and trim, existing brick, oak
+floor and all measured openings remain in both alternatives.
+
+THE WORK AREA
+Branch Tria in Black Oak/Charcoal is the primary standing desk, replacing the
+owned UPLIFT within this room proposal. Supplier top dimensions are approximately
+120 × 68.5 cm. A Grovemade Dark Grey Medium Plus felt mat anchors its worktop.
+The independent 140 × 60 cm project bench uses a black-brown LAGKAPTEN top, ONE
+LEFT five-drawer ALEX and TWO RIGHT black ADILS legs. It remains clear for project
+or laptop work; there is no second permanent monitor or task chair.
+
+ONE OWNED Mineral/light-gray Herman Miller Aeron Large/Size C serves both
+surfaces. No new office chair is purchased. Its exact vintage, base polish,
+arm/back support/caster options are not confirmed; current manufacturer images
+and source-guided geometry are references, not an assertion of the owned SKU.
+
+Two matching black MOSSLANDA 115 cm ledges repeat the furniture finish. The fixed
+bench ledge has its top at 1.25 m above the floor, with low illustrative books and
+objects. Richmond is independently wall-hung above it, center 1.85 m. Its actual
+100 × 70 cm landscape motif and orientation are preserved. The 70 cm-high print
+must not be leaned on the ledge, whose published picture-height limit is 45 cm.
+The primary-desk ledge has its top at 2.10 m; actual equipment and standing-desk
+travel must remain clear when installed. The proxy cleared the full published
+Tria 64.8–124.2 cm top-height stroke, including modeled monitor/mat and ledges;
+actual hardware, loads and cable reach still need field checks. Shelf fixing must reach suitable wall
+support, including through B's slats/felt; the felt alone is not structural fixing.
+
+THE CONSOLE AND VISITOR CORNER
+The dark-brown STORKLINTA three-drawer chest holds folded clothes and becomes
+an intentional console: FADO/KAJPLATS opal globe on one side, an actual Small
+Parlor Palm in Westcott Black on the other, with a modest illustrative
+tray. The palm is a small tabletop plant, not an enlarged floor tree. The Sill's
+published plant height is 6–11 in from grow-pot bottom; the delivered crown varies.
+
+The compact EKENÄSET Axvall dark gray-blue visitor chair and exact 6 × 9 ft Rift
+Charcoal Flatwoven rug connect the cool walls and dark woods. The owned white
+Honeywell 02E Pro open LED head and natural brown MUTTROS wicker cat tree stay.
+The Mineral chair, opal glass and white architectural trim repeat light accents.
+The FADO model retains the original supplier body: approximately Ø24.0 cm ×
+H23.6 cm; the US catalogue label is Ø25.4 cm ×H22.86 cm. Its cord is retained
+separately; the full cord-inclusive CAD box was not scaled into a globe. The
+priced KAJPLATS kit includes a remote and a 4000 K white-light preset.
+The floor route remains free of an additional palm. Existing overhead lighting
+is retained; its actual CCT/dimming/illumination are not established by styling.
+
+NEW-PIECE BUDGET — USD, BEFORE PAINT/INSTALLATION/TAX/SHIPPING
+Shared core furniture, rug, print and black frame:  $2,070.10
+Two ledges, felt mat, opal-light kit and small palm:   $263.96
+C shared furniture and composition:              $2,334.06
+B adds FIVE Black Ash panels:                       $974.75
+B furniture, composition and panels:             $3,308.81
+
+Owned chair, lamp and tree are excluded. Paint, surface preparation, panel end
+trims, mounting hardware, electrical changes, installation, tax and shipping
+are unpriced. Books/tray and depicted work equipment are illustrative;
+catalogue photo props are not included purchases. Prices were checked 08 Oct 2026
+and local stock/delivery remains to confirm. This package does not order items.
+
+PHYSICAL FIT AND SOURCE LIMITS
+The irregular office is approximately 4.90 × 3.10 m overall,14.03 m² and 3.02 m high.
+Architecture comes from the uploaded Polycam 8_21_2026.zip, calibrated room views
+and measured outline. Source boundary uncertainty is about 5–12 cm. Model routes
+and collision checks support planning; they are not on-site/code guarantees.
+
+The final conservative proxy supports a hypothetical 60 cm person-circle route
+with the Aeron working or pulled back 45 cm. A 61 cm route fails in the pulled
+state. These are planning circles, not surveyed passage widths. Open dresser
+drawers leave about 78.4 cm to the working chair, or 33.4 cm when it is pulled
+back 45 cm. Tuck the Aeron for clothes drawers and rear access; full drawer
+opening and full chair pullback are sequential uses. Anchor STORKLINTA to
+the wall per IKEA instructions; verify an approved fixing/spacer to the actual
+brick on site. Three GREJIG shoe racks remain conditional inside the unrecorded
+closet; the interior dimensions and hanging-clothes hems were not captured.
+The cat tree's full branch reach, owned chair options, cables and actual plant
+crown need field checks. Supplier CAD and keeper proxies represent product
+form; fine joinery, lighting output and exact finish cannot be proven by a render.
+
+Public Pinterest images guide connected zones, palette and atmosphere only.
+The dynamic search/feed was not read through an authenticated Pinterest browser;
+individual public Pins and original images were inspected. Their author and
+image-production methods were not independently verified. Their room geometry,
+large furniture and plants were not copied into this apartment.
+
+The workflow is real-product research and composition review, measured 3D
+model/operation checks, three checked native camera views per variant, then
+image generation using original-photo product sheets. Initial calls used three
+model views plus two boards, but repeated a camera. Corrected B-angle calls
+used the exact target model view plus two boards. Final A/C edits used the prior
+generated original, exact target model view and two boards. All 14 attempts
+and their exact prompts, ordered references and original hashes are recorded
+in images/generation-manifest.json and its checkpoint input records. The six
+final concept PNGs are byte-identical to the accepted generator outputs. Use
+the model for dimensions and placement and the photos for appearance. Final
+independent fit and image findings are included under qa/final-variants/.

@@ -1,0 +1,527 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Products",
+        "item": "https://www.ikea.com/us/en/cat/products-products/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Storage & organization",
+        "item": "https://www.ikea.com/us/en/cat/storage-organization-st001/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Shelving furniture",
+        "item": "https://www.ikea.com/us/en/cat/bookcases-shelving-units-st002/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Wall shelves",
+        "item": "https://www.ikea.com/us/en/cat/wall-shelves-10398/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Complete wall shelves",
+        "item": "https://www.ikea.com/us/en/cat/complete-wall-shelves-20660/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "3489"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "IKEA"
+    },
+    "category": "Complete wall shelves",
+    "color": "brown, black",
+    "depth": "10 1/4 \"",
+    "description": "LACK Wall shelf - black-brown 43 1/4x10 1/4 \". With a wall shelf, you make the most of the wall area, while freeing up space on the floor. Hidden suspension brackets are included. Coordinates with other products in the LACK series. Screws for wall mounting sold separately.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/lack-wall-shelf-black-brown__0641085_pe700249_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/lack-wall-shelf-black-brown__0670310_pe715451_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/lack-wall-shelf-black-brown__1466536_pe995497_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/lack-wall-shelf-black-brown__0670312_pe715448_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/lack-wall-shelf-black-brown__0670311_pe715447_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    ],
+    "material": "Wood (including board)",
+    "mpn": "401.036.33",
+    "name": "LACK Wall shelf - black-brown 43 1/4x10 1/4 \"",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "price": "29.99",
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "IKEA",
+        "url": "https://www.ikea.com/us/en/"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "US"
+        }
+      },
+      "url": "https://www.ikea.com/us/en/p/lack-wall-shelf-black-brown-40103633/"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Cael"
+        },
+        "datePublished": "2026-10-07",
+        "name": "Lack review",
+        "reviewBody": "Great value for what it is and looks great almost anywhere. Be sure to anchor to a stud or use high quality wall anchors like toggle bolts to attach. I found the metal bracket made it simple to install without assistance. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Felicia"
+        },
+        "datePublished": "2026-10-04",
+        "name": "Disappointing for the price",
+        "reviewBody": "Shelves arrived damaged! They look like they were used, returned and repackaged. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Fady"
+        },
+        "datePublished": "2026-09-27",
+        "name": "Very fragile",
+        "reviewBody": "Looks nice if you can manage to get them delivered undamages. They\u2019re super fragile like an egg shell.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jane"
+        },
+        "datePublished": "2026-09-20",
+        "name": "Beautiful shelf",
+        "reviewBody": "I have purchased several floating shelves but none with the quality of the Lack wall shelf. Its size is impressive as well as the quality of the shelf. Know that the shelf will make a statement in any room.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Mary"
+        },
+        "datePublished": "2026-09-17",
+        "name": "Shelf is bigger than expected",
+        "reviewBody": "Overall, quality and sturdiness is okay, Overall look is what I ordered, but too big for what i was hoping for",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Karla"
+        },
+        "datePublished": "2026-08-18",
+        "name": "Good quality",
+        "reviewBody": "Easy to assemble",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Allyson"
+        },
+        "datePublished": "2026-07-24",
+        "name": "Used to be great. Not so much now.",
+        "reviewBody": "I have six of these shelves from years ago and I love them. I recently bought several more and the hardware has really been downgraded. Very disappointing. First, there are no wall screws with this product. The wall screws that came with the older version were excellent. But the biggest issue I have with this product is the bracket itself. This newer version has a shorter bracket and significantly fewer holes to work with for securing it to the wall. Because of the shorter bracket and limited holes, you'll be lucky to catch two studs in the wall. A shelf this size should be able to attach to two studs. While the shelf does span across two studs in my wall, none of the holes are in the proper place for me to access them. I can't slide the shelf over in my case, so I'm left with using anchors exclusively. If you aren't going to include wall hardware, at least provide enough access points in the bracket so that I can safely hang this with my own.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Angela"
+        },
+        "datePublished": "2026-07-20",
+        "name": "Beautiful!!",
+        "reviewBody": "Love these floating shelves. I hung 2 of the 43\" oak and they are stunning. They look so much more expensive once they are up and styled.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Irene"
+        },
+        "datePublished": "2026-07-13",
+        "name": "Floating shelves",
+        "reviewBody": "Gave it 4 stars because it doesn\u2019t come with the actual hardware to install onto the wall. Had to buy that separately",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Emma"
+        },
+        "datePublished": "2026-07-06",
+        "name": "Perfect Shelf for Lego\u2019s",
+        "reviewBody": "This LACK shelf was easy to install. It\u2019s sturdy for all our legos and pottery.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Luis"
+        },
+        "datePublished": "2026-07-04",
+        "name": "Great shelf",
+        "reviewBody": "Very sturdy well built and nice color",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Ambrose"
+        },
+        "datePublished": "2026-06-15",
+        "name": "Don\u2019t buy without brackets",
+        "reviewBody": "I installed according to instructions last night, everything was level and seemed sturdy  and in the middle of the night it fell out of my wall dented the shelves below it, and nearly knocked over the tv it sat above. Not worth the risk to go without it. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Charla"
+        },
+        "datePublished": "2026-05-08",
+        "name": "What screws can you buy?",
+        "reviewBody": "I searching and search the app for the correct screw and mounting information for these shelves. Why isn\u2019t there a link to the set where it says \u201cscrews for this are sold separately\u201d? ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Karen"
+        },
+        "datePublished": "2026-04-07",
+        "name": "Love Ikea's Floating Shelves",
+        "reviewBody": "I wish they came in more colors like they did years ago.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Maria"
+        },
+        "datePublished": "2026-03-04",
+        "name": "shelf",
+        "reviewBody": "perfect size",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Marlen"
+        },
+        "datePublished": "2026-03-02",
+        "name": "Love the look of this",
+        "reviewBody": "These are such great, hackable shelves! I made a floating bookcase out of this and love the earthiness the faux wood option brings",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Grisel"
+        },
+        "datePublished": "2026-03-01",
+        "name": "Leans over no support",
+        "reviewBody": "They look beautiful however the wholes are huge compared to the bar it comes with causing the to get loose and wiggle. I do not recommend",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "John"
+        },
+        "datePublished": "2026-02-25",
+        "name": "Easy to assemble, looks good",
+        "reviewBody": "I don't understand the negative reviews.  I have six of these, and each was a breeze to attach to the walls.  No, IKEA does not provide the wall screws because each wall is different:  plywood?  drywall?  brick?  concrete?  Do a little bit of homework on what material your wall is made of before blaming IKEA.  Assuming you use the proper screws, these shelves can support quite a bit, and they look sleek at the same time.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Hai"
+        },
+        "datePublished": "2026-02-25",
+        "name": "great",
+        "reviewBody": "perfect size, lool nice",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jazzmin"
+        },
+        "datePublished": "2026-02-08",
+        "name": "Misses the mark",
+        "reviewBody": "Wood shelf does not fit securely on wall bracket even after screwed into bracket. Tilts forward and it is wobbly. We have it securely mounted into the wall. But the unit itself is wobbly.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      }
+    ],
+    "sku": "401.036.33",
+    "url": "https://www.ikea.com/us/en/p/lack-wall-shelf-black-brown-40103633/"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "3DModel",
+    "encoding": [
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/isp3/glb_draco/40103633_PS01_S01_NV01_ISP3_2.0_6d64e82bd20f4ff9a577bf00c334866e.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/isp2/glb_draco/40103633_PS01_S01_NV01_ISP2_2.0_45cd46611f764bd6a596296a9f1339da.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/isp1/glb_draco/40103633_PS01_S01_NV01_ISP1_2.0_2a2d5bac038746fa82989eb2a1a41795.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp3/glb_draco/4e308434784e481f93a1e62a76893003-40103633_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp2/glb_draco/8c8c352cb2e541ff8c2893915742d0ab-40103633_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp1/glb_draco/8bd82c7ad33b439aa827201a2c47f3b8-40103633_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp3/glb_draco/21daa9e00c804d34a5f9630aff0d51d5-40103633_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp2/glb_draco/2ec91986d05e4a478671b6f4d654d777-40103633_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp1/glb_draco/40fbf0bd86064fec939cefde2c0f4ff8-40103633_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/40103633/PS01_S01_NV01/simple/glb_draco/G-40103633-2521758ec903ec164cb2f79ff89eaa2d8b9c8943_2e03738a720e47afbdbae7561903e54a.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/isp3/glb/40103633_PS01_S01_NV01_ISP3_2.0_dadc448abaa84919b15fea3662422e7a.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/isp2/glb/40103633_PS01_S01_NV01_ISP2_2.0_af2e333fb96a4a77b4622794b0a9f46d.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/isp1/glb/40103633_PS01_S01_NV01_ISP1_2.0_7f93bd9b846d444c94bac8b82e5f8d7a.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp3/glb/a72bc594677f4cd7b1019323d3aa6a53-40103633_PS01_S01_NV01_IQP3_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp2/glb/ec65bb3732594deebba0e5521f044104-40103633_PS01_S01_NV01_IQP2_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp1/glb/6f5d5f2b41c049059d0de2ac84dcbb09-40103633_PS01_S01_NV01_IQP1_2.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp3/glb/336ff5d212b3447da59d031df73eb2cb-40103633_PS01_S01_NV01_RQP3_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp2/glb/65a77ed09c844bdd8f934507fd9c74b0-40103633_PS01_S01_NV01_RQP2_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp1/glb/6ef6838ea9e149db9b8d58e3ec71c6d5-40103633_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp3/gltf/7fd6f076e0cc486f9d34cae716fd40ac-40103633_PS01_S01_NV01_IQP3_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp2/gltf/596917cf94584b4b8a28cc1903b5c926-40103633_PS01_S01_NV01_IQP2_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/iqp1/gltf/e93608ed82944aeaaa52de8f30719a3c-40103633_PS01_S01_NV01_IQP1_2.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp3/gltf/8a4e42f4cdba7ec212014acb3d6186f8-40103633_PS01_S01_NV01_RQP3_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp2/gltf/efcef25dfaa94d44b0a04ec9232a11a6-40103633_PS01_S01_NV01_RQP2_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/40103633/PS01_S01_NV01/rqp1/gltf/8fe4046d06964a82815ed88c93884cc7-40103633_PS01_S01_NV01_RQP1_3.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      }
+    ],
+    "image": "",
+    "name": "LACK"
+  }
+]

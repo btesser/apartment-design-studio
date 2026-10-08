@@ -7,10 +7,15 @@ The accompanying variants folders contain the editable Blender models.
 
 B: Charcoal + slat. C: Ink studio. Use Design alternative to switch.
 Both alternatives use the same measured room and shared furniture layout.
-Only the proposed wall treatment and room palette differ.
+Both wrap the work and window walls in the selected dark paint. B adds
+a 3 m wide black slat bay across both work surfaces. The shared composition
+includes two picture ledges, an opal table lamp, compact tabletop palm and
+felt mat. Fine placement differs where the panel thickness requires it.
 
+The viewer opens from the entry at Camera A, with full walls. Use the
+menu button to choose the design, viewpoint or desk-height control.
 Whole room gives an orbit view: drag to rotate, scroll to zoom, right-drag
- to pan. The wall cutaway clips architecture only; furniture stays whole.
+to pan. The wall cutaway clips architecture only; furniture stays whole.
 Wall-art backs disappear when a removed near wall would leave them in view.
 Viewpoint shortcuts open the exact eye-level camera positions of the model.
 Their horizontal lens field of view is preserved at any screen proportion.
@@ -22,8 +27,14 @@ The furniture inspector lists actual item sizes and facing directions.
 The Branch Tria primary worktop uses the official supplier CAD: 120 × 68.5
 cm, height adjustable. Catalog dimensions are approximately 119.9 × 68.6 cm.
 The second 140 × 60 cm work surface stays clear for projects. There is one
-daily task chair and one visitor chair. The owned Honeywell floor lamp and
-MUTTROS cat tree retain their modeled geometry and placement.
+owned Mineral Aeron Size C task chair and one visitor chair. The owned
+Honeywell floor lamp and MUTTROS cat tree retain their modeled geometry
+and placement.
+
+Try the standing desk previews its published height range. Upper parts,
+monitor/keyboard and mat move with the tabletop; middle stages travel by
+half the amount and the lower parts stay fixed. Nothing is scaled. Reset
+returns the exact modeled seated pose. Camera shortcuts also reset it.
 
 Models use available product dimensions and assets; fine shapes and finish
 rendering are simplified. The cat tree base is listed at 23.6 × 22 inches;
@@ -47,5 +58,6 @@ are included as sibling folders in the viewer source ZIP; extract them all.
 Source viewer: run python3 serve.py then open http://127.0.0.1:8773.
 No installation is needed to run the source viewer; libraries are vendored.
 To rebuild after source model updates: python3 sync-assets.py, npm install,
-then npm run build. Run npm test for a browser check of both alternatives.
+then npm run build. Add --final to sync-assets.py only after approved,
+frozen models are ready. Run npm test for a browser check of both alternatives.
 Three.js and three-mesh-bvh licenses are included under vendor/.

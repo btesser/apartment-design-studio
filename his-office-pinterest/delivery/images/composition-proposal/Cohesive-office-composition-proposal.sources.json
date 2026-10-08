@@ -1,0 +1,230 @@
+{
+  "stage": "Concrete composition proposal before revised Blender build",
+  "alternatives": [
+    "B Charcoal + Slat Bay",
+    "C Naval Studio"
+  ],
+  "original_photographs": {
+    "/workspace/his-office-pinterest/research/cohesive-composition/full-dark-office-existing-reference.jpg": {
+      "sha256": "83777a7d81dba0822d6c6fb8afff1fdfe8eb6aaee7cd3bf917fd953bbbe7a01e",
+      "pixel_dimensions": [
+        564,
+        705
+      ],
+      "product_or_Pin_url": "https://www.pinterest.com/pin/488922103315018879/",
+      "original_image_url": "https://i.pinimg.com/736x/7e/a0/b6/7ea0b681287492b121c0555d738aa31b.jpg",
+      "role": "Public Pin inspiration; geometry is not transferred",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/research/cohesive-composition/pins/moody-refined.jpg": {
+      "sha256": "f0f2416df721e6f4d8a4edf74c5e6b74c301a4d5e3ad30992a9094a6ccb93bb8",
+      "pixel_dimensions": [
+        720,
+        1280
+      ],
+      "product_or_Pin_url": "https://www.pinterest.com/pin/479703797832033753/",
+      "original_image_url": "https://i.pinimg.com/736x/b2/3e/0f/b23e0fecfba2fc6df75493f0232cb2ab.jpg",
+      "role": "Public Pin inspiration; geometry is not transferred",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-2.jpg": {
+      "sha256": "c6b274f7d2859262641435cac7ebdec7b433df263683f125675f81f7f80f1cb8",
+      "pixel_dimensions": [
+        1639,
+        2048
+      ],
+      "product_or_Pin_url": "https://woodupp.com/products/akupanel-acoustic-panel-natural-wood-black-ash-black-felt-240-x-60-cm",
+      "original_image_url": "https://cdn.shopify.com/s/files/1/0956/1561/5323/files/1013_akupanel_tonal_black_ash_black_felt_03.jpg?v=1777062017",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/owned-chair/aeron-c-mineral-official.png": {
+      "sha256": "78123f016902ee3f54551e45813605fe8059878516782dac88858835291902ec",
+      "pixel_dimensions": [
+        2000,
+        2000
+      ],
+      "product_or_Pin_url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099909.html?lang=en_US",
+      "original_image_url": "https://images.hermanmiller.group/asset/3c19a51c-19a3-4010-bef9-61e0dbfde38f/W/AeronChair_100099909_Front.png",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg": {
+      "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+      "original_image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg": {
+      "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+      "pixel_dimensions": [
+        2400,
+        3000
+      ],
+      "product_or_Pin_url": "https://ruggable.com/products/rift-charcoal-rug?variant=42130480070711",
+      "original_image_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/rift-charcoal-A-FLW-MG021-69_bcff7915-f8fa-4462-9e70-1b107a2ea316.jpg?v=1773089745",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg": {
+      "sha256": "476e45c2d8457c3ad3532c1c9acb1a03262d832248bc5cba834a77ea9f467d2f",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/",
+      "original_image_url": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1590138_pe1038779_s5.jpg",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg": {
+      "sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+      "pixel_dimensions": [
+        2000,
+        1400
+      ],
+      "product_or_Pin_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+      "original_image_url": "https://media.desenio.com/site_images/69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/composition-pieces/mosslanda-black-original.jpg": {
+      "sha256": "ddab7fcca179a589fc7311f07911bc068fb2182ef780ddbd60e3f1e77af35df1",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/mosslanda-picture-ledge-black-70292104/",
+      "original_image_url": "https://www.ikea.com/us/en/images/products/mosslanda-picture-ledge-black__0634120_pe696314_s5.jpg",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/composition-pieces/grovemade-darkgrey-mediumplus-original.jpg": {
+      "sha256": "3891f7b90a716ee4afb5b5a70ec7a54dd8bd8f2ae29cbf7ef5317f67825d6ad9",
+      "pixel_dimensions": [
+        1920,
+        1920
+      ],
+      "product_or_Pin_url": "https://grovemade.com/product/wool-felt-desk-pad/?initial=683",
+      "original_image_url": "https://grovemade.com/shop-static/shop/variant/grovemade-woolfelt-desk-pad-dark-deepmedium-galA-A1.jpg?_v=1631199017.5250502",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/composition-pieces/fado-white-original.jpg": {
+      "sha256": "b58d42da2aadaa735cfbb7bb94cf919ca2bd731ca7514c31c38eb38e14d459ce",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "product_or_Pin_url": "https://www.ikea.com/us/en/p/fado-kajplats-table-lamp-with-led-bulb-smart-color-and-white-spectrum-s29654971/",
+      "original_image_url": "https://www.ikea.com/us/en/images/products/fado-table-lamp-white__0606976_pe682645_s5.jpg",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/products/composition-pieces/sill-small-parlor-westcott-black-original.jpg": {
+      "sha256": "261229f58c65f4d55e49dd976c8286b3687c29cf3b67f221b4c763c5a3c14e2f",
+      "pixel_dimensions": [
+        1200,
+        1553
+      ],
+      "product_or_Pin_url": "https://www.thesill.com/products/parlor-palm?variant=41732265410665",
+      "original_image_url": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Parlor-Palm_Small_Westcott_Black_Variant.jpg?v=1770151098",
+      "role": "Original source photograph",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    },
+    "/workspace/his-office-pinterest/images/composition-proposal/composition-plan-only.png": {
+      "sha256": "2028801c018fe7a33f8aecf4cf39d0099c5939f3557a2141444c3431e67ac204",
+      "pixel_dimensions": [
+        1500,
+        1100
+      ],
+      "product_or_Pin_url": "",
+      "original_image_url": "",
+      "role": "Authored vector plan; actual room outline and saved furniture anchors, with proposed composition annotations",
+      "pixels_edited": false,
+      "placement": "Entire source image contained; no crop, palette edit or background removal"
+    }
+  },
+  "authored_color_swatches": {
+    "B": {
+      "color": "Peppercorn SW7674",
+      "RGB": [
+        88,
+        88,
+        88
+      ],
+      "HEX": "#585858"
+    },
+    "C": {
+      "color": "Naval SW6244",
+      "RGB": [
+        47,
+        61,
+        76
+      ],
+      "HEX": "#2F3D4C"
+    }
+  },
+  "placement_notes": {
+    "B_panels": {
+      "quantity": 5,
+      "bay_m": [
+        3.0,
+        2.4
+      ],
+      "X_span": [
+        -7.6,
+        -4.6
+      ]
+    },
+    "ledge_tops_above_floor_m": {
+      "bench": 1.25,
+      "primary": 2.1
+    },
+    "primary_ledge_center_X": -6.915,
+    "Richmond_frame_center_above_floor_m": 1.85,
+    "print_independent_mount": true,
+    "plant": "Actual small Parlor Palm + Westcott black on dresser; no floor palm",
+    "task_chair": "One owned Mineral Aeron Size C; exact vintage/options unconfirmed"
+  },
+  "costs_USD": {
+    "shared_core": 2070.1,
+    "composition_additions": 263.96,
+    "C": 2334.06,
+    "B_panels": 974.75,
+    "B": 3308.81
+  },
+  "sources_limit": "Public logged-out Pins, creator and image-production methods not independently verified. Inspiration only; measured model controls room geometry. Source photos fully contained; no cropping/color editing/background removal.",
+  "outputs": {
+    "/workspace/his-office-pinterest/images/composition-proposal/Cohesive-office-composition-proposal.pdf": "9e0e2bdbe0a8cf766a42e3c706b237c4674b7bb982e42aed2f9103eeacc955ee",
+    "/workspace/his-office-pinterest/images/composition-proposal/Cohesive-office-composition-proposal.png": "67e6f4038ad7b60e6110392fbfd84aa58561094660ec46110480e6417a0df8ac"
+  },
+  "evidence_source_hashes": {
+    "/workspace/his-office-pinterest/products/selected-products.json": "92248a7e9009d5a0777dc668506c50c8e3bb45467aa344c521fb6d546c9c97ae",
+    "/workspace/his-office-pinterest/products/owned-chair/owned-aeron-size-c-mineral.json": "6a4cad4d13765d541db6b965e97665fa5b8f3abdd207cf2346c0631fab0d7aa2",
+    "/workspace/his-office-pinterest/products/composition-pieces/sill-parlor-js.json": "416fcac2ab8f00eafcb58e4f48ace57118116560a38bf2f448f2b4454aae2897",
+    "/workspace/his-office-pinterest/products/composition-pieces/mosslanda-jsonld.json": "5a9288e43960ef3e7cc304dcea08caab022db57da8fd392e70b51c102659276f",
+    "/workspace/his-office-pinterest/products/composition-pieces/fado-kajplats-jsonld.json": "8f51b78b991f2a1c1cc03c4034733ea0a05e1580b161778195ffd1f5f229940e",
+    "/workspace/his-office-pinterest/products/composition-pieces/grovemade-felt-mediumplus-jsonld.json": "c2c673ba537756bd9ca79c5bccdadeb4ca80523b8fe12633ce1a8d0dfa6fa69b",
+    "/workspace/his-office-pinterest/research/cohesive-composition/complete-room-composition-sources.json": "f5132ed0bdd9f08418aa2cbad31925d09dc65da5fd78ea395df72351effe3c32",
+    "/workspace/his-office-pinterest/images/composition-proposal/composition-plan-current.json": "273963ae7487c020d970f6388a2c12bb74bbfad0d9beabbc67077203dcd5fef1",
+    "/workspace/his-office-pinterest/products/composition-pieces/finishing-selected-products.json": "f7ac227835566817a9c60221620df86fda5d7f4b3d1c98727b2e1ceccf1a8b31"
+  }
+}

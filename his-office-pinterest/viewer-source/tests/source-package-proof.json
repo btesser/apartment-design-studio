@@ -1,0 +1,21 @@
+{
+  "checked_utc": "2026-10-08T20:57:09.788220+00:00",
+  "package_file": "his-office-viewer-source.zip",
+  "package_sha256": "bd9c04e64b9b00ab7daea1cee2ff57449a5edb3dbf871b9d691cf8c106e4e66e",
+  "package_bytes": 126736425,
+  "entries": 73,
+  "zip_checksums_pass": true,
+  "source_and_license_files_present": true,
+  "node_modules_and_python_cache_excluded": true,
+  "editable_models_and_relative_links_preserved": {
+    "variants/b-charcoal-slat/model/his-office-design.blend": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "variants/b-charcoal-slat/model/layout.json": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+    "variants/b-charcoal-slat/model/camera-poses.json": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+    "variants/b-charcoal-slat/model/model-manifest.json": "abd082ebeb507a9a48606b7dd5339680ceaa4cbdd18db4a69e280614c281b9c1",
+    "variants/c-ink-studio/model/his-office-design.blend": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+    "variants/c-ink-studio/model/layout.json": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+    "variants/c-ink-studio/model/camera-poses.json": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+    "variants/c-ink-studio/model/model-manifest.json": "20f612120192aa46676d45539f17c07619ad965eb1088efb92adb93f75efbb0c"
+  },
+  "proof_note": "Written after ZIP creation; package identity proof is stored beside the source rather than recursively included in its own archive."
+}

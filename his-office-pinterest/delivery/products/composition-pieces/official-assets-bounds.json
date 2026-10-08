@@ -1,0 +1,71 @@
+{
+  "mosslanda": {
+    "importer": "Blender glTF native Y-up converted to Blender Z-up",
+    "world_min_m": [
+      -0.5749674439430237,
+      -0.060000162571668625,
+      0.0
+    ],
+    "world_max_m": [
+      0.5749674439430237,
+      0.060000158846378326,
+      0.07000001519918442
+    ],
+    "dimensions_m": [
+      1.1499348878860474,
+      0.12000032141804695,
+      0.07000001519918442
+    ],
+    "materials": [
+      "Material_0"
+    ],
+    "mesh_count": 1,
+    "source_transform_preserved": true
+  },
+  "fado": {
+    "importer": "Blender glTF native Y-up converted to Blender Z-up",
+    "world_min_m": [
+      -0.23638390004634857,
+      -0.11994076520204544,
+      0.0
+    ],
+    "world_max_m": [
+      0.23638391494750977,
+      0.11994076520204544,
+      0.23648911714553833
+    ],
+    "dimensions_m": [
+      0.47276781499385834,
+      0.23988153040409088,
+      0.23648911714553833
+    ],
+    "materials": [
+      "Material_0.3038"
+    ],
+    "mesh_count": 1,
+    "source_transform_preserved": true
+  },
+  "persillade": {
+    "importer": "Blender glTF native Y-up converted to Blender Z-up",
+    "world_min_m": [
+      -0.13708451390266418,
+      -0.13722433149814606,
+      2.018173472606577e-05
+    ],
+    "world_max_m": [
+      0.1370844841003418,
+      0.13722443580627441,
+      0.2611289322376251
+    ],
+    "dimensions_m": [
+      0.274168998003006,
+      0.27444876730442047,
+      0.26110875050289906
+    ],
+    "materials": [
+      "Material_0.001"
+    ],
+    "mesh_count": 1,
+    "source_transform_preserved": true
+  }
+}

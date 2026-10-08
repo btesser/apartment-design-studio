@@ -1,0 +1,30 @@
+{
+  "source_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+  "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+  "method": "Final native whole-chair and dresser world bounds. Published STORKLINTA maximum drawer translation276.225mm into room +Y; closed dresser front used conservatively for entire drawer front. No model changed.",
+  "drawer_pullout_m": 0.276225,
+  "closed_dresser_front_Y_m": -2.27028751373291,
+  "fully_open_nominal_drawer_front_Y_m": -1.9940625137329102,
+  "actual_displayed_chair_bounds_blender_m": [
+    [
+      -7.179409980773926,
+      -1.2104296684265137,
+      1.5750000476837158
+    ],
+    [
+      -6.460590362548828,
+      -0.49059003591537476,
+      2.6672000885009766
+    ]
+  ],
+  "drawer_to_displayed_actual_chair_rear_Y_gap_m": 0.7836328453063965,
+  "drawer_to_displayed_actual_chair_rear_at_45cm_pullback_Y_gap_m": 0.3336328453063966,
+  "conservative_published_full_depth_Aeron_working_gap_m": 0.7846525137329101,
+  "conservative_published_full_depth_Aeron_pulled_gap_m": 0.33465251373291016,
+  "operation_note": "Use clothing drawers with chair in normal/tucked pose; fully pulled chair plus open drawers leave about33.5cm using full published chair depth, not a person passage. Sequential operation is required.",
+  "installation_note": "Anchor STORKLINTA per IKEA instructions: at most one drawer can open before attachment; proper Anchor/Unlock attachment permits multiple. The modeled87mm brick rear gap needs an approved fixing/spacer or onsite repositioning before installation.",
+  "limits": [
+    "Published maximum drawer travel/planning envelope, not a manufacturer mechanism/load certification.",
+    "Actual owned chair options, human body and site tolerances unconfirmed."
+  ]
+}

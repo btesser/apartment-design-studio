@@ -1,0 +1,53 @@
+{
+  "room-a": {
+    "filename": "renders/room-a.jpg",
+    "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "image_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+    "pixels": [
+      1440,
+      1000
+    ],
+    "maximum_samples": 64,
+    "minimum_samples": 16,
+    "adaptive_threshold": 0.02500000037252903,
+    "exposure": -0.8999999761581421,
+    "engine": "CyclesCPU",
+    "denoising": false,
+    "elapsed_seconds": 418.89827728271484,
+    "camera": "CAM room-a"
+  },
+  "room-b": {
+    "filename": "renders/room-b.jpg",
+    "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "image_sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+    "pixels": [
+      1440,
+      1000
+    ],
+    "maximum_samples": 64,
+    "minimum_samples": 16,
+    "adaptive_threshold": 0.02500000037252903,
+    "exposure": -0.8999999761581421,
+    "engine": "CyclesCPU",
+    "denoising": false,
+    "elapsed_seconds": 486.3095462322235,
+    "camera": "CAM room-b"
+  },
+  "room-c": {
+    "filename": "renders/room-c.jpg",
+    "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "image_sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+    "pixels": [
+      1440,
+      1000
+    ],
+    "maximum_samples": 64,
+    "minimum_samples": 16,
+    "adaptive_threshold": 0.02500000037252903,
+    "exposure": -0.8999999761581421,
+    "engine": "CyclesCPU",
+    "denoising": false,
+    "elapsed_seconds": 483.2703227996826,
+    "camera": "CAM room-c"
+  }
+}

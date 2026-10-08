@@ -2,59 +2,69 @@
   "variant": "b-charcoal-slat",
   "protected_geometry_pass": true,
   "unchanged_source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
-  "allowed_material_exception": "his-office wall4 segment only; paint screenRGB converted correctly to linear shader values",
+  "allowed_material_exception": [
+    "his-office wall4 segment",
+    "his-office wall5 corrected solid 0",
+    "his-office wall5 corrected solid 2",
+    "his-office wall5 corrected solid 4",
+    "his-office wall5 corrected bottom 1",
+    "his-office wall5 corrected bottom 3",
+    "his-office wall5 corrected head 1",
+    "his-office wall5 corrected head 3"
+  ],
+  "paint_screen_RGB_converted_to_linear_shader": true,
+  "composition_supports": [
+    {
+      "id": "project-display-ledge",
+      "tray_support_world_z_m": 2.766999900341034,
+      "back_lip_top_world_z_m": 2.824999891022339,
+      "front_lip_top_world_z_m": 2.784999886022339
+    },
+    {
+      "id": "primary-display-ledge",
+      "tray_support_world_z_m": 3.6170000433921814,
+      "back_lip_top_world_z_m": 3.6750000340734865,
+      "front_lip_top_world_z_m": 3.6350000290734865
+    },
+    {
+      "id": "dresser-fado",
+      "support_world_z_m": 2.3243,
+      "source_body_diameter_m": 0.23988155,
+      "source_body_height_m": 0.23648912,
+      "catalog_body_diameter_height_m": [
+        0.254,
+        0.2286
+      ],
+      "source_cord_in_total_bounds": true,
+      "whole_source_scaled": false
+    },
+    {
+      "id": "dresser-parlor-palm",
+      "support_world_z_m": 2.3243,
+      "outer_pot_diameter_m": 0.127,
+      "proxy_crown_envelope_m": [
+        0.28,
+        0.28,
+        0.2794
+      ],
+      "shape_dimensions_unpublished": true
+    },
+    {
+      "id": "primary-felt-mat",
+      "support_world_z_m": 2.315,
+      "top_world_z_m": 2.3185000000000002,
+      "moves_with": "standing-main-desk",
+      "monitor_keyboard_support": "Both resting on mat; keyboard rear-adjusted50mm after rootequipment\u221275mm shift."
+    }
+  ],
+  "proposal_status": "Concrete source-photo composition shown before rootGO; no invented additional userapproval",
   "owned_products_protected": [
     "honeywell-lamp",
     "muttros-cat-tree"
   ],
-  "shared_product_count": 12,
-  "mesh_count": 323,
+  "shared_product_count": 17,
+  "mesh_count": 521,
   "active_images": [
-    {
-      "name": "dan-hobday-richmond-70x100-official.jpg",
-      "pixels": [
-        2000,
-        1400
-      ],
-      "packed_bytes": 844295,
-      "valid": true
-    },
-    {
-      "name": "brick-upper.png",
-      "pixels": [
-        1024,
-        512
-      ],
-      "packed_bytes": 3548,
-      "valid": true
-    },
-    {
-      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
-      "pixels": [
-        1024,
-        1024
-      ],
-      "packed_bytes": 1061555,
-      "valid": true
-    },
-    {
-      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
-      "pixels": [
-        2048,
-        2048
-      ],
-      "packed_bytes": 613076,
-      "valid": true
-    },
-    {
-      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
-      "pixels": [
-        2048,
-        2048
-      ],
-      "packed_bytes": 340408,
-      "valid": true
-    },
     {
       "name": "rift-6x9.jpg",
       "pixels": [
@@ -74,30 +84,21 @@
       "valid": true
     },
     {
-      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+      "name": "dan-hobday-richmond-70x100-official.jpg",
+      "pixels": [
+        2000,
+        1400
+      ],
+      "packed_bytes": 844295,
+      "valid": true
+    },
+    {
+      "name": "brick-upper.png",
       "pixels": [
         1024,
-        1024
+        512
       ],
-      "packed_bytes": 145269,
-      "valid": true
-    },
-    {
-      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
-      "pixels": [
-        2048,
-        2048
-      ],
-      "packed_bytes": 1654547,
-      "valid": true
-    },
-    {
-      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
-      "pixels": [
-        2048,
-        2048
-      ],
-      "packed_bytes": 140648,
+      "packed_bytes": 3548,
       "valid": true
     }
   ],
@@ -109,13 +110,13 @@
     },
     {
       "filename": "his-office-design.blend",
-      "sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
-      "bytes": 103093481
+      "sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "bytes": 111195691
     },
     {
       "filename": "his-office-design.glb",
-      "sha256": "042e4b7afed71f526d622f5a6eb95f689b04cd2c09bebd5195329a97b069bc6c",
-      "bytes": 41744276
+      "sha256": "93bee5a6c3658116ee6564be229df62e3952ada833bf8d9b2b0cbd2281511e6f",
+      "bytes": 41277344
     },
     {
       "filename": "his-office-door-leaves.glb",
@@ -124,23 +125,48 @@
     },
     {
       "filename": "his-office-furniture.glb",
-      "sha256": "e6376c56301b467d023d9853c73775e67a00e66edd930b5f64a6393cec662be9",
-      "bytes": 40245744
+      "sha256": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1",
+      "bytes": 39380020
     },
     {
       "filename": "his-office-shell.glb",
-      "sha256": "a74f9285d94db5f6c1c849294e3272afa0e3a395dbb66db4de14e4c3e1f754f0",
-      "bytes": 1336888
+      "sha256": "10576a59557d21853473aa69b390ae3554826ebac2c2cb8cfc1484684481bee9",
+      "bytes": 1734500
     },
     {
       "filename": "layout.json",
-      "sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a",
-      "bytes": 11709
+      "sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+      "bytes": 17118
+    },
+    {
+      "filename": "preview-provenance.json",
+      "sha256": "4977f943b7387a60d0ef64078a988b9ec7b0605c935f5e00f4b0ed68b746059a",
+      "bytes": 524
     },
     {
       "filename": "tria-component-map.json",
-      "sha256": "6011355977a1844112a14834704f62a9d2eccee438667d30c5669a3fbd3be911",
+      "sha256": "b916d9ad119f0f5e90df363e6d19be3a57e031a55cdfe587a7f0c25938b941e3",
       "bytes": 5986
     }
-  ]
+  ],
+  "export_inventory_repair": {
+    "method": "Export-only furniture assembly descendant inclusion; native scene not saved or mutated on disk.",
+    "native_sha256_before": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "native_sha256_after": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+    "native_frozen_unchanged": true,
+    "aeron_mesh_count_exported": 40,
+    "furniture_mesh_count": 357,
+    "exports": [
+      {
+        "filename": "his-office-furniture.glb",
+        "sha256": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1",
+        "bytes": 39380020
+      },
+      {
+        "filename": "his-office-design.glb",
+        "sha256": "93bee5a6c3658116ee6564be229df62e3952ada833bf8d9b2b0cbd2281511e6f",
+        "bytes": 41277344
+      }
+    ]
+  }
 }

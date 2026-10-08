@@ -1,0 +1,47 @@
+{
+  "@type": "Product",
+  "sku": "100099909",
+  "name": "Aeron Chair, Mineral / Satin Aluminum, Size C - Large, Basic Back Support, Basic, Fully Adjustable Arms, Leather, Carpet Caster",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/100099909.html?lang=en_US",
+    "priceCurrency": "USD",
+    "price": 2470,
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  },
+  "image": "https://images.hermanmiller.group/asset/3c19a51c-19a3-4010-bef9-61e0dbfde38f/W/AeronChair_100099909_Front.png",
+  "size": "Size C - Large",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Frame / Base",
+      "value": "Mineral / Satin Aluminum"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Back Support",
+      "value": "Basic Back Support"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Tilt",
+      "value": "Basic"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Arms",
+      "value": "Fully Adjustable Arms"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Armpad",
+      "value": "Leather"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Caster",
+      "value": "Carpet Caster"
+    }
+  ]
+}

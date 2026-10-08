@@ -1,0 +1,184 @@
+[
+  {
+    "id": "b-a",
+    "generator_file": "/workspace/generated_images/exec-99f38668-98c5-4947-8499-af8527d3033b.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-99f38668-98c5-4947-8499-af8527d3033b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "generation_attempts": [
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+        "input_authority_sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27",
+        "view_id": "b-a",
+        "generator_file": "/workspace/generated_images/exec-1d607165-b6e0-4c6d-acfe-8301c8bc278c.png",
+        "generator_file_sha256": "c5ff5457d6bee8b8413c7b11be1e2bfa578df664a337e9d59d70ffa949b04934",
+        "reason": "Camera B/C were incorrectly repeated as A; A also needed smaller nursery palm.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-1d607165-b6e0-4c6d-acfe-8301c8bc278c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "accepted",
+        "input_authority_file": "images/generation-inputs.json",
+        "input_authority_sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f",
+        "view_id": "b-a",
+        "generator_file": "/workspace/generated_images/exec-99f38668-98c5-4947-8499-af8527d3033b.png",
+        "generator_file_sha256": "455592762154ec9f950af9cb7e44addd89d23c9ba1febb3342a2dc21d995d7fa",
+        "reason": "Final selected appearance study; native model and plan remain dimension authority.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-99f38668-98c5-4947-8499-af8527d3033b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    ]
+  },
+  {
+    "id": "b-b",
+    "generator_file": "/workspace/generated_images/exec-e50aee2c-1cc7-4326-bd83-a3d1e9c3a7cc.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-e50aee2c-1cc7-4326-bd83-a3d1e9c3a7cc.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "generation_attempts": [
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+        "input_authority_sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27",
+        "view_id": "b-b",
+        "generator_file": "/workspace/generated_images/exec-3cc95f51-d89d-4240-a8c9-6376f380170e.png",
+        "generator_file_sha256": "b57d999da29fa3261d75f058030a1bffc4f7a9333f16b3f507f318451c0daa53",
+        "reason": "Camera B/C were incorrectly repeated as A; A also needed smaller nursery palm.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-3cc95f51-d89d-4240-a8c9-6376f380170e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "accepted",
+        "input_authority_file": "images/generation-inputs.json",
+        "input_authority_sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f",
+        "view_id": "b-b",
+        "generator_file": "/workspace/generated_images/exec-e50aee2c-1cc7-4326-bd83-a3d1e9c3a7cc.png",
+        "generator_file_sha256": "b6008b138ac6d763ac0adfa95fd12776ea6799bd8f6a08d8bd16b575cefb2cd6",
+        "reason": "Final selected appearance study; native model and plan remain dimension authority.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-e50aee2c-1cc7-4326-bd83-a3d1e9c3a7cc.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    ]
+  },
+  {
+    "id": "b-c",
+    "generator_file": "/workspace/generated_images/exec-12df378f-71d3-4602-aa45-654904b1d8a9.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-12df378f-71d3-4602-aa45-654904b1d8a9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "generation_attempts": [
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+        "input_authority_sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27",
+        "view_id": "b-c",
+        "generator_file": "/workspace/generated_images/exec-2467472c-a875-44c0-8620-f64d141a074c.png",
+        "generator_file_sha256": "064252532c2754cf1c8a94804df8ad5fed6521fc00cc75e2be2bd0e90dfb1645",
+        "reason": "Camera B/C were incorrectly repeated as A; A also needed smaller nursery palm.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-2467472c-a875-44c0-8620-f64d141a074c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/second-generation-camera-corrections/generation-inputs.json",
+        "input_authority_sha256": "05436878de55b141b0f7c6478e4a616963718e83ef115cd7f0757c3390dff4b0",
+        "view_id": "b-c",
+        "generator_file": "/workspace/generated_images/exec-fafacc23-69f0-437a-853f-1f7ce0f7c832.png",
+        "generator_file_sha256": "9a3a69fef9e7ee904a5ff14796389162b0b49076c0e91db1bddbebfecad9334c",
+        "reason": "Correct target camera; nursery palm foliage still oversized.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-fafacc23-69f0-437a-853f-1f7ce0f7c832.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "accepted",
+        "input_authority_file": "images/generation-inputs.json",
+        "input_authority_sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f",
+        "view_id": "b-c",
+        "generator_file": "/workspace/generated_images/exec-12df378f-71d3-4602-aa45-654904b1d8a9.png",
+        "generator_file_sha256": "7109c7e72380dec742c1e74276fa7aa17ed0620254c5f7ce5b1e5a994c407709",
+        "reason": "Final selected appearance study; native model and plan remain dimension authority.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-12df378f-71d3-4602-aa45-654904b1d8a9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    ]
+  },
+  {
+    "id": "c-a",
+    "generator_file": "/workspace/generated_images/exec-f14e91dd-532b-4a8d-8cdc-787ed583862d.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-f14e91dd-532b-4a8d-8cdc-787ed583862d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "generation_attempts": [
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+        "input_authority_sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27",
+        "view_id": "c-a",
+        "generator_file": "/workspace/generated_images/exec-b1c8054b-6af3-424b-9371-3bd193e68cb7.png",
+        "generator_file_sha256": "92af30683c5557a999fa2e573f0cb7b57ebf77ef47c9cc3fdc7c94c6c14ee4d1",
+        "reason": "Camera B/C were incorrectly repeated as A; A also needed smaller nursery palm.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-b1c8054b-6af3-424b-9371-3bd193e68cb7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "accepted",
+        "input_authority_file": "images/generation-inputs.json",
+        "input_authority_sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f",
+        "view_id": "c-a",
+        "generator_file": "/workspace/generated_images/exec-f14e91dd-532b-4a8d-8cdc-787ed583862d.png",
+        "generator_file_sha256": "e330d012ad37af0dc51b6afac6326d4b9e6b24879ddc8728a9497e98fc9d91c3",
+        "reason": "Final selected appearance study; native model and plan remain dimension authority.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-f14e91dd-532b-4a8d-8cdc-787ed583862d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    ]
+  },
+  {
+    "id": "c-b",
+    "generator_file": "/workspace/generated_images/exec-1cefe73d-9fcf-40b4-97fc-c78e94e71df0.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-1cefe73d-9fcf-40b4-97fc-c78e94e71df0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "generation_attempts": [
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+        "input_authority_sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27",
+        "view_id": "c-b",
+        "generator_file": "/workspace/generated_images/exec-bb3e59c9-56a3-40b8-8be2-edd231923908.png",
+        "generator_file_sha256": "5ff4d5e03ff786c78427d7dd95912c57f2e9376901d925f6bdce0f4ad1c810c1",
+        "reason": "Camera B/C were incorrectly repeated as A; A also needed smaller nursery palm.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-bb3e59c9-56a3-40b8-8be2-edd231923908.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "accepted",
+        "input_authority_file": "images/generation-inputs.json",
+        "input_authority_sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f",
+        "view_id": "c-b",
+        "generator_file": "/workspace/generated_images/exec-1cefe73d-9fcf-40b4-97fc-c78e94e71df0.png",
+        "generator_file_sha256": "5bfe53989383bbffa06df0d7a70fa13d220f134a86f9beed7f95e52d68c8bba2",
+        "reason": "Final selected appearance study; native model and plan remain dimension authority.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-1cefe73d-9fcf-40b4-97fc-c78e94e71df0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    ]
+  },
+  {
+    "id": "c-c",
+    "generator_file": "/workspace/generated_images/exec-3c5f46ea-5d5c-4d96-881c-83355c5694a9.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-3c5f46ea-5d5c-4d96-881c-83355c5694a9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "generation_attempts": [
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/first-generation-repeated-camera/generation-inputs.json",
+        "input_authority_sha256": "9ce5957e25651e8dfb2299fa33db8677b22c72a7e2ca53bb7ff453442deebb27",
+        "view_id": "c-c",
+        "generator_file": "/workspace/generated_images/exec-7656464b-4452-4737-b839-2f3a3d8bb9b0.png",
+        "generator_file_sha256": "24f67af588603c12d7cfde25663a3235b3d13a75a8c98f76d6498dde66a3024a",
+        "reason": "Camera B/C were incorrectly repeated as A; A also needed smaller nursery palm.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-7656464b-4452-4737-b839-2f3a3d8bb9b0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "superseded",
+        "input_authority_file": "images/checkpoints/second-generation-camera-corrections/generation-inputs.json",
+        "input_authority_sha256": "05436878de55b141b0f7c6478e4a616963718e83ef115cd7f0757c3390dff4b0",
+        "view_id": "c-c",
+        "generator_file": "/workspace/generated_images/exec-543dedd4-d978-4d8d-b3d1-cdee868ef44a.png",
+        "generator_file_sha256": "78a43b086ba59ed32cd6f5e08df5eda177eba0cc5cb22c0b1e91ec23c6b0bfa2",
+        "reason": "Correct target camera; nursery palm foliage still oversized.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-543dedd4-d978-4d8d-b3d1-cdee868ef44a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      },
+      {
+        "status": "accepted",
+        "input_authority_file": "images/generation-inputs.json",
+        "input_authority_sha256": "cd628dadacfca1a75dec3739db4adfa37379b28dc568a19e0496ba26e9e3801f",
+        "view_id": "c-c",
+        "generator_file": "/workspace/generated_images/exec-3c5f46ea-5d5c-4d96-881c-83355c5694a9.png",
+        "generator_file_sha256": "9aed5fa0c4162fbd1d2a7a3aab0225d2a2aaacd4948e206fef26cd25b387d845",
+        "reason": "Final selected appearance study; native model and plan remain dimension authority.",
+        "tool_output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-3c5f46ea-5d5c-4d96-881c-83355c5694a9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    ]
+  }
+]

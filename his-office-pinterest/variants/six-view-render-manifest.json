@@ -1,0 +1,182 @@
+{
+  "sealed_utc": "2026-10-08T20:49:27.863716+00:00",
+  "image_count": 6,
+  "same_cameras_for_both_variants": true,
+  "render_settings": "CyclesCPU64samples; adaptive.025/min16; exposure-.9; no denoiser",
+  "renders": [
+    {
+      "variant": "b-charcoal-slat",
+      "view": "room-a",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-a.jpg",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "render_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+      "bytes": 703366,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-a.jpg",
+        "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "image_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 418.89827728271484,
+        "camera": "CAM room-a"
+      }
+    },
+    {
+      "variant": "b-charcoal-slat",
+      "view": "room-b",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-b.jpg",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "render_sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+      "bytes": 601163,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-b.jpg",
+        "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "image_sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 486.3095462322235,
+        "camera": "CAM room-b"
+      }
+    },
+    {
+      "variant": "b-charcoal-slat",
+      "view": "room-c",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-c.jpg",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "render_sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+      "bytes": 726417,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-c.jpg",
+        "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "image_sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 483.2703227996826,
+        "camera": "CAM room-c"
+      }
+    },
+    {
+      "variant": "c-ink-studio",
+      "view": "room-a",
+      "path": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-a.jpg",
+      "source_blend_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "render_sha256": "b66587fdcce1765328eaac9d82a21b84e522d0486b87de14a0b9da32b692c13c",
+      "bytes": 666038,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-a.jpg",
+        "scene_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+        "image_sha256": "b66587fdcce1765328eaac9d82a21b84e522d0486b87de14a0b9da32b692c13c",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 391.27825474739075,
+        "camera": "CAM room-a"
+      }
+    },
+    {
+      "variant": "c-ink-studio",
+      "view": "room-b",
+      "path": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-b.jpg",
+      "source_blend_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "render_sha256": "602367170aed3139a8c918cf53c5426db979be84622ff6d2fc2d478f3f8c80ae",
+      "bytes": 576994,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-b.jpg",
+        "scene_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+        "image_sha256": "602367170aed3139a8c918cf53c5426db979be84622ff6d2fc2d478f3f8c80ae",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 459.19114804267883,
+        "camera": "CAM room-b"
+      }
+    },
+    {
+      "variant": "c-ink-studio",
+      "view": "room-c",
+      "path": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-c.jpg",
+      "source_blend_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "render_sha256": "b7d85041641b8815d1b9f335305fc70ba27d86b754cb19aa7e1a666882365ce5",
+      "bytes": 720510,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-c.jpg",
+        "scene_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+        "image_sha256": "b7d85041641b8815d1b9f335305fc70ba27d86b754cb19aa7e1a666882365ce5",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 469.52840757369995,
+        "camera": "CAM room-c"
+      }
+    }
+  ]
+}

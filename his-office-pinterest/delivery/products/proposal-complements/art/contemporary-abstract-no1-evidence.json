@@ -1,0 +1,118 @@
+{
+  "id": "contemporary-abstract-no1",
+  "source_url": "https://desenio.com/p/posters-prints/art-prints/contemporary-abstract-no1-print/",
+  "currency": "USD",
+  "title": "Contemporary Abstract No1 Print",
+  "description_html": "<p><span>- Painting with abstract design in various shades of grey and brown</span></p><p>Abstract painting in shades of grey and brown. The beautiful colors playing together creates an abstract flow of silvery shades with hints of warmth, and the print goes perfectly together with Contemporary Abstract No2.<br><br>The poster is printed with a white margin around the image.</p>",
+  "available_combinations": [
+    {
+      "id": 16122,
+      "size": "30x40",
+      "sizeTitle": "12\" x 16\" in",
+      "articleNumber": "16499-5",
+      "stock": 71,
+      "price": 55.95,
+      "campaignPrice": 33.57,
+      "images": [
+        {
+          "URL": "685c58e6cfde1217aabdbb91_1514889503_16499-5.jpg",
+          "width": 2000,
+          "height": 2667,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 16123,
+      "size": "50x70",
+      "sizeTitle": "20\" x 28\" in",
+      "articleNumber": "16499-8",
+      "stock": 39,
+      "price": 91.95,
+      "campaignPrice": 55.17,
+      "images": [
+        {
+          "URL": "685c58e9cfde1217aabdbb92_1311831650_16499-8.jpg",
+          "width": 2000,
+          "height": 2800,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 16120,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "16499-1",
+      "stock": 111,
+      "price": 107,
+      "campaignPrice": 64.2,
+      "images": [
+        {
+          "URL": "685c58e05bc2e6c81f1cc4e2_1907364562_16499-1.jpg",
+          "width": 2000,
+          "height": 2857,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+          "listOrder": 1
+        }
+      ]
+    },
+    {
+      "id": 16119,
+      "size": "100x150",
+      "sizeTitle": "39\" x 59\" in",
+      "articleNumber": "16499-0",
+      "stock": 999999,
+      "price": 213,
+      "campaignPrice": 127.8,
+      "images": [
+        {
+          "URL": "685c58dd690d8af12d51b28f_2118513202_16499-0.jpg",
+          "width": 2000,
+          "height": 3000,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+          "listOrder": 1
+        }
+      ]
+    }
+  ],
+  "selected_70x100": {
+    "id": 16120,
+    "productID": 6338,
+    "stock": 111,
+    "size": "70x100",
+    "sizeTitle": "28\" x 39\" in",
+    "articleNumber": "16499-1",
+    "parentArticleNumber": "16499",
+    "price": 107,
+    "campaignPrice": 64.2,
+    "optionItemIDs": [
+      16120
+    ],
+    "isPrintOnDemand": 0,
+    "images": [
+      {
+        "URL": "685c58e05bc2e6c81f1cc4e2_1907364562_16499-1.jpg",
+        "width": 2000,
+        "height": 2857,
+        "systemCode": "variant_main_image",
+        "alt": "Abstract art print with flowing gray and brown tones, creating an organic contemporary design. Perfect poster print.",
+        "listOrder": 1
+      }
+    ],
+    "image_url": "https://media.desenio.com/site_images/685c58e05bc2e6c81f1cc4e2_1907364562_16499-1.jpg",
+    "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/contemporary-abstract-no1-70x100-official.jpg",
+    "image_sha256": "635e4b4000c6eb04a6b8f34049b83a3fa7ed79617089431bb496813af47eb1e7",
+    "actual_image_dimensions": [
+      2000,
+      2857
+    ],
+    "pixels_edited": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "source_file": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend",
+  "source_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+  "canonical_layout_sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+  "preflight_file": "/workspace/his-office-pinterest/layout/geometry-fit-preflight/owned-aeron-bounded-preflight.json",
+  "preflight_sha256": "c5776b68644ad2fa8b742d6e9cce754fff4fd886a0cd3b3ad36ca81049aab62b",
+  "chair_layout_id": "aeron-primary",
+  "one_task_chair": true,
+  "actual_proxy_world_bounds_blender_m": [
+    [
+      -7.179409980773926,
+      -1.2104296684265137,
+      1.5750000476837158
+    ],
+    [
+      -6.460590362548828,
+      -0.49059003591537476,
+      2.6672000885009766
+    ]
+  ],
+  "actual_proxy_floor_contact_error_m": 4.768371586472142e-08,
+  "method": "Final native evaluated chair mesh. Exact complete swept bounds followed by33 translation samples for remaining candidates along source-authority waypoints, including45cm pullback. Full yaw bound uses the larger of actual vertex radius and published max-arm circumscribed radius;49 yaw samples only for remaining candidates. No scene/model poses saved.",
+  "translations": [
+    {
+      "segment": 0,
+      "start_blender_m": [
+        -6.820000171661377,
+        -0.8500000238418579,
+        1.5750000476837158
+      ],
+      "end_blender_m": [
+        -6.820000171661377,
+        -1.2999999523162842,
+        1.5750000476837158
+      ],
+      "whole_swept_candidates": [],
+      "surface_intersections": [],
+      "pass": true
+    },
+    {
+      "segment": 1,
+      "start_blender_m": [
+        -6.820000171661377,
+        -1.2999999523162842,
+        1.5750000476837158
+      ],
+      "end_blender_m": [
+        -5.699999809265137,
+        -1.2999999523162842,
+        1.5750000476837158
+      ],
+      "whole_swept_candidates": [],
+      "surface_intersections": [],
+      "pass": true
+    },
+    {
+      "segment": 2,
+      "start_blender_m": [
+        -5.699999809265137,
+        -1.2999999523162842,
+        1.5750000476837158
+      ],
+      "end_blender_m": [
+        -5.699999809265137,
+        -1.100000023841858,
+        1.5750000476837158
+      ],
+      "whole_swept_candidates": [],
+      "surface_intersections": [],
+      "pass": true
+    },
+    {
+      "segment": 3,
+      "start_blender_m": [
+        -5.699999809265137,
+        -1.100000023841858,
+        1.5750000476837158
+      ],
+      "end_blender_m": [
+        -5.349999904632568,
+        -0.8500000238418579,
+        1.5750000476837158
+      ],
+      "whole_swept_candidates": [],
+      "surface_intersections": [],
+      "pass": true
+    }
+  ],
+  "full_turn": {
+    "center_blender_m": [
+      -5.699999809265137,
+      -1.100000023841858,
+      1.5750000476837158
+    ],
+    "actual_vertex_support_radius_m": 0.43294987985573236,
+    "conservative_support_radius_m": 0.5387330419604871,
+    "whole_turn_candidates": [],
+    "surface_intersections": [],
+    "pass": true
+  },
+  "all_sampled_motion_pass": true,
+  "limits": [
+    "Modeled Aeron is a source-guided proxy; actual owned vintage, arm/cylinder/caster options and settings remain unconfirmed.",
+    "Expanded-arm rectangle/room-route proof is separate; this actual-mesh proof uses displayed pose and a conservative full-turn bound.",
+    "No dynamic caster orientation, human body, textile compression, or real motion/ergonomic certification.",
+    "Complete disjoint swept bounds establish proxy clearance; sampled overlapping candidates cannot mathematically establish every intermediate state."
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "research_date": "2026-10-08",
+  "status": "User chose BOTH B and C as separate designs. A retained as researched alternative. No purchases, installation, or room-model changes by product researcher.",
+  "chosen_directions": [
+    "B Charcoal + Slat Bay",
+    "C Ink Studio"
+  ],
+  "placement_scope": "Existing4.2m long white workwall behind the two independent desks only. Brick, window, closet and room openings retained.",
+  "candidates": [
+    {
+      "direction": "A Graphite Studio",
+      "id": "tempaper_horizontal_black_raven",
+      "brand": "Tempaper & Co.",
+      "name": "Horizontal Faux Grasscloth Peel and Stick Wallpaper",
+      "color": "Textured Black Raven",
+      "url": "https://tempaper.com/products/faux-horizontal-grasscloth-peel-and-stick-wallpaper?variant=42174227087542",
+      "primary_data_file": "/workspace/his-office-pinterest/products/wall-finish-candidates/tempaper-horizontal.json",
+      "roll_options": [
+        {
+          "sku": "HG5232",
+          "variant_id": 42174227087542,
+          "price_usd": 130,
+          "available": true,
+          "width_inches": 20.5,
+          "length_ft": 33,
+          "coverage_sqft": 56.37
+        },
+        {
+          "sku": "HG15232",
+          "variant_id": 42174216011958,
+          "price_usd": 65,
+          "available": true,
+          "width_inches": 20.5,
+          "length_ft": 16.5,
+          "coverage_sqft": 28.18
+        }
+      ],
+      "material": "Certified vinyl, self-adhesive and removable",
+      "match": "Straight",
+      "vertical_repeat_inches": 20.5,
+      "depth_note": "Thin wallcovering; manufacturer thickness not published in source.",
+      "visual_notes": "Visually inspected original black horizontal woven texture. Low contrast and quiet; no Hoffmann geometric squares.",
+      "installation": "Apply to smooth, clean, sound primed/painted eggshell, satin or semi-gloss surfaces. Fresh paint cures at least4weeks. Manufacturer recommends testing a sample and same-lot rolls; clean as specified with1:1water/alcohol. Peels off from a corner; underlying finish and adhesion still require real-wall sample verification.",
+      "geometry_takeoff_note": "Room workwall is4.2m\u00d73.02m nominal. Manufacturer recommends double rolls above8ft wall heights; calculate drop count and20.5in pattern repeat from verified installation height, rather than dividing area alone. No final roll quantity claimed.",
+      "photo": {
+        "path": "/workspace/his-office-pinterest/products/wall-finish-candidates/tempaper-horizontal-black-raven-original.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0584/7957/5222/files/HG5232-black-raven-faux-horizontal-grasscloth-peel-stick-wallpaper-2100x2100.jpg?v=1760630048",
+        "sha256": "a399c8088e62e28256d5ca087cd2b0619c826cb8204ec12c0fa01c963c41b879",
+        "bytes": 662382,
+        "description": "Original official Black Raven texture swatch, visually inspected.",
+        "original_bytes": true,
+        "visually_inspected": true,
+        "pixels": [
+          2100,
+          2100
+        ],
+        "format": "JPEG"
+      }
+    },
+    {
+      "direction": "B Charcoal + Slat Bay",
+      "id": "woodupp_black_ash_black_felt",
+      "brand": "WoodUpp",
+      "name": "Akupanel Natural Wood Black Ash/Black Felt",
+      "sku": "1013",
+      "variant_id": 52516140613979,
+      "price_usd": 194.95,
+      "available": true,
+      "url": "https://woodupp.com/products/akupanel-acoustic-panel-natural-wood-black-ash-black-felt-240-x-60-cm",
+      "dimensions_m": [
+        0.6,
+        0.022,
+        2.4
+      ],
+      "coverage_m2": 1.44,
+      "weight_kg": 12.5,
+      "materials": "MDF slats faced with real wood veneer; acoustic PET felt with50%recycled plastic. Natural grain/finish variation expected.",
+      "chosen_design_quantity": 3,
+      "chosen_design_material_subtotal_usd": 584.85,
+      "proposed_bay": "User chose B as one of two designs; root specified a bounded 1.8m-wide \u00d7 2.4m-high bay of three full-width panels behind the project bench. Material subtotal $584.85 excludes end trims/install/tax/shipping. The geometry/installation agent verifies final attachment and positioning.",
+      "surrounding_workwall_color": {
+        "brand": "Sherwin-Williams",
+        "name": "Peppercorn SW7674",
+        "hex": "#585858",
+        "rgb": [
+          88,
+          88,
+          88
+        ],
+        "url": "https://www.sherwin-williams.com/en-us/color/color-family/neutral-paint-colors/SW7674-peppercorn",
+        "source": "Official ColorSnap RGB/HEX PDF",
+        "note": "Matte neutral charcoal color proposal surrounding the bay; paint system and final physical sample remain to specify."
+      },
+      "room_impact": "Direct-wall installation projects22mm.2.4m-high panels beneath3.02m ceiling leave an intentional0.62m upper band rather than inventing3.02m product height. Additional battens/acoustic insulation increase projection if selected.",
+      "installation": "Manufacturer specifies15screws per panel through felt, with appropriate plugs, or mounting adhesive. Either installation may leave wall damage; construction adhesive is not peel-and-stick/rental-removable. Check suitable substrate and attachment after user direction choice.",
+      "acoustic_note": "Manufacturer ClassA claim requires its tested installation system; do not promise ClassA for simple direct mounting. Acoustic performance is not simulated in this proposal.",
+      "visual_notes": "Original close-up reads cool gray-black and restrained. RusticGreyOak and Wood-like BlackOak samples read noticeably warmer; actual BlackAsh preferred.",
+      "photos": [
+        {
+          "path": "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-0.jpg",
+          "url": "https://cdn.shopify.com/s/files/1/0956/1561/5323/files/1013_akupanel_tonal_blackash_blackfelt_01_b54b5be3-9e58-4c79-b14d-8a47f1707f83.jpg?v=1777062202",
+          "sha256": "765036d6c5b013e3e7ed48f94bec5ac11f8a667c53e14038bdee05d0dfea042c",
+          "bytes": 93638,
+          "description": "Official overall product panel photo, not a room illustration.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1639,
+            2048
+          ],
+          "format": "JPEG"
+        },
+        {
+          "path": "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-original-2.jpg",
+          "url": "https://cdn.shopify.com/s/files/1/0956/1561/5323/files/1013_akupanel_tonal_black_ash_black_felt_03.jpg?v=1777062017",
+          "sha256": "c6b274f7d2859262641435cac7ebdec7b433df263683f125675f81f7f80f1cb8",
+          "bytes": 712345,
+          "description": "Original official BlackAsh veneer/felt close-up.",
+          "original_bytes": true,
+          "visually_inspected": true,
+          "pixels": [
+            1639,
+            2048
+          ],
+          "format": "JPEG"
+        }
+      ],
+      "source_page_file": "/workspace/his-office-pinterest/products/wall-finish-candidates/woodupp-blackash-page.html",
+      "vendor_image_note": "Vendor environment filenames explicitly marked_AI were excluded; no AI lifestyle image is presented as real installed-room photography."
+    },
+    {
+      "direction": "C Ink Studio",
+      "id": "sherwin_williams_naval_sw6244",
+      "brand": "Sherwin-Williams",
+      "name": "Naval SW6244 paint color",
+      "url": "https://www.sherwin-williams.com/en-us/color/color-family/blue-paint-colors/SW6244-naval",
+      "rgb": [
+        47,
+        61,
+        76
+      ],
+      "hex": "#2F3D4C",
+      "color_evidence": "RGB/HEX verified directly in the downloaded official ColorSnap PDF; primary Naval color page also downloaded.",
+      "rgb_source": "https://images.sherwin-williams.com/content_images/sw-pdf-sherwin-williams-colorc.pdf",
+      "source_page_file": "/workspace/his-office-pinterest/products/wall-finish-candidates/sherwin-naval-page.html",
+      "chosen_scope": "Separate C design: plain deep ink-blue workwall, no slats. Existing brick, window, closet and all shared furniture geometry retained.",
+      "paint_system_note": "Matte/flat finish is a design preference; actual paint line, primer/substrate preparation and quantity not selected. Requires repainting to restore a rental. Sample physical color under actual daylight and overhead light; RGB is screen reference only."
+    }
+  ],
+  "rejected_or_conditional": [
+    {
+      "name": "Tempaper Hoffmann BlackSisal",
+      "reason": "Real current product but woven geometric-square motif is too busy beside existing brick."
+    },
+    {
+      "name": "Tempaper FauxBurlap Charcoal BU503",
+      "reason": "Old Lowe\u2019s listing does not establish current manufacturer availability; Charcoal absent from current product configurator."
+    },
+    {
+      "name": "Tempaper HorizontalFauxGrasscloth TexturedNavy HG15226/HG5226",
+      "reason": "Current single and double rolls available=false; sample available only. Original navy swatch retained with OUTOFSTOCK filename, not purchase-ready."
+    },
+    {
+      "name": "Legacy WoodUpp ColoredCharcoal US listing",
+      "reason": "Current specific US URL404. EU listing is not evidence of current US fulfillment."
+    }
+  ],
+  "lighting_note": "Use existing overhead light with a neutral/cool visual presentation and an optional evening wall wash. Existing fixture dimmability, exact CCT and illuminance are unverified; no new ceiling fixture or electrical change is selected."
+}

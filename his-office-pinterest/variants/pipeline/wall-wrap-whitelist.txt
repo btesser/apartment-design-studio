@@ -1,0 +1,16 @@
+READ-ONLY WALL WRAP WHITELIST
+Source SHA256 607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a
+
+PAINT EXACTLY:
+his-office wall4 segment
+his-office wall5 corrected solid 0
+his-office wall5 corrected solid 2
+his-office wall5 corrected solid 4
+his-office wall5 corrected bottom 1
+his-office wall5 corrected bottom 3
+his-office wall5 corrected head 1
+his-office wall5 corrected head 3
+
+Assign fresh variant-private Peppercorn/Naval materials. Reconstructed warm plaster has17 users:8 whitelist and9 excluded white architectural wall pieces. Do not recolor it globally. Trim/door/pipe use Fixture porcelain, separate from wall plaster; preserve. Preserve glass,brick,floor,ceiling,all fixed features/doors. No geometry changes. Already packed images must not be repacked.
+Mesh sharing: {'his-office wall4 segment': [], 'his-office wall5 corrected solid 0': [], 'his-office wall5 corrected solid 2': [], 'his-office wall5 corrected solid 4': [], 'his-office wall5 corrected bottom 1': [], 'his-office wall5 corrected bottom 3': [], 'his-office wall5 corrected head 1': [], 'his-office wall5 corrected head 3': []}
+Source unchanged: True

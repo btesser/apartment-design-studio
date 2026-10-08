@@ -1,0 +1,261 @@
+{
+  "status": "PROPOSAL ONLY. Existing B/C are checkpoints; fuller composition and owned-chair canonical update pending. No furniture or model positions changed.",
+  "sources": [
+    {
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+      "sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a"
+    },
+    {
+      "path": "/workspace/his-office-redesign/geometry/room-measurements.json",
+      "sha256": "40e86343957dd57fe6045e7e344d7f0f54f7510981e2cf7cb591ca6f05e8239a"
+    },
+    {
+      "path": "/workspace/his-office-redesign/geometry/fixed-features.json",
+      "sha256": "2943ce109b8605e092a0676145b16a9484561fdf7d4a9c31a48afb4c56b2042d"
+    },
+    {
+      "path": "/workspace/his-office-redesign/geometry/access-and-feasible-zones.json",
+      "sha256": "ef6a955ee4c3c73db631241e8fb4f011e2ab98f0373718c50719a305a71933b9"
+    },
+    {
+      "path": "/workspace/his-office-pinterest/products/owned-chair/owned-aeron-size-c-mineral.json",
+      "sha256": "6a4cad4d13765d541db6b965e97665fa5b8f3abdd207cf2346c0631fab0d7aa2"
+    }
+  ],
+  "plant": {
+    "proposed_center_xy_m": [
+      -5.6,
+      -2.15
+    ],
+    "maximum_practical_full_foliage_diameter_m": 0.45,
+    "height_range_m": [
+      0.8,
+      1.2
+    ],
+    "source_status": "Not selected or measured. Purchase candidate must verify entire foliage spread, not pot diameter. If unverified, choose shelf/bench greenery."
+  },
+  "chair_profile": {
+    "name": "Owned Aeron Size C maximum published arms",
+    "W_D_m": [
+      0.80264,
+      0.71882
+    ],
+    "owned_vintage_options": "unconfirmed"
+  },
+  "cases": [
+    {
+      "state": "Working chair",
+      "route60cm": true,
+      "route61cm": true,
+      "route62cm": true,
+      "witness": {
+        "witness_found": true,
+        "centerline_xy_m": [
+          [
+            -3.5,
+            -2.1
+          ],
+          [
+            -4.24000000000008,
+            -1.3700000000000303
+          ],
+          [
+            -4.350000000000078,
+            -1.3300000000000312
+          ],
+          [
+            -6.14000000000004,
+            -1.3300000000000312
+          ],
+          [
+            -6.200000000000038,
+            -1.4250000000000291
+          ],
+          [
+            -6.305000000000036,
+            -1.4950000000000276
+          ],
+          [
+            -7.5,
+            -2.1
+          ]
+        ],
+        "length_m": 4.524494855261017,
+        "exact_free_space_covers_witness": true,
+        "minimum_centerline_distance_to_obstacle_m": 0.30001506232813097,
+        "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+        "person_diameter_m": 0.6,
+        "extra_grid_inset_m": 0.002
+      }
+    },
+    {
+      "state": "Chair pulled back45cm",
+      "route60cm": true,
+      "route61cm": true,
+      "route62cm": false,
+      "witness": {
+        "witness_found": true,
+        "centerline_xy_m": [
+          [
+            -3.5,
+            -2.1
+          ],
+          [
+            -4.24000000000008,
+            -1.3700000000000303
+          ],
+          [
+            -4.350000000000078,
+            -1.3300000000000312
+          ],
+          [
+            -6.11500000000004,
+            -1.3300000000000312
+          ],
+          [
+            -6.11500000000004,
+            -1.7050000000000232
+          ],
+          [
+            -6.160000000000039,
+            -1.8250000000000206
+          ],
+          [
+            -6.255000000000037,
+            -1.9200000000000186
+          ],
+          [
+            -6.365000000000035,
+            -1.9600000000000177
+          ],
+          [
+            -7.375000000000013,
+            -1.9750000000000174
+          ],
+          [
+            -7.5,
+            -2.1
+          ]
+        ],
+        "length_m": 4.862963437430485,
+        "exact_free_space_covers_witness": true,
+        "minimum_centerline_distance_to_obstacle_m": 0.30000419405400347,
+        "minimum_centerline_distance_to_room_boundary_m": 0.3372869406502657,
+        "person_diameter_m": 0.6,
+        "extra_grid_inset_m": 0.002
+      }
+    }
+  ],
+  "max_arm_chair_transfer_and_full_turn": {
+    "method": "Exact convex swept rectangle for straight translations; full circumscribed circle proves all yaw angles at a separate turn location. No furnishings moved; target bench chair location is an operational candidate, not canonical placement.",
+    "product_profile_width_depth_m": [
+      0.80264,
+      0.71882
+    ],
+    "candidate_waypoints_xy_m": [
+      [
+        -6.82,
+        -0.85
+      ],
+      [
+        -6.82,
+        -1.3
+      ],
+      [
+        -5.7,
+        -1.3
+      ],
+      [
+        -5.7,
+        -1.1
+      ],
+      [
+        -5.35,
+        -0.85
+      ]
+    ],
+    "translations": [
+      {
+        "start": [
+          -6.82,
+          -0.85
+        ],
+        "end": [
+          -6.82,
+          -1.3
+        ],
+        "conservative_rectangle_sweep_m2": 0.9381416848000005,
+        "room_covers_sweep": true,
+        "obstacle_overlap_names": [],
+        "minimum_obstacle_distance_m": 0.01708999999999994
+      },
+      {
+        "start": [
+          -6.82,
+          -1.3
+        ],
+        "end": [
+          -5.7,
+          -1.3
+        ],
+        "conservative_rectangle_sweep_m2": 1.3820320848000003,
+        "room_covers_sweep": true,
+        "obstacle_overlap_names": [],
+        "minimum_obstacle_distance_m": 0.06895999999999969
+      },
+      {
+        "start": [
+          -5.7,
+          -1.3
+        ],
+        "end": [
+          -5.7,
+          -1.1
+        ],
+        "conservative_rectangle_sweep_m2": 0.7374816848000002,
+        "room_covers_sweep": true,
+        "obstacle_overlap_names": [],
+        "minimum_obstacle_distance_m": 0.24324250000000003
+      },
+      {
+        "start": [
+          -5.7,
+          -1.1
+        ],
+        "end": [
+          -5.35,
+          -0.85
+        ],
+        "conservative_rectangle_sweep_m2": 1.0292006848000008,
+        "room_covers_sweep": true,
+        "obstacle_overlap_names": [],
+        "minimum_obstacle_distance_m": 0.12058999999999997
+      }
+    ],
+    "all_translations_pass_nominal": true,
+    "full_rotation": {
+      "center_xy_m": [
+        -5.7,
+        -1.1
+      ],
+      "conservative_diameter_m": 1.0774660839209742,
+      "room_covers_full_turn_circle": true,
+      "obstacle_overlap_names": [],
+      "minimum_obstacle_distance_m": 0.191266958039513,
+      "pass": true
+    }
+  },
+  "hearth_conservative_projection_clearance_m": 0.10499999999999998,
+  "comparison": {
+    "examples_at_y_minus2_4": "Overlap conservative fireplace projection even at30cm foliage; reject.",
+    "alternative_x_minus5_8_y_minus2_15": "45cm crown blocks pulled-back60cm nominal route; reject at that size.",
+    "60cm_at_chosen_center": "Nominal route passes but only3cm to hearthbuffer; not recommended as practical purchase envelope.",
+    "drawer_operation": "Full-depth Aeron leaves.785m before open dresser at working pose,.335m after45cm pullback; use sequentially."
+  },
+  "limits": [
+    "Door leaves open for passage; swings inferred.",
+    "Room generalized5\u201312cm; not measured installation clearance.",
+    "60cm is a hypothetical person circle, not measured shoulderwidth or guaranteed accessible passage.",
+    "Final added floor/height objects must be retested after canonical freeze; B/C current checkpoint features share furniture anchors."
+  ]
+}

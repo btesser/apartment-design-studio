@@ -1,0 +1,36 @@
+agic
+251-C3
+50
+49
+50
+323132
+SW6992
+Inkwell
+251-C4
+49
+54
+58
+31363A
+SW6993
+Black of Night
+251-C5
+50
+54
+57
+323639
+SW6994
+Greenblack
+251-C6
+55
+58
+58
+373A3A
+SW7000
+Ibis White
+260-C2
+242
+236
+230
+F2ECE6
+SW7001
+Marshma

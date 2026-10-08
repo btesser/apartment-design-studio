@@ -1,0 +1,18 @@
+{
+  "file": "/workspace/his-office-pinterest/His-office-B-C-design-review.pdf",
+  "sha256": "e9505e805d2d6c5b728da2a9bc91c9cd6a3aa28f3d94ef990f76fb53644b599a",
+  "checks": {
+    "nine_pages": true,
+    "nineteen_links": true,
+    "no_preview": true,
+    "pdf_hash": true,
+    "all_recorded_sources_match": true,
+    "all_six_concepts_recorded": true,
+    "six_current_concepts_unique": true,
+    "correct_costs": true,
+    "correct_owned_chair": true,
+    "correct_reference_history": true,
+    "no_text_off_page": true
+  },
+  "source_count": 93
+}

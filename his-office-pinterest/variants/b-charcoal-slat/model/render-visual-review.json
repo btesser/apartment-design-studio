@@ -1,0 +1,17 @@
+{
+  "variant": "b-charcoal-slat",
+  "views": {
+    "room-a": {
+      "image_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "visual_review_utc": "2026-10-08T20:34:57.305447+00:00",
+      "status": "PASS for source geometry reference",
+      "observations": [
+        "One light-gray open-weave Aeron task chair, one clear fixed project bench, primary monitor only.",
+        "Open Honeywell head, source window/door positions, correct ledge and independent landscape-art mounts.",
+        "Materials intact; no missing-texture magenta. Dark palette remains readable; fine residual CPU path-tracing grain."
+      ],
+      "note": "Geometry and product fit are established by independent mesh/support tests, not judged from this perspective image alone."
+    }
+  }
+}

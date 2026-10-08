@@ -2,15 +2,15 @@
   "title": "His office \u00b7 B and C alternatives",
   "units": "metres",
   "coordinates": "GLTF Y-up; native frame preserved without normalization",
-  "status": "working model checkpoint",
+  "status": "final",
   "variants": [
     {
       "id": "b-charcoal-slat",
       "label": "B \u00b7 Charcoal + slat",
-      "description": "Peppercorn charcoal work wall with a 1.8 \u00d7 2.4 m black slat accent behind the project bench.",
+      "description": "Charcoal finish with black vertical paneling. Compare the coordinated room arrangement.",
       "model_source": "variants/b-charcoal-slat/model/his-office-design.blend",
-      "model_sha256": "f90a2781ed7cbfbc4bbcc5274a85561d11a5f89538836dde06ffb7322dfc1488",
-      "layout_sha256": "0e3fedeb3861874cc05d8a45a2253111c71aa2fae3620c78d9d054c98ff6133a",
+      "model_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "layout_sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
       "camera_sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
       "config": {
         "room": {
@@ -195,7 +195,7 @@
         "footprints": [
           {
             "id": "standing-main-desk",
-            "kind": "kept_desk",
+            "kind": "standing_desk",
             "polygon": [
               [
                 -7.515,
@@ -227,24 +227,24 @@
             "walkBlocker": true
           },
           {
-            "id": "branch-primary",
+            "id": "aeron-primary",
             "kind": "task_chair",
             "polygon": [
               [
-                -7.170520000000001,
-                1.20052
+                -7.22132,
+                1.20941
               ],
               [
-                -6.46948,
-                1.20052
+                -6.41868,
+                1.20941
               ],
               [
-                -6.46948,
-                0.49948
+                -6.41868,
+                0.49058999999999997
               ],
               [
-                -7.170520000000001,
-                0.49948
+                -7.22132,
+                0.49058999999999997
               ]
             ],
             "center": [
@@ -609,12 +609,162 @@
             "provisional": false,
             "hiddenWhenDoorsClosed": false,
             "walkBlocker": false
+          },
+          {
+            "id": "project-display-ledge",
+            "kind": "wall_ledge",
+            "polygon": [
+              [
+                -6.12496744395,
+                -0.11699967929999999
+              ],
+              [
+                -4.9750325560499995,
+                -0.11699967929999999
+              ],
+              [
+                -4.9750325560499995,
+                -0.2370000007
+              ],
+              [
+                -6.12496744395,
+                -0.2370000007
+              ]
+            ],
+            "center": [
+              -5.55,
+              -0.17699984
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "primary-display-ledge",
+            "kind": "wall_ledge",
+            "polygon": [
+              [
+                -7.48996744395,
+                -0.11699967929999999
+              ],
+              [
+                -6.34003255605,
+                -0.11699967929999999
+              ],
+              [
+                -6.34003255605,
+                -0.2370000007
+              ],
+              [
+                -7.48996744395,
+                -0.2370000007
+              ]
+            ],
+            "center": [
+              -6.915,
+              -0.17699984
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "dresser-fado",
+            "kind": "table_lamp",
+            "polygon": [
+              [
+                -6.919940775,
+                2.6299407649999997
+              ],
+              [
+                -6.680059225,
+                2.6299407649999997
+              ],
+              [
+                -6.680059225,
+                2.390059235
+              ],
+              [
+                -6.919940775,
+                2.390059235
+              ]
+            ],
+            "center": [
+              -6.8,
+              2.51
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "dresser-parlor-palm",
+            "kind": "tabletop_plant",
+            "polygon": [
+              [
+                -6.54,
+                2.65
+              ],
+              [
+                -6.260000000000001,
+                2.65
+              ],
+              [
+                -6.260000000000001,
+                2.3699999999999997
+              ],
+              [
+                -6.54,
+                2.3699999999999997
+              ]
+            ],
+            "center": [
+              -6.4,
+              2.51
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "primary-felt-mat",
+            "kind": "desk_mat",
+            "polygon": [
+              [
+                -7.3976,
+                0.331025
+              ],
+              [
+                -6.4324,
+                0.331025
+              ],
+              [
+                -6.4324,
+                -0.069025
+              ],
+              [
+                -7.3976,
+                -0.069025
+              ]
+            ],
+            "center": [
+              -6.915,
+              0.131
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
           }
         ],
         "products": [
           {
             "id": "standing-main-desk",
-            "kind": "kept_desk",
+            "kind": "standing_desk",
             "name": "Branch Tria Standing Desk, Black Oak/Charcoal, nominal48\u00d727in",
             "dimensions_m": [
               1.2,
@@ -630,13 +780,13 @@
             "note": "worktop height is shown at seated setting"
           },
           {
-            "id": "branch-primary",
+            "id": "aeron-primary",
             "kind": "task_chair",
-            "name": "Primary task chair",
+            "name": "Owned Herman Miller Aeron Large / Size C, Mineral light gray",
             "dimensions_m": [
-              0.635,
-              0.6096,
-              1.04648
+              0.71882,
+              0.71882,
+              1.0922
             ],
             "orientation": "Faces toward the work wall",
             "front_blender_vector": [
@@ -644,7 +794,7 @@
               1,
               0
             ],
-            "note": "caster base 70 cm"
+            "note": "caster base 67 cm; expanded-arm envelope 80 cm; owned Aeron Size C; vintage and detailed options unconfirmed; reference envelope is a proxy"
           },
           {
             "id": "secondary-workspace",
@@ -704,7 +854,7 @@
               1,
               0
             ],
-            "note": ""
+            "note": "Retailer imperial nominal dimensions; official CAD proxy fitted to this stated envelope"
           },
           {
             "id": "visitor-chair",
@@ -721,7 +871,7 @@
               1,
               0
             ],
-            "note": ""
+            "note": "Selected actual506.243.26 US retailer external measurements; new dimensioned proxy, detailed profile approximate"
           },
           {
             "id": "rug",
@@ -803,6 +953,89 @@
               0
             ],
             "note": "installed on the work wall above the project bench"
+          },
+          {
+            "id": "project-display-ledge",
+            "kind": "wall_ledge",
+            "name": "Project bench picture ledge",
+            "dimensions_m": [
+              1.1499348879,
+              0.1200003214,
+              0.0700000152
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "wall mounted; does not occupy the floor; ledge top 125 cm above floor"
+          },
+          {
+            "id": "primary-display-ledge",
+            "kind": "wall_ledge",
+            "name": "High ledge above the standing desk",
+            "dimensions_m": [
+              1.1499348879,
+              0.1200003214,
+              0.0700000152
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "wall mounted; does not occupy the floor; ledge top 210 cm above floor"
+          },
+          {
+            "id": "dresser-fado",
+            "kind": "table_lamp",
+            "name": "FADO opal table lamp",
+            "dimensions_m": [
+              0.23988155,
+              0.23988153,
+              0.23648912
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "catalog body 25.4 \u00d7 25.4 \u00d7 22.86 cm; unscaled supplier body shown"
+          },
+          {
+            "id": "dresser-parlor-palm",
+            "kind": "tabletop_plant",
+            "name": "Compact parlor palm on clothes drawers",
+            "dimensions_m": [
+              0.28,
+              0.28,
+              0.2794
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "Representative small plant/pot silhouette; pot height and live crown size unpublished. Source6-11in refers nursery pot-bottom to foliage-top, not guaranteed outer-pot assembly."
+          },
+          {
+            "id": "primary-felt-mat",
+            "kind": "desk_mat",
+            "name": "Dark-gray felt desk mat",
+            "dimensions_m": [
+              0.9652,
+              0.40005,
+              0.0035
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "travels with the primary standing desk; worktop height is shown at seated setting"
+          },
+          {
+            "id": "finish-workwall",
+            "kind": "wall_finish",
+            "name": "Work wall finish",
+            "dimensions_m": [],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "Peppercorn (SW 7674) \u00b7 3 \u00d7 2.4 m panel bay; 5 panels"
+          },
+          {
+            "id": "finish-windowwall",
+            "kind": "wall_finish",
+            "name": "Window wall finish",
+            "dimensions_m": [],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "Peppercorn (SW 7674) \u00b7 Matching paint wraps the window wall; recorded openings and white trim remain."
           }
         ],
         "workwall_finish": {
@@ -812,16 +1045,17 @@
             88,
             88
           ],
-          "panel_count": 3,
+          "panel_count": 5,
           "panel_W_D_H_m": [
             0.6,
             0.022,
             2.4
           ],
           "bay_W_H_m": [
-            1.8,
+            3.0,
             2.4
           ],
+          "bay_center_X_m": -6.1,
           "panel_bottom_z_m": 1.575,
           "panel_top_z_m": 3.9749999999999996,
           "ceiling_upper_band_m": 0.62,
@@ -831,8 +1065,20 @@
             0.013
           ],
           "felt_thickness_proxy_m": 0.009,
-          "slat_pitch_proxy_m": 0.04
+          "slat_pitch_proxy_m": 0.04,
+          "paint_mesh_names": [
+            "his-office wall4 segment",
+            "his-office wall5 corrected solid 0",
+            "his-office wall5 corrected solid 2",
+            "his-office wall5 corrected solid 4",
+            "his-office wall5 corrected bottom 1",
+            "his-office wall5 corrected bottom 3",
+            "his-office wall5 corrected head 1",
+            "his-office wall5 corrected head 3"
+          ],
+          "window_wall_wrap": true
         },
+        "wall_finish_roles": null,
         "notes": "Room outline follows the metric scan. Reconstructed wall locations have approximately 5\u201312 cm uncertainty. Product profiles are simplified. Door hinges and closet fit require an on-site check.",
         "desk": {
           "width": 1.2,
@@ -851,16 +1097,238 @@
             1.4986
           ],
           "branchEnvelopeConfidence": "Provisional; full projecting reach is unverified"
+        },
+        "deskLift": {
+          "seatedHeight_m": 0.74,
+          "heightRange_m": [
+            0.6477,
+            1.24206
+          ],
+          "parts": [
+            {
+              "name": "standing-main-desk::leveling_glide_right_rear",
+              "source_name": "leveling_glide_right_rear",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_head",
+              "source_name": "lifting_column_left_head",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_outer_stage",
+              "source_name": "lifting_column_right_outer_stage",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::desktop_bracket_left",
+              "source_name": "desktop_bracket_left",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_end_right",
+              "source_name": "frame_end_right",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::foot_left",
+              "source_name": "foot_left",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::frame_rail_rear",
+              "source_name": "frame_rail_rear",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_middle_stage",
+              "source_name": "lifting_column_left_middle_stage",
+              "lift": "middle",
+              "role": "frame",
+              "height_factor": 0.5
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_left_rear",
+              "source_name": "leveling_glide_left_rear",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::cable_door",
+              "source_name": "cable_door",
+              "lift": "desktop",
+              "role": "cable_door",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_cover_left",
+              "source_name": "frame_cover_left",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_head",
+              "source_name": "lifting_column_right_head",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::felt_cable_organizer",
+              "source_name": "felt_cable_organizer",
+              "lift": "desktop",
+              "role": "felt",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::keypad",
+              "source_name": "keypad",
+              "lift": "desktop",
+              "role": "keypad",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_outer_stage",
+              "source_name": "lifting_column_left_outer_stage",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_right_front",
+              "source_name": "leveling_glide_right_front",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::cable_door_brush",
+              "source_name": "cable_door_brush",
+              "lift": "desktop",
+              "role": "cable_door",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_end_left",
+              "source_name": "frame_end_left",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::control_box",
+              "source_name": "control_box",
+              "lift": "desktop",
+              "role": "electrical",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::desktop",
+              "source_name": "desktop",
+              "lift": "desktop",
+              "role": "desktop",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_inner_stage",
+              "source_name": "lifting_column_left_inner_stage",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::foot_right",
+              "source_name": "foot_right",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::keypad_controls",
+              "source_name": "keypad_controls",
+              "lift": "desktop",
+              "role": "keypad",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::desktop_bracket_right",
+              "source_name": "desktop_bracket_right",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_rail_front",
+              "source_name": "frame_rail_front",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_middle_stage",
+              "source_name": "lifting_column_right_middle_stage",
+              "lift": "middle",
+              "role": "frame",
+              "height_factor": 0.5
+            },
+            {
+              "name": "standing-main-desk::frame_cover_right",
+              "source_name": "frame_cover_right",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::cable_door_lid",
+              "source_name": "cable_door_lid",
+              "lift": "desktop",
+              "role": "cable_door",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_inner_stage",
+              "source_name": "lifting_column_right_inner_stage",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_left_front",
+              "source_name": "leveling_glide_left_front",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            }
+          ],
+          "requiredCarryRoots": [
+            "primary-felt-mat"
+          ]
         }
       }
     },
     {
       "id": "c-ink-studio",
       "label": "C \u00b7 Ink studio",
-      "description": "Naval ink-blue paint across the work wall, without paneling. The same functional furniture layout.",
+      "description": "Deep ink-blue finish with the same functional room arrangement.",
       "model_source": "variants/c-ink-studio/model/his-office-design.blend",
-      "model_sha256": "01fca0b52de7746df3ff6b7904751c70674043a5e8956cacf568a047d35a3d4c",
-      "layout_sha256": "d6b669b8ce998fc4b3930049895360071bff9313609f4f4ec0c05888ca269e94",
+      "model_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
       "camera_sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
       "config": {
         "room": {
@@ -1045,7 +1513,7 @@
         "footprints": [
           {
             "id": "standing-main-desk",
-            "kind": "kept_desk",
+            "kind": "standing_desk",
             "polygon": [
               [
                 -7.515,
@@ -1077,24 +1545,24 @@
             "walkBlocker": true
           },
           {
-            "id": "branch-primary",
+            "id": "aeron-primary",
             "kind": "task_chair",
             "polygon": [
               [
-                -7.170520000000001,
-                1.20052
+                -7.22132,
+                1.20941
               ],
               [
-                -6.46948,
-                1.20052
+                -6.41868,
+                1.20941
               ],
               [
-                -6.46948,
-                0.49948
+                -6.41868,
+                0.49058999999999997
               ],
               [
-                -7.170520000000001,
-                0.49948
+                -7.22132,
+                0.49058999999999997
               ]
             ],
             "center": [
@@ -1459,12 +1927,162 @@
             "provisional": false,
             "hiddenWhenDoorsClosed": false,
             "walkBlocker": false
+          },
+          {
+            "id": "project-display-ledge",
+            "kind": "wall_ledge",
+            "polygon": [
+              [
+                -6.12496744395,
+                -0.1389996793
+              ],
+              [
+                -4.9750325560499995,
+                -0.1389996793
+              ],
+              [
+                -4.9750325560499995,
+                -0.2590000007
+              ],
+              [
+                -6.12496744395,
+                -0.2590000007
+              ]
+            ],
+            "center": [
+              -5.55,
+              -0.19899984
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "primary-display-ledge",
+            "kind": "wall_ledge",
+            "polygon": [
+              [
+                -7.48996744395,
+                -0.1389996793
+              ],
+              [
+                -6.34003255605,
+                -0.1389996793
+              ],
+              [
+                -6.34003255605,
+                -0.2590000007
+              ],
+              [
+                -7.48996744395,
+                -0.2590000007
+              ]
+            ],
+            "center": [
+              -6.915,
+              -0.19899984
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "dresser-fado",
+            "kind": "table_lamp",
+            "polygon": [
+              [
+                -6.919940775,
+                2.6299407649999997
+              ],
+              [
+                -6.680059225,
+                2.6299407649999997
+              ],
+              [
+                -6.680059225,
+                2.390059235
+              ],
+              [
+                -6.919940775,
+                2.390059235
+              ]
+            ],
+            "center": [
+              -6.8,
+              2.51
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "dresser-parlor-palm",
+            "kind": "tabletop_plant",
+            "polygon": [
+              [
+                -6.54,
+                2.65
+              ],
+              [
+                -6.260000000000001,
+                2.65
+              ],
+              [
+                -6.260000000000001,
+                2.3699999999999997
+              ],
+              [
+                -6.54,
+                2.3699999999999997
+              ]
+            ],
+            "center": [
+              -6.4,
+              2.51
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
+          },
+          {
+            "id": "primary-felt-mat",
+            "kind": "desk_mat",
+            "polygon": [
+              [
+                -7.3976,
+                0.331025
+              ],
+              [
+                -6.4324,
+                0.331025
+              ],
+              [
+                -6.4324,
+                -0.069025
+              ],
+              [
+                -7.3976,
+                -0.069025
+              ]
+            ],
+            "center": [
+              -6.915,
+              0.131
+            ],
+            "facing": null,
+            "provisional": false,
+            "hiddenWhenDoorsClosed": false,
+            "walkBlocker": false
           }
         ],
         "products": [
           {
             "id": "standing-main-desk",
-            "kind": "kept_desk",
+            "kind": "standing_desk",
             "name": "Branch Tria Standing Desk, Black Oak/Charcoal, nominal48\u00d727in",
             "dimensions_m": [
               1.2,
@@ -1480,13 +2098,13 @@
             "note": "worktop height is shown at seated setting"
           },
           {
-            "id": "branch-primary",
+            "id": "aeron-primary",
             "kind": "task_chair",
-            "name": "Primary task chair",
+            "name": "Owned Herman Miller Aeron Large / Size C, Mineral light gray",
             "dimensions_m": [
-              0.635,
-              0.6096,
-              1.04648
+              0.71882,
+              0.71882,
+              1.0922
             ],
             "orientation": "Faces toward the work wall",
             "front_blender_vector": [
@@ -1494,7 +2112,7 @@
               1,
               0
             ],
-            "note": "caster base 70 cm"
+            "note": "caster base 67 cm; expanded-arm envelope 80 cm; owned Aeron Size C; vintage and detailed options unconfirmed; reference envelope is a proxy"
           },
           {
             "id": "secondary-workspace",
@@ -1554,7 +2172,7 @@
               1,
               0
             ],
-            "note": ""
+            "note": "Retailer imperial nominal dimensions; official CAD proxy fitted to this stated envelope"
           },
           {
             "id": "visitor-chair",
@@ -1571,7 +2189,7 @@
               1,
               0
             ],
-            "note": ""
+            "note": "Selected actual506.243.26 US retailer external measurements; new dimensioned proxy, detailed profile approximate"
           },
           {
             "id": "rug",
@@ -1653,6 +2271,89 @@
               0
             ],
             "note": "installed on the work wall above the project bench"
+          },
+          {
+            "id": "project-display-ledge",
+            "kind": "wall_ledge",
+            "name": "Project bench picture ledge",
+            "dimensions_m": [
+              1.1499348879,
+              0.1200003214,
+              0.0700000152
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "wall mounted; does not occupy the floor; ledge top 125 cm above floor"
+          },
+          {
+            "id": "primary-display-ledge",
+            "kind": "wall_ledge",
+            "name": "High ledge above the standing desk",
+            "dimensions_m": [
+              1.1499348879,
+              0.1200003214,
+              0.0700000152
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "wall mounted; does not occupy the floor; ledge top 210 cm above floor"
+          },
+          {
+            "id": "dresser-fado",
+            "kind": "table_lamp",
+            "name": "FADO opal table lamp",
+            "dimensions_m": [
+              0.23988155,
+              0.23988153,
+              0.23648912
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "catalog body 25.4 \u00d7 25.4 \u00d7 22.86 cm; unscaled supplier body shown"
+          },
+          {
+            "id": "dresser-parlor-palm",
+            "kind": "tabletop_plant",
+            "name": "Compact parlor palm on clothes drawers",
+            "dimensions_m": [
+              0.28,
+              0.28,
+              0.2794
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "Representative small plant/pot silhouette; pot height and live crown size unpublished. Source6-11in refers nursery pot-bottom to foliage-top, not guaranteed outer-pot assembly."
+          },
+          {
+            "id": "primary-felt-mat",
+            "kind": "desk_mat",
+            "name": "Dark-gray felt desk mat",
+            "dimensions_m": [
+              0.9652,
+              0.40005,
+              0.0035
+            ],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "travels with the primary standing desk; worktop height is shown at seated setting"
+          },
+          {
+            "id": "finish-workwall",
+            "kind": "wall_finish",
+            "name": "Work wall finish",
+            "dimensions_m": [],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "Naval (SW 6244) \u00b7 paint finish, without paneling"
+          },
+          {
+            "id": "finish-windowwall",
+            "kind": "wall_finish",
+            "name": "Window wall finish",
+            "dimensions_m": [],
+            "orientation": "",
+            "front_blender_vector": null,
+            "note": "Naval (SW 6244) \u00b7 Matching paint wraps the window wall; recorded openings and white trim remain."
           }
         ],
         "workwall_finish": {
@@ -1662,8 +2363,20 @@
             61,
             76
           ],
-          "panels": false
+          "panels": false,
+          "paint_mesh_names": [
+            "his-office wall4 segment",
+            "his-office wall5 corrected solid 0",
+            "his-office wall5 corrected solid 2",
+            "his-office wall5 corrected solid 4",
+            "his-office wall5 corrected bottom 1",
+            "his-office wall5 corrected bottom 3",
+            "his-office wall5 corrected head 1",
+            "his-office wall5 corrected head 3"
+          ],
+          "window_wall_wrap": true
         },
+        "wall_finish_roles": null,
         "notes": "Room outline follows the metric scan. Reconstructed wall locations have approximately 5\u201312 cm uncertainty. Product profiles are simplified. Door hinges and closet fit require an on-site check.",
         "desk": {
           "width": 1.2,
@@ -1682,6 +2395,228 @@
             1.4986
           ],
           "branchEnvelopeConfidence": "Provisional; full projecting reach is unverified"
+        },
+        "deskLift": {
+          "seatedHeight_m": 0.74,
+          "heightRange_m": [
+            0.6477,
+            1.24206
+          ],
+          "parts": [
+            {
+              "name": "standing-main-desk::cable_door_lid",
+              "source_name": "cable_door_lid",
+              "lift": "desktop",
+              "role": "cable_door",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_inner_stage",
+              "source_name": "lifting_column_right_inner_stage",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_cover_right",
+              "source_name": "frame_cover_right",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_left_front",
+              "source_name": "leveling_glide_left_front",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_right_rear",
+              "source_name": "leveling_glide_right_rear",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_head",
+              "source_name": "lifting_column_left_head",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_outer_stage",
+              "source_name": "lifting_column_right_outer_stage",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::frame_rail_rear",
+              "source_name": "frame_rail_rear",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_middle_stage",
+              "source_name": "lifting_column_left_middle_stage",
+              "lift": "middle",
+              "role": "frame",
+              "height_factor": 0.5
+            },
+            {
+              "name": "standing-main-desk::foot_left",
+              "source_name": "foot_left",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::desktop_bracket_left",
+              "source_name": "desktop_bracket_left",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_end_right",
+              "source_name": "frame_end_right",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_left_rear",
+              "source_name": "leveling_glide_left_rear",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::cable_door",
+              "source_name": "cable_door",
+              "lift": "desktop",
+              "role": "cable_door",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_head",
+              "source_name": "lifting_column_right_head",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_cover_left",
+              "source_name": "frame_cover_left",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::leveling_glide_right_front",
+              "source_name": "leveling_glide_right_front",
+              "lift": "fixed",
+              "role": "glide",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::felt_cable_organizer",
+              "source_name": "felt_cable_organizer",
+              "lift": "desktop",
+              "role": "felt",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::keypad",
+              "source_name": "keypad",
+              "lift": "desktop",
+              "role": "keypad",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_outer_stage",
+              "source_name": "lifting_column_left_outer_stage",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::control_box",
+              "source_name": "control_box",
+              "lift": "desktop",
+              "role": "electrical",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::cable_door_brush",
+              "source_name": "cable_door_brush",
+              "lift": "desktop",
+              "role": "cable_door",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_end_left",
+              "source_name": "frame_end_left",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::keypad_controls",
+              "source_name": "keypad_controls",
+              "lift": "desktop",
+              "role": "keypad",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::desktop",
+              "source_name": "desktop",
+              "lift": "desktop",
+              "role": "desktop",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::lifting_column_left_inner_stage",
+              "source_name": "lifting_column_left_inner_stage",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::foot_right",
+              "source_name": "foot_right",
+              "lift": "fixed",
+              "role": "frame",
+              "height_factor": 0
+            },
+            {
+              "name": "standing-main-desk::lifting_column_right_middle_stage",
+              "source_name": "lifting_column_right_middle_stage",
+              "lift": "middle",
+              "role": "frame",
+              "height_factor": 0.5
+            },
+            {
+              "name": "standing-main-desk::desktop_bracket_right",
+              "source_name": "desktop_bracket_right",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            },
+            {
+              "name": "standing-main-desk::frame_rail_front",
+              "source_name": "frame_rail_front",
+              "lift": "desktop",
+              "role": "frame",
+              "height_factor": 1
+            }
+          ],
+          "requiredCarryRoots": [
+            "primary-felt-mat"
+          ]
         }
       }
     }

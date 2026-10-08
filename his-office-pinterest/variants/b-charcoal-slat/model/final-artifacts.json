@@ -1,0 +1,146 @@
+{
+  "variant": "b-charcoal-slat",
+  "sealed_utc": "2026-10-08T20:49:27.093834+00:00",
+  "frozen_native_scene_unchanged": true,
+  "artifacts": [
+    {
+      "filename": "his-office-design.blend",
+      "sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "bytes": 111195691
+    },
+    {
+      "filename": "his-office-design.glb",
+      "sha256": "93bee5a6c3658116ee6564be229df62e3952ada833bf8d9b2b0cbd2281511e6f",
+      "bytes": 41277344
+    },
+    {
+      "filename": "his-office-shell.glb",
+      "sha256": "10576a59557d21853473aa69b390ae3554826ebac2c2cb8cfc1484684481bee9",
+      "bytes": 1734500
+    },
+    {
+      "filename": "his-office-door-leaves.glb",
+      "sha256": "06339ba97bd086de89d88a605e80360783c36ee0f4f1190def011c01e8d76b17",
+      "bytes": 167556
+    },
+    {
+      "filename": "his-office-furniture.glb",
+      "sha256": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1",
+      "bytes": 39380020
+    },
+    {
+      "filename": "layout.json",
+      "sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+      "bytes": 17118
+    },
+    {
+      "filename": "camera-poses.json",
+      "sha256": "a50fa2c85afbdc8ee345d7282ea7161273025ca6b3cc29914c7303758a5b5079",
+      "bytes": 2555
+    },
+    {
+      "filename": "model-manifest.json",
+      "sha256": "abd082ebeb507a9a48606b7dd5339680ceaa4cbdd18db4a69e280614c281b9c1",
+      "bytes": 5067
+    },
+    {
+      "filename": "export-inventory-repair.json",
+      "sha256": "2263e433ead1636bb39f9c6f8046db74f2ed99ec1a58381b5723944fa8cef802",
+      "bytes": 751
+    },
+    {
+      "filename": "MODEL-NOTES.txt",
+      "sha256": "87deac14d7594f5601571d1ba8cedc2ec540136fe75ae0f31e49b7273d7deccc",
+      "bytes": 4647
+    }
+  ],
+  "renders": [
+    {
+      "variant": "b-charcoal-slat",
+      "view": "room-a",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-a.jpg",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "render_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+      "bytes": 703366,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-a.jpg",
+        "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "image_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 418.89827728271484,
+        "camera": "CAM room-a"
+      }
+    },
+    {
+      "variant": "b-charcoal-slat",
+      "view": "room-b",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-b.jpg",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "render_sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+      "bytes": 601163,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-b.jpg",
+        "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "image_sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 486.3095462322235,
+        "camera": "CAM room-b"
+      }
+    },
+    {
+      "variant": "b-charcoal-slat",
+      "view": "room-c",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-c.jpg",
+      "source_blend_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "render_sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+      "bytes": 726417,
+      "pixels": [
+        1440,
+        1000
+      ],
+      "provenance": {
+        "filename": "renders/room-c.jpg",
+        "scene_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+        "image_sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+        "pixels": [
+          1440,
+          1000
+        ],
+        "maximum_samples": 64,
+        "minimum_samples": 16,
+        "adaptive_threshold": 0.02500000037252903,
+        "exposure": -0.8999999761581421,
+        "engine": "CyclesCPU",
+        "denoising": false,
+        "elapsed_seconds": 483.2703227996826,
+        "camera": "CAM room-c"
+      }
+    }
+  ]
+}

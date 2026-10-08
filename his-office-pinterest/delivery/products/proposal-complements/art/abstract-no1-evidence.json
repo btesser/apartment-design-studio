@@ -1,0 +1,61 @@
+{
+  "id": "abstract-no1",
+  "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-no1-print/",
+  "currency": "USD",
+  "title": "Abstract No1, Print",
+  "description_html": "<p>The design was originally an acrylic painting on canvas, which means the texture of the canvas can still be seen!</p>",
+  "available_combinations": [
+    {
+      "id": 25186,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "8382-1",
+      "stock": 139,
+      "price": 116,
+      "campaignPrice": 69.6,
+      "images": [
+        {
+          "URL": "6859edaaf9b0f69878ad99d7_411599511_8382-1.jpg",
+          "width": 2000,
+          "height": 2857,
+          "systemCode": "variant_main_image",
+          "alt": "Abstract No1 print with peach, gold, black, and white textured brushstrokes, showcasing paint texture.",
+          "listOrder": 1
+        }
+      ]
+    }
+  ],
+  "selected_70x100": {
+    "id": 25186,
+    "productID": 10207,
+    "stock": 139,
+    "size": "70x100",
+    "sizeTitle": "28\" x 39\" in",
+    "articleNumber": "8382-1",
+    "parentArticleNumber": "8382",
+    "price": 116,
+    "campaignPrice": 69.6,
+    "optionItemIDs": [
+      25186
+    ],
+    "isPrintOnDemand": 0,
+    "images": [
+      {
+        "URL": "6859edaaf9b0f69878ad99d7_411599511_8382-1.jpg",
+        "width": 2000,
+        "height": 2857,
+        "systemCode": "variant_main_image",
+        "alt": "Abstract No1 print with peach, gold, black, and white textured brushstrokes, showcasing paint texture.",
+        "listOrder": 1
+      }
+    ],
+    "image_url": "https://media.desenio.com/site_images/6859edaaf9b0f69878ad99d7_411599511_8382-1.jpg",
+    "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/abstract-no1-70x100-official.jpg",
+    "image_sha256": "c7f32b464af9c836ffb61a876cf2c90c81b279b9a4bf9eaaa09d63f71ac13fce",
+    "actual_image_dimensions": [
+      2000,
+      2857
+    ],
+    "pixels_edited": false
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "version": "root-selected-shared-dark-complements-2026-10-08",
+  "scope": "Both B and C share these furniture/finish products. Two separate wall alternatives; no hybrid. Design selections only, no purchases. Geometry finalization follows user review of real-product board.",
+  "checked_date": "2026-10-08",
+  "currency": "USD",
+  "prices_exclude": [
+    "tax",
+    "shipping"
+  ],
+  "selected_complements": [
+    {
+      "id": "ekenaset-axvall-gray-blue",
+      "name": "IKEA EKEN\u00c4SET armchair",
+      "color": "Walnut effect / Axvall dark gray-blue",
+      "sku": "506.243.26",
+      "price_USD": 399,
+      "dimensions_m_W_D_H": [
+        0.650875,
+        0.739775,
+        0.7493
+      ],
+      "official_dimensions_US_inches_W_D_H": [
+        25.625,
+        29.125,
+        29.5
+      ],
+      "source_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+      "material": "Boucl\u00e9 polyester upholstery (minimum90%recycled), walnut-effect wood frame",
+      "function": "Compact visitor lounge chair; no ottoman",
+      "fit_note": "This actual new refresh is9.525mm wider,41.275mm shallower and9.525mm lower than prior beige version. Final model must use this variant shape and dimensions, rather than recolor the old one.",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-axvall-gray-blue.jpg",
+        "image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+        "sha256": "cc5f66cbcf7e38763c4b0be59c966e829a2588dc7f4e46f96a497fae40b525fb",
+        "pixel_dimensions": [
+          1400,
+          1400
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true
+      },
+      "source_evidence": [
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-axvall-gray-blue.html",
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-axvall-gray-blue-extracted.json"
+      ],
+      "quantity": 1,
+      "selection_status": "Selected by root for BOTH B/C; not purchased; final room-fit checking pending"
+    },
+    {
+      "id": "rift",
+      "name": "Rift Charcoal Flatwoven Rug",
+      "size": "6\u00d79ft",
+      "bundle": "Flatwoven cover + Standard Pad (not cover-only or Cushioned Pad)",
+      "variant": 42130480070711,
+      "sku": "RUG-SYS-IND-RCT-CHN-MG021-06x09",
+      "price_USD": 369.0,
+      "available_in_official_payload": true,
+      "dimensions_m_W_L": [
+        1.8288,
+        2.7432
+      ],
+      "cover_thickness_m": 0.002,
+      "standard_pad_thickness_m": 0.003175,
+      "nominal_combined_thickness_m": 0.005175,
+      "combined_thickness_note": "Calculated nominal sum of2mm cover and1/8inch pad, not physical measurement.",
+      "source_url": "https://ruggable.com/products/rift-charcoal-rug?variant=42130480070711",
+      "official_variant_data_url": "https://shop.ruggable.com/products/rift-charcoal-rug.js",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/rift-6x9.jpg",
+        "image_url": "https://cdn.shopify.com/s/files/1/1033/0751/files/rift-charcoal-A-FLW-MG021-69_bcff7915-f8fa-4462-9e70-1b107a2ea316.jpg?v=1773089745",
+        "sha256": "cc880e0b871ffe9c5686d215e5ecb003c623fb0e66d58942acf5b5915bdf3e84",
+        "pixel_dimensions": [
+          2400,
+          3000
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true
+      },
+      "source_evidence": [
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/rift-shop-js.json"
+      ],
+      "function": "Low-pile graphic textile under workchair and project bench; exact6\u00d79photograph, no pattern stretching.",
+      "quantity": 1,
+      "selection_status": "Selected by root for BOTH B/C; not purchased; final room-fit checking pending"
+    },
+    {
+      "id": "storklinta-dark-brown",
+      "name": "IKEA STORKLINTA three-drawer dresser",
+      "color": "Dark-brown/oak effect",
+      "sku": "605.592.93",
+      "price_USD": 149.99,
+      "dimensions_m_W_D_H": [
+        0.6985,
+        0.479425,
+        0.7493
+      ],
+      "official_dimensions_US_inches_W_D_H": [
+        27.5,
+        18.875,
+        29.5
+      ],
+      "source_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function-60559293/",
+      "function": "Three closed folded-clothes drawers; same storage and exact footprint as oak version",
+      "fit_note": "Anchor to wall per IKEA instructions; verify approved brick fixing/spacer or move closer during installation. Render does not verify mounting-hardware reach. Anchor/Unlock mechanism is not claimed to prevent every drawer opening when unanchored.",
+      "official_photo": {
+        "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/storklinta-dark-brown-product.jpg",
+        "image_url": "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-dark-brown-oak-effect-anchor-unlock-function__1590138_pe1038779_s5.jpg",
+        "sha256": "476e45c2d8457c3ad3532c1c9acb1a03262d832248bc5cba834a77ea9f467d2f",
+        "pixel_dimensions": [
+          1400,
+          1400
+        ],
+        "pixels_edited": false,
+        "visually_inspected": true
+      },
+      "source_evidence": [
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/storklinta-dark-brown.html",
+        "/workspace/his-office-pinterest/products/proposal-complements/source-pages/storklinta-dark-brown-extracted.json"
+      ],
+      "quantity": 1,
+      "selection_status": "Selected by root for BOTH B/C; not purchased; final room-fit checking pending"
+    }
+  ],
+  "art_shortlist_record": "/workspace/his-office-pinterest/products/proposal-complements/art/cool-landscape-art-candidates.json",
+  "selected_art_id": "dan-hobday-richmond",
+  "selected_art": {
+    "id": "dan-hobday-richmond",
+    "source_url": "https://desenio.com/p/posters-prints/featured-artists/dan-hobday/dan-hobday-richmond-print/",
+    "currency": "USD",
+    "title": "Dan Hobday - Richmond Print",
+    "description_html": "<p>A poster with abstract shapes in muted grays, browns, and greens. The geometric design features curved and straight lines with a textured, layered look.</p><p><br></p><p>Artist: Dan Hobday</p>",
+    "available_combinations": [
+      {
+        "id": 103865,
+        "size": "21x30",
+        "sizeTitle": "8\" x 12\" in",
+        "articleNumber": "pre0717-4",
+        "stock": 999999,
+        "price": 39,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09de1f1a24127f43492c7_258621491_pre0717-4.jpg",
+            "width": 2000,
+            "height": 1400,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          },
+          {
+            "URL": "6a2680bfb224144c500f9c7c_695841329_pre0717-4_variant_display_image_ds.jpg",
+            "width": 4941,
+            "height": 6176,
+            "systemCode": "variant_display_image",
+            "alt": "",
+            "listOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 101362,
+        "size": "30x40",
+        "sizeTitle": "12\" x 16\" in",
+        "articleNumber": "pre0717-5",
+        "stock": 50,
+        "price": 55.95,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09de4d6d50b310e860a69_2099833397_pre0717-5.jpg",
+            "width": 2000,
+            "height": 1500,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          },
+          {
+            "URL": "6a2680c0b224144c500f9c7d_580996591_pre0717-5_variant_display_image_ds.jpg",
+            "width": 4941,
+            "height": 6176,
+            "systemCode": "variant_display_image",
+            "alt": "",
+            "listOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 103863,
+        "size": "50x50",
+        "sizeTitle": "20\" x 20\" in",
+        "articleNumber": "pre0717-2",
+        "stock": 999999,
+        "price": 70.95,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09ddb10e055e4b4f7472b_1107762049_pre0717-2.jpg",
+            "width": 2000,
+            "height": 2000,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          },
+          {
+            "URL": "6a2680bcb224144c500f9c7a_423359838_pre0717-2_variant_display_image_ds.jpg",
+            "width": 4941,
+            "height": 6176,
+            "systemCode": "variant_display_image",
+            "alt": "",
+            "listOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 103864,
+        "size": "40x50",
+        "sizeTitle": "16\" x 20\" in",
+        "articleNumber": "pre0717-6",
+        "stock": 999999,
+        "price": 70.95,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09de7d6d50b310e860a6a_847381386_pre0717-6.jpg",
+            "width": 2000,
+            "height": 1600,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          },
+          {
+            "URL": "6a2680c2b224144c500f9c7e_38570016_pre0717-6_variant_display_image_ds.jpg",
+            "width": 4941,
+            "height": 6176,
+            "systemCode": "variant_display_image",
+            "alt": "",
+            "listOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 101360,
+        "size": "50x70",
+        "sizeTitle": "20\" x 28\" in",
+        "articleNumber": "pre0717-8",
+        "stock": 50,
+        "price": 91.95,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09deaf1a24127f4349320_1684083112_pre0717-8.jpg",
+            "width": 2000,
+            "height": 1429,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          },
+          {
+            "URL": "6a2680c40fce1d454b4e0471_1212275773_pre0717-8_variant_display_image_ds.jpg",
+            "width": 4941,
+            "height": 6176,
+            "systemCode": "variant_display_image",
+            "alt": "",
+            "listOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 101361,
+        "size": "70x100",
+        "sizeTitle": "28\" x 39\" in",
+        "articleNumber": "pre0717-1",
+        "stock": 100,
+        "price": 107,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+            "width": 2000,
+            "height": 1400,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          },
+          {
+            "URL": "6a2680b90fce1d454b4e046f_1566432958_pre0717-1_variant_display_image_ds.jpg",
+            "width": 5375,
+            "height": 6719,
+            "systemCode": "variant_display_image",
+            "alt": "",
+            "listOrder": 2
+          }
+        ]
+      },
+      {
+        "id": 103232,
+        "size": "100x150",
+        "sizeTitle": "39\" x 59\" in",
+        "articleNumber": "pre0717-0",
+        "stock": 999999,
+        "price": 213,
+        "campaignPrice": null,
+        "images": [
+          {
+            "URL": "69f09dd6cfbf601ff3a3a2cd_1896001602_pre0717-0.jpg",
+            "width": 2000,
+            "height": 1333,
+            "systemCode": "variant_main_image",
+            "alt": "",
+            "listOrder": 1
+          }
+        ]
+      }
+    ],
+    "selected_70x100": {
+      "id": 101361,
+      "productID": 44119,
+      "stock": 100,
+      "size": "70x100",
+      "sizeTitle": "28\" x 39\" in",
+      "articleNumber": "pre0717-1",
+      "parentArticleNumber": "pre0717",
+      "price": 107,
+      "campaignPrice": null,
+      "optionItemIDs": [
+        78107
+      ],
+      "isPrintOnDemand": 0,
+      "images": [
+        {
+          "URL": "69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+          "width": 2000,
+          "height": 1400,
+          "systemCode": "variant_main_image",
+          "alt": "",
+          "listOrder": 1
+        },
+        {
+          "URL": "6a2680b90fce1d454b4e046f_1566432958_pre0717-1_variant_display_image_ds.jpg",
+          "width": 5375,
+          "height": 6719,
+          "systemCode": "variant_display_image",
+          "alt": "",
+          "listOrder": 2
+        }
+      ],
+      "image_url": "https://media.desenio.com/site_images/69f09dd9f1a24127f43492c5_936071704_pre0717-1.jpg",
+      "image_file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg",
+      "image_sha256": "868f44a2b46b5bbed5043e2bfdc8f76d3d578bf5994b4ce66fddc91997e3cfbb",
+      "actual_image_dimensions": [
+        2000,
+        1400
+      ],
+      "pixels_edited": false
+    },
+    "selection_status": "DanHobdayRichmond selected; Blue Abstract and Wharf excluded from final directions"
+  },
+  "unselected_backup_rug": {
+    "id": "impasto",
+    "name": "Impasto Greyscale Flatwoven Rug",
+    "size": "6\u00d79ft",
+    "bundle": "Flatwoven cover + Standard Pad (not cover-only or Cushioned Pad)",
+    "variant": 31571948765239,
+    "sku": "RUG-SYS-IND-RCT-CHN-MO012-06x09",
+    "price_USD": 369.0,
+    "available_in_official_payload": true,
+    "dimensions_m_W_L": [
+      1.8288,
+      2.7432
+    ],
+    "cover_thickness_m": 0.002,
+    "standard_pad_thickness_m": 0.003175,
+    "nominal_combined_thickness_m": 0.005175,
+    "combined_thickness_note": "Calculated nominal sum of2mm cover and1/8inch pad, not physical measurement.",
+    "source_url": "https://ruggable.com/products/impasto-greyscale-rug?variant=31571948765239",
+    "official_variant_data_url": "https://shop.ruggable.com/products/impasto-greyscale-rug.js",
+    "official_photo": {
+      "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/impasto-6x9.jpg",
+      "image_url": "https://cdn.shopify.com/s/files/1/1033/0751/products/impasto-greyscale-A-RC-MO012-69-V10.jpg?v=1743469383",
+      "sha256": "dc5a11a761176994802a984d5747acf5b3f7362d4ffa0d89549c94d86e3c668f",
+      "pixel_dimensions": [
+        2400,
+        3000
+      ],
+      "pixels_edited": false,
+      "visually_inspected": true
+    },
+    "source_evidence": [
+      "/workspace/his-office-pinterest/products/proposal-complements/source-pages/impasto-shop-js.json"
+    ],
+    "function": "Low-pile graphic textile under workchair and project bench; exact6\u00d79photograph, no pattern stretching."
+  },
+  "unselected_backup_chair": {
+    "name": "EKEN\u00c4SET Jonsbyn black",
+    "sku": "805.390.15",
+    "price_USD": 229,
+    "regular_USD": 349,
+    "price_status": "Clearance in current official page JSONLD",
+    "dimensions_m_W_D_H": [
+      0.64135,
+      0.78105,
+      0.758825
+    ],
+    "material": "Polyurethane-coated fabric, not gray cloth/boucl\u00e9",
+    "source_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-jonsbyn-black-80539015/",
+    "official_photo": {
+      "file": "/workspace/his-office-pinterest/products/proposal-complements/photos/ekenaset-jonsbyn-black.jpg",
+      "image_url": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-jonsbyn-black__1109680_pe870147_s5.jpg",
+      "sha256": "e68e4ae1d2595818b9b8fff091ed852b9b56530b8dfb8d5ec73a2e9c77e79206",
+      "pixel_dimensions": [
+        1400,
+        1400
+      ],
+      "pixels_edited": false,
+      "visually_inspected": true
+    }
+  },
+  "availability_note": "Official current product metadata verified; local store/delivery and destination-specific availability remain conditional.",
+  "source_evidence_hashes": {
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-axvall-gray-blue-extracted.json": "66d900a3715f8556b76511403e80e06d92c5683248ac7cb87fc161b2a4feaac6",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-axvall-gray-blue.html": "26331514c1a02d61007a601d917de82f6f35703dcc703bedba838e28e72a780c",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-jonsbyn-black-extracted.json": "1cd50c34201259fed9490fb1d84acf7941ba46aa0b20c28a0c72f5c39e8b3950",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/ekenaset-jonsbyn-black.html": "0713e3380d003cf6567aca4e44c37fa95a09b0d01f4487f3de53d866e37e5609",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/impasto-shop-js.json": "3cdd51fc589279bf44d40f5bcea282bbf070a10418be0d01742b058ea6655dc2",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/rift-shop-js.json": "a845aacdf369bf54708dcae727cd56cd7d634f6dbdd5a0fe93ea98935e19bcd6",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/storklinta-dark-brown-extracted.json": "7eb7217af25740a6c93dab168260fb248e82e9fbe18e6eeb1692c7f4b043fd6b",
+    "/workspace/his-office-pinterest/products/proposal-complements/source-pages/storklinta-dark-brown.html": "faf2e13efba2d6e1f9a9a3d74724e04a074e1af794f0e8fc61f408f2aae08589"
+  }
+}

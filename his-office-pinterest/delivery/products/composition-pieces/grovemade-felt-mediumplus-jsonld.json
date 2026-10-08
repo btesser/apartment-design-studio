@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "/product/wool-felt-desk-pad/",
+  "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.com/shop-static/shop/variant/walnut-desk-02-pad-medium-galA-A1.jpg?_v=1553789895.067993",
+  "url": "/product/wool-felt-desk-pad/",
+  "name": "Wool Felt Desk Pad",
+  "manufacturer": "Grovemade",
+  "brand": "Grovemade",
+  "description": "Small to Extra Large. Organize Your Workspace. Crafted Premium German Merino Wool Felt for Warmth &amp; Softness. Designed &amp; Made in USA. Elevate Your Work Now!",
+  "offers": [
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=345",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/walnut-desk-02-pad-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Small / Dark Grey)",
+      "sku": "FG-DESKPAD-WOOL-SM-DKGREY",
+      "mpn": "FG-DESKPAD-WOOL-SM-DKGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "70.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=475",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/walnut-desk-02-pad-medium-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Medium / Dark Grey)",
+      "sku": "FG-DESKPAD-WOOL-MD-DKGREY",
+      "mpn": "FG-DESKPAD-WOOL-MD-DKGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "80.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=683",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/grovemade-woolfelt-desk-pad-dark-deepmedium-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Medium Plus / Dark Grey)",
+      "sku": "FG-DESKPAD-WOOL-MDP-DKGREY",
+      "mpn": "FG-DESKPAD-WOOL-MDP-DKGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "100.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=321",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/grovemade-dark-grey-wool-felt-desk-pad-large-galA-A2.jpg",
+      "name": "Wool Felt Desk Pad (Large / Dark Grey)",
+      "sku": "FG-DESKPAD-WOOL-LG-DKGREY",
+      "mpn": "FG-DESKPAD-WOOL-LG-DKGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "140.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=480",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/grovemade-desk-pad-wool-dark-XL-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Extra Large / Dark Grey)",
+      "sku": "FG-DESKPAD-WOOL-XL-DKGREY",
+      "mpn": "FG-DESKPAD-WOOL-XL-DKGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "180.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=346",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/maple-desk-02-pad-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Small / Light Grey)",
+      "sku": "FG-DESKPAD-WOOL-SM-LTGREY",
+      "mpn": "FG-DESKPAD-WOOL-SM-LTGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "70.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=476",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/maple-desk-02-pad-medium-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Medium / Light Grey)",
+      "sku": "FG-DESKPAD-WOOL-MD-LTGREY",
+      "mpn": "FG-DESKPAD-WOOL-MD-LTGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "80.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=684",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/grovemade-woolfelt-desk-pad-light-deepmedium-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Medium Plus / Light Grey)",
+      "sku": "FG-DESKPAD-WOOL-MDP-LTGREY",
+      "mpn": "FG-DESKPAD-WOOL-MDP-LTGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "100.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=322",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/grovemade-light-felt-desk-pad-large-galA-A2.jpg",
+      "name": "Wool Felt Desk Pad (Large / Light Grey)",
+      "sku": "FG-DESKPAD-WOOL-LG-LTGREY",
+      "mpn": "FG-DESKPAD-WOOL-LG-LTGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "140.00",
+      "priceCurrency": "USD"
+    },
+    {
+      "@type": "Offer",
+      "url": "/product/wool-felt-desk-pad//?initial=479",
+      "image": "https://grovemade.com/cdn-cgi/image/format=auto,width=1000/https://grovemade.comshop/variant/grovemade-desk-pad-wool-light-XL-galA-A1.jpg",
+      "name": "Wool Felt Desk Pad (Extra Large / Light Grey)",
+      "sku": "FG-DESKPAD-WOOL-XL-LTGREY",
+      "mpn": "FG-DESKPAD-WOOL-XL-LTGREY",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "price": "180.00",
+      "priceCurrency": "USD"
+    }
+  ]
+}

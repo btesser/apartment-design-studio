@@ -1,0 +1,18 @@
+{
+  "source_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+  "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+  "method": "Read-only evaluated actual component world bounds from final native inventory; numerical gaps describe proxy geometry, not real installation accuracy.",
+  "lamp_prong_to_tria_left_steel_foot_X_gap_m": 0.06149911880493164,
+  "main_desktop_to_bench_X_gap_m": 0.06500005722045898,
+  "low_cat_basket_to_desktop_underside_seated_vertical_gap_m": 0.17217445373535156,
+  "low_cat_basket_to_desktop_underside_at_lowest_published_height_vertical_gap_m": 0.07987445373535174,
+  "raised_generic_monitor_top_world_Z_m": 3.2270599046325685,
+  "upper_ledge_bottom_world_Z_m": 3.6050000190734863,
+  "upper_ledge_to_raised_monitor_vertical_gap_m": 0.3779401144409178,
+  "limits": [
+    "Cat branch/basket offsets and Honeywell base detail are photo-derived/unpublished; field measurements required.",
+    "Desk and bench gap is a furniture separation, not a person passage.",
+    "Monitor/shelf also have disjoint XY footprints; the vertical difference is additional modeled context.",
+    "Original room reconstruction generalizes surfaces by roughly5\u201312cm; exactCAD/export parity does not imply measured site tolerances."
+  ]
+}

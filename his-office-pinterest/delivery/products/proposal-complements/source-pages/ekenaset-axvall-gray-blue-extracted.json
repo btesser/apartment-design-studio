@@ -1,0 +1,101 @@
+{
+  "id": "ekenaset-axvall-gray-blue",
+  "og": [
+    "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg"
+  ],
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Products",
+          "item": "https://www.ikea.com/us/en/cat/products-products/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sofas & armchairs",
+          "item": "https://www.ikea.com/us/en/cat/sofas-armchairs-700640/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Armchairs & accent chairs",
+          "item": "https://www.ikea.com/us/en/cat/armchairs-chaises-fu006/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Fabric armchairs",
+          "item": "https://www.ikea.com/us/en/cat/fabric-armchairs-10687/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "brand": {
+        "@type": "Brand",
+        "name": "IKEA"
+      },
+      "category": "Fabric armchairs",
+      "depth": "29 1/8 \"",
+      "description": "EKEN\u00c4SET Armchair - walnut effect/Axvall dark gray-blue. Clean lines and supportive comfort, regardless if you\u2019re reading, socializing with friends or just relaxing for a moment. This cover is made from the boucl\u00e9 fabric Axvall, a soft and stylish material with a rich and a vibrant character.",
+      "height": "29 1/2 \"",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1489628_pe1003902_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1546567_pe1020010_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__1546566_pe1020011_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue__0940909_pe795235_s5.jpg",
+          "height": "2000px",
+          "width": "2000px"
+        }
+      ],
+      "mpn": "506.243.26",
+      "name": "EKEN\u00c4SET Armchair - walnut effect/Axvall dark gray-blue",
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "price": "399",
+        "priceCurrency": "USD",
+        "seller": {
+          "@type": "Organization",
+          "name": "IKEA",
+          "url": "https://www.ikea.com/us/en/"
+        },
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "US"
+          }
+        },
+        "url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/"
+      },
+      "sku": "506.243.26",
+      "url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-walnut-effect-axvall-dark-gray-blue-50624326/",
+      "width": "25 5/8 \""
+    }
+  ]
+}

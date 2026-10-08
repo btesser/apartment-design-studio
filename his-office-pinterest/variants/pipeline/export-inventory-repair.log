@@ -1,0 +1,3364 @@
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+20:29:54 | INFO: Starting glTF 2.0 export
+20:29:54 | INFO: Extracting primitive: Cylinder.023
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.025
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.102
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: 00473546-ALEX002.001
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.022
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.024
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: ProcessedGeometry.004
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: ProcessedGeometry.005
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: ProcessedGeometry.006
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: ProcessedGeometry.007
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: rug::official6x9 flatwoven textile
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.106
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.111
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.112
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.110
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.107
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.109
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.035
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.036
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.037
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.038
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.041
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.042
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.039
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.040
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.043
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.044
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.045
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.046
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.047
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.048
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.049
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.050
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.051
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.052
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.053
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.054
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.055
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.056
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.057
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.058
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.059
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.060
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.061
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.062
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.065
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.066
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.063
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.064
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.067
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.068
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.069
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.070
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.071
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.072
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.073
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.074
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.075
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.076
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.077
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.078
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.079
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.080
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.081
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.082
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.083
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.084
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.085
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.086
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.089
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.090
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.087
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.088
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.091
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.092
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.093
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.094
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.095
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.096
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.097
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.098
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.099
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.100
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.101
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.102
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.103
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.104
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.105
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.106
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.099
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.100
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.097
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.098
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.095
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.096
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.008
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.094
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.091
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.092
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.093
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.010
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.011
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.012
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.010
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.009
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.008
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: arched hollow condo wall
+20:29:54 | INFO: Primitives created: 2
+20:29:54 | INFO: Extracting primitive: Brown fleece suspended bowl hammock
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Hanging pom-pom cord
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Hanging pom-pom cord.001
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Hanging pom-pom cord.002
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: High side wicker basket crossing wicker strands
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: High side wicker basket woven horizontal courses
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Low side wicker basket crossing wicker strands
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Low side wicker basket woven horizontal courses
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sisal rope winding
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sisal rope winding.001
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sisal rope winding.002
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Thick fleece hammock rim
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Top wicker basket crossing wicker strands
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Top wicker basket woven horizontal courses
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.009
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.011
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.012
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.013
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.014
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.015
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.016
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.017
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.018
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.019
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.020
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cylinder.021
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.001
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.002
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.003
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.004
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.005
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.006
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Sphere.007
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: Cube.101
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: adjustable arm support -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: adjustable arm support 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: base hub
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 1 swivel
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 2 swivel
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 3 swivel
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 4 swivel
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 5 swivel
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: fine open curved back weave
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: fine open suspended seat weave
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: five-star spoke 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: five-star spoke 2
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: five-star spoke 3
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: five-star spoke 4
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: five-star spoke 5
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: gas lift cylinder
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: gray arm pad -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: gray arm pad 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: rear central back carrier
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: reference lumbar support
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: right tilt control stem
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: sculpted open oval back perimeter
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: sculpted open seat perimeter
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: seat pivot cap -1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: seat pivot cap 1
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: tilt control knob
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: tilt mechanism housing
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: aeron-primary :: underseat cross support
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: cable_door.001
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: cable_door_brush.001
+20:29:54 | INFO: Primitives created: 1
+20:29:54 | INFO: Extracting primitive: cable_door_lid.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: control_box.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: desktop.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: desktop_bracket_left.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: desktop_bracket_right.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: felt_cable_organizer.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: foot_left.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: foot_right.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: frame_cover_left.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: frame_cover_right.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: frame_end_left.001
+20:29:55 | INFO: Primitives created: 1
+20:29:55 | INFO: Extracting primitive: frame_end_right.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: frame_rail_front.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: frame_rail_rear.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: keypad.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: keypad_controls.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: leveling_glide_left_front.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: leveling_glide_left_rear.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: leveling_glide_right_front.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: leveling_glide_right_rear.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_left_head.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_left_inner_stage.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_left_middle_stage.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_left_outer_stage.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_right_head.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_right_inner_stage.001
+20:29:56 | INFO: Primitives created: 1
+20:29:56 | INFO: Extracting primitive: lifting_column_right_middle_stage.001
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: lifting_column_right_outer_stage.001
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.115
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.116
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.123
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.117
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.118
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.124
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.125
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.126
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.127
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.128
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.119
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.120
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.130
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.131
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.132
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.129
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Richmond native100x70 full source paper
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.213
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.214
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.215
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Mesh_0.002
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.216
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.217
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.218
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Mesh_0.004
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Original FADO source body component
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Original FADO source body component.001
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Original FADO source body component.002
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Original FADO source body component.003
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.121
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.122
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.123
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cone
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.001
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.002
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.003
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.004
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.005
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.006
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.007
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.008
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.009
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.010
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.011
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.012
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.013
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.014
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.015
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.016
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.017
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.018
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.019
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.020
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.021
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.022
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.023
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.024
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.025
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.026
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.027
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.028
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.029
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.030
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.031
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.032
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.033
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.034
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.035
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.036
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.037
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.038
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.039
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.040
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.041
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.042
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.043
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.044
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.045
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.046
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.047
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.048
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.049
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.050
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.051
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.052
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.053
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.054
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.055
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.056
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.057
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.058
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.059
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.060
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.061
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.062
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.063
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.064
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.065
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.066
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.067
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.068
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.069
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.070
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.071
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.072
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.073
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.074
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.075
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.076
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.077
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.078
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.079
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.080
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.081
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.082
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.083
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.084
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.085
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.086
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.087
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.088
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.089
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.090
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.091
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.092
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.093
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.094
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.095
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.096
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Small palm leaflet mesh.097
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.124
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.125
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.126
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.127
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.128
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.129
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.130
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cylinder.131
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.219
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.220
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.221
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.222
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.223
+20:29:57 | INFO: Primitives created: 1
+20:29:57 | INFO: Extracting primitive: Cube.224
+20:29:57 | INFO: Primitives created: 1
+20:29:58 | INFO: Finished glTF 2.0 export in 3.7630231380462646 s
+
+20:29:58 | INFO: Starting glTF 2.0 export
+20:29:58 | INFO: Extracting primitive: his-office plane mesh.002
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: his-office plane mesh
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.001
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.011
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.015
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.002
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.007
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.008
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.009
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.010
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.012
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.030
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.031
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.032
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.033
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.044
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.045
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.046
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.047
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.083
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.084
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.014
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.016
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.024
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.025
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.026
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.027
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.028
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.029
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.034
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.035
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.036
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.037
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.038
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.039
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.040
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.042
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.043
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.048
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.049
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.050
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.053
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.054
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.055
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.063
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.064
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.065
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.066
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.067
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.068
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.069
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.070
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.071
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.072
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.073
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.074
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.075
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.076
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.077
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.078
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.079
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.080
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.081
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.082
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.003
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Observed recessed white arched fireplace infill
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.085
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.086
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.023
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.025
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.102
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: 00473546-ALEX002.001
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.022
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.024
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: ProcessedGeometry.004
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: ProcessedGeometry.005
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: ProcessedGeometry.006
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: ProcessedGeometry.007
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: rug::official6x9 flatwoven textile
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.106
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.111
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.112
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.110
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.107
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.109
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.041
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.051
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.052
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.056
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.057
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.058
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.059
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.060
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.061
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.062
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.001
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.002
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.035
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.036
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.037
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.038
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.041
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.042
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.039
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.040
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.043
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.044
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.045
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.046
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.047
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.048
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.049
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.050
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.051
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.052
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.053
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.054
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.055
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.056
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.057
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.058
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.059
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.060
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.061
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.062
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.065
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.066
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.063
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.064
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.067
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.068
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.069
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.070
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.071
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.072
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.073
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.074
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.075
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.076
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.077
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.078
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.079
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.080
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.081
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.082
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.083
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.084
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.085
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.086
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.089
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.090
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.087
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.088
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.091
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.092
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.093
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.094
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.095
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.096
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.097
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.098
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.099
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.100
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.101
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.102
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.103
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.104
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.105
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.106
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.099
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.100
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.097
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.098
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.095
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.096
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.008
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.094
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.091
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.092
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.093
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.010
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.011
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.012
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.010
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.009
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.008
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: arched hollow condo wall
+20:29:58 | INFO: Primitives created: 2
+20:29:58 | INFO: Extracting primitive: Brown fleece suspended bowl hammock
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Hanging pom-pom cord
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Hanging pom-pom cord.001
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Hanging pom-pom cord.002
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: High side wicker basket crossing wicker strands
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: High side wicker basket woven horizontal courses
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Low side wicker basket crossing wicker strands
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Low side wicker basket woven horizontal courses
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sisal rope winding
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sisal rope winding.001
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sisal rope winding.002
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Thick fleece hammock rim
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Top wicker basket crossing wicker strands
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Top wicker basket woven horizontal courses
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.009
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.011
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.012
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.013
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.014
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.015
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.016
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.017
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.018
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.019
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.020
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cylinder.021
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.001
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.002
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.003
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.004
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.005
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.006
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Sphere.007
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: Cube.101
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: adjustable arm support -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: adjustable arm support 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: base hub
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 1 swivel
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 2 swivel
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 3 swivel
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 4 swivel
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 5 swivel
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: fine open curved back weave
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: fine open suspended seat weave
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: five-star spoke 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: five-star spoke 2
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: five-star spoke 3
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: five-star spoke 4
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: five-star spoke 5
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: gas lift cylinder
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: gray arm pad -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: gray arm pad 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: rear central back carrier
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: reference lumbar support
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: right tilt control stem
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: sculpted open oval back perimeter
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: sculpted open seat perimeter
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: seat pivot cap -1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: seat pivot cap 1
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: tilt control knob
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: tilt mechanism housing
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: aeron-primary :: underseat cross support
+20:29:58 | INFO: Primitives created: 1
+20:29:58 | INFO: Extracting primitive: cable_door.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: cable_door_brush.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: cable_door_lid.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: control_box.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: desktop.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: desktop_bracket_left.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: desktop_bracket_right.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: felt_cable_organizer.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: foot_left.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: foot_right.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: frame_cover_left.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: frame_cover_right.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: frame_end_left.001
+20:29:59 | INFO: Primitives created: 1
+20:29:59 | INFO: Extracting primitive: frame_end_right.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: frame_rail_front.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: frame_rail_rear.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: keypad.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: keypad_controls.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: leveling_glide_left_front.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: leveling_glide_left_rear.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: leveling_glide_right_front.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: leveling_glide_right_rear.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_left_head.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_left_inner_stage.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_left_middle_stage.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_left_outer_stage.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_right_head.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_right_inner_stage.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_right_middle_stage.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: lifting_column_right_outer_stage.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.115
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.116
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.123
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.117
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.118
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.124
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.125
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.126
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.127
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.128
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.119
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.120
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.130
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.131
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.132
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.129
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Richmond native100x70 full source paper
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.213
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.214
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.215
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Mesh_0.002
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.216
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.217
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.218
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Mesh_0.004
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Original FADO source body component
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Original FADO source body component.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Original FADO source body component.002
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Original FADO source body component.003
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.121
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.122
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.123
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cone
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.001
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.002
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.003
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.004
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.005
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.006
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.007
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.008
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.009
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.010
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.011
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.012
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.013
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.014
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.015
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.016
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.017
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.018
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.019
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.020
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.021
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.022
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.023
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.024
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.025
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.026
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.027
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.028
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.029
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.030
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.031
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.032
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.033
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.034
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.035
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.036
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.037
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.038
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.039
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.040
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.041
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.042
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.043
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.044
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.045
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.046
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.047
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.048
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.049
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.050
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.051
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.052
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.053
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.054
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.055
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.056
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.057
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.058
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.059
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.060
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.061
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.062
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.063
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.064
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.065
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.066
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.067
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.068
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.069
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.070
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.071
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.072
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.073
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.074
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.075
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.076
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.077
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.078
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.079
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.080
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.081
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.082
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.083
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.084
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.085
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.086
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.087
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.088
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.089
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.090
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.091
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.092
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.093
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.094
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.095
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.096
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Small palm leaflet mesh.097
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.124
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.125
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.126
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.127
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.128
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.129
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.130
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cylinder.131
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.219
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.220
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.221
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.222
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.223
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.224
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.133
+20:30:00 | INFO: Primitives created: 1
+20:30:00 | INFO: Extracting primitive: Cube.134
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.143
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.144
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.145
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.146
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.147
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.148
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.135
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.136
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.137
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.138
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.139
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.140
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.141
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.142
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.149
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.150
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.159
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.160
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.161
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.162
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.163
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.164
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.151
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.152
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.153
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.154
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.155
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.156
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.157
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.158
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.165
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.166
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.175
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.176
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.177
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.178
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.179
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.180
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.167
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.168
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.169
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.170
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.171
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.172
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.173
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.174
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.181
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.182
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.191
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.192
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.193
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.194
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.195
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.196
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.183
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.184
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.185
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.186
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.187
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.188
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.189
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.190
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.197
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.198
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.207
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.208
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.209
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.210
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.211
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.212
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.199
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.200
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.201
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.202
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.203
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.204
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.205
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Extracting primitive: Cube.206
+20:30:01 | INFO: Primitives created: 1
+20:30:01 | INFO: Finished glTF 2.0 export in 3.747066020965576 s
+
+EXPORT_INVENTORY_REPAIRED b-charcoal-slat [{"filename": "his-office-furniture.glb", "sha256": "71de5b026b29222fc49b283e79993599a4db03f8b0eece68a41fb2ad1f856bd1", "bytes": 39380020}, {"filename": "his-office-design.glb", "sha256": "93bee5a6c3658116ee6564be229df62e3952ada833bf8d9b2b0cbd2281511e6f", "bytes": 41277344}]
+20:30:02 | INFO: Starting glTF 2.0 export
+20:30:02 | INFO: Extracting primitive: Cylinder.023
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.025
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.102
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: 00473546-ALEX002.001
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.022
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.024
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: ProcessedGeometry.004
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: ProcessedGeometry.005
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: ProcessedGeometry.006
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: ProcessedGeometry.007
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: rug::official6x9 flatwoven textile
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.106
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.111
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.112
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.110
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.107
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.109
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.035
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.036
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.037
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.038
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.041
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.042
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.039
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.040
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.043
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.044
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.045
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.046
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.047
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.048
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.049
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.050
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.051
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.052
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.053
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.054
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.055
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.056
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.057
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.058
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.059
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.060
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.061
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.062
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.065
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.066
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.063
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.064
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.067
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.068
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.069
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.070
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.071
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.072
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.073
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.074
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.075
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.076
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.077
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.078
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.079
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.080
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.081
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.082
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.083
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.084
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.085
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.086
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.089
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.090
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.087
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.088
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.091
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.092
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.093
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.094
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.095
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.096
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.097
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.098
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.099
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.100
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.101
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.102
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.103
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.104
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.105
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.106
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.099
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.100
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.097
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.098
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.095
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.096
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.008
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.094
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.091
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.092
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cube.093
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Sphere.010
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Sphere.011
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Sphere.012
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.010
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Cylinder.009
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Sphere.008
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: arched hollow condo wall
+20:30:02 | INFO: Primitives created: 2
+20:30:02 | INFO: Extracting primitive: Brown fleece suspended bowl hammock
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Hanging pom-pom cord
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Hanging pom-pom cord.001
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: Hanging pom-pom cord.002
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: High side wicker basket crossing wicker strands
+20:30:02 | INFO: Primitives created: 1
+20:30:02 | INFO: Extracting primitive: High side wicker basket woven horizontal courses
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Low side wicker basket crossing wicker strands
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Low side wicker basket woven horizontal courses
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sisal rope winding
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sisal rope winding.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sisal rope winding.002
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Thick fleece hammock rim
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Top wicker basket crossing wicker strands
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Top wicker basket woven horizontal courses
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.009
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.011
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.012
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.013
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.014
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.015
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.016
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.017
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.018
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.019
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.020
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cylinder.021
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.002
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.003
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.004
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.005
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.006
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Sphere.007
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: Cube.101
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: adjustable arm support -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: adjustable arm support 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: base hub
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 1 swivel
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 2 swivel
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 3 swivel
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 4 swivel
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 5 swivel
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: fine open curved back weave
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: fine open suspended seat weave
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: five-star spoke 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: five-star spoke 2
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: five-star spoke 3
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: five-star spoke 4
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: five-star spoke 5
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: gas lift cylinder
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: gray arm pad -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: gray arm pad 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: rear central back carrier
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: reference lumbar support
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: right tilt control stem
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: sculpted open oval back perimeter
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: sculpted open seat perimeter
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: seat pivot cap -1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: seat pivot cap 1
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: tilt control knob
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: tilt mechanism housing
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: aeron-primary :: underseat cross support
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: cable_door.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: cable_door_brush.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: cable_door_lid.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: control_box.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: desktop.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: desktop_bracket_left.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: desktop_bracket_right.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: felt_cable_organizer.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: foot_left.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: foot_right.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: frame_cover_left.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: frame_cover_right.001
+20:30:03 | INFO: Primitives created: 1
+20:30:03 | INFO: Extracting primitive: frame_end_left.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: frame_end_right.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: frame_rail_front.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: frame_rail_rear.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: keypad.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: keypad_controls.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: leveling_glide_left_front.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: leveling_glide_left_rear.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: leveling_glide_right_front.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: leveling_glide_right_rear.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: lifting_column_left_head.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: lifting_column_left_inner_stage.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: lifting_column_left_middle_stage.001
+20:30:04 | INFO: Primitives created: 1
+20:30:04 | INFO: Extracting primitive: lifting_column_left_outer_stage.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: lifting_column_right_head.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: lifting_column_right_inner_stage.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: lifting_column_right_middle_stage.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: lifting_column_right_outer_stage.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.115
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.116
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.123
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.117
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.118
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.124
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.125
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.126
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.127
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.128
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.119
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.120
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.130
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.131
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.132
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.129
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Richmond native100x70 full source paper
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.133
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.134
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.135
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Mesh_0.002
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.136
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.137
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.138
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Mesh_0.004
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Original FADO source body component
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Original FADO source body component.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Original FADO source body component.002
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Original FADO source body component.003
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.121
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.122
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.123
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cone
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.001
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.002
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.003
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.004
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.005
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.006
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.007
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.008
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.009
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.010
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.011
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.012
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.013
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.014
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.015
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.016
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.017
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.018
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.019
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.020
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.021
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.022
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.023
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.024
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.025
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.026
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.027
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.028
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.029
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.030
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.031
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.032
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.033
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.034
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.035
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.036
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.037
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.038
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.039
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.040
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.041
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.042
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.043
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.044
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.045
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.046
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.047
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.048
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.049
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.050
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.051
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.052
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.053
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.054
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.055
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.056
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.057
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.058
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.059
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.060
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.061
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.062
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.063
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.064
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.065
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.066
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.067
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.068
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.069
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.070
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.071
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.072
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.073
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.074
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.075
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.076
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.077
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.078
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.079
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.080
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.081
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.082
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.083
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.084
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.085
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.086
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.087
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.088
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.089
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.090
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.091
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.092
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.093
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.094
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.095
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.096
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Small palm leaflet mesh.097
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.124
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.125
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.126
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.127
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.128
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.129
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.130
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cylinder.131
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.139
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.140
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.141
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.142
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.143
+20:30:05 | INFO: Primitives created: 1
+20:30:05 | INFO: Extracting primitive: Cube.144
+20:30:05 | INFO: Primitives created: 1
+20:30:06 | INFO: Finished glTF 2.0 export in 3.51676607131958 s
+
+20:30:06 | INFO: Starting glTF 2.0 export
+20:30:06 | INFO: Extracting primitive: his-office plane mesh.002
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: his-office plane mesh
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.011
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.015
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.002
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.007
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.008
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.009
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.010
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.012
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.030
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.031
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.032
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.033
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.044
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.045
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.046
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.047
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.083
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.084
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.014
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.016
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.024
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.025
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.026
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.027
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.028
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.029
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.034
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.035
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.036
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.037
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.038
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.039
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.040
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.042
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.043
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.048
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.049
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.050
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.053
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.054
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.055
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.063
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.064
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.065
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.066
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.067
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.068
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.069
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.070
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.071
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.072
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.073
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.074
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.075
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.076
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.077
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.078
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.079
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.080
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.081
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.082
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.003
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Observed recessed white arched fireplace infill
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.085
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.086
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.023
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.025
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.102
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: 00473546-ALEX002.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.022
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.024
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: ProcessedGeometry.004
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: ProcessedGeometry.005
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: ProcessedGeometry.006
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: ProcessedGeometry.007
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: rug::official6x9 flatwoven textile
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.106
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.111
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.112
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.110
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.107
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.109
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.041
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.051
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.052
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.056
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.057
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.058
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.059
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.060
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.061
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.062
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.002
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.035
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.036
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.037
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.038
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.041
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.042
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.039
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.040
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.043
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.044
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.045
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.046
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.047
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.048
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.049
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.050
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.051
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.052
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.053
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.054
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.055
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.056
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.057
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.058
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.059
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.060
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.061
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.062
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.065
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.066
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.063
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.064
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.067
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.068
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.069
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.070
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.071
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.072
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.073
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.074
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.075
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.076
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.077
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.078
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.079
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.080
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.081
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.082
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.083
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.084
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.085
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.086
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.089
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.090
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.087
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.088
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.091
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.092
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.093
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.094
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.095
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.096
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.097
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.098
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.099
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.100
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.101
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.102
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.103
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.104
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.105
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.106
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.099
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.100
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.097
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.098
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.095
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.096
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.008
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.094
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.091
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.092
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.093
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.010
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.011
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.012
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.010
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.009
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.008
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: arched hollow condo wall
+20:30:06 | INFO: Primitives created: 2
+20:30:06 | INFO: Extracting primitive: Brown fleece suspended bowl hammock
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Hanging pom-pom cord
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Hanging pom-pom cord.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Hanging pom-pom cord.002
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: High side wicker basket crossing wicker strands
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: High side wicker basket woven horizontal courses
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Low side wicker basket crossing wicker strands
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Low side wicker basket woven horizontal courses
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sisal rope winding
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sisal rope winding.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sisal rope winding.002
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Thick fleece hammock rim
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Top wicker basket crossing wicker strands
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Top wicker basket woven horizontal courses
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.009
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.011
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.012
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.013
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.014
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.015
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.016
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.017
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.018
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.019
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.020
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cylinder.021
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.002
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.003
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.004
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.005
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.006
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Sphere.007
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: Cube.101
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: adjustable arm support -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: adjustable arm support 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: base hub
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 1 swivel
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 1 wheel 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 2 swivel
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 2 wheel 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 3 swivel
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 3 wheel 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 4 swivel
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 4 wheel 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 5 swivel
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: caster 5 wheel 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: fine open curved back weave
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: fine open suspended seat weave
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: five-star spoke 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: five-star spoke 2
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: five-star spoke 3
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: five-star spoke 4
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: five-star spoke 5
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: gas lift cylinder
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: gray arm pad -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: gray arm pad 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: rear central back carrier
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: reference lumbar support
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: right tilt control stem
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: sculpted open oval back perimeter
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: sculpted open seat perimeter
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: seat hinge and back carrier 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: seat pivot cap -1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: seat pivot cap 1
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: tilt control knob
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: tilt mechanism housing
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: aeron-primary :: underseat cross support
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: cable_door.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: cable_door_brush.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: cable_door_lid.001
+20:30:06 | INFO: Primitives created: 1
+20:30:06 | INFO: Extracting primitive: control_box.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: desktop.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: desktop_bracket_left.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: desktop_bracket_right.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: felt_cable_organizer.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: foot_left.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: foot_right.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: frame_cover_left.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: frame_cover_right.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: frame_end_left.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: frame_end_right.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: frame_rail_front.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: frame_rail_rear.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: keypad.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: keypad_controls.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: leveling_glide_left_front.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: leveling_glide_left_rear.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: leveling_glide_right_front.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: leveling_glide_right_rear.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: lifting_column_left_head.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: lifting_column_left_inner_stage.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: lifting_column_left_middle_stage.001
+20:30:07 | INFO: Primitives created: 1
+20:30:07 | INFO: Extracting primitive: lifting_column_left_outer_stage.001
+20:30:07 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: lifting_column_right_head.001
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: lifting_column_right_inner_stage.001
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: lifting_column_right_middle_stage.001
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: lifting_column_right_outer_stage.001
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.115
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.116
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.123
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.117
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.118
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.124
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.125
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.126
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.127
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.128
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.119
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.120
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.130
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.131
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.132
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.129
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Richmond native100x70 full source paper
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.133
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.134
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.135
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Mesh_0.002
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.136
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.137
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.138
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Mesh_0.004
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Original FADO source body component
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Original FADO source body component.001
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Original FADO source body component.002
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Original FADO source body component.003
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.121
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.122
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.123
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cone
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.001
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.002
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.003
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.004
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.005
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.006
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.007
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.008
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.009
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.010
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.011
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.012
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.013
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.014
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.015
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.016
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.017
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.018
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.019
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.020
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.021
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.022
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.023
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.024
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.025
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.026
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.027
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.028
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.029
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.030
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.031
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.032
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.033
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.034
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.035
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.036
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.037
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.038
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.039
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.040
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.041
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.042
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.043
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.044
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.045
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.046
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.047
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.048
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.049
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.050
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.051
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.052
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.053
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.054
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.055
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.056
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.057
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.058
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.059
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.060
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.061
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.062
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.063
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.064
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.065
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.066
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.067
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.068
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.069
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.070
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.071
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.072
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.073
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.074
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.075
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.076
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.077
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.078
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.079
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.080
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.081
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.082
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.083
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.084
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.085
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.086
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.087
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.088
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.089
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.090
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.091
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.092
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.093
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.094
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.095
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.096
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Small palm leaflet mesh.097
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.124
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.125
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.126
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.127
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.128
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.129
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.130
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cylinder.131
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.139
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.140
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.141
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.142
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.143
+20:30:08 | INFO: Primitives created: 1
+20:30:08 | INFO: Extracting primitive: Cube.144
+20:30:08 | INFO: Primitives created: 1
+20:30:09 | INFO: Finished glTF 2.0 export in 2.843529224395752 s
+
+EXPORT_INVENTORY_REPAIRED c-ink-studio [{"filename": "his-office-furniture.glb", "sha256": "d90bd2d95da60f4116cf03f83099e88e44076e923e3a4c6ab1c4e145c8363ea5", "bytes": 39380008}, {"filename": "his-office-design.glb", "sha256": "40272b4f8d45af29236a1b4856aae69be3bdaa95b4c73aa66b2ecdf8def57c66", "bytes": 40282096}]
+Blender 4.3.2
+Read blend: "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend"
+Read blend: "/workspace/his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend"
+
+Blender quit

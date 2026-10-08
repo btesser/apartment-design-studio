@@ -1,13 +1,13 @@
 {
   "design": "C Ink Studio",
-  "layout_version": "shared-B-C-root-approved-2026-10-08",
+  "layout_version": "shared-cohesive-B-C-owned-Aeron-2026-10-08",
   "coordinate_system": "Blender native metric Z-up; glTF maps[X,Z,-Y]",
   "room_floor_z_m": 1.575,
   "room_ceiling_z_m": 4.595,
   "items": [
     {
       "id": "standing-main-desk",
-      "kind": "kept_desk",
+      "kind": "standing_desk",
       "position_blender_m": [
         -6.915,
         -0.131,
@@ -34,7 +34,7 @@
       "dimension_scope": "DesktopW/D and seated top surface; keypad/cable door projections recorded in component bounds"
     },
     {
-      "id": "branch-primary",
+      "id": "aeron-primary",
       "kind": "task_chair",
       "position_blender_m": [
         -6.82,
@@ -42,9 +42,9 @@
         1.575
       ],
       "external_dimensions_m": [
-        0.635,
-        0.6096,
-        1.04648
+        0.71882,
+        0.71882,
+        1.0922
       ],
       "rotation_z_deg": 0,
       "front_blender_vector": [
@@ -52,9 +52,19 @@
         1,
         0
       ],
-      "product_id": "branch-pro",
-      "rolling_base_diameter_m": 0.70104,
-      "desk_offset_x_m": 0.13
+      "product_id": "aeron-size-c-mineral",
+      "rolling_base_diameter_m": 0.6731,
+      "desk_offset_x_m": 0.095,
+      "owned": true,
+      "collision_footprint_m": [
+        0.80264,
+        0.71882
+      ],
+      "normal_body_width_m": 0.71882,
+      "max_expanded_arm_width_m": 0.80264,
+      "seat_height_pose_m": 0.45,
+      "arm_height_above_seat_pose_m": 0.1905,
+      "dimension_confidence": "User confirms AeronSizeC/Mineral. Photo/specguided proxy; vintage/base/arm/back/caster/cylinder options and actual settings unconfirmed."
     },
     {
       "id": "secondary-workspace",
@@ -312,7 +322,7 @@
       "position_blender_m": [
         -5.55,
         0.24757,
-        3.2
+        3.425
       ],
       "external_dimensions_m": [
         1.0254,
@@ -333,6 +343,112 @@
       "frame": "Landscape100\u00d770cm paper; assumed external black frame1.0254\u00d7.7254m and22.86mm depth; outside profile not vendor-CAD verified.",
       "dimension_confidence": "Exact selected native landscape100x70cm paper; thin frame outside profile inferred from verified face/depth",
       "texture_file": "/workspace/his-office-pinterest/products/proposal-complements/art/dan-hobday-richmond-70x100-official.jpg"
+    },
+    {
+      "id": "project-display-ledge",
+      "kind": "wall_ledge",
+      "product_id": "mosslanda-black-display-ledge",
+      "position_blender_m": [
+        -5.55,
+        0.19899984,
+        2.754999985
+      ],
+      "external_dimensions_m": [
+        1.1499348879,
+        0.1200003214,
+        0.0700000152
+      ],
+      "rotation_z_deg": 0,
+      "walk_blocker": false,
+      "wall_mounted": true,
+      "top_height_above_floor_m": 1.25
+    },
+    {
+      "id": "primary-display-ledge",
+      "kind": "wall_ledge",
+      "product_id": "mosslanda-black-display-ledge",
+      "position_blender_m": [
+        -6.915,
+        0.19899984,
+        3.6049999849999996
+      ],
+      "external_dimensions_m": [
+        1.1499348879,
+        0.1200003214,
+        0.0700000152
+      ],
+      "rotation_z_deg": 0,
+      "walk_blocker": false,
+      "wall_mounted": true,
+      "top_height_above_floor_m": 2.1
+    },
+    {
+      "id": "dresser-fado",
+      "kind": "table_lamp",
+      "product_id": "fado-kajplats-opal-table-lamp",
+      "position_blender_m": [
+        -6.8,
+        -2.51,
+        2.3243
+      ],
+      "external_dimensions_m": [
+        0.23988155,
+        0.23988153,
+        0.23648912
+      ],
+      "rotation_z_deg": 0,
+      "walk_blocker": false,
+      "support_product_id": "clothes-dresser",
+      "catalog_body_dimensions_m": [
+        0.254,
+        0.254,
+        0.2286
+      ],
+      "source_body_geometry_preserved": true
+    },
+    {
+      "id": "dresser-parlor-palm",
+      "kind": "tabletop_plant",
+      "product_id": "sill-small-parlor-westcott-black",
+      "position_blender_m": [
+        -6.4,
+        -2.51,
+        2.3243
+      ],
+      "external_dimensions_m": [
+        0.28,
+        0.28,
+        0.2794
+      ],
+      "rotation_z_deg": 0,
+      "walk_blocker": false,
+      "support_product_id": "clothes-dresser",
+      "published_outer_pot_diameter_m": 0.127,
+      "proxy_crown_width_m": 0.28,
+      "proxy_total_height_m": 0.2794,
+      "shape_confidence": "Representative small plant/pot silhouette; pot height and live crown size unpublished. Source6-11in refers nursery pot-bottom to foliage-top, not guaranteed outer-pot assembly."
+    },
+    {
+      "id": "primary-felt-mat",
+      "kind": "desk_mat",
+      "product_id": "grovemade-dark-grey-medium-plus",
+      "position_blender_m": [
+        -6.915,
+        -0.131,
+        2.31675
+      ],
+      "external_dimensions_m": [
+        0.9652,
+        0.40005,
+        0.0035
+      ],
+      "rotation_z_deg": 0,
+      "walk_blocker": false,
+      "support_product_id": "standing-main-desk",
+      "moves_with": "standing-main-desk",
+      "supplier_lift_group": "desktop",
+      "canonical_owner": "standing-main-desk",
+      "viewer_desk_height_factor": 1
     }
   ],
   "generic_functional_assumptions": [
@@ -366,6 +482,28 @@
     "frozen_proposal_sha256": "e0c07d3d7d357afd294f7eb7440781a38e63a9d7c840ead9bf4786cdbfecd13d"
   },
   "product_catalog_authority": "/workspace/his-office-pinterest/products/selected-products.json",
+  "generic_equipment_pose": {
+    "monitor_root_shift_native_Y_m": -0.075,
+    "keyboard_net_shift_native_Y_m": -0.025,
+    "equipment_support_raise_Z_m": 0.0035,
+    "mat_center_XY_m": [
+      -6.915,
+      -0.131
+    ],
+    "monitor_stand_Y_bounds_m": [
+      -0.105,
+      0.065
+    ],
+    "keyboard_Y_bounds_m": [
+      -0.3225,
+      -0.1875
+    ],
+    "mat_Y_bounds_m": [
+      -0.331025,
+      0.069025
+    ],
+    "actual_hardware_unrecorded": true
+  },
   "workwall_finish": {
     "paint": "NavalSW6244",
     "screen_sRGB": [
@@ -373,6 +511,61 @@
       61,
       76
     ],
-    "panels": false
-  }
+    "panels": false,
+    "paint_mesh_names": [
+      "his-office wall4 segment",
+      "his-office wall5 corrected solid 0",
+      "his-office wall5 corrected solid 2",
+      "his-office wall5 corrected solid 4",
+      "his-office wall5 corrected bottom 1",
+      "his-office wall5 corrected bottom 3",
+      "his-office wall5 corrected head 1",
+      "his-office wall5 corrected head 3"
+    ],
+    "window_wall_wrap": true
+  },
+  "composition_supports": [
+    {
+      "id": "project-display-ledge",
+      "tray_support_world_z_m": 2.766999900341034,
+      "back_lip_top_world_z_m": 2.824999891022339,
+      "front_lip_top_world_z_m": 2.784999886022339
+    },
+    {
+      "id": "primary-display-ledge",
+      "tray_support_world_z_m": 3.6170000433921814,
+      "back_lip_top_world_z_m": 3.6750000340734865,
+      "front_lip_top_world_z_m": 3.6350000290734865
+    },
+    {
+      "id": "dresser-fado",
+      "support_world_z_m": 2.3243,
+      "source_body_diameter_m": 0.23988155,
+      "source_body_height_m": 0.23648912,
+      "catalog_body_diameter_height_m": [
+        0.254,
+        0.2286
+      ],
+      "source_cord_in_total_bounds": true,
+      "whole_source_scaled": false
+    },
+    {
+      "id": "dresser-parlor-palm",
+      "support_world_z_m": 2.3243,
+      "outer_pot_diameter_m": 0.127,
+      "proxy_crown_envelope_m": [
+        0.28,
+        0.28,
+        0.2794
+      ],
+      "shape_dimensions_unpublished": true
+    },
+    {
+      "id": "primary-felt-mat",
+      "support_world_z_m": 2.315,
+      "top_world_z_m": 2.3185000000000002,
+      "moves_with": "standing-main-desk",
+      "monitor_keyboard_support": "Both resting on mat; keyboard rear-adjusted50mm after rootequipment\u221275mm shift."
+    }
+  ]
 }

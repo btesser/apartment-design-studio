@@ -1,0 +1,741 @@
+{
+  "schema_version": 2,
+  "created_UTC": "2026-10-08T20:32:13.882589+00:00",
+  "stage": "Frozen composed final B/C furnished plan",
+  "source_layout_B": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json",
+  "source_layout_C": "/workspace/his-office-pinterest/variants/c-ink-studio/model/layout.json",
+  "source_sha256": {
+    "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+    "/workspace/his-office-pinterest/variants/c-ink-studio/model/layout.json": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+    "/workspace/his-office-redesign/geometry/room-measurements.json": "40e86343957dd57fe6045e7e344d7f0f54f7510981e2cf7cb591ca6f05e8239a",
+    "/workspace/his-office-redesign/geometry/fixed-features.json": "2943ce109b8605e092a0676145b16a9484561fdf7d4a9c31a48afb4c56b2042d",
+    "/workspace/his-office-pinterest/products/selected-products.json": "92248a7e9009d5a0777dc668506c50c8e3bb45467aa344c521fb6d546c9c97ae"
+  },
+  "item_count": 17,
+  "all_items_drawn_in_floor_or_elevated_layer": [
+    "standing-main-desk",
+    "aeron-primary",
+    "secondary-workspace",
+    "honeywell-lamp",
+    "muttros-cat-tree",
+    "clothes-dresser",
+    "visitor-chair",
+    "rug",
+    "grejig-1",
+    "grejig-2",
+    "grejig-3",
+    "richmond-art",
+    "project-display-ledge",
+    "primary-display-ledge",
+    "dresser-fado",
+    "dresser-parlor-palm",
+    "primary-felt-mat"
+  ],
+  "furniture_positions_modified": false,
+  "model_mutations": false,
+  "B_C_comparison": [
+    {
+      "id": "standing-main-desk",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "aeron-primary",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "secondary-workspace",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "honeywell-lamp",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "muttros-cat-tree",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "clothes-dresser",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "visitor-chair",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "rug",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "grejig-1",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "grejig-2",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "grejig-3",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "richmond-art",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.02200000000000002,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Intentional22mm wall-normal difference for B panel thickness"
+    },
+    {
+      "id": "project-display-ledge",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.02200000000000002,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Intentional22mm wall-normal difference for B panel thickness"
+    },
+    {
+      "id": "primary-display-ledge",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.02200000000000002,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Intentional22mm wall-normal difference for B panel thickness"
+    },
+    {
+      "id": "dresser-fado",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "dresser-parlor-palm",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    },
+    {
+      "id": "primary-felt-mat",
+      "C_minus_B_position_xyz_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_orientation_identical": true,
+      "status": "Exact same XYZ/orientation"
+    }
+  ],
+  "shared_exact_XYZ_orientation_count": 14,
+  "intentional_wall_normal_offset_count": 3,
+  "intentional_offset_note": "C Richmond and both ledges Y=B+22mm; panel-depth mounting offset. All X/Z/dimensions/orientations identical.",
+  "room_dimensions_xy_m": [
+    4.9,
+    3.1
+  ],
+  "room_outline_confidence": "Generalized floor/inside-wall outline, typical5\u201312cm uncertainty. Mesh walls are warped/slightly off-axis. Do not stretch to listing.",
+  "floor_area_m2": 14.028,
+  "footprints": [
+    {
+      "id": "standing-main-desk",
+      "key_number": 1,
+      "position_blender_xyz_m": [
+        -6.915,
+        -0.131,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        1.2,
+        0.685,
+        0.74
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -7.515,
+        -6.315,
+        -0.47350000000000003,
+        0.21150000000000002
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Official supplier CAD1:1; desktop1200x685mm vs published1198.88x685.8mm rounding disclosed; top operating height740mm assumed"
+    },
+    {
+      "id": "aeron-primary",
+      "key_number": 2,
+      "position_blender_xyz_m": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        0.71882,
+        0.71882,
+        1.0922
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -7.179410000000001,
+        -6.46059,
+        -1.20941,
+        -0.49058999999999997
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "User confirms AeronSizeC/Mineral. Photo/specguided proxy; vintage/base/arm/back/caster/cylinder options and actual settings unconfirmed."
+    },
+    {
+      "id": "secondary-workspace",
+      "key_number": 3,
+      "position_blender_xyz_m": [
+        -5.55,
+        -0.07,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        1.4,
+        0.6,
+        0.734925
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -6.25,
+        -4.85,
+        -0.37,
+        0.22999999999999998
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "140\u00d760\u00d773cm retailer nominal modular desk envelope retained; top34.925mm verified. Support/top contact height must be coherently fitted within nominal published measurements."
+    },
+    {
+      "id": "honeywell-lamp",
+      "key_number": 4,
+      "position_blender_xyz_m": [
+        -7.67,
+        -0.24,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        0.288036,
+        0.610108,
+        1.9685
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -7.814018,
+        -7.525982,
+        -0.5450539999999999,
+        0.065054
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Exact seller diagram outer dimensions; detailed joint geometry approximate"
+    },
+    {
+      "id": "muttros-cat-tree",
+      "key_number": 5,
+      "position_blender_xyz_m": [
+        -7.59,
+        -1.0,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        0.59944,
+        0.5588,
+        1.4986
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -7.88972,
+        -7.29028,
+        -1.2793999999999999,
+        -0.7206
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Seller base/height confirmed; upper basket/branch dimensions unpublished and provisional"
+    },
+    {
+      "id": "clothes-dresser",
+      "key_number": 6,
+      "position_blender_xyz_m": [
+        -6.6,
+        -2.51,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        0.6985,
+        0.479425,
+        0.7493
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -6.949249999999999,
+        -6.25075,
+        -2.7497125,
+        -2.2702875
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Retailer imperial nominal dimensions; official CAD proxy fitted to this stated envelope"
+    },
+    {
+      "id": "visitor-chair",
+      "key_number": 7,
+      "position_blender_xyz_m": [
+        -4.73,
+        -2.0,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        0.650875,
+        0.739775,
+        0.7493
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -5.0554375,
+        -4.404562500000001,
+        -2.3698875,
+        -1.6301125
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Selected actual506.243.26 US retailer external measurements; new dimensioned proxy, detailed profile approximate"
+    },
+    {
+      "id": "rug",
+      "key_number": 8,
+      "position_blender_xyz_m": [
+        -6.1,
+        -1.1,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        2.7432,
+        1.8288,
+        0.005175
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -7.4716,
+        -4.7284,
+        -2.0144,
+        -0.1856000000000001
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "grejig-1",
+      "key_number": 9,
+      "position_blender_xyz_m": [
+        -3.48,
+        -0.54,
+        1.575
+      ],
+      "external_dimensions_product_local_m": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "rotation_z_deg": 90,
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -3.615,
+        -3.3449999999999998,
+        -0.8300000000000001,
+        -0.25000000000000006
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "grejig-2",
+      "key_number": 10,
+      "position_blender_xyz_m": [
+        -3.48,
+        -0.54,
+        1.7449999999999999
+      ],
+      "external_dimensions_product_local_m": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "rotation_z_deg": 90,
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -3.615,
+        -3.3449999999999998,
+        -0.8300000000000001,
+        -0.25000000000000006
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "grejig-3",
+      "key_number": 11,
+      "position_blender_xyz_m": [
+        -3.48,
+        -0.54,
+        1.915
+      ],
+      "external_dimensions_product_local_m": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "rotation_z_deg": 90,
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -3.615,
+        -3.3449999999999998,
+        -0.8300000000000001,
+        -0.25000000000000006
+      ],
+      "layer": "floor/conditional closet",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "richmond-art",
+      "key_number": 12,
+      "position_blender_xyz_m": [
+        -5.55,
+        0.22557,
+        3.425
+      ],
+      "external_dimensions_product_local_m": [
+        1.0254,
+        0.02286,
+        0.7254
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "nominal_world_bbox_xy_m": [
+        -6.0626999999999995,
+        -5.0373,
+        0.21414,
+        0.237
+      ],
+      "layer": "elevated wall-mounted",
+      "dimension_confidence": "Exact selected native landscape100x70cm paper; thin frame outside profile inferred from verified face/depth"
+    },
+    {
+      "id": "project-display-ledge",
+      "key_number": 13,
+      "position_blender_xyz_m": [
+        -5.55,
+        0.17699984,
+        2.754999985
+      ],
+      "external_dimensions_product_local_m": [
+        1.1499348879,
+        0.1200003214,
+        0.0700000152
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -6.12496744395,
+        -4.9750325560499995,
+        0.11699967929999999,
+        0.2370000007
+      ],
+      "layer": "elevated wall-mounted",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "primary-display-ledge",
+      "key_number": 14,
+      "position_blender_xyz_m": [
+        -6.915,
+        0.17699984,
+        3.6049999849999996
+      ],
+      "external_dimensions_product_local_m": [
+        1.1499348879,
+        0.1200003214,
+        0.0700000152
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -7.48996744395,
+        -6.34003255605,
+        0.11699967929999999,
+        0.2370000007
+      ],
+      "layer": "elevated wall-mounted",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "dresser-fado",
+      "key_number": 15,
+      "position_blender_xyz_m": [
+        -6.8,
+        -2.51,
+        2.3243
+      ],
+      "external_dimensions_product_local_m": [
+        0.23988155,
+        0.23988153,
+        0.23648912
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -6.919940775,
+        -6.680059225,
+        -2.6299407649999997,
+        -2.390059235
+      ],
+      "layer": "supported tabletop",
+      "dimension_confidence": "Source-guided current layout"
+    },
+    {
+      "id": "dresser-parlor-palm",
+      "key_number": 16,
+      "position_blender_xyz_m": [
+        -6.4,
+        -2.51,
+        2.3243
+      ],
+      "external_dimensions_product_local_m": [
+        0.28,
+        0.28,
+        0.2794
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -6.54,
+        -6.260000000000001,
+        -2.65,
+        -2.3699999999999997
+      ],
+      "layer": "supported tabletop",
+      "dimension_confidence": "Representative small plant/pot silhouette; pot height and live crown size unpublished. Source6-11in refers nursery pot-bottom to foliage-top, not guaranteed outer-pot assembly."
+    },
+    {
+      "id": "primary-felt-mat",
+      "key_number": 17,
+      "position_blender_xyz_m": [
+        -6.915,
+        -0.131,
+        2.31675
+      ],
+      "external_dimensions_product_local_m": [
+        0.9652,
+        0.40005,
+        0.0035
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": null,
+      "nominal_world_bbox_xy_m": [
+        -7.3976,
+        -6.4324,
+        -0.331025,
+        0.069025
+      ],
+      "layer": "supported tabletop",
+      "dimension_confidence": "Source-guided current layout"
+    }
+  ],
+  "operation_note_authority": {
+    "status": "Final independent operation notes pending; no clearance pass asserted"
+  },
+  "B_panels": {
+    "paint": "PeppercornSW7674",
+    "screen_sRGB": [
+      88,
+      88,
+      88
+    ],
+    "panel_count": 5,
+    "panel_W_D_H_m": [
+      0.6,
+      0.022,
+      2.4
+    ],
+    "bay_W_H_m": [
+      3.0,
+      2.4
+    ],
+    "bay_center_X_m": -6.1,
+    "panel_bottom_z_m": 1.575,
+    "panel_top_z_m": 3.9749999999999996,
+    "ceiling_upper_band_m": 0.62,
+    "baseboard": "No separate workwall baseboard geometry recorded in source; onsite mounting detail unmeasured",
+    "slat_profile_proxy_m": [
+      0.027,
+      0.013
+    ],
+    "felt_thickness_proxy_m": 0.009,
+    "slat_pitch_proxy_m": 0.04,
+    "paint_mesh_names": [
+      "his-office wall4 segment",
+      "his-office wall5 corrected solid 0",
+      "his-office wall5 corrected solid 2",
+      "his-office wall5 corrected solid 4",
+      "his-office wall5 corrected bottom 1",
+      "his-office wall5 corrected bottom 3",
+      "his-office wall5 corrected head 1",
+      "his-office wall5 corrected head 3"
+    ],
+    "window_wall_wrap": true
+  },
+  "C_finish": {
+    "paint": "NavalSW6244",
+    "screen_sRGB": [
+      47,
+      61,
+      76
+    ],
+    "panels": false,
+    "paint_mesh_names": [
+      "his-office wall4 segment",
+      "his-office wall5 corrected solid 0",
+      "his-office wall5 corrected solid 2",
+      "his-office wall5 corrected solid 4",
+      "his-office wall5 corrected bottom 1",
+      "his-office wall5 corrected bottom 3",
+      "his-office wall5 corrected head 1",
+      "his-office wall5 corrected head 3"
+    ],
+    "window_wall_wrap": true
+  },
+  "earlier_plan_checkpoint": "/workspace/his-office-pinterest/layout/checkpoints/pre-composition-furnished-plan",
+  "display_floor_area_m2": 14.03,
+  "compact_diagram_note": "Same vector artists/data reflowed, not a pixel crop; numbered core furniture/facing plus elevated-layer drawing. No changes to dimensions or placements.",
+  "outputs": {
+    "/workspace/his-office-pinterest/layout/final-furnished-plan.png": "4ee8acbdb871a2e4c177efcc56060facdb59fe06c2184f0289ed00c89539c66a",
+    "/workspace/his-office-pinterest/layout/final-furnished-plan.pdf": "f860e3d9f25c5ba54d4ddfbcc38fbdb34c4ddecb325232ddb29b46916a48e1fb",
+    "/workspace/his-office-pinterest/layout/final-furnished-review-diagram.png": "4c9cf8b47fb5a583de41893f04681121869b295e69442ea0402e5ae18c3db0c8"
+  },
+  "source_hashes_unchanged_after_plan": {
+    "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/layout.json": true,
+    "/workspace/his-office-pinterest/variants/c-ink-studio/model/layout.json": true,
+    "/workspace/his-office-redesign/geometry/room-measurements.json": true,
+    "/workspace/his-office-redesign/geometry/fixed-features.json": true,
+    "/workspace/his-office-pinterest/products/selected-products.json": true
+  }
+}

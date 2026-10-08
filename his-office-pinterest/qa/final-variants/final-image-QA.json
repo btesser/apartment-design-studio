@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "reviewed_UTC": "2026-10-08T21:05:50.561258+00:00",
+  "status": "PASS FOR CONCEPT VISUALIZATION",
+  "scope": "Independent visual comparison of six final image-generator originals against the six corresponding frozen native target views and original-product reference boards.",
+  "metric_validation": false,
+  "authority": "Native models, supplier component parity, source architecture parity and final nominal-route proofs establish modeled geometry and operation. Photographic concepts illustrate appearance and do not certify dimensions, clearances, installation or exact product meshes.",
+  "generation_manifest": "/workspace/his-office-pinterest/images/generation-manifest.json",
+  "generation_manifest_sha256": "d64d45428d522489f48db79feb18d7d18761c97367cdff92bb9b041b7f2cde3c",
+  "views": [
+    {
+      "id": "b-a",
+      "status": "PASS FOR CONCEPT VISUALIZATION",
+      "variant": "b-charcoal-slat",
+      "camera": "a",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/images/concept-a.png",
+      "sha256": "455592762154ec9f950af9cb7e44addd89d23c9ba1febb3342a2dc21d995d7fa",
+      "pixels": [
+        1504,
+        1046
+      ],
+      "untouched_generator_original": "/workspace/generated_images/exec-99f38668-98c5-4947-8499-af8527d3033b.png",
+      "original_byte_parity": true,
+      "target_native_view": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-a.jpg",
+      "target_native_view_sha256": "7570e288dead1b4d77e1d54f0590d8d68dfb8914c6308541e7f858e529e7658c",
+      "target_pixels": [
+        1440,
+        1000
+      ],
+      "native_model_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "layout_sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+      "visual_findings": [
+        "Correct target Camera A with rear door at left, narrow sash window and white pipe, workwall at right; no mirrored or enlarged room topology.",
+        "One Mineral Aeron faces the small primary desk; project bench remains clear of a second monitor or permanent second chair. Five ALEX drawer fronts are visible; only the existing dresser is partly cropped.",
+        "Two separate ledges and three books on each, independent Richmond art, desk mat, open-centre Honeywell head and cat-tree levels occupy coherent target positions.",
+        "B keeps its slat bay and painted upper band; C has its Naval painted wall without panels. The tabletop palm remains a small dresser accessory."
+      ],
+      "blocking_geometry_or_facing_failure": false
+    },
+    {
+      "id": "b-b",
+      "status": "PASS FOR CONCEPT VISUALIZATION",
+      "variant": "b-charcoal-slat",
+      "camera": "b",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/images/concept-b.png",
+      "sha256": "b6008b138ac6d763ac0adfa95fd12776ea6799bd8f6a08d8bd16b575cefb2cd6",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "untouched_generator_original": "/workspace/generated_images/exec-e50aee2c-1cc7-4326-bd83-a3d1e9c3a7cc.png",
+      "original_byte_parity": true,
+      "target_native_view": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-b.jpg",
+      "target_native_view_sha256": "b549c827c096b57335067ff5b97be85bc85c1cd75e33944e437bcbaf47fe9608",
+      "target_pixels": [
+        1440,
+        1000
+      ],
+      "native_model_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "layout_sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+      "visual_findings": [
+        "Correct target Camera B, distinguished by the white closet door, overhead cupboard and living-room entry at right; it is not a repeated Camera A.",
+        "The foreground owned Aeron is naturally cropped, the visitor chair faces toward the desks, and the fixed project bench has no extra equipment or permanent worker.",
+        "Richmond art and the low ledge remain above the bench; the high ledge is partly cropped at left. Product omissions outside the view are consistent with target-camera occlusion.",
+        "B slat bay and C plain Naval wall retain their separate treatments; white doors, trim and cupboard remain white."
+      ],
+      "blocking_geometry_or_facing_failure": false
+    },
+    {
+      "id": "b-c",
+      "status": "PASS FOR CONCEPT VISUALIZATION",
+      "variant": "b-charcoal-slat",
+      "camera": "c",
+      "path": "/workspace/his-office-pinterest/variants/b-charcoal-slat/images/concept-c.png",
+      "sha256": "7109c7e72380dec742c1e74276fa7aa17ed0620254c5f7ce5b1e5a994c407709",
+      "pixels": [
+        1506,
+        1045
+      ],
+      "untouched_generator_original": "/workspace/generated_images/exec-12df378f-71d3-4602-aa45-654904b1d8a9.png",
+      "original_byte_parity": true,
+      "target_native_view": "/workspace/his-office-pinterest/variants/b-charcoal-slat/model/renders/room-c.jpg",
+      "target_native_view_sha256": "9b58f09b4930a85d94971778b91c0d0d1bd0a618843646364cc62d9f7147ddbd",
+      "target_pixels": [
+        1440,
+        1000
+      ],
+      "native_model_sha256": "9414fc205b53c594a61766d880f9870ea849fd7bc67dfd7948d62b31575c11f1",
+      "layout_sha256": "baa403be9d085f76109c42c9f962506ee2841f15421f43d374a90ce8a33aced9",
+      "visual_findings": [
+        "Correct target Camera C with chimney/brick at left, recorded rear door at right, radiator beside the dresser and narrow window at the far right.",
+        "The fireplace remains a closed white recessed arch with a shallow internal bottom brick course; no open firebox, projecting raised hearth or added mantel.",
+        "Three dresser drawer fronts are visible; small palm and FADO remain on its top. The single Aeron is cropped at right, the visitor chair at left, and the cat tree appears near the window.",
+        "No stray cropped Honeywell head is added to this view; its absence agrees with the native camera. The real window frame/sash remains visible."
+      ],
+      "blocking_geometry_or_facing_failure": false
+    },
+    {
+      "id": "c-a",
+      "status": "PASS FOR CONCEPT VISUALIZATION",
+      "variant": "c-ink-studio",
+      "camera": "a",
+      "path": "/workspace/his-office-pinterest/variants/c-ink-studio/images/concept-a.png",
+      "sha256": "e330d012ad37af0dc51b6afac6326d4b9e6b24879ddc8728a9497e98fc9d91c3",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "untouched_generator_original": "/workspace/generated_images/exec-f14e91dd-532b-4a8d-8cdc-787ed583862d.png",
+      "original_byte_parity": true,
+      "target_native_view": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-a.jpg",
+      "target_native_view_sha256": "b66587fdcce1765328eaac9d82a21b84e522d0486b87de14a0b9da32b692c13c",
+      "target_pixels": [
+        1440,
+        1000
+      ],
+      "native_model_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+      "visual_findings": [
+        "Correct target Camera A with rear door at left, narrow sash window and white pipe, workwall at right; no mirrored or enlarged room topology.",
+        "One Mineral Aeron faces the small primary desk; project bench remains clear of a second monitor or permanent second chair. Five ALEX drawer fronts are visible; only the existing dresser is partly cropped.",
+        "Two separate ledges and three books on each, independent Richmond art, desk mat, open-centre Honeywell head and cat-tree levels occupy coherent target positions.",
+        "B keeps its slat bay and painted upper band; C has its Naval painted wall without panels. The tabletop palm remains a small dresser accessory."
+      ],
+      "blocking_geometry_or_facing_failure": false
+    },
+    {
+      "id": "c-b",
+      "status": "PASS FOR CONCEPT VISUALIZATION",
+      "variant": "c-ink-studio",
+      "camera": "b",
+      "path": "/workspace/his-office-pinterest/variants/c-ink-studio/images/concept-b.png",
+      "sha256": "5bfe53989383bbffa06df0d7a70fa13d220f134a86f9beed7f95e52d68c8bba2",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "untouched_generator_original": "/workspace/generated_images/exec-1cefe73d-9fcf-40b4-97fc-c78e94e71df0.png",
+      "original_byte_parity": true,
+      "target_native_view": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-b.jpg",
+      "target_native_view_sha256": "602367170aed3139a8c918cf53c5426db979be84622ff6d2fc2d478f3f8c80ae",
+      "target_pixels": [
+        1440,
+        1000
+      ],
+      "native_model_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+      "visual_findings": [
+        "Correct target Camera B, distinguished by the white closet door, overhead cupboard and living-room entry at right; it is not a repeated Camera A.",
+        "The foreground owned Aeron is naturally cropped, the visitor chair faces toward the desks, and the fixed project bench has no extra equipment or permanent worker.",
+        "Richmond art and the low ledge remain above the bench; the high ledge is partly cropped at left. Product omissions outside the view are consistent with target-camera occlusion.",
+        "B slat bay and C plain Naval wall retain their separate treatments; white doors, trim and cupboard remain white."
+      ],
+      "blocking_geometry_or_facing_failure": false
+    },
+    {
+      "id": "c-c",
+      "status": "PASS FOR CONCEPT VISUALIZATION",
+      "variant": "c-ink-studio",
+      "camera": "c",
+      "path": "/workspace/his-office-pinterest/variants/c-ink-studio/images/concept-c.png",
+      "sha256": "9aed5fa0c4162fbd1d2a7a3aab0225d2a2aaacd4948e206fef26cd25b387d845",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "untouched_generator_original": "/workspace/generated_images/exec-3c5f46ea-5d5c-4d96-881c-83355c5694a9.png",
+      "original_byte_parity": true,
+      "target_native_view": "/workspace/his-office-pinterest/variants/c-ink-studio/model/renders/room-c.jpg",
+      "target_native_view_sha256": "b7d85041641b8815d1b9f335305fc70ba27d86b754cb19aa7e1a666882365ce5",
+      "target_pixels": [
+        1440,
+        1000
+      ],
+      "native_model_sha256": "34f232cb78b242aab8521451583a507581933c095762dd283eb512837bd6113c",
+      "layout_sha256": "0540a3f7eb1bccfda5192df900b538009f0d334e7a35a0355fd6664b14a9bd54",
+      "visual_findings": [
+        "Correct target Camera C with chimney/brick at left, recorded rear door at right, radiator beside the dresser and narrow window at the far right.",
+        "The fireplace remains a closed white recessed arch with a shallow internal bottom brick course; no open firebox, projecting raised hearth or added mantel.",
+        "Three dresser drawer fronts are visible; small palm and FADO remain on its top. The single Aeron is cropped at right, the visitor chair at left, and the cat tree appears near the window.",
+        "No stray cropped Honeywell head is added to this view; its absence agrees with the native camera. The real window frame/sash remains visible."
+      ],
+      "blocking_geometry_or_facing_failure": false
+    }
+  ],
+  "cross_view_consistency": {
+    "distinct_correct_cameras_all_six": true,
+    "one_owned_task_chair_and_one_visitor": true,
+    "clear_fixed_bench": true,
+    "architecture_openings_and_furniture_facing_coherent": true,
+    "B_slat_and_C_plain_paint_coherent": true,
+    "true_occlusion_allowed": true
+  },
+  "residual_variations": [
+    "Palm foliage in the generated views is denser/fuller than the thin procedural proxy; A remains somewhat fuller than C, but it stays a tabletop accessory and no floor-route obstruction is introduced. Live-plant appearance and spread require a field check.",
+    "Aeron and visitor-chair cushion/mesh/frame silhouettes, drawer seams, shelf lips and cat upholstery/branch detail vary modestly from the proxy and product photographs; these concepts do not replace the product selections or native fit proofs.",
+    "Rug, wood grain, art brushwork, brick pattern, daylight, globe glow and exterior scenery are photorealistic generated interpretations.",
+    "Camera B can suggest a narrow wall-floor finishing strip; source workwall baseboard geometry is unrecorded, so this is a generated finishing detail, not measured architecture."
+  ],
+  "superseded_attempts": "Initial repeated Camera A outputs and oversized-palm candidates are excluded from acceptance and retained only in generation-manifest history/checkpoints.",
+  "model_report": "/workspace/his-office-pinterest/qa/final-variants/QA-REPORT.txt",
+  "model_report_sha256": "a1638af867fafece335be6cf619db7365e491045b2175dc65b7c53cb3fab38cf",
+  "native_render_review": "/workspace/his-office-pinterest/qa/final-variants/final-native-render-visual-QA.json",
+  "native_render_review_sha256": "9f6d66714f04a2c628b793cc76ea303f4132ee4ac3b2fefd823dbaf90084b6aa"
+}

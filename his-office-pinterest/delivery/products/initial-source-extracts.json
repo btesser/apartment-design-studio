@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "lagkapten-alex-black",
+    "source_url": "https://www.ikea.com/us/en/p/lagkapten-alex-desk-black-brown-black-s49521490/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/lagkapten-alex-black.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Products",
+            "item": "https://www.ikea.com/us/en/cat/products-products/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Desks & desk chairs",
+            "item": "https://www.ikea.com/us/en/cat/workspace-desks-chairs-fu004/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Desks & computer desks",
+            "item": "https://www.ikea.com/us/en/cat/desks-computer-desks-20649/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Table & desk systems",
+            "item": "https://www.ikea.com/us/en/cat/table-desk-systems-47423/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Modular desk system",
+            "item": "https://www.ikea.com/us/en/cat/table-bar-system-11811/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Combinations",
+            "item": "https://www.ikea.com/us/en/cat/table-system-combinations-18623/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "reviewCount": "33"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "IKEA"
+        },
+        "category": "Combinations",
+        "depth": "55 1/8 \"",
+        "description": "LAGKAPTEN / ALEX Desk - black-brown/black 55 1/8x23 5/8 \". Here you enjoy plenty of storage space for things you want within easy reach. Behind the door is a shelf that you can move as needed. You can mount the door to open from the right or left.",
+        "height": "28 3/4 \"",
+        "image": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__1209747_pe913496_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__1216529_pe912431_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__1215808_pe912200_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__0977796_pe813779_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__1209803_pe909446_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__0734618_pe739551_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          }
+        ],
+        "mpn": "495.214.90",
+        "name": "LAGKAPTEN / ALEX Desk - black-brown/black 55 1/8x23 5/8 \"",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "price": "134.99",
+          "priceCurrency": "USD",
+          "seller": {
+            "@type": "Organization",
+            "name": "IKEA",
+            "url": "https://www.ikea.com/us/en/"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          },
+          "url": "https://www.ikea.com/us/en/p/lagkapten-alex-desk-black-brown-black-s49521490/"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Cynthia"
+            },
+            "datePublished": "2025-01-07",
+            "name": "Lagkaten Desk Review",
+            "reviewBody": "Perfect desk for my art.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          }
+        ],
+        "sku": "495.214.90",
+        "url": "https://www.ikea.com/us/en/p/lagkapten-alex-desk-black-brown-black-s49521490/",
+        "width": "23 5/8 \""
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "3DModel",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/49521490/PS01_S01_NV_01/simple/glb_draco/c0dc1ec5db1656d9f61778cee3f0b574-G-49521490-7808df6110afdfe5d3e21f872d164c8030965427-simple+draco.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          }
+        ],
+        "image": "",
+        "name": "LAGKAPTEN"
+      }
+    ],
+    "official_image_urls": [
+      "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-black__1209747_pe913496_s5.jpg"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/lagkapten-alex-black.jpg"
+  },
+  {
+    "id": "ekenaset-beige",
+    "source_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/ekenaset-beige.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Products",
+            "item": "https://www.ikea.com/us/en/cat/products-products/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sofas & armchairs",
+            "item": "https://www.ikea.com/us/en/cat/sofas-armchairs-700640/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Armchairs & accent chairs",
+            "item": "https://www.ikea.com/us/en/cat/armchairs-chaises-fu006/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Lounge chairs",
+            "item": "https://www.ikea.com/us/en/cat/lounge-chairs-53257/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "reviewCount": "493"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "IKEA"
+        },
+        "category": "Lounge chairs",
+        "color": "beige",
+        "depth": "30 3/4 \"",
+        "description": "EKEN\u00c4SET Armchair - Kilanda light beige. Clean lines and supportive comfort, regardless if you\u2019re reading, socializing with friends or just relaxing for a moment. The tall legs in solid wood make it easy to vacuum or reach things hiding under the armchair to avoid clutter. Stationary cover.",
+        "height": "29 7/8 \"",
+        "image": [
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1179060_pe895831_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1110707_pe870568_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109720_pe870187_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          },
+          {
+            "@type": "ImageObject",
+            "contentUrl": "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__0940909_pe795235_s5.jpg",
+            "height": "2000px",
+            "width": "2000px"
+          }
+        ],
+        "material": "Fabric, Wood (including board), Solid wood",
+        "mpn": "305.334.93",
+        "name": "EKEN\u00c4SET Armchair - Kilanda light beige",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": [
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "199",
+              "priceCurrency": "USD",
+              "validFrom": "2026-09-30Z",
+              "validThrough": "2027-08-31Z"
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "price": "299",
+              "priceCurrency": "USD",
+              "priceType": "https://schema.org/StrikethroughPrice"
+            }
+          ],
+          "seller": {
+            "@type": "Organization",
+            "name": "IKEA",
+            "url": "https://www.ikea.com/us/en/"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          },
+          "url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "David"
+            },
+            "datePublished": "2026-10-02",
+            "name": "Comfortable chair.",
+            "reviewBody": "This is the chairiest chair I have ever owned.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "datePublished": "2026-09-28",
+            "name": "Stylish and Comfortable",
+            "reviewBody": "This chair is very comfortable for reading or watching TV, and it was easy to assemble. I love how it looks in my space!",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sandra"
+            },
+            "datePublished": "2026-09-24",
+            "name": "Mid century",
+            "reviewBody": "I am very pleased with the wood design and upholstery color of the cushions.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "datePublished": "2026-08-07",
+            "name": "Armchair",
+            "reviewBody": "This is exactly what I wanted \nComfortable and very attractive \nNot a cuddle up and read chair but very nice",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Nataliya"
+            },
+            "datePublished": "2026-06-15",
+            "name": "Nate",
+            "reviewBody": "I just tested the chair in the store. It\u2019s pretty comfortable. But be aware: the dimensions shown in the image do not match the actual ones\u2014the seat width is 21.5 inches, not 25.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Michael"
+            },
+            "datePublished": "2026-03-28",
+            "name": "False Advertising!!",
+            "reviewBody": "The chair itself is comfortable and the teal is beautiful...BUT the wood shown in the photos do NOT match the product. The wood my chair came with is black, not walnut. I will be returning this chair asap",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 2
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Bruce"
+            },
+            "datePublished": "2026-02-03",
+            "name": "Perfect for music room",
+            "reviewBody": "I purchased 2 of these for use in a music room. They replaced a Poang chair that was very comfortable, but the high back changed the listening acoustics. The EKEN\u00c4SET was a perfect solution and equally as comfortable as the Poang.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Randall"
+            },
+            "datePublished": "2026-01-30",
+            "name": "Classy Comfort",
+            "reviewBody": "I dig this chair.  Solid construction - no creaks or flex.  It's very comfortable and has a super cool relaxed aesthetic going on.  Perfect place to sit while enjoying some Brubeck.  Looks great next to the potted rubber tree.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Hayatt"
+            },
+            "datePublished": "2026-01-10",
+            "name": "Poor Quality",
+            "reviewBody": "I loved this chair in store, but it wasn\u2019t as comfortable at home\u2014maybe in a few months it will wear in a bit? My real issue with this chair is the manufacturing. The upholstery is poorly finished. It took 3 purchases to get a decent looking chair\u2014poly stuffing sticking out on the bottom seam, misaligned holes for assembly, and lumpy cushions. I kept the third chair but had to use a lumbar pillow to cover the lumpy looking cushion.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 3
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kendra"
+            },
+            "datePublished": "2025-11-10",
+            "name": "Beautiful",
+            "reviewBody": "Looks great, comfortable. Highly recommend",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Robert"
+            },
+            "datePublished": "2025-10-02",
+            "name": "Very nice!",
+            "reviewBody": "This is a very comfortable and very sturdy.  I have had this chair for about 8 months. I'm 6'2\" and weigh 200 pounds and it works for me.  I use it to read and watch TV. I'm very happy with this product.  ",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Eric"
+            },
+            "datePublished": "2025-09-23",
+            "name": "excellent kitchen seating",
+            "reviewBody": "needed some lounge-y chairs for our kitchen and 2 of these fit the bill nicely. comfy but also sturdy",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Nancy"
+            },
+            "datePublished": "2025-09-17",
+            "name": "Very Comfy Chair",
+            "reviewBody": "Surprisingly comfortable and sturdy.  Deep cushion that is soft, yet supportive.  Looks very high end.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Emilia"
+            },
+            "datePublished": "2025-08-08",
+            "name": "Mid Century Modern Delight",
+            "reviewBody": "The cushions are a tad firmer than I would prefer but a fantastic chair overall. It was easy to put together, sturdy with a solid wood construction, comfortable to sit in for long periods, and its appearance fits right in with MCM design. I was so pleased with it I got 2 of them",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Anonymous reviewer"
+            },
+            "datePublished": "2025-06-23",
+            "name": "Love it!",
+            "reviewBody": "It was super easy to assemble and I've the color. The color is calming and not busy. Sometimes IKEA furniture is tricky to assemble. This was so easy it took me ten minutes to assemble. I really love this chair and it is really comfortable. The price is a little much, otherwise it is awesome!\n",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Brad"
+            },
+            "datePublished": "2025-03-27",
+            "name": "Nice chair just way overpriced for what you get",
+            "reviewBody": "It\u2019s comfy basic little chair",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 4
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Terri L"
+            },
+            "datePublished": "2025-02-28",
+            "name": "Ticks the boxes ",
+            "reviewBody": "Ekenaset arm chair ticks all the boxes . Not only is this chair good looking  it\u2019s comfortable , overall support right where you need it . The fabric is seemingly durable. I vacuum furniture the texture hasn\u2019t changed. Easy build , easy to use in any room , not too heavy or large to move . ",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen"
+            },
+            "datePublished": "2025-02-26",
+            "name": "Comfortable, classy looking",
+            "reviewBody": "I would highly recommend these chairs. Great price, comfortable, and fit in a smaller room. They are also easy to assemble.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Janet"
+            },
+            "datePublished": "2025-02-12",
+            "name": " Stylish chairs",
+            "reviewBody": "Good quality chairs. Reasonable price. Easy assembly.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Bryan"
+            },
+            "datePublished": "2025-02-06",
+            "name": "Great chair",
+            "reviewBody": "Well built elegant chair. Its fabric matches perfectly with a sofa available in the same fabric. Comfy to sit in. ",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5
+            }
+          }
+        ],
+        "sku": "305.334.93",
+        "url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/",
+        "width": "25 1/4 \""
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "3DModel",
+        "encoding": [
+          {
+            "@type": "MediaObject",
+            "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/90533174/PS01_S01_NV_01/simple/glb/d22fea99b6cb9615d3c8e1e8e76eb03c-G-90533174-755c7f39e1c331314b0a5e1ccaed0e058898a21f-simple.glb?cn=pip",
+            "encodingFormat": "model/gltf-binary"
+          }
+        ],
+        "image": "",
+        "name": "EKEN\u00c4SET"
+      }
+    ],
+    "official_image_urls": [
+      "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/ekenaset-beige.jpg"
+  },
+  {
+    "id": "ruggable-impasto-taupe",
+    "source_url": "https://ruggable.com/products/impasto-taupe-rug?system=rug-sys",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/ruggable-impasto-taupe.html",
+    "json_ld": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "name": "Shop All",
+            "position": 1,
+            "item": "https://ruggable.com/collections/shop-all"
+          },
+          {
+            "@type": "ListItem",
+            "name": "Rugs",
+            "position": 2,
+            "item": "https://ruggable.com/collections/all-rugs"
+          },
+          {
+            "@type": "ListItem",
+            "name": "Beige",
+            "position": 3,
+            "item": "https://ruggable.com/collections/beige-rugs"
+          },
+          {
+            "@type": "ListItem",
+            "name": "Modern",
+            "position": 4,
+            "item": "https://ruggable.com/collections/modern-rugs"
+          },
+          {
+            "@type": "ListItem",
+            "name": "Impasto Taupe Flatwoven Rug",
+            "position": 5
+          }
+        ]
+      },
+      [
+        {
+          "@context": "https://schema.org",
+          "@type": "ProductGroup",
+          "brand": {
+            "@type": "Brand",
+            "name": "Ruggable"
+          },
+          "variesBy": [
+            "https://schema.org/size"
+          ],
+          "name": "Impasto Taupe Flatwoven Rug | Ruggable",
+          "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+          "url": "/products/impasto-taupe-rug",
+          "productGroupID": "IMPASTO-TAUPE-RUG-GROUP",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5349817",
+            "reviewCount": "3316"
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Teresa L."
+              },
+              "reviewBody": "This rug is beautiful and plush. It was so lightweight I didn\u2019t have any trouble putting it down.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "datePublished": "2026-10-05T17:47:15.000Z"
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Terri M."
+              },
+              "reviewBody": "The best rug ever!!! I purchased for new house but couldn\u2019t wait til we moved to try it out. My three Frenchies love it also. Can\u2019t wait to wash it. Will definitely be ordering more once I move.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "datePublished": "2026-10-03T01:48:47.000Z"
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "William M."
+              },
+              "reviewBody": "This is my 3rd Ruggable rug. I absolutely love the look, quality and all the rugs they offer.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "datePublished": "2026-09-30T00:40:24.000Z"
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Kathleen E."
+              },
+              "reviewBody": "This rug looks perfect in our living room of our new house. I love the new all in one piece!",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "datePublished": "2026-09-22T19:14:19.000Z"
+            },
+            {
+              "@type": "Review",
+              "author": {
+                "@type": "Person",
+                "name": "Jennifer L."
+              },
+              "reviewBody": "It\u2019s exactly what I was looking for. The color is perfect and it looks great in my dining room.",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "datePublished": "2026-09-21T01:56:57.000Z"
+            }
+          ],
+          "hasVariant": [
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-02x03",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 2'x3' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-23_7048365b-343d-406f-9a40-d13bb0707c9b.jpg?v=1771369540",
+              "size": "2'x3'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "89.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443318327",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-02x07",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 2.5'x7' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-27_a366533e-550f-4d03-8939-62a73cf9656a.jpg?v=1771369540",
+              "size": "2.5'x7'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "159.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443351095",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-02x10",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 2.5'x10' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-21_c7554e04-959e-4913-8670-be4edbd35510.jpg?v=1771369540",
+              "size": "2.5'x10'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "199.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443383863",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-02x12",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 2.5'x12' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-212_a160beb2-0f6c-47dc-b98a-6fc1d9f796d2.jpg?v=1771369540",
+              "size": "2.5'x12'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "219.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443416631",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-03x05",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 3'x5' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-35_30f96c65-a0d7-44b0-86c1-a4555ae5d7e5.jpg?v=1771369540",
+              "size": "3'x5'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "139.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443449399",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-04x06",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 4'x6' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-46_f9ee9350-62c2-49e8-b4a9-42db279c2cc9.jpg?v=1771369540",
+              "size": "4'x6'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "209.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443482167",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-05x07",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 5'x7' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-57_886eb8cc-ee81-4319-b5a3-b93c224b0743.jpg?v=1771368449",
+              "size": "5'x7'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "239.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443514935",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-06x09",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 6'x9' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-69_12e09309-6359-4602-876f-81c9a9893eaf.jpg?v=1771369540",
+              "size": "6'x9'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "369.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443547703",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-08x10",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 8'x10' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-TMP-BT016-81.jpg?v=1771369540",
+              "size": "8'x10'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "579.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443580471",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-09x12",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 9'x12' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-912_82c6fb34-cac4-4fa6-9615-407ee79fc884.jpg?v=1771369540",
+              "size": "9'x12'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "729.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443613239",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RCT-CHN-BT016-10x14",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 10'x14' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-1014_f197ef65-dce6-417d-bd48-10fcd5a2450d.jpg?v=1771369540",
+              "size": "10'x14'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "959.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443646007",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RND-CHN-BT016-00x06",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 6' Round | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-6R_b38b18ae-0690-45e4-8d1d-9434f50579e4.jpg?v=1771369540",
+              "size": "6' Round",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "269.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443678775",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SYS-IND-RND-CHN-BT016-00x08",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Pad System | 8' Round | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-8R_7ce4dc43-9708-422b-8ac3-a5004f20f795.jpg?v=1771369540",
+              "size": "8' Round",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "379.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443711543",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-02x03",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 2'x3' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-23_7048365b-343d-406f-9a40-d13bb0707c9b.jpg?v=1771369540",
+              "size": "2'x3'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "119.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443744311",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-02x07",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 2.5'x7' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-27_a366533e-550f-4d03-8939-62a73cf9656a.jpg?v=1771369540",
+              "size": "2.5'x7'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "189.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443777079",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-02x10",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 2.5'x10' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-21_c7554e04-959e-4913-8670-be4edbd35510.jpg?v=1771369540",
+              "size": "2.5'x10'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "239.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443809847",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-03x05",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 3'x5' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-35_30f96c65-a0d7-44b0-86c1-a4555ae5d7e5.jpg?v=1771369540",
+              "size": "3'x5'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "169.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443842615",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-04x06",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 4'x6' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-46_f9ee9350-62c2-49e8-b4a9-42db279c2cc9.jpg?v=1771369540",
+              "size": "4'x6'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "259.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443875383",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-05x07",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 5'x7' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-57_886eb8cc-ee81-4319-b5a3-b93c224b0743.jpg?v=1771368449",
+              "size": "5'x7'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "299.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443908151",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-06x09",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 6'x9' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-69_12e09309-6359-4602-876f-81c9a9893eaf.jpg?v=1771369540",
+              "size": "6'x9'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "469.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443940919",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-08x10",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 8'x10' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-TMP-BT016-81.jpg?v=1771369540",
+              "size": "8'x10'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "679.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112443973687",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-09x12",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 9'x12' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-912_82c6fb34-cac4-4fa6-9615-407ee79fc884.jpg?v=1771369540",
+              "size": "9'x12'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "909.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444006455",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RCT-CHN-BT016-10x14",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 10'x14' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-1014_f197ef65-dce6-417d-bd48-10fcd5a2450d.jpg?v=1771369540",
+              "size": "10'x14'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "1259.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444039223",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RND-CHN-BT016-00x06",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 6' Round | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-6R_b38b18ae-0690-45e4-8d1d-9434f50579e4.jpg?v=1771369540",
+              "size": "6' Round",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "339.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444071991",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-SY2-IND-RND-CHN-BT016-00x08",
+              "name": "Impasto Taupe Flatwoven Rug | Rug + Cushioned Pad System | 8' Round | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-8R_7ce4dc43-9708-422b-8ac3-a5004f20f795.jpg?v=1771369540",
+              "size": "8' Round",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "499.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444104759",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-02x03",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 2'x3' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-23_7048365b-343d-406f-9a40-d13bb0707c9b.jpg?v=1771369540",
+              "size": "2'x3'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "69.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444137527",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-02x07",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 2.5'x7' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-27_a366533e-550f-4d03-8939-62a73cf9656a.jpg?v=1771369540",
+              "size": "2.5'x7'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "109.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444170295",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-02x10",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 2.5'x10' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-21_c7554e04-959e-4913-8670-be4edbd35510.jpg?v=1771369540",
+              "size": "2.5'x10'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "149.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444203063",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-02x12",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 2.5'x12' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-212_a160beb2-0f6c-47dc-b98a-6fc1d9f796d2.jpg?v=1771369540",
+              "size": "2.5'x12'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "159.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444235831",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-03x05",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 3'x5' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-35_30f96c65-a0d7-44b0-86c1-a4555ae5d7e5.jpg?v=1771369540",
+              "size": "3'x5'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "109.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444268599",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-04x06",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 4'x6' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-46_f9ee9350-62c2-49e8-b4a9-42db279c2cc9.jpg?v=1771369540",
+              "size": "4'x6'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "159.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444301367",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-05x07",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 5'x7' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-57_886eb8cc-ee81-4319-b5a3-b93c224b0743.jpg?v=1771368449",
+              "size": "5'x7'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "169.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444334135",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-06x09",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 6'x9' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-69_12e09309-6359-4602-876f-81c9a9893eaf.jpg?v=1771369540",
+              "size": "6'x9'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "249.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444366903",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-08x10",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 8'x10' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-TMP-BT016-81.jpg?v=1771369540",
+              "size": "8'x10'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "409.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444399671",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-09x12",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 9'x12' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-912_82c6fb34-cac4-4fa6-9615-407ee79fc884.jpg?v=1771369540",
+              "size": "9'x12'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "509.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444432439",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RCT-CHN-BT016-10x14",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 10'x14' | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-1014_f197ef65-dce6-417d-bd48-10fcd5a2450d.jpg?v=1771369540",
+              "size": "10'x14'",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "669.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444465207",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RND-CHN-BT016-00x06",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 6' Round | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-6R_b38b18ae-0690-45e4-8d1d-9434f50579e4.jpg?v=1771369540",
+              "size": "6' Round",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "189.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444497975",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "sku": "RUG-CVR-IND-RND-CHN-BT016-00x08",
+              "name": "Impasto Taupe Flatwoven Rug | Washable Rug Cover | 8' Round | Ruggable",
+              "description": "If you like abstract art, this one's for you. Our Impasto Taupe Rug features a modern texture, like thick paint on canvas, which is the highlight of a 17th century painting technique called impasto. Tinted in various hues of taupe and cream, with layers of beige, ivory, and grey, this rug is a true work of art. Water-resistant, stain-resistant, and fully machine-washable. Colors may vary by device and lighting.",
+              "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-8R_7ce4dc43-9708-422b-8ac3-a5004f20f795.jpg?v=1771369540",
+              "size": "8' Round",
+              "offers": [
+                {
+                  "@type": "Offer",
+                  "price": "259.00",
+                  "priceCurrency": "USD",
+                  "availability": "http://schema.org/InStock",
+                  "priceValidUntil": "2026-10-8",
+                  "url": "/products/impasto-taupe-rug?variant=42112444530743",
+                  "shippingDetails": {
+                    "@id": "#free_shipping_us"
+                  },
+                  "hasMerchantReturnPolicy": {
+                    "@id": "#return_policy_us"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "OfferShippingDetails",
+          "@id": "#free_shipping_us",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0,
+            "currency": "USD"
+          },
+          "shippingDestination": [
+            {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "MerchantReturnPolicy",
+          "@id": "#return_policy_us",
+          "applicableCountry": [
+            "US"
+          ],
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 30,
+          "returnMethod": "https://schema.org/ReturnByMail",
+          "returnFees": "https://schema.org/ReturnShippingFees"
+        }
+      ]
+    ],
+    "official_image_urls": [
+      "https://cdn.shopify.com/s/files/1/1033/0751/files/impasto-taupe-A-FLW-BT016-57_886eb8cc-ee81-4319-b5a3-b93c224b0743.jpg?v=1771368449"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/ruggable-impasto-taupe.jpg"
+  },
+  {
+    "id": "art-abstract-scenery",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-scenery-no1-print/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/art-abstract-scenery.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProductGroup",
+        "brand": {
+          "@type": "Brand",
+          "name": "Desenio"
+        },
+        "category": "Posters & Prints > Art prints > Abstract Scenery No1 Print",
+        "description": "- Painting with an abstract design in brown and beige with a speckled texture   Abstract painting in beige and brown with a speckled texture. The fluid colors that mixes so well together makes this print a perfect pick for a living room wall. You can pair it with Abstract Scenery No2 for a perfect pair!  The poster is printed with a white border that nicely frames the design.",
+        "image": "https://media.desenio.com/site_images/685b32dae552fc706df551ec_405939393_14699-8.jpg",
+        "mpn": "14699",
+        "name": "Abstract Scenery No1 Print",
+        "productGroupID": "14699",
+        "sku": "14699",
+        "url": "https://desenio.com/posters-prints/art-prints/abstract-scenery-no1-print/",
+        "variesBy": "https://schema.org/Size",
+        "hasVariant": [
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "16",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/685b32d5e552fc706df551ea_222041323_14699-5.jpg",
+            "mpn": "14699-5",
+            "name": "Abstract Scenery No1 Print 12\" x 16\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Abstract Scenery No1 Print 12\" x 16\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 27.57,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 45.95,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "14699-5",
+              "url": "https://desenio.com/posters-prints/art-prints/abstract-scenery-no1-print/"
+            },
+            "size": "12\" x 16\" in",
+            "sku": "14699-5",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "12",
+              "unitCode": "INH"
+            }
+          },
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "28",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/685b32dae552fc706df551ec_405939393_14699-8.jpg",
+            "mpn": "14699-8",
+            "name": "Abstract Scenery No1 Print 20\" x 28\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Abstract Scenery No1 Print 20\" x 28\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 44.07,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 73.45,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "14699-8",
+              "url": "https://desenio.com/posters-prints/art-prints/abstract-scenery-no1-print/"
+            },
+            "size": "20\" x 28\" in",
+            "sku": "14699-8",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "20",
+              "unitCode": "INH"
+            }
+          },
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "39",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/685b32d320f7978d2595cbb3_1774051928_14699-1.jpg",
+            "mpn": "14699-1",
+            "name": "Abstract Scenery No1 Print 28\" x 39\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Abstract Scenery No1 Print 28\" x 39\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 58.8,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 98,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "14699-1",
+              "url": "https://desenio.com/posters-prints/art-prints/abstract-scenery-no1-print/"
+            },
+            "size": "28\" x 39\" in",
+            "sku": "14699-1",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "28",
+              "unitCode": "INH"
+            }
+          },
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "59",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/685b32d0e552fc706df551e9_637012606_14699-0.jpg",
+            "mpn": "14699-0",
+            "name": "Abstract Scenery No1 Print 39\" x 59\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Abstract Scenery No1 Print 39\" x 59\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 127.8,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 213,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "14699-0",
+              "url": "https://desenio.com/posters-prints/art-prints/abstract-scenery-no1-print/"
+            },
+            "size": "39\" x 59\" in",
+            "sku": "14699-0",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "39",
+              "unitCode": "INH"
+            }
+          },
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "20",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/689062c487c81ce5653e93f2_13219130_14699-6.jpg",
+            "mpn": "14699-6",
+            "name": "Abstract Scenery No1 Print 16\" x 20\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/OutOfStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Abstract Scenery No1 Print 16\" x 20\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 32.37,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 53.95,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "14699-6",
+              "url": "https://desenio.com/posters-prints/art-prints/abstract-scenery-no1-print/"
+            },
+            "size": "16\" x 20\" in",
+            "sku": "14699-6",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "16",
+              "unitCode": "INH"
+            }
+          }
+        ]
+      }
+    ],
+    "official_image_urls": [
+      "https://media.desenio.com/site_images/685b32d5e552fc706df551ea_222041323_14699-5.jpg?auto=compress,format&fit=max&w=1200",
+      "https://media.desenio.com/site_images/689069f887c81ce5653e94d2_1983812793_14699-5_variant_display_image_ds.jpg?auto=compress,format&fit=max&w=1200"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/art-abstract-scenery.jpg"
+  },
+  {
+    "id": "art-monochrome-mist",
+    "source_url": "https://desenio.com/p/posters-prints/art-prints/photographs/black-white-photography/monochrome-mist-print/",
+    "html_file": "/workspace/his-office-pinterest/products/source-pages/art-monochrome-mist.html",
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProductGroup",
+        "brand": {
+          "@type": "Brand",
+          "name": "Desenio"
+        },
+        "category": "Posters & Prints > Art prints > Photography prints > Black & white photography art prints > Monochrome Mist Print",
+        "description": "Black and white landscape photo of a misty lake with trees. The monochrome palette adds a touch of mystery and elegance to your space.  The poster is printed with a white margin around the image to frame the design nicely.",
+        "image": "https://media.desenio.com/site_images/685d870f8fdef2fa155e0a71_628848836_18738-8.jpg",
+        "mpn": "18738",
+        "name": "Monochrome Mist Print",
+        "productGroupID": "18738",
+        "sku": "18738",
+        "url": "https://desenio.com/posters-prints/art-prints/photographs/black-white-photography/monochrome-mist-print/",
+        "variesBy": "https://schema.org/Size",
+        "hasVariant": [
+          {
+            "@type": "Product",
+            "height": {
+              "@type": "QuantitativeValue",
+              "value": "16",
+              "unitCode": "INH"
+            },
+            "image": "https://media.desenio.com/site_images/685d870c67fd6077b6f2e4c4_1965727274_18738-5.jpg",
+            "mpn": "18738-5",
+            "name": "Monochrome Mist Print 12\" x 16\" in",
+            "offers": {
+              "@type": "Offer",
+              "availability": "https://schema.org/InStock",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "merchantReturnDays": 90,
+                "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+                "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+              },
+              "itemCondition": "https://schema.org/NewCondition",
+              "name": "Monochrome Mist Print 12\" x 16\" in",
+              "priceSpecification": [
+                {
+                  "@type": "UnitPriceSpecification",
+                  "price": 27.57,
+                  "priceCurrency": "USD"
+                },
+                {
+                  "@type": "UnitPriceSpecification",
+                  "priceType": "https://schema.org/StrikethroughPrice",
+                  "price": 45.95,
+                  "priceCurrency": "USD"
+                }
+              ],
+              "priceValidUntil": "2026-10-08",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "d"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 3,
+                    "unitCode": "d"
+                  }
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                }
+              },
+              "sku": "18738-5",
+              "url": "https://desenio.com/posters-prints/art-prints/photographs/black-white-photography/monochrome-mist-print/"
+            },
+            "size": "12\" x 16\" in",
+            "sku": "18738-5",
+            "width": {
+              "@type": "QuantitativeValue",
+              "value": "12",
+              "unitCode": "INH"
+            }
+          }
+        ]
+      }
+    ],
+    "official_image_urls": [
+      "https://media.desenio.com/site_images/685d870c67fd6077b6f2e4c4_1965727274_18738-5.jpg?auto=compress,format&fit=max&w=1200",
+      "https://media.desenio.com/site_images/67f599246647e2f2c0d853bf_1133629878_18738_display_image_DS.jpg?auto=compress,format&fit=max&w=1200"
+    ],
+    "image_file": "/workspace/his-office-pinterest/products/photos/art-monochrome-mist.jpg"
+  }
+]

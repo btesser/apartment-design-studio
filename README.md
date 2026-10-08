@@ -1,11 +1,44 @@
-# Apartment design archive
+# Apartment design studio
 
 The complete apartment design work and the independent redesign of his office:
 source scans and designer attachments, dimensioned models, walk-through viewers,
 real product references, generated concepts, review documents, scripts and checks.
 Earlier versions and generation attempts are retained as project history.
 
-## Start with the completed designs
+## Start with the latest office designs
+
+- [His office: B/C design review and six matched images](his-office-pinterest/His-office-B-C-design-review.pdf)
+- [His office: interactive 3D walkthrough and standing-desk control](his-office-pinterest/his-office-viewer.html)
+- [B: editable charcoal/slat Blender model](his-office-pinterest/variants/b-charcoal-slat/model/his-office-design.blend)
+- [C: editable navy Blender model](his-office-pinterest/variants/c-ink-studio/model/his-office-design.blend)
+- [His office: measured furnished plan](his-office-pinterest/layout/final-furnished-plan.pdf)
+- [His office: complete B/C delivery package](his-office-dark-designs.zip)
+
+Both alternatives retain the white Honeywell 02E lamp, brown MUTTROS cat tree
+and owned Mineral Herman Miller Aeron Size C. A Branch Tria electric standing
+desk and a separate clear 140 × 60 cm project bench serve one person. Matching
+display ledges, grouped artwork, a felt desk mat and a clothes-storage console
+with an opal lamp and compact palm connect the workspace and visitor area.
+
+B uses Peppercorn paint on the work and window walls with a bounded 3 × 2.4 m
+Black Ash slat bay across both desks. C uses a smooth Naval paint wrap on the
+same walls. White ceiling/trim and the existing brick remain. The proposed
+furniture and accessories total $3,308.81 for B or $2,334.06 for C, excluding
+paint, mounting, installation, tax and shipping. Owned items have no purchase
+cost. Product research is dated October 8, 2026; no purchases were made.
+
+The source models and measured plan control geometry. Three matching native
+angles establish the room layout. Initial image generation used all three
+angles and two original-product boards; camera corrections used the exact
+target angle and those boards, and final refinements added the preceding
+generator original. All 14 attempts are recorded. The six selected images
+illustrate appearance and can vary details.
+The model checks include full standing-desk travel, supports, the owned chair
+and nominal 60 cm routing. Scan uncertainty is about 5–12 cm; confirm tight
+fits, door operation, closet internals and mounting on site. Use full chair
+pullback and clothes-drawer access sequentially.
+
+## Apartment designs and earlier office version
 
 - [His office: nine-page design review](his-office-redesign/His-office-design-review.pdf)
 - [His office: offline 3D viewer](his-office-redesign/his-office-viewer.html)
@@ -15,7 +48,7 @@ Earlier versions and generation attempts are retained as project history.
 - [Apartment: offline 3D walk-through](apartment-walkthrough.html)
 - [Apartment: editable integrated model](apartment-model/integrated.blend)
 
-The new office design preserves the confirmed 42 × 30-inch Pheasantwood UPLIFT
+The earlier warm office proposal preserves the confirmed 42 × 30-inch Pheasantwood UPLIFT
 desk, Honeywell 02E lamp and MUTTROS cat tree. It adds a separate second desk,
 folded-clothes and office drawers, provisional closet shoe storage, a visitor
 chair, rug and artwork. Its proposed new pieces total $2,344.43 before tax and
@@ -48,6 +81,7 @@ models and textures are embedded.
 - `apartment-walkthrough/`: maintainable whole-apartment viewer source and assets.
 - `apartment-design/`, `apartment-imagegen-v3/`, `generated_images/`: reference views and generated design concepts, including earlier iterations.
 - `his-office-redesign/`: final office proposal, model, viewer, products, image-generation references, and delivery copy.
+- `his-office-pinterest/`: latest two dark office alternatives, matched native renders and generated studies, measured plans, real products, interactive viewer, source code and independent checks.
 - `geometry-audit/`, `independent-qa/`, `apartment-review-checks/`, `design-fidelity/`: evidence and design checks.
 - Root ZIP archives and helper scripts retain the delivered packages and their project history.
 
