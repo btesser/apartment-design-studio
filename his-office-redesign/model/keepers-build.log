@@ -1,0 +1,173 @@
+15:53:59 | INFO: Data are loaded, start creating Blender stuff
+15:53:59 | INFO: Blender create Mesh node 0
+15:53:59 | INFO: Blender create Mesh node 1
+15:53:59 | INFO: glTF import finished in 0.20s
+Info: Saved "keepers-and-taskchairs.blend"
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+15:54:01 | INFO: Starting glTF 2.0 export
+15:54:01 | INFO: Extracting primitive: Cube
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.007
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.001
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.002
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.008
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.009
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.015
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.014
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: solid wood barkline top
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.002
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.003
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.006
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.013
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.003
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.010
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.004
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.011
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.001
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.005
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.012
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.024
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.025
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.022
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.023
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.020
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.021
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.004
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.019
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.016
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.017
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.018
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.010
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.011
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.012
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.006
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.005
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.008
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: arched hollow condo wall
+15:54:01 | INFO: Primitives created: 2
+15:54:01 | INFO: Extracting primitive: Brown fleece suspended bowl hammock
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Hanging pom-pom cord
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Hanging pom-pom cord.001
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Hanging pom-pom cord.002
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: High side wicker basket crossing wicker strands
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: High side wicker basket woven horizontal courses
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Low side wicker basket crossing wicker strands
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Low side wicker basket woven horizontal courses
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sisal rope winding
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sisal rope winding.001
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sisal rope winding.002
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Thick fleece hammock rim
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Top wicker basket crossing wicker strands
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Top wicker basket woven horizontal courses
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.009
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.007
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.008
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.009
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.010
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.011
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.012
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.013
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.014
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.015
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.016
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cylinder.017
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.001
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.002
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.003
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.004
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.005
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.006
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Sphere.007
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Cube.026
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Mesh_1.001
+15:54:01 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Extracting primitive: Mesh_0.001
+15:54:01 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+15:54:01 | INFO: Primitives created: 1
+15:54:01 | INFO: Finished glTF 2.0 export in 0.767500638961792 s
+
+KEEPERS DONE [{"id": "kept-uplift-desk", "world_bounds_blender_m": [[-7.483399868011475, -0.5209999680519104, 1.5750000476837158], [-6.416599750518799, 0.25, 2.317499876022339]], "actual_world_bbox_dimensions_m": [1.0668001174926758, 0.7709999680519104, 0.742499828338623]}, {"id": "kept-honeywell-02e-pro", "world_bounds_blender_m": [[-7.8140177726745605, -0.545054018497467, 1.5750000476837158], [-7.52598237991333, 0.0650540143251419, 3.5435001850128174]], "actual_world_bbox_dimensions_m": [0.28803539276123047, 0.610108032822609, 1.9685001373291016]}, {"id": "kept-muttros-cat-tree", "world_bounds_blender_m": [[-7.909590244293213, -1.5352977514266968, 1.5750000476837158], [-7.290280342102051, -0.4647022485733032, 3.0730252265930176]], "actual_world_bbox_dimensions_m": [0.6193099021911621, 1.0705955028533936, 1.4980251789093018]}, {"id": "branch-pro-task-chair-1", "world_bounds_blender_m": [[-7.138394832611084, -1.1827495098114014, 1.5750000476837158], [-6.50160551071167, -0.5172504782676697, 2.556027889251709]], "actual_world_bbox_dimensions_m": [0.6367893218994141, 0.6654990315437317, 0.9810278415679932]}, {"id": "branch-pro-task-chair-2", "world_bounds_blender_m": [[-5.718394756317139, -1.1327495574951172, 1.5750000476837158], [-5.081605434417725, -0.46725043654441833, 2.556027889251709]], "actual_world_bbox_dimensions_m": [0.6367893218994141, 0.6654991209506989, 0.9810278415679932]}]
+Blender 4.3.2
+ERROR: Image "" not available. Keeping packed image
+ERROR: Image "" not available. Keeping packed image
+ERROR: Image "" not available. Keeping packed image
+ERROR: Image "" not available. Keeping packed image
+ERROR: Image "" not available. Keeping packed image
+ERROR: Image "" not available. Keeping packed image
+
+Blender quit

@@ -1,0 +1,3092 @@
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+23:04:00 | INFO: Starting glTF 2.0 export
+23:04:00 | INFO: Extracting primitive: his-office plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: his-office plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: her-office plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: her-office plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: living plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: living plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: upper-kitchen plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: upper-kitchen plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: bathroom-upper plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: bathroom-upper plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: music-gym plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: music-gym plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: basement-open plane mesh
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: basement-open plane mesh.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.001
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.003
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.004
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.005
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.006
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.011
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.013
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.015
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.017
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.018
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.019
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.020
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.021
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.022
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.023
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.031
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.033
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.034
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.035
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.036
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.037
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.038
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.039
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.047
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.049
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.051
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.053
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.054
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.055
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.056
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.061
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.063
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.065
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.067
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.068
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.069
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.070
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.075
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.077
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.078
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.079
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.080
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.085
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.087
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.089
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.091
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.093
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.095
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.097
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.099
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.101
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.103
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.105
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.107
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.108
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.109
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.110
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.115
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.117
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.118
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.119
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.120
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.125
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.127
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.129
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.131
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.133
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.135
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.137
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.139
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.140
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.141
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.142
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.143
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.144
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.145
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.146
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.155
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.156
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.157
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.158
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.159
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.160
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.161
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.162
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.163
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.164
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.165
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.166
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.167
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.168
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.169
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.170
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.171
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.172
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: upper connected hall and closet floor infill
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: lower connected hall and closet floor infill
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Finished glTF 2.0 export in 0.40256333351135254 s
+
+23:04:00 | INFO: Starting glTF 2.0 export
+23:04:00 | INFO: Extracting primitive: Cube
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.191
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.192
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.193
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.194
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.195
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.196
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.197
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.198
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.199
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.200
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.201
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.202
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.203
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.204
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Sphere
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Sphere.001
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Sphere.002
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Sphere.003
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.205
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.206
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.207
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.208
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.209
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.210
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.211
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.212
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.213
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.214
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.215
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.216
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.217
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.218
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.219
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.220
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.221
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.222
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.223
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.224
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.225
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.226
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.227
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Sphere.004
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.228
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.229
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Sphere.005
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.230
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.231
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.232
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.233
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.234
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.235
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.236
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.237
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.238
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.239
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.240
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.241
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.242
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.243
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.244
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.245
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.246
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.247
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.248
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.249
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.250
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.251
+23:04:00 | INFO: Primitives created: 1
+23:04:00 | INFO: Extracting primitive: Cube.252
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.253
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.254
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.269
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.270
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.271
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.272
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.273
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.274
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.275
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.276
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Finished glTF 2.0 export in 0.1454629898071289 s
+
+23:04:01 | INFO: Starting glTF 2.0 export
+23:04:01 | INFO: Extracting primitive: scan-floor-upper plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: scan-floor-lower plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: his-office plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: her-office plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: living plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: upper-kitchen plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: bathroom-upper plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: music-gym plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: basement-open plane mesh.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.007
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.008
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.009
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.010
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.012
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.014
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.016
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.024
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.025
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.026
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.027
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.028
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.029
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.030
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.032
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.040
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.041
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.042
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.043
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.044
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.045
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.046
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.048
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.050
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.052
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.057
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.058
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.059
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.060
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.062
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.064
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.066
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.071
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.072
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.073
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.074
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.076
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.081
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.082
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.083
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.084
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.086
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.088
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.090
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.092
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.094
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.096
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.098
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.100
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.102
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.104
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.106
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.111
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.112
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.113
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.114
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.116
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.121
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.122
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.123
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.124
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.126
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.128
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.130
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.132
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.134
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.136
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.138
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.147
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.148
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.149
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.150
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.151
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.152
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.153
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.154
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.173
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.174
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.175
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.176
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.177
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.178
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.179
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.180
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.181
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.182
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.183
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.184
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.185
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.186
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.187
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.188
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.189
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.190
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Finished glTF 2.0 export in 0.28499746322631836 s
+
+23:04:01 | INFO: Starting glTF 2.0 export
+23:04:01 | INFO: Extracting primitive: his-office plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: his-office plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: her-office plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: her-office plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: living plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: living plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: upper-kitchen plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: upper-kitchen plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: bathroom-upper plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: bathroom-upper plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: music-gym plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: music-gym plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: basement-open plane mesh
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: basement-open plane mesh.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.003
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.004
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.005
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.006
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.011
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.013
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.015
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.017
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.018
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.019
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.020
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.021
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.022
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.023
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.031
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.033
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.034
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.035
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.036
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.037
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.038
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.039
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.047
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.049
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.051
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.053
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.054
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.055
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.056
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.061
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.063
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.065
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.067
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.068
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.069
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.070
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.075
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.077
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.078
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.079
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.080
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.085
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.087
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.089
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.091
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.093
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.095
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.097
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.099
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.101
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.103
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.105
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.107
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.108
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.109
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.110
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.115
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.117
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.118
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.119
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.120
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.125
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.127
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.129
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.131
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.133
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.135
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.137
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.139
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.140
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.141
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.142
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.143
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.144
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.145
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.146
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.155
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.156
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.157
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.158
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.159
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.160
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.161
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.162
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.163
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.164
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.165
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.166
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.167
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.168
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.169
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.170
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.171
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.172
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: upper connected hall and closet floor infill
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: lower connected hall and closet floor infill
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.191
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.192
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.193
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.194
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.195
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.196
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.197
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.198
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.199
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.200
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.201
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.202
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.203
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.204
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Sphere
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Sphere.001
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Sphere.002
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Sphere.003
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.205
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.206
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.207
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.208
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.209
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.210
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.211
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.212
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.213
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.214
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.215
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.216
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.217
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.218
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.219
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.220
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.221
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.222
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.223
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.224
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.225
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.226
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.227
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Sphere.004
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.228
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.229
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Sphere.005
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.230
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.231
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.232
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.233
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.234
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.235
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.236
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.237
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.238
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.239
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.240
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.241
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.242
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.243
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.244
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.245
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.246
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.247
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.248
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.249
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.250
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.251
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.252
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.253
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.254
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.269
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.270
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.271
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.272
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.273
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.274
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.275
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: Cube.276
+23:04:01 | INFO: Primitives created: 1
+23:04:01 | INFO: Extracting primitive: accent pillow 0
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: accent pillow 1
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 0
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 1
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 2
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 3
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 0
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 1
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 2
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 3
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: graphic border.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: pink centre
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: woven rug
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: body
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.030
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.031
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.032
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.033
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.034
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.035
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.036
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.037
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.038
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.039
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.040
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.041
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.042
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.043
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.044
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.045
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.046
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.047
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.048
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.049
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.050
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.051
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.052
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.053
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.054
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.055
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.056
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.057
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.058
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.059
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.060
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.061
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.062
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.063
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.064
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.065
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.066
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.067
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.068
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.069
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.070
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.071
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.072
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.073
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.074
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.075
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: dark TV panel
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: TV frame
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: oval top
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: sculptural pedestal
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: sculptural pedestal.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table top
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table top.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: apron
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer bank
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer bank.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold drawer pull
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold drawer pull.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold drawer pull.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold drawer pull.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold drawer pull.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold drawer pull.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: mirror frame
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: mirror glass
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: top
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: pedestal
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: body.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.076
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.077
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.078
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.079
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.080
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.081
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.082
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.083
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.084
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.085
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.086
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.087
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.088
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.089
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.090
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.091
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.092
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.093
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.094
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.095
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.096
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.097
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.098
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.099
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.100
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.101
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.102
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.103
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.104
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.105
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.106
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.107
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.108
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.109
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.110
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.111
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.112
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.113
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.114
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.115
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.116
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.117
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.118
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.119
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.120
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.121
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.122
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.123
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.124
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.125
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.126
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.127
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.128
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.129
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.130
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.131
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.132
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.133
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.134
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flute.135
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 0.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 1.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat base.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 0.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 1.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: round rug
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flared base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table pedestal
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table top.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: keyboard
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: monitor
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: monitor stand
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: screen
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: standing desk column
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: standing desk column.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: standing desk foot
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: standing desk foot.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: top.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster arm.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: caster.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: mesh lumbar
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: pedestal.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.030
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.031
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.032
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.033
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.034
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.035
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.036
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.037
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.038
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.039
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.040
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.041
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.042
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.043
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.044
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.045
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.046
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.047
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.048
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.049
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.050
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.051
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.052
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.053
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.054
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.055
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.056
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.057
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.058
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.059
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.060
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.061
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.062
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.063
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.064
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.065
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.066
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.067
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.068
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.069
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.070
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.071
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.072
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.073
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.074
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.075
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.076
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.077
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.078
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.079
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: woven rug.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: side
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: side.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: side.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: side.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shelf.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: side.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: side.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: black dome shade
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: black weighted disk base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: gold dome underside
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: slim black floor-lamp stem
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm concealed bulb
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: low black disk base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: slim LED upright
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm LED strip
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: lower shelf
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: steel frame
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: steel frame.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: steel frame.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: steel frame.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: top.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched timber and cane mesh
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arched walnut rail.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: bed leg
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: bed leg.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: bed leg.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: bed leg.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: blue lumbar
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane horizontal weave.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.030
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.031
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.032
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.033
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.034
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.035
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.036
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.037
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.038
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.039
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.040
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.041
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.042
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.043
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.044
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.045
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.046
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.047
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.048
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.049
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.050
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.051
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: cane vertical weave.052
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: frame
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: headboard post
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: headboard post.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: king mattress 76 by 80 inches
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: moss duvet
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: moss pillow
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: moss pillow.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: oat pillow
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: oat pillow.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: muted floral motif.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: rug border
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: rug border.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: rug border.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: rug border.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: woven rug.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: body.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: natural bedside base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shade top
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: tall cylindrical linen shade
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: thin bedside lamp stem
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: body.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer front.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: drawer pull.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: natural bedside base.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shade top.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: tall cylindrical linen shade.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: thin bedside lamp stem.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: continuous pleated drapery
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: white divider rail
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: accent pillow 0.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: accent pillow 1.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 0.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back cushion 1.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: foot.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat base.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 0.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat cushion 1.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: shell back lobe.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.030
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.031
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.032
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.033
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.034
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.035
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.036
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.037
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.038
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.039
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.040
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.041
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.042
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.043
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.044
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.045
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.046
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.047
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.048
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.049
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.050
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.051
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.052
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.053
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.054
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.055
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.056
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.057
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.058
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.059
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.060
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.061
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.062
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.063
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.064
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.065
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.066
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.067
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.068
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.069
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.070
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.071
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.072
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.073
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.074
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.075
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.076
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.077
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.078
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.079
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.080
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.081
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.082
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.083
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.084
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.085
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.086
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.087
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.088
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.089
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.090
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.091
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.092
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.093
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.094
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.095
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.096
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.097
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.098
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.099
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.100
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.101
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.102
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.103
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.104
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.105
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.106
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: organic black line.107
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: woven rug.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flared base.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table pedestal.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table top.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flared base.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table pedestal.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table top.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curved tub-chair back
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: pedestal.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: swivel base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curved tub-chair back.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: pedestal.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: swivel base.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flared base.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table pedestal.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table top.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: base
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: linen shade
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: stem
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: dining top
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: table leg.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.030
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.031
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.032
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.033
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.034
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.035
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.036
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.037
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.038
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.039
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: arm.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: back.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.040
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.041
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.042
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leg.043
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: seat.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.080
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.081
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.082
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.083
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.084
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.085
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.086
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.087
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.088
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.089
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.090
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.091
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.092
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.093
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.094
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.095
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.096
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.097
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.098
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.099
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.100
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.101
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.102
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.103
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.104
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.105
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.106
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.107
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.108
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.109
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.110
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.111
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.112
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.113
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.114
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.115
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.116
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.117
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.118
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.119
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.120
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.121
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.122
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.123
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.124
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.125
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.126
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.127
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.128
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.129
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.130
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.131
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.132
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.133
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.134
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.135
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.136
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.137
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.138
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.139
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.140
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.141
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.142
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.143
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.144
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.145
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.146
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.147
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.148
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.149
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.150
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.151
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.152
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.153
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.154
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.155
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.156
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.157
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.158
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract fleck.159
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: woven rug.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 0
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 1
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 10
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 11
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 2
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 3
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 4
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 5
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 6
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 7
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 8
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: abstract palette patch 9
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flat organic painted stroke 0
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flat organic painted stroke 1
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flat organic painted stroke 2
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flat organic painted stroke 3
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: flat organic painted stroke 4
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: picture backing
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: picture frame edge
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: picture frame edge.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: picture frame side
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: picture frame side.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: folded ivory fan shade
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: sconce curved support
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: sconce wall plate
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: folded ivory fan shade.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: sconce curved support.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: sconce wall plate.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: ceiling canopy
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: central brass body
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: curling brass branch.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: hanging chain approximation
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: leaf sprig.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: small warm bulb.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.001
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.002
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.003
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.004
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.005
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.006
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.007
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.008
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.009
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.010
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.011
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.012
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.013
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.014
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.015
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.016
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.017
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.018
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.019
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.020
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.021
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.022
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.023
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.024
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.025
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.026
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.027
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.028
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: warm crystal leaf.029
+23:04:02 | INFO: Primitives created: 1
+23:04:02 | INFO: Extracting primitive: soft cream sheer folds
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: soft cream sheer folds.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: curtain rod
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: soft cream sheer folds.002
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: soft cream sheer folds.003
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: curtain rod.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 0.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 1.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 10.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 11.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 2.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 3.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 4.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 5.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 6.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 7.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 8.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: abstract palette patch 9.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: flat organic painted stroke 0.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: flat organic painted stroke 1.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: flat organic painted stroke 2.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: flat organic painted stroke 3.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: flat organic painted stroke 4.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture backing.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame edge.002
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame edge.003
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame side.002
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame side.003
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: orange cast light
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture backing.002
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame edge.004
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame edge.005
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame side.004
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: picture frame side.005
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: warm window-light photograph
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: window bar
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: window bar.001
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Extracting primitive: window crossbar
+23:04:03 | INFO: Primitives created: 1
+23:04:03 | INFO: Finished glTF 2.0 export in 2.1483781337738037 s
+EGL Error (0x3009): EGL_BAD_MATCH: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+EGL Error (0x3009): EGL_BAD_MATCH: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+Blender 4.3.2
+Read blend: "/workspace/apartment-model/scene-base.blend"
+Fra:1 Mem:260.08M (Peak 267.71M) | Time:00:08.31 | Rendering 1 / 8 samples
+Fra:1 Mem:260.08M (Peak 267.71M) | Time:00:14.67 | Rendering 8 / 8 samples
+Saved: '/workspace/apartment-model/renders/preview-living-a.jpg'
+Time: 00:14.90 (Saving: 00:00.21)
+
+Fra:1 Mem:260.08M (Peak 267.87M) | Time:00:04.05 | Rendering 1 / 8 samples
+Fra:1 Mem:260.08M (Peak 267.87M) | Time:00:10.32 | Rendering 8 / 8 samples
+Saved: '/workspace/apartment-model/renders/preview-her-office-a.jpg'
+Time: 00:10.39 (Saving: 00:00.05)
+
+Fra:1 Mem:260.09M (Peak 267.87M) | Time:00:07.30 | Rendering 1 / 8 samples
+Fra:1 Mem:260.09M (Peak 267.87M) | Time:00:13.69 | Rendering 8 / 8 samples
+Saved: '/workspace/apartment-model/renders/preview-bedroom-flex-b.jpg'
+Time: 00:13.79 (Saving: 00:00.08)
+
+
+Info: Saved "integrated.blend"
+INTEGRATED_READY
+
+Blender quit

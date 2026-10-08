@@ -1,0 +1,16 @@
+{
+  "change": "Honeywell head full diffuser replaced by two narrow LED bars and clear central aperture. Outer rim, product envelope, position, allother furniture and measured room unchanged.",
+  "previous_scene_sha256": "fe372ec6700a742dcd54c5a9349132bbda089da269c7b98e3429b2a4be5f80c7",
+  "current_scene_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "rerendered_views": [
+    "room-a"
+  ],
+  "preserved_views": [
+    "room-b",
+    "room-c",
+    "room-d"
+  ],
+  "preservation_basis": "Corrected head geometry is entirelyoutside these camera frusta. lamp-visibility.json records projectionbounds; CminX1.0965 isbeyond normalizedimage edge1.0. Visible geometry/camera/lighting settings unchanged. Full assembly differs onlyin invisiblelamphead; preserved images aregeometry-reference views, notclaims of pixel-identical indirectlighting under revisedemission area.",
+  "generation_guides": "Existing generation-guide copies remain immutable; theyrecord earlier actualguidepixels and sourceproductphoto controlled lamp appearance.",
+  "updated_utc": "2026-10-08T15:57:37.863313+00:00"
+}

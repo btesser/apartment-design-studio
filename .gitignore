@@ -1,0 +1,18 @@
+# Reinstallable dependencies and Python caches.
+node_modules
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+.DS_Store
+
+# Workspace runtime folders, not design artifacts.
+/library-files/
+/scratch/
+/shared/
+
+# Authentication belongs in the environment, outside the project history.
+.env
+.env.*
+!.env.example
+

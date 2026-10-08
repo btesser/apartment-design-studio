@@ -1,0 +1,401 @@
+{
+  "source_file": "/workspace/his-office-redesign/model/keepers-and-taskchairs.blend",
+  "source_sha256": "fa12bf7c85e5e8ec96af458d50b9f4dc19452848ea649037ca841d019f6b2ba2",
+  "layout_sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09",
+  "method": "Read-only evaluated native Blender mesh bounds and pairwise world-space triangle BVH surface intersections. No source saved or placement changed.",
+  "limits": [
+    "Zero surface intersections does not independently prove absence of fully contained solids.",
+    "Keeper desk frame, lamp U-base and cat branch geometry are dimensioned photo-based review proxies; actual unmeasured owned components may differ.",
+    "Caster motion and human circulation are checked separately using conservative nominal envelopes.",
+    "Scene comparison tolerances refer to export/transform parity, not site measurement accuracy."
+  ],
+  "root_position_parity": [
+    {
+      "scene_root": "kept-uplift-desk",
+      "layout_id": "uplift-main-desk",
+      "actual_position_blender_m": [
+        -6.949999809265137,
+        -0.13099999725818634,
+        1.5750000476837158
+      ],
+      "canonical_position_blender_m": [
+        -6.95,
+        -0.131,
+        1.575
+      ],
+      "max_position_difference_m": 1.9073486345888568e-07,
+      "matches_canonical_within_1e_minus_5_m": true
+    },
+    {
+      "scene_root": "kept-honeywell-02e-pro",
+      "layout_id": "honeywell-lamp",
+      "actual_position_blender_m": [
+        -7.670000076293945,
+        -0.23999999463558197,
+        1.5750000476837158
+      ],
+      "canonical_position_blender_m": [
+        -7.67,
+        -0.24,
+        1.575
+      ],
+      "max_position_difference_m": 7.629394538355427e-08,
+      "matches_canonical_within_1e_minus_5_m": true
+    },
+    {
+      "scene_root": "kept-muttros-cat-tree",
+      "layout_id": "muttros-cat-tree",
+      "actual_position_blender_m": [
+        -7.590000152587891,
+        -1.0,
+        1.5750000476837158
+      ],
+      "canonical_position_blender_m": [
+        -7.59,
+        -1.0,
+        1.575
+      ],
+      "max_position_difference_m": 1.5258789076710855e-07,
+      "matches_canonical_within_1e_minus_5_m": true
+    },
+    {
+      "scene_root": "branch-pro-task-chair-1",
+      "layout_id": "branch-primary",
+      "actual_position_blender_m": [
+        -6.820000171661377,
+        -0.8500000238418579,
+        1.5750000476837158
+      ],
+      "canonical_position_blender_m": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "max_position_difference_m": 1.716613766689079e-07,
+      "matches_canonical_within_1e_minus_5_m": true
+    },
+    {
+      "scene_root": "branch-pro-task-chair-2",
+      "layout_id": "branch-secondary",
+      "actual_position_blender_m": [
+        -5.400000095367432,
+        -0.800000011920929,
+        1.5750000476837158
+      ],
+      "canonical_position_blender_m": [
+        -5.4,
+        -0.8,
+        1.575
+      ],
+      "max_position_difference_m": 9.536743128535363e-08,
+      "matches_canonical_within_1e_minus_5_m": true
+    }
+  ],
+  "canonical_position_parity_pass": true,
+  "tested_group_pairs": [
+    {
+      "groups": [
+        "kept-uplift-desk",
+        "kept-muttros-cat-tree"
+      ],
+      "broad_phase_overlaps": [],
+      "triangle_surface_intersections": []
+    },
+    {
+      "groups": [
+        "kept-uplift-desk",
+        "kept-honeywell-02e-pro"
+      ],
+      "broad_phase_overlaps": [],
+      "triangle_surface_intersections": []
+    },
+    {
+      "groups": [
+        "kept-honeywell-02e-pro",
+        "kept-muttros-cat-tree"
+      ],
+      "broad_phase_overlaps": [],
+      "triangle_surface_intersections": []
+    },
+    {
+      "groups": [
+        "kept-uplift-desk",
+        "branch-pro-task-chair-1"
+      ],
+      "broad_phase_overlaps": [
+        [
+          "Height keypad",
+          "branch-pro-task-chair-1::Mesh_0"
+        ]
+      ],
+      "triangle_surface_intersections": []
+    },
+    {
+      "groups": [
+        "kept-uplift-desk",
+        "branch-pro-task-chair-2"
+      ],
+      "broad_phase_overlaps": [],
+      "triangle_surface_intersections": []
+    },
+    {
+      "groups": [
+        "kept-muttros-cat-tree",
+        "branch-pro-task-chair-1"
+      ],
+      "broad_phase_overlaps": [],
+      "triangle_surface_intersections": []
+    }
+  ],
+  "keeper_proxy_surface_intersection_count": 0,
+  "cat_basket_parts": [
+    {
+      "part": "High side wicker basket brown fleece cushion",
+      "bounds_blender_m": [
+        [
+          -7.796249866485596,
+          -1.4462499618530273,
+          2.6549999713897705
+        ],
+        [
+          -7.59375,
+          -1.243749976158142,
+          2.705000162124634
+        ]
+      ]
+    },
+    {
+      "part": "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+      "bounds_blender_m": [
+        [
+          -7.884744167327881,
+          -1.534531831741333,
+          2.650848865509033
+        ],
+        [
+          -7.505256175994873,
+          -1.155468225479126,
+          2.761183261871338
+        ]
+      ]
+    },
+    {
+      "part": "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+      "bounds_blender_m": [
+        [
+          -7.885300159454346,
+          -1.5352977514266968,
+          2.651787519454956
+        ],
+        [
+          -7.504701614379883,
+          -1.1547023057937622,
+          2.763425350189209
+        ]
+      ]
+    },
+    {
+      "part": "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+      "bounds_blender_m": [
+        [
+          -7.674744129180908,
+          -0.844531774520874,
+          2.0048489570617676
+        ],
+        [
+          -7.2952561378479,
+          -0.46546822786331177,
+          2.1151833534240723
+        ]
+      ]
+    },
+    {
+      "part": "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+      "bounds_blender_m": [
+        [
+          -7.675300121307373,
+          -0.8452976942062378,
+          2.0057873725891113
+        ],
+        [
+          -7.29470157623291,
+          -0.4647022485733032,
+          2.1174254417419434
+        ]
+      ]
+    },
+    {
+      "part": "kept-muttros-cat-tree::Top wicker basket crossing wicker strand",
+      "bounds_blender_m": [
+        [
+          -7.909033298492432,
+          -1.3087704181671143,
+          2.942838191986084
+        ],
+        [
+          -7.460967063903809,
+          -0.8612295389175415,
+          3.0707976818084717
+        ]
+      ]
+    },
+    {
+      "part": "kept-muttros-cat-tree::Top wicker basket woven horizontal cours",
+      "bounds_blender_m": [
+        [
+          -7.909590244293213,
+          -1.3095883131027222,
+          2.9439926147460938
+        ],
+        [
+          -7.460411548614502,
+          -0.8604116439819336,
+          3.0730252265930176
+        ]
+      ]
+    },
+    {
+      "part": "Low side wicker basket brown fleece cushion",
+      "bounds_blender_m": [
+        [
+          -7.586249828338623,
+          -0.7562499046325684,
+          2.008999824523926
+        ],
+        [
+          -7.383749961853027,
+          -0.5537499785423279,
+          2.059000015258789
+        ]
+      ]
+    },
+    {
+      "part": "Top wicker basket brown fleece cushion",
+      "bounds_blender_m": [
+        [
+          -7.804766654968262,
+          -1.2047665119171143,
+          2.947000026702881
+        ],
+        [
+          -7.56523323059082,
+          -0.9652334451675415,
+          2.997000217437744
+        ]
+      ]
+    }
+  ],
+  "lamp_base_parts": [
+    {
+      "part": "U-base closed crossbar",
+      "bounds_blender_m": [
+        [
+          -7.793499946594238,
+          -0.47099998593330383,
+          1.5750000476837158
+        ],
+        [
+          -7.546500205993652,
+          -0.4009999930858612,
+          1.5989999771118164
+        ]
+      ]
+    },
+    {
+      "part": "U-base open prong",
+      "bounds_blender_m": [
+        [
+          -7.7935004234313965,
+          -0.44099998474121094,
+          1.5750000476837158
+        ],
+        [
+          -7.7144999504089355,
+          -0.003000006079673767,
+          1.5989999771118164
+        ]
+      ]
+    },
+    {
+      "part": "U-base open prong.001",
+      "bounds_blender_m": [
+        [
+          -7.625500202178955,
+          -0.44099998474121094,
+          1.5750000476837158
+        ],
+        [
+          -7.546499729156494,
+          -0.003000006079673767,
+          1.5989999771118164
+        ]
+      ]
+    }
+  ],
+  "lamp_stem_parts": [
+    {
+      "part": "Slim rectangular upright",
+      "bounds_blender_m": [
+        [
+          -7.689499855041504,
+          -0.41999998688697815,
+          1.5989999771118164
+        ],
+        [
+          -7.650500297546387,
+          -0.3699999749660492,
+          3.5310001373291016
+        ]
+      ]
+    }
+  ],
+  "uplift_foot_parts": [
+    {
+      "part": "C-frame steel foot",
+      "bounds_blender_m": [
+        [
+          -7.436999797821045,
+          -0.48151999711990356,
+          1.5820001363754272
+        ],
+        [
+          -7.367000102996826,
+          0.21952001750469208,
+          1.6160000562667847
+        ]
+      ]
+    },
+    {
+      "part": "C-frame steel foot.001",
+      "bounds_blender_m": [
+        [
+          -6.532999515533447,
+          -0.48151999711990356,
+          1.5820001363754272
+        ],
+        [
+          -6.4629998207092285,
+          0.21952001750469208,
+          1.6160000562667847
+        ]
+      ]
+    }
+  ],
+  "uplift_top_parts": [
+    {
+      "part": "kept-uplift-desk::solid wood barkline top",
+      "bounds_blender_m": [
+        [
+          -7.483399868011475,
+          -0.5119988918304443,
+          2.270550012588501
+        ],
+        [
+          -6.416599750518799,
+          0.25,
+          2.315000057220459
+        ]
+      ]
+    }
+  ]
+}

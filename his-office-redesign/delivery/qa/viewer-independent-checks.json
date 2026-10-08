@@ -1,0 +1,447 @@
+{
+  "source": "http://127.0.0.1:8770",
+  "errors": [],
+  "views": [
+    {
+      "id": "room-a",
+      "initial": {
+        "mode": "walk",
+        "selectedView": "room-a",
+        "position": [
+          -3.46,
+          3.125,
+          2.34
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 73,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ],
+        "clear": true
+      },
+      "actualPressedKeys": [
+        "KeyW"
+      ],
+      "afterWPosition": [
+        -3.5113922084511167,
+        3.125,
+        2.3051395509107806
+      ],
+      "actualWDistanceM": 0.062100000001490165,
+      "actualKeyboardPass": true
+    },
+    {
+      "id": "room-b",
+      "initial": {
+        "mode": "walk",
+        "selectedView": "room-b",
+        "position": [
+          -7.48,
+          3.125,
+          2.27
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 73,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ],
+        "clear": true
+      },
+      "actualPressedKeys": [
+        "KeyW"
+      ],
+      "afterWPosition": [
+        -7.425308178388566,
+        3.125,
+        2.232346784352128
+      ],
+      "actualWDistanceM": 0.0663999999985097,
+      "actualKeyboardPass": true
+    },
+    {
+      "id": "room-c",
+      "initial": {
+        "mode": "walk",
+        "selectedView": "room-c",
+        "position": [
+          -4.18,
+          3.125,
+          0.35
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 73,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ],
+        "clear": true
+      },
+      "actualPressedKeys": [
+        "KeyW"
+      ],
+      "afterWPosition": [
+        -4.216286827614304,
+        3.125,
+        0.3849775090921382
+      ],
+      "actualWDistanceM": 0.05040000000596107,
+      "actualKeyboardPass": true
+    },
+    {
+      "id": "room-d",
+      "initial": {
+        "mode": "walk",
+        "selectedView": "room-d",
+        "position": [
+          -7.23,
+          3.125,
+          1.74
+        ],
+        "assets": {
+          "doors": "loaded",
+          "shell": "loaded",
+          "furniture": "loaded"
+        },
+        "furniture": true,
+        "doorsHidden": false,
+        "doorMeshCount": 13,
+        "closetSuggestionMeshCount": 73,
+        "closetSuggestionVisible": false,
+        "bounds": [
+          -8.030000019818544,
+          1.5349999479949474,
+          -0.3600001867170663,
+          -3.0299999229609966,
+          4.635000050067902,
+          2.937000084668398
+        ],
+        "clear": true
+      },
+      "actualPressedKeys": [
+        "KeyW"
+      ],
+      "afterWPosition": [
+        -7.180529545710212,
+        3.125,
+        1.728902065387462
+      ],
+      "actualWDistanceM": 0.05070000000298035,
+      "actualKeyboardPass": true
+    }
+  ],
+  "fireplaceRays": [
+    {
+      "originGltfM": [
+        -5.535,
+        1.75,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.535,
+          1.75,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.535,
+        2.1,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.535,
+          2.1,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.535,
+        2.32,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.535,
+          2.32,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.315,
+        1.75,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.315,
+          1.75,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.315,
+        2.1,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.315,
+          2.1,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.315,
+        2.32,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.315,
+          2.32,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.095,
+        1.75,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.095,
+          1.75,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.095,
+        2.1,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.095,
+          2.1,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.095,
+        2.32,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.095,
+          2.32,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.315,
+        2.43,
+        2
+      ],
+      "expectedObject": "Observed_recessed_white_arched_fireplace_infill",
+      "expectedSurfaceZ": 2.835,
+      "actual": {
+        "name": "Observed_recessed_white_arched_fireplace_infill",
+        "point": [
+          -5.315,
+          2.43,
+          2.8350000381469727
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.69,
+        2.02,
+        2
+      ],
+      "expectedObject": "Observed_brick_chimney_projection",
+      "expectedSurfaceZ": 2.722,
+      "actual": {
+        "name": "Observed_brick_chimney_projection",
+        "point": [
+          -5.69,
+          2.02,
+          2.721999891102314
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -4.94,
+        2.02,
+        2
+      ],
+      "expectedObject": "Observed_brick_chimney_projection",
+      "expectedSurfaceZ": 2.722,
+      "actual": {
+        "name": "Observed_brick_chimney_projection",
+        "point": [
+          -4.94,
+          2.02,
+          2.721999891102314
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -5.315,
+        2.53,
+        2
+      ],
+      "expectedObject": "Observed_brick_chimney_projection",
+      "expectedSurfaceZ": 2.722,
+      "actual": {
+        "name": "Observed_brick_chimney_projection",
+        "point": [
+          -5.315,
+          2.53,
+          2.721999891102314
+        ]
+      },
+      "pass": true
+    }
+  ],
+  "screenshots": [
+    "viewer-room-a.png",
+    "viewer-room-b.png",
+    "viewer-room-c.png",
+    "viewer-room-d.png"
+  ],
+  "initial": {
+    "mode": "orbit",
+    "selectedView": "overview",
+    "position": [
+      -1.330000000000001,
+      7.075,
+      6.640000000000001
+    ],
+    "assets": {
+      "doors": "loaded",
+      "shell": "loaded",
+      "furniture": "loaded"
+    },
+    "furniture": true,
+    "doorsHidden": false,
+    "doorMeshCount": 13,
+    "closetSuggestionMeshCount": 73,
+    "closetSuggestionVisible": false,
+    "bounds": [
+      -8.030000019818544,
+      1.5349999479949474,
+      -0.3600001867170663,
+      -3.0299999229609966,
+      4.635000050067902,
+      2.937000084668398
+    ]
+  },
+  "allFourTeleportsAndActualKeyboardPass": true,
+  "fireplaceRayPass": true,
+  "noPageErrors": true,
+  "viewerAssetProof": {
+    "file": "/workspace/his-office-redesign/viewer-source/tests/final-asset-proof.json",
+    "sha256": "5403d5de4eea787bb445d047ccd70955fe9eea0f8b2a00fc00599bfc7967c3c7"
+  },
+  "limit": "Browser keyboard/clear-start and topology smoke check, not metric real installation or walkable-person clearance certification."
+}

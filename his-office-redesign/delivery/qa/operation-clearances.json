@@ -1,0 +1,106 @@
+{
+  "canonical_layout_sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09",
+  "native_source_scene_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "product_catalog_sha256": "e423652a3905d7540314eff8897ac0de4ae6acec2e9ad2577fa6acfcdcd9fa4f",
+  "method": "Nominal canonical product envelopes and conservative caster circles, plus evaluated actual proxy part bounds. Metres in native Blender coordinates.",
+  "clearance_values_m": {
+    "dresser_rear_door_planning_rectangle_x_gap_m": 0.030750000000001165,
+    "dresser_conservative_hearth_x_gap_m": 0.15075000000000038,
+    "dresser_radiator_broad_x_gap_m": 0.48075000000000045,
+    "dresser_drawer_verified_travel_m": 0.276225,
+    "dresser_drawer_front_when_fully_open_y_m": -1.9940624999999998,
+    "dresser_rear_to_corrected_brick_face_y_gap_m": 0.0872875000000004,
+    "open_drawer_to_main_caster_gap_working_m": 0.7935424999999998,
+    "open_drawer_to_main_caster_gap_full_0_45_pullback_m": 0.34354249999999986,
+    "visitor_entry_planning_rectangle_x_gap_m": 0.12932500000000058,
+    "visitor_conservative_hearth_y_gap_m": 0.08947499999999975,
+    "secondary_top_to_closet_approach_x_gap_m": 0.04999999999999982,
+    "secondary_top_to_observed_closet_frame_forward_plane_x_gap_m": 0.9499999999999997,
+    "secondary_nominal_knee_bay_width_between_ALEX_and_ADILS_m": 0.8949999809265137,
+    "lamp_U_base_to_left_desk_steel_foot_horizontal_gap_m": 0.10949993133544922,
+    "lamp_outer_panel_to_broad_pipe_y_gap_m": 0.07494600000000001,
+    "cat_low_basket_top_to_seated_table_underside_vertical_gap_m": 0.15312457084655762,
+    "cat_low_basket_top_to_lowest_nominal_table_underside_vertical_gap_m": 0.07479455825805692,
+    "cat_low_basket_to_lamp_upright_y_gap_m": 0.04470226168632507,
+    "cat_top_basket_back_to_modeled_rear_wall_inner_face_x_gap_m": 0.020409755706786825,
+    "task_caster_disk_gap_between_working_chairs_m": 0.7198400090085016
+  },
+  "caster_on_rug_checks": [
+    {
+      "chair": "branch-primary",
+      "backward_translation_m": 0,
+      "caster_center_blender_xy_m": [
+        -6.82,
+        -0.85
+      ],
+      "rug_edge_margins_left_right_rear_front_m": [
+        0.3010799999999989,
+        1.7410800000000006,
+        0.8138800000000002,
+        0.3138799999999999
+      ],
+      "entire_nominal_caster_circle_on_rug": true
+    },
+    {
+      "chair": "branch-primary",
+      "backward_translation_m": 0.45,
+      "caster_center_blender_xy_m": [
+        -6.82,
+        -1.3
+      ],
+      "rug_edge_margins_left_right_rear_front_m": [
+        0.3010799999999989,
+        1.7410800000000006,
+        0.3638800000000002,
+        0.7638799999999999
+      ],
+      "entire_nominal_caster_circle_on_rug": true
+    },
+    {
+      "chair": "branch-secondary",
+      "backward_translation_m": 0,
+      "caster_center_blender_xy_m": [
+        -5.4,
+        -0.8
+      ],
+      "rug_edge_margins_left_right_rear_front_m": [
+        1.7210799999999988,
+        0.32108000000000064,
+        0.8638800000000002,
+        0.26387999999999995
+      ],
+      "entire_nominal_caster_circle_on_rug": true
+    },
+    {
+      "chair": "branch-secondary",
+      "backward_translation_m": 0.45,
+      "caster_center_blender_xy_m": [
+        -5.4,
+        -1.25
+      ],
+      "rug_edge_margins_left_right_rear_front_m": [
+        1.7210799999999988,
+        0.32108000000000064,
+        0.41388000000000025,
+        0.7138800000000001
+      ],
+      "entire_nominal_caster_circle_on_rug": true
+    }
+  ],
+  "dresser_operation": "Open drawer comfortably accessed in working chair pose; tuck the primary chair before prolonged standing at the dresser. Full chair pullback and open drawers leave only ~34cm nominal separation, not a through passage.",
+  "dresser_mounting": "Selected STORKLINTA SKU 805.592.92 has Anchor/Unlock wall attachment. Its modeled rear is about8.7cm forward of the measured brick plane; mounting hardware reach is not verified. Verify approved masonry attachment/spacer or adjust toward the wall on site before relying on unlock/drawer function.",
+  "closet_operation": "Secondary tabletop clears the conservative approach rectangle; closet leaf hinge/swing is inferred, and shoes/hanging hems/internal shelf capacity are not observed.",
+  "field_checks": [
+    "Measure owned cat-tree full assembled branch/basket offsets and rotate/reposition if needed; top basket proxy is only ~2cm off reconstructed rear wall.",
+    "Measure Honeywell U-base shape/footprint; modeled base is photo-derived despite verified overall panel/height dimensions.",
+    "Check actual door swings and dresser handle clearance against room measurement uncertainty.",
+    "Confirm closet interior depth/width, hanging hems and real GREJIG stacking before installing racks.",
+    "Check UPLIFT actual cable slack and desk/chair settings through height changes.",
+    "Thin area rug and pad contact is compressed/soft in reality; final proxy rests at floor plane without simulating local pad compression."
+  ],
+  "limits": [
+    "Small nominal gaps such as 3cm dresser/door-box and 5cm closet-approach offsets are not reliable surveyed gaps: room outline is generalized by5\u201312cm, fixtures also have stated uncertainty.",
+    "Human-route diameter is a planning assumption, not compliance or ergonomic certification.",
+    "Subcomponent gap numbers describe this review model, not published assembled cat-tree or lamp-base measurements."
+  ]
+}

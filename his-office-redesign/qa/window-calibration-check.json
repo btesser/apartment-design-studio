@@ -1,0 +1,19 @@
+{
+  "source_image": "/workspace/his-office-redesign/geometry/raw-rear-door-window.png",
+  "source_camera_record": "/workspace/his-office-redesign/geometry/raw-camera-poses.json",
+  "independent_review": "Calibrated raw ortho visually inspected; manually read approximate trim anchors and recomputed metric mapping. This corroborates the new window placement; not a field survey or exact edge extraction.",
+  "image_px": [1600, 1500],
+  "horizontal_ortho_width_m": 3.5,
+  "metres_per_pixel": 0.0021875,
+  "camera_center_y_z_m": [-1.24, 3.05],
+  "screen_mapping": "screen-right=+Y; screen-up=+Z; Y=-1.24+(u-800)*.0021875, Z=3.05+(750-v)*.0021875",
+  "anchors": [
+    {"feature": "left outer side trim", "approx_u_v_px": [928,750], "derived_y_m": -0.96},
+    {"feature": "right outer side trim", "approx_u_v_px": [1303,750], "derived_y_m": -0.1396875},
+    {"feature": "outer header", "approx_u_v_px": [1000,148], "derived_z_m": 4.366875},
+    {"feature": "lower outer trim", "approx_u_v_px": [1000,986], "derived_z_m": 2.53375},
+    {"feature": "separate projecting sill decorative board", "approx_u_v_px": [1000,1018], "derived_z_m": 2.46375}
+  ],
+  "decision": "New outer window trim Y[-.96,-.14],Z[2.53,4.37] agrees with independently read raw camera/image anchors. Earlier proxy Y[-.98,.03],Z[2.38,4.23] is too wide and too low.",
+  "limits": "Manual image anchors carry several-pixel uncertainty and scan has warped/partial trim. Sill-board underside is a separate shape from the outer-window trim lower edge. Agent measured tolerance4cm remains appropriate."
+}

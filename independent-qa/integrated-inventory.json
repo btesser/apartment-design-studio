@@ -1,0 +1,42 @@
+{
+  "target": "/workspace/apartment-model/integrated-apartment.glb",
+  "target_vertex_count": 198613,
+  "target_mesh_count": 1384,
+  "layers": {
+    "architectural-shell.glb": {
+      "mesh_nodes_expected": 111,
+      "mesh_nodes_missing": 0,
+      "missing_names": [],
+      "source_vertex_count": 2922,
+      "world_bound_mismatches": []
+    },
+    "observed-fixtures.glb": {
+      "mesh_nodes_expected": 80,
+      "mesh_nodes_missing": 0,
+      "missing_names": [],
+      "source_vertex_count": 17885,
+      "world_bound_mismatches": []
+    },
+    "proposal-furniture.glb": {
+      "mesh_nodes_expected": 1044,
+      "mesh_nodes_missing": 0,
+      "missing_names": [],
+      "source_vertex_count": 156306,
+      "world_bound_mismatches": []
+    },
+    "proposed-dresser.glb": {
+      "mesh_nodes_expected": 21,
+      "mesh_nodes_missing": 0,
+      "missing_names": [],
+      "source_vertex_count": 5630,
+      "world_bound_mismatches": []
+    },
+    "entry-design.glb": {
+      "mesh_nodes_expected": 128,
+      "mesh_nodes_missing": 0,
+      "missing_names": [],
+      "source_vertex_count": 15870,
+      "world_bound_mismatches": []
+    }
+  }
+}

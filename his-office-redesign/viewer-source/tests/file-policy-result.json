@@ -1,0 +1,6 @@
+{
+  "source": "file:///workspace/his-office-redesign/his-office-viewer.html",
+  "result": "Blocked by the managed Chromium administrator URL policy before the HTML loaded.",
+  "browser_error": "net::ERR_BLOCKED_BY_ADMINISTRATOR",
+  "offline_runtime_check": "offline-results.json validates the same embedded HTML with all HTTP(S) requests blocked."
+}

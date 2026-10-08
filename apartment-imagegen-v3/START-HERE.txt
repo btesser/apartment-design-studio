@@ -1,0 +1,14 @@
+12 generated concept images: two angles for each of the six areas covered by Amy Wu's design mockups.
+
+Start with Amy-design-generated-images.pdf. Each page shows one generated image with its modeled camera and Amy board. Individual full-resolution PNGs are in this folder.
+
+Reference priority: the final scan-registered 3D model controls room geometry, camera, openings, furniture placement and orientation. Amy's boards control materials, colors, finishes and furniture appearance. Both modeled camera angles were supplied to every image-generation call. Reference files and exact generation prompts are included.
+
+These are generated concept images. Independent review checks visible layout and orientation, not measured dimensional accuracy. Use the existing dimensioned 3D model and plans for physical fit. The image generator may add finish details, decorative accessories and conceptual lighting. Artwork or textiles can vary between generated angles. Her office vanity/mirror appear somewhat wider or shifted in the generated image; bedroom headboard and bedding profiles remain fuller than the model after correction. These approximations are disclosed in image-QA.txt; retain the modeled envelopes for fit decisions.
+
+Entry: yellow botanical wallpaper is an option from Amy's board, not a confirmed finish selection. Entry furniture placement remains provisional. The opposite shoe-cabinet wall stays white.
+Bedroom: the full-size proposed dresser leaves about 0.47 m at the bed foot; this model limitation remains. Divider placement/height is provisional.
+Her office: the scan width differs from the approximate listing by about 13%; verify with physical measurement. Loveseat clearance at the hearth is tight.
+Existing living sofa and standing desk dimensions remain estimates. Other unrecorded areas and source uncertainties retain the labels in the original model package.
+
+This image package accompanies the previously delivered apartment-design-v2.zip and apartment-walkthrough.html; it does not replace or modify the editable 3D model.

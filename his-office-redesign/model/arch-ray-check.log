@@ -1,0 +1,9 @@
+ARCHRAY (True, Vector((-5.315000057220459, -2.8350000381469727, 2.200000047683716)), Vector((0.0, 1.0, 0.0)), 1, bpy.data.objects['Observed recessed white arched fireplace infill'], Matrix(((1.0, 0.0, 0.0, 0.0),
+        (0.0, 1.0, 0.0, 0.0),
+        (0.0, 0.0, 1.0, 0.0),
+        (0.0, 0.0, 0.0, 1.0))))
+CHIMNEY 62 35
+Blender 4.3.2
+Read blend: "/workspace/his-office-redesign/model/his-office-shell.blend"
+
+Blender quit

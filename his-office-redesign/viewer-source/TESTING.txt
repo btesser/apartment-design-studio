@@ -1,0 +1,19 @@
+VERIFICATION
+
+HTTP source app: browser controls and PNG export pass with zero errors.
+Embedded standalone HTML: controls and PNG export pass with all HTTP(S)
+requests blocked; no network requests occurred. All four walk starts are clear.
+The managed cloud Chromium policy blocks file:// navigation before loading
+any HTML. See tests/file-policy-result.json. Direct desktop file opening is
+therefore not verified in this environment. The standalone file embeds every
+model, texture and library and requires no server or network.
+
+See tests/final-asset-proof.json for canonical-to-embedded GLB hashes.
+
+The corrected lamp passes 13 exported-viewer rays: 9 through its empty aperture,
+2 on the narrow LED bars and 2 on the fixed perimeter. LED positive controls
+sit 5 mm away from a triangulation edge. The separate exact-center diagnostic
+hits the solid bar with standard Three.js raycasting; accelerated BVH can
+miss that edge-adjacent point numerically. No geometry change is needed.
+See tests/lamp-aperture-results.json. To repeat the HTTP check after starting
+the source server, run npm run test:lamp.

@@ -1,0 +1,1247 @@
+{
+  "coordinate_frame": "Unscaled native Polycam Blender meters, Z up. GLB exportY-up maps(x,y,z) to(x,z,-y).",
+  "collection": "His Office \u2014 kept products and two Branch task chairs",
+  "proxy_notes": "Dimensioned form proxies. Not a claim of exact vendor CAD; source geometry/material adjustments documented by product.",
+  "products": [
+    {
+      "id": "kept-uplift-desk",
+      "product_name": "Owned UPLIFT V2 Pheasantwood42\u00d730in",
+      "position_blender_m": [
+        -6.95,
+        -0.131,
+        1.575
+      ],
+      "external_dimensions_m": [
+        1.0668,
+        0.762,
+        0.74
+      ],
+      "rotation_z_deg": 0,
+      "product_url": "https://www.upliftdesk.com/desktop-lookbook/",
+      "dimension_confidence": "Exact user-order top42\u00d730in,1.75in thickness; frame and grommet spacing approximated from official photos",
+      "dimension_source": "Keeper research / exact selected products",
+      "world_bounds_blender_m": [
+        [
+          -7.483399868011475,
+          -0.5209999680519104,
+          1.5750000476837158
+        ],
+        [
+          -6.416599750518799,
+          0.25,
+          2.317499876022339
+        ]
+      ],
+      "mesh_component_count": 21,
+      "actual_world_bbox_dimensions_m": [
+        1.0668001174926758,
+        0.7709999680519104,
+        0.742499828338623
+      ],
+      "notes": {
+        "product_name": "Owned UPLIFT V2 Pheasantwood42\u00d730in",
+        "product_url": "https://www.upliftdesk.com/desktop-lookbook/",
+        "dimension_confidence": "Exact user-order top42\u00d730in,1.75in thickness; frame and grommet spacing approximated from official photos",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": [
+          1.0668,
+          0.762,
+          0.74
+        ],
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "front_vector_blender": [
+          0,
+          -1,
+          0
+        ],
+        "back_vector_blender": [
+          0,
+          1,
+          0
+        ]
+      },
+      "component_bounds": {
+        "kept-uplift-desk::solid wood barkline top": [
+          [
+            -7.483399868011475,
+            -0.5119988918304443,
+            2.270550012588501
+          ],
+          [
+            -6.416599750518799,
+            0.25,
+            2.315000057220459
+          ]
+        ],
+        "C-frame steel foot": [
+          [
+            -7.436999797821045,
+            -0.48151999711990356,
+            1.5820001363754272
+          ],
+          [
+            -7.367000102996826,
+            0.21952001750469208,
+            1.6160000562667847
+          ]
+        ],
+        "Foot glide": [
+          [
+            -7.430999755859375,
+            -0.4659999907016754,
+            1.5750000476837158
+          ],
+          [
+            -7.373000144958496,
+            -0.4259999692440033,
+            1.5859999656677246
+          ]
+        ],
+        "Foot glide.001": [
+          [
+            -7.430999755859375,
+            0.164000004529953,
+            1.5750000476837158
+          ],
+          [
+            -7.373000144958496,
+            0.20399999618530273,
+            1.5859999656677246
+          ]
+        ],
+        "V2 lower slim stage": [
+          [
+            -7.424999713897705,
+            -0.030999992042779922,
+            1.6000001430511475
+          ],
+          [
+            -7.379000186920166,
+            0.025000009685754776,
+            1.9100000858306885
+          ]
+        ],
+        "V2 middle stage": [
+          [
+            -7.430999755859375,
+            -0.03949999064207077,
+            1.842000126838684
+          ],
+          [
+            -7.373000144958496,
+            0.033500008285045624,
+            2.1020002365112305
+          ]
+        ],
+        "V2 upper stage": [
+          [
+            -7.438499927520752,
+            -0.04849999025464058,
+            2.0435001850128174
+          ],
+          [
+            -7.365499973297119,
+            0.04250000789761543,
+            2.2685000896453857
+          ]
+        ],
+        "Underside side bracket": [
+          [
+            -7.446000099182129,
+            -0.4710000157356262,
+            2.2545502185821533
+          ],
+          [
+            -7.357999801635742,
+            0.20900000631809235,
+            2.270550012588501
+          ]
+        ],
+        "V2 triangular stability brace": [
+          [
+            -7.421000003814697,
+            -0.132716566324234,
+            2.144042730331421
+          ],
+          [
+            -7.382999897003174,
+            0.010716577991843224,
+            2.2679574489593506
+          ]
+        ],
+        "C-frame steel foot.001": [
+          [
+            -6.532999515533447,
+            -0.48151999711990356,
+            1.5820001363754272
+          ],
+          [
+            -6.4629998207092285,
+            0.21952001750469208,
+            1.6160000562667847
+          ]
+        ],
+        "Foot glide.002": [
+          [
+            -6.526999473571777,
+            -0.4659999907016754,
+            1.5750000476837158
+          ],
+          [
+            -6.468999862670898,
+            -0.4259999692440033,
+            1.5859999656677246
+          ]
+        ],
+        "Foot glide.003": [
+          [
+            -6.526999473571777,
+            0.164000004529953,
+            1.5750000476837158
+          ],
+          [
+            -6.468999862670898,
+            0.20399999618530273,
+            1.5859999656677246
+          ]
+        ],
+        "V2 lower slim stage.001": [
+          [
+            -6.520999431610107,
+            -0.030999992042779922,
+            1.6000001430511475
+          ],
+          [
+            -6.474999904632568,
+            0.025000009685754776,
+            1.9100000858306885
+          ]
+        ],
+        "V2 middle stage.001": [
+          [
+            -6.526999473571777,
+            -0.03949999064207077,
+            1.842000126838684
+          ],
+          [
+            -6.468999862670898,
+            0.033500008285045624,
+            2.1020002365112305
+          ]
+        ],
+        "V2 upper stage.001": [
+          [
+            -6.534499645233154,
+            -0.04849999025464058,
+            2.0435001850128174
+          ],
+          [
+            -6.4614996910095215,
+            0.04250000789761543,
+            2.2685000896453857
+          ]
+        ],
+        "Underside side bracket.001": [
+          [
+            -6.541999816894531,
+            -0.4710000157356262,
+            2.2545502185821533
+          ],
+          [
+            -6.4539995193481445,
+            0.20900000631809235,
+            2.270550012588501
+          ]
+        ],
+        "V2 triangular stability brace.001": [
+          [
+            -6.5169997215271,
+            -0.132716566324234,
+            2.144042730331421
+          ],
+          [
+            -6.478999614715576,
+            0.010716577991843224,
+            2.2679574489593506
+          ]
+        ],
+        "Hidden upper crossbar": [
+          [
+            -7.404999732971191,
+            -0.03049999475479126,
+            2.198499917984009
+          ],
+          [
+            -6.494999885559082,
+            0.03450000286102295,
+            2.2634999752044678
+          ]
+        ],
+        "Two brushed nickel grommet covers": [
+          [
+            -7.341999530792236,
+            0.09700001776218414,
+            2.314500093460083
+          ],
+          [
+            -7.257999897003174,
+            0.1810000091791153,
+            2.317499876022339
+          ]
+        ],
+        "Two brushed nickel grommet covers.001": [
+          [
+            -6.6419997215271,
+            0.09700001776218414,
+            2.314500093460083
+          ],
+          [
+            -6.558000087738037,
+            0.1810000091791153,
+            2.317499876022339
+          ]
+        ],
+        "Height keypad": [
+          [
+            -6.679960250854492,
+            -0.5209999680519104,
+            2.2739999294281006
+          ],
+          [
+            -6.579959869384766,
+            -0.49299997091293335,
+            2.2980000972747803
+          ]
+        ]
+      }
+    },
+    {
+      "id": "kept-honeywell-02e-pro",
+      "product_name": "Owned Honeywell02E Pro10400lm white",
+      "position_blender_m": [
+        -7.67,
+        -0.24,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.288036,
+        0.610108,
+        1.9685
+      ],
+      "rotation_z_deg": 0,
+      "product_url": "https://www.amazon.com/dp/B0C3BVYTXP",
+      "dimension_confidence": "Exact overall dimensions. U-base separate dimensions approximate; do not substitute6000lm02E.",
+      "dimension_source": "Keeper research / exact selected products",
+      "world_bounds_blender_m": [
+        [
+          -7.8140177726745605,
+          -0.545054018497467,
+          1.5750000476837158
+        ],
+        [
+          -7.52598237991333,
+          0.0650540143251419,
+          3.5435001850128174
+        ]
+      ],
+      "mesh_component_count": 11,
+      "actual_world_bbox_dimensions_m": [
+        0.28803539276123047,
+        0.610108032822609,
+        1.9685001373291016
+      ],
+      "notes": {
+        "product_name": "Owned Honeywell02E Pro10400lm white",
+        "product_url": "https://www.amazon.com/dp/B0C3BVYTXP",
+        "dimension_confidence": "Exact overall dimensions. U-base separate dimensions approximate; do not substitute6000lm02E.",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": [
+          0.288036,
+          0.610108,
+          1.9685
+        ],
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "panel_long_axis_blender": [
+          0,
+          1,
+          0
+        ],
+        "head_form_status": "Source-photo open rectangular perimeter with two narrow parallel LED bars and empty center; outer envelope unchanged",
+        "base_dimensions_status": "U-base shape from exact photos; .247\u00d7.438m proxy size is unverified, inside exact overall envelope"
+      },
+      "component_bounds": {
+        "U-base closed crossbar": [
+          [
+            -7.793499946594238,
+            -0.47099998593330383,
+            1.5750000476837158
+          ],
+          [
+            -7.546500205993652,
+            -0.4009999930858612,
+            1.5989999771118164
+          ]
+        ],
+        "U-base open prong": [
+          [
+            -7.7935004234313965,
+            -0.44099998474121094,
+            1.5750000476837158
+          ],
+          [
+            -7.7144999504089355,
+            -0.003000006079673767,
+            1.5989999771118164
+          ]
+        ],
+        "U-base open prong.001": [
+          [
+            -7.625500202178955,
+            -0.44099998474121094,
+            1.5750000476837158
+          ],
+          [
+            -7.546499729156494,
+            -0.003000006079673767,
+            1.5989999771118164
+          ]
+        ],
+        "Slim rectangular upright": [
+          [
+            -7.689499855041504,
+            -0.41999998688697815,
+            1.5989999771118164
+          ],
+          [
+            -7.650500297546387,
+            -0.3699999749660492,
+            3.5310001373291016
+          ]
+        ],
+        "Rotary dimming knob": [
+          [
+            -7.649499893188477,
+            -0.4099999666213989,
+            2.619999885559082
+          ],
+          [
+            -7.638500213623047,
+            -0.3799999952316284,
+            2.6500000953674316
+          ]
+        ],
+        "Rectangular panel long rim": [
+          [
+            -7.8140177726745605,
+            -0.545054018497467,
+            3.5134999752044678
+          ],
+          [
+            -7.796018123626709,
+            0.0650540143251419,
+            3.5435001850128174
+          ]
+        ],
+        "Rectangular panel long rim.001": [
+          [
+            -7.543982028961182,
+            -0.545054018497467,
+            3.5134999752044678
+          ],
+          [
+            -7.52598237991333,
+            0.0650540143251419,
+            3.5435001850128174
+          ]
+        ],
+        "Rectangular panel end rim": [
+          [
+            -7.798017978668213,
+            -0.545054018497467,
+            3.5134999752044678
+          ],
+          [
+            -7.541982173919678,
+            -0.5270540118217468,
+            3.5435001850128174
+          ]
+        ],
+        "Rectangular panel end rim.001": [
+          [
+            -7.798017978668213,
+            0.04705401137471199,
+            3.5134999752044678
+          ],
+          [
+            -7.541982173919678,
+            0.0650540143251419,
+            3.5435001850128174
+          ]
+        ],
+        "Narrow parallel LED light bar": [
+          [
+            -7.763999938964844,
+            -0.5245540142059326,
+            3.5154998302459717
+          ],
+          [
+            -7.72599983215332,
+            0.04455401003360748,
+            3.5264999866485596
+          ]
+        ],
+        "Narrow parallel LED light bar.001": [
+          [
+            -7.61400032043457,
+            -0.5245540142059326,
+            3.5154998302459717
+          ],
+          [
+            -7.576000213623047,
+            0.04455401003360748,
+            3.5264999866485596
+          ]
+        ]
+      }
+    },
+    {
+      "id": "kept-muttros-cat-tree",
+      "product_name": "Owned MUTTROS59in brown3wicker-basket tree",
+      "position_blender_m": [
+        -7.59,
+        -1.0,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.59944,
+        0.5588,
+        1.4986
+      ],
+      "rotation_z_deg": 0,
+      "product_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+      "dimension_confidence": "Exact base/height/components; natural branch positions and overall envelope are provisional, not vendor CAD",
+      "dimension_source": "Keeper research / exact selected products",
+      "world_bounds_blender_m": [
+        [
+          -7.909590244293213,
+          -1.5352977514266968,
+          1.5750000476837158
+        ],
+        [
+          -7.290280342102051,
+          -0.4647022485733032,
+          3.0730252265930176
+        ]
+      ],
+      "mesh_component_count": 42,
+      "actual_world_bbox_dimensions_m": [
+        0.6193099021911621,
+        1.0705955028533936,
+        1.4980251789093018
+      ],
+      "notes": {
+        "product_name": "Owned MUTTROS59in brown3wicker-basket tree",
+        "product_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+        "dimension_confidence": "Exact base/height/components; natural branch positions and overall envelope are provisional, not vendor CAD",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": [
+          0.59944,
+          0.5588,
+          1.4986
+        ],
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "condo_opening_vector_blender": [
+          1,
+          0,
+          0
+        ],
+        "basket_span_axis_blender": [
+          0,
+          1,
+          0
+        ],
+        "upper_envelope_status": "Provisional .7X\u00d71.1Y allocation, not a verified manufacturer envelope"
+      },
+      "component_bounds": {
+        "Triple thickness brown fleece base": [
+          [
+            -7.8897199630737305,
+            -1.2793999910354614,
+            1.5750000476837158
+          ],
+          [
+            -7.290280342102051,
+            -0.7206000089645386,
+            1.6131000518798828
+          ]
+        ],
+        "kept-muttros-cat-tree::arched hollow condo wall": [
+          [
+            -7.7893900871276855,
+            -1.3093900680541992,
+            1.6131000518798828
+          ],
+          [
+            -7.390610218048096,
+            -0.910610020160675,
+            1.9179000854492188
+          ]
+        ],
+        "Condo top plush cushion": [
+          [
+            -7.7893900871276855,
+            -1.3093900680541992,
+            1.905400037765503
+          ],
+          [
+            -7.390610218048096,
+            -0.910610020160675,
+            1.9304001331329346
+          ]
+        ],
+        "Condo dark floor": [
+          [
+            -7.772000312805176,
+            -1.2920000553131104,
+            1.6175999641418457
+          ],
+          [
+            -7.4079999923706055,
+            -0.9280000329017639,
+            1.6326000690460205
+          ]
+        ],
+        "Natural wood branch0-0": [
+          [
+            -7.7429728507995605,
+            -1.193000078201294,
+            1.643465280532837
+          ],
+          [
+            -7.647027492523193,
+            -1.1069998741149902,
+            1.92653489112854
+          ]
+        ],
+        "Natural wood branch0-1": [
+          [
+            -7.770727634429932,
+            -1.210727334022522,
+            1.9218082427978516
+          ],
+          [
+            -7.629272937774658,
+            -1.0692726373672485,
+            2.3081917762756348
+          ]
+        ],
+        "Natural wood branch0-2": [
+          [
+            -7.769435405731201,
+            -1.1893372535705566,
+            2.2995083332061768
+          ],
+          [
+            -7.630565166473389,
+            -1.0406627655029297,
+            2.590492010116577
+          ]
+        ],
+        "Natural wood branch0-3": [
+          [
+            -7.744377613067627,
+            -1.154349684715271,
+            2.583059310913086
+          ],
+          [
+            -7.630622386932373,
+            -1.03065025806427,
+            2.9369406700134277
+          ]
+        ],
+        "Organic branch junction": [
+          [
+            -7.736999988555908,
+            -1.191999912261963,
+            1.8760000467300415
+          ],
+          [
+            -7.64300012588501,
+            -1.1079999208450317,
+            1.974000096321106
+          ]
+        ],
+        "Organic branch junction.001": [
+          [
+            -7.756999969482422,
+            -1.1719999313354492,
+            2.25600004196167
+          ],
+          [
+            -7.663000106811523,
+            -1.087999939918518,
+            2.3540000915527344
+          ]
+        ],
+        "Organic branch junction.002": [
+          [
+            -7.736999988555908,
+            -1.1419999599456787,
+            2.5360000133514404
+          ],
+          [
+            -7.64300012588501,
+            -1.0579999685287476,
+            2.634000062942505
+          ]
+        ],
+        "Natural wood branch1-0": [
+          [
+            -7.542673587799072,
+            -0.8776562809944153,
+            1.6181875467300415
+          ],
+          [
+            -7.422326564788818,
+            -0.7523437142372131,
+            1.8868125677108765
+          ]
+        ],
+        "Natural wood branch1-1": [
+          [
+            -7.54958438873291,
+            -0.8945613503456116,
+            1.8823319673538208
+          ],
+          [
+            -7.420415878295898,
+            -0.7604386210441589,
+            2.1776678562164307
+          ]
+        ],
+        "Natural wood branch1-2": [
+          [
+            -7.551161289215088,
+            -0.9306595325469971,
+            2.1674933433532715
+          ],
+          [
+            -7.438839435577393,
+            -0.784340500831604,
+            2.442506790161133
+          ]
+        ],
+        "Organic branch junction.003": [
+          [
+            -7.5269999504089355,
+            -0.8619999885559082,
+            1.8359999656677246
+          ],
+          [
+            -7.433000087738037,
+            -0.777999997138977,
+            1.934000015258789
+          ]
+        ],
+        "Organic branch junction.004": [
+          [
+            -7.5370001792907715,
+            -0.8769999742507935,
+            2.126000165939331
+          ],
+          [
+            -7.443000316619873,
+            -0.7929999828338623,
+            2.2240002155303955
+          ]
+        ],
+        "Natural wood branch2-0": [
+          [
+            -7.7426910400390625,
+            -1.2315332889556885,
+            2.4901556968688965
+          ],
+          [
+            -7.667308807373047,
+            -1.0884666442871094,
+            2.61484432220459
+          ]
+        ],
+        "Natural wood branch2-1": [
+          [
+            -7.74347448348999,
+            -1.3224706649780273,
+            2.56449031829834
+          ],
+          [
+            -7.661526203155518,
+            -1.1875293254852295,
+            2.6785097122192383
+          ]
+        ],
+        "Organic branch junction.005": [
+          [
+            -7.756999969482422,
+            -1.2519999742507935,
+            2.5410001277923584
+          ],
+          [
+            -7.663000106811523,
+            -1.1679999828338623,
+            2.639000177383423
+          ]
+        ],
+        "Natural wood branch3-0": [
+          [
+            -7.515226364135742,
+            -0.8494899868965149,
+            1.7395755052566528
+          ],
+          [
+            -7.441774368286133,
+            -0.7105099558830261,
+            1.9104245901107788
+          ]
+        ],
+        "Natural wood branch3-1": [
+          [
+            -7.512502193450928,
+            -0.7669388055801392,
+            1.8767434358596802
+          ],
+          [
+            -7.442497730255127,
+            -0.6330611705780029,
+            2.023256540298462
+          ]
+        ],
+        "Organic branch junction.006": [
+          [
+            -7.522000312805176,
+            -0.7820000052452087,
+            1.8459999561309814
+          ],
+          [
+            -7.428000450134277,
+            -0.6980000138282776,
+            1.944000005722046
+          ]
+        ],
+        "kept-muttros-cat-tree::Top wicker basket woven horizontal cours": [
+          [
+            -7.909590244293213,
+            -1.3095883131027222,
+            2.9439926147460938
+          ],
+          [
+            -7.460411548614502,
+            -0.8604116439819336,
+            3.0730252265930176
+          ]
+        ],
+        "kept-muttros-cat-tree::Top wicker basket crossing wicker strand": [
+          [
+            -7.909033298492432,
+            -1.3087704181671143,
+            2.942838191986084
+          ],
+          [
+            -7.460967063903809,
+            -0.8612295389175415,
+            3.0707976818084717
+          ]
+        ],
+        "Top wicker basket brown fleece cushion": [
+          [
+            -7.804766654968262,
+            -1.2047665119171143,
+            2.947000026702881
+          ],
+          [
+            -7.56523323059082,
+            -0.9652334451675415,
+            2.997000217437744
+          ]
+        ],
+        "kept-muttros-cat-tree::High side wicker basket woven horizontal": [
+          [
+            -7.885300159454346,
+            -1.5352977514266968,
+            2.651787519454956
+          ],
+          [
+            -7.504701614379883,
+            -1.1547023057937622,
+            2.763425350189209
+          ]
+        ],
+        "kept-muttros-cat-tree::High side wicker basket crossing wicker ": [
+          [
+            -7.884744167327881,
+            -1.534531831741333,
+            2.650848865509033
+          ],
+          [
+            -7.505256175994873,
+            -1.155468225479126,
+            2.761183261871338
+          ]
+        ],
+        "High side wicker basket brown fleece cushion": [
+          [
+            -7.796249866485596,
+            -1.4462499618530273,
+            2.6549999713897705
+          ],
+          [
+            -7.59375,
+            -1.243749976158142,
+            2.705000162124634
+          ]
+        ],
+        "kept-muttros-cat-tree::Low side wicker basket woven horizontal ": [
+          [
+            -7.675300121307373,
+            -0.8452976942062378,
+            2.0057873725891113
+          ],
+          [
+            -7.29470157623291,
+            -0.4647022485733032,
+            2.1174254417419434
+          ]
+        ],
+        "kept-muttros-cat-tree::Low side wicker basket crossing wicker s": [
+          [
+            -7.674744129180908,
+            -0.844531774520874,
+            2.0048489570617676
+          ],
+          [
+            -7.2952561378479,
+            -0.46546822786331177,
+            2.1151833534240723
+          ]
+        ],
+        "Low side wicker basket brown fleece cushion": [
+          [
+            -7.586249828338623,
+            -0.7562499046325684,
+            2.008999824523926
+          ],
+          [
+            -7.383749961853027,
+            -0.5537499785423279,
+            2.059000015258789
+          ]
+        ],
+        "kept-muttros-cat-tree::Brown fleece suspended bowl hammock": [
+          [
+            -7.788000106811523,
+            -1.1579999923706055,
+            2.2750000953674316
+          ],
+          [
+            -7.392000198364258,
+            -0.7619999647140503,
+            2.4086523056030273
+          ]
+        ],
+        "kept-muttros-cat-tree::Thick fleece hammock rim": [
+          [
+            -7.804000377655029,
+            -1.1740000247955322,
+            2.38700008392334
+          ],
+          [
+            -7.376012325286865,
+            -0.7459999918937683,
+            2.4190001487731934
+          ]
+        ],
+        "kept-muttros-cat-tree::Sisal rope winding": [
+          [
+            -7.736608028411865,
+            -1.198836326599121,
+            1.9518836736679077
+          ],
+          [
+            -7.640402317047119,
+            -1.1011534929275513,
+            2.108598470687866
+          ]
+        ],
+        "kept-muttros-cat-tree::Sisal rope winding.001": [
+          [
+            -7.746608257293701,
+            -1.1788463592529297,
+            2.341883659362793
+          ],
+          [
+            -7.650400161743164,
+            -1.0811545848846436,
+            2.5084879398345947
+          ]
+        ],
+        "kept-muttros-cat-tree::Sisal rope winding.002": [
+          [
+            -7.526608943939209,
+            -0.8688459992408752,
+            1.6218836307525635
+          ],
+          [
+            -7.430403232574463,
+            -0.7711535692214966,
+            1.818591833114624
+          ]
+        ],
+        "kept-muttros-cat-tree::Hanging pom-pom cord": [
+          [
+            -7.58650016784668,
+            -1.0862990617752075,
+            2.7850000858306885
+          ],
+          [
+            -7.583500385284424,
+            -1.0837010145187378,
+            2.945000171661377
+          ]
+        ],
+        "Brown play ball": [
+          [
+            -7.610000133514404,
+            -1.1100000143051147,
+            2.740000009536743
+          ],
+          [
+            -7.559999942779541,
+            -1.0600000619888306,
+            2.7900002002716064
+          ]
+        ],
+        "kept-muttros-cat-tree::Hanging pom-pom cord.001": [
+          [
+            -7.596499919891357,
+            -1.3462990522384644,
+            2.493000030517578
+          ],
+          [
+            -7.593500137329102,
+            -1.3437010049819946,
+            2.6529998779296875
+          ]
+        ],
+        "Brown play ball.001": [
+          [
+            -7.62000036239624,
+            -1.3700000047683716,
+            2.447999954223633
+          ],
+          [
+            -7.570000171661377,
+            -1.3200000524520874,
+            2.498000144958496
+          ]
+        ],
+        "kept-muttros-cat-tree::Hanging pom-pom cord.002": [
+          [
+            -7.386500358581543,
+            -0.6562989950180054,
+            1.8470001220703125
+          ],
+          [
+            -7.383500099182129,
+            -0.6537009477615356,
+            2.006999969482422
+          ]
+        ],
+        "Brown play ball.002": [
+          [
+            -7.410000324249268,
+            -0.6799999475479126,
+            1.8020000457763672
+          ],
+          [
+            -7.360000133514404,
+            -0.6299999952316284,
+            1.8519999980926514
+          ]
+        ]
+      }
+    },
+    {
+      "id": "branch-pro-task-chair-1",
+      "product_name": "Selected Branch Ergonomic Chair Pro Black",
+      "position_blender_m": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.70104,
+        0.70104,
+        0.9810278
+      ],
+      "rotation_z_deg": 180,
+      "product_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "dimension_confidence": "Official vendor preview mesh (Shore) recoloured black; plan resized uniformly to nominal27.6in base diameter; configured preview height.981m within official.9652\u20131.04648m range",
+      "dimension_source": "Keeper research / exact selected products",
+      "world_bounds_blender_m": [
+        [
+          -7.138394832611084,
+          -1.1827495098114014,
+          1.5750000476837158
+        ],
+        [
+          -6.50160551071167,
+          -0.5172504782676697,
+          2.556027889251709
+        ]
+      ],
+      "mesh_component_count": 2,
+      "actual_world_bbox_dimensions_m": [
+        0.6367893218994141,
+        0.6654990315437317,
+        0.9810278415679932
+      ],
+      "notes": {
+        "product_name": "Selected Branch Ergonomic Chair Pro Black",
+        "product_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+        "dimension_confidence": "Official vendor preview mesh (Shore) recoloured black; plan resized uniformly to nominal27.6in base diameter; configured preview height.981m within official.9652\u20131.04648m range",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": [
+          0.70104,
+          0.70104,
+          0.9810278
+        ],
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "seated_gaze_vector_blender": [
+          0,
+          1,
+          0
+        ],
+        "official_geometry_source": "https://www.branchfurniture.com/cdn/shop/3d/models/o/081fd233399ddfee/FBX_Ergonomic_Chair_Pro_Shore.glb?v=0",
+        "source_mesh_colour": "Shore; selected Black represented by dark material factor",
+        "plan_scale_to_nominal_base": 0.9240214475976261,
+        "source_textures": "Vendor embedded texture bytes saved under unique product paths/names and packed to prevent empty-image collision on library append"
+      },
+      "component_bounds": {
+        "branch-pro-task-chair-1::Mesh_0": [
+          [
+            -7.138394832611084,
+            -1.1827495098114014,
+            1.5750000476837158
+          ],
+          [
+            -6.50160551071167,
+            -0.5172504782676697,
+            2.555281639099121
+          ]
+        ],
+        "branch-pro-task-chair-1::Back | Plane001": [
+          [
+            -7.045292377471924,
+            -1.0466125011444092,
+            1.9691826105117798
+          ],
+          [
+            -6.594671249389648,
+            -0.908301591873169,
+            2.556027889251709
+          ]
+        ]
+      }
+    },
+    {
+      "id": "branch-pro-task-chair-2",
+      "product_name": "Selected Branch Ergonomic Chair Pro Black",
+      "position_blender_m": [
+        -5.4,
+        -0.8,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.70104,
+        0.70104,
+        0.9810278
+      ],
+      "rotation_z_deg": 180,
+      "product_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "dimension_confidence": "Official vendor preview mesh (Shore) recoloured black; plan resized uniformly to nominal27.6in base diameter; configured preview height.981m within official.9652\u20131.04648m range",
+      "dimension_source": "Keeper research / exact selected products",
+      "world_bounds_blender_m": [
+        [
+          -5.718394756317139,
+          -1.1327495574951172,
+          1.5750000476837158
+        ],
+        [
+          -5.081605434417725,
+          -0.46725043654441833,
+          2.556027889251709
+        ]
+      ],
+      "mesh_component_count": 2,
+      "actual_world_bbox_dimensions_m": [
+        0.6367893218994141,
+        0.6654991209506989,
+        0.9810278415679932
+      ],
+      "notes": {
+        "product_name": "Selected Branch Ergonomic Chair Pro Black",
+        "product_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+        "dimension_confidence": "Official vendor preview mesh (Shore) recoloured black; plan resized uniformly to nominal27.6in base diameter; configured preview height.981m within official.9652\u20131.04648m range",
+        "dimension_source": "Keeper research / exact selected products",
+        "external_dimensions_m": [
+          0.70104,
+          0.70104,
+          0.9810278
+        ],
+        "proxy_form": "Dimensioned review proxy, not vendor CAD",
+        "seated_gaze_vector_blender": [
+          0,
+          1,
+          0
+        ],
+        "official_geometry_source": "https://www.branchfurniture.com/cdn/shop/3d/models/o/081fd233399ddfee/FBX_Ergonomic_Chair_Pro_Shore.glb?v=0",
+        "source_mesh_colour": "Shore; selected Black represented by dark material factor",
+        "plan_scale_to_nominal_base": 0.9240214475976261,
+        "source_textures": "Vendor embedded texture bytes saved under unique product paths/names and packed to prevent empty-image collision on library append"
+      },
+      "component_bounds": {
+        "branch-pro-task-chair-2::Mesh_0": [
+          [
+            -5.718394756317139,
+            -1.1327495574951172,
+            1.5750000476837158
+          ],
+          [
+            -5.081605434417725,
+            -0.46725043654441833,
+            2.555281639099121
+          ]
+        ],
+        "branch-pro-task-chair-2::Back | Plane001": [
+          [
+            -5.6252923011779785,
+            -0.996612548828125,
+            1.9691826105117798
+          ],
+          [
+            -5.174671173095703,
+            -0.85830157995224,
+            2.556027889251709
+          ]
+        ]
+      }
+    }
+  ],
+  "expected_quantity": {
+    "desk": 1,
+    "lamp": 1,
+    "cat_tree": 1,
+    "task_chairs": 2
+  },
+  "actual_meshes": 78,
+  "mesh_vertices": 198370
+}

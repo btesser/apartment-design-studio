@@ -1,0 +1,71 @@
+[
+  {
+    "file": "/workspace/his-office-redesign/products/candidates/official-3d-assets/nordli-clothes.glb",
+    "source_axes": "glTF: X width / Y height / Z depth; meters",
+    "bounds_xyz_m": [
+      [
+        -0.4012565314769745,
+        -1.0356618076912127e-05,
+        -0.2082384079694748
+      ],
+      [
+        0.40204551815986633,
+        0.5320572853088379,
+        0.26248064637184143
+      ]
+    ],
+    "extent_xyz_m": [
+      0.8033020496368408,
+      0.5320676419269148,
+      0.4707190543413162
+    ],
+    "method": "Combined mesh POSITION accessor AABBs with all node translations; identity rotations/scales validated",
+    "non_identity_nodes": []
+  },
+  {
+    "file": "/workspace/his-office-redesign/products/candidates/official-3d-assets/storklinta-low-drawers.glb",
+    "source_axes": "glTF: X width / Y height / Z depth; meters",
+    "bounds_xyz_m": [
+      [
+        -0.34964627027511597,
+        -0.0009510014206171036,
+        -0.21346555650234222
+      ],
+      [
+        0.34949225187301636,
+        0.7517878413200378,
+        0.2687491178512573
+      ]
+    ],
+    "extent_xyz_m": [
+      0.6991385221481323,
+      0.752738842740655,
+      0.48221467435359955
+    ],
+    "method": "Combined mesh POSITION accessor AABBs with all node translations; identity rotations/scales validated",
+    "non_identity_nodes": []
+  },
+  {
+    "file": "/workspace/his-office-redesign/products/candidates/official-3d-assets/alex-drawers.glb",
+    "source_axes": "glTF: X width / Y height / Z depth; meters",
+    "bounds_xyz_m": [
+      [
+        -0.1805000603199005,
+        0,
+        -0.29100000858306885
+      ],
+      [
+        0.1805000603199005,
+        0.7001201510429382,
+        0.2910000681877136
+      ]
+    ],
+    "extent_xyz_m": [
+      0.361000120639801,
+      0.7001201510429382,
+      0.5820000767707825
+    ],
+    "method": "Combined mesh POSITION accessor AABBs with all node translations; identity rotations/scales validated",
+    "non_identity_nodes": []
+  }
+]

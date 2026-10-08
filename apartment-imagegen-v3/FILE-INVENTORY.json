@@ -1,0 +1,212 @@
+[
+  {
+    "file": "living-a.png",
+    "bytes": 2597836,
+    "sha256": "0f3be93d63b79ed48667c6c87b4f1adf66c4cb79fcb39e2d7e29382359a54a75"
+  },
+  {
+    "file": "living-b.png",
+    "bytes": 2603429,
+    "sha256": "bb35af4fb47f0e65fe16ccaeb51e3d2387b11f2c886cdd87ed6514350dfc46be"
+  },
+  {
+    "file": "his-office-a.png",
+    "bytes": 2354263,
+    "sha256": "0d1aba83f3b1b0455f2c607954243af9d4eaaf8fe824c53ebf6164ca2b0b43cc"
+  },
+  {
+    "file": "his-office-b.png",
+    "bytes": 2585886,
+    "sha256": "d7ae3c98c672ffb9547717926fa26efe1b579ced008b167e91a15d7e8b4fe92b"
+  },
+  {
+    "file": "her-office-a.png",
+    "bytes": 2279933,
+    "sha256": "ad5266c2d00f01d431ad9094ba519001069d6b1e8cc55619d8570a273cbe7bb0"
+  },
+  {
+    "file": "her-office-b.png",
+    "bytes": 2445987,
+    "sha256": "f751ad4763ea2b3eee03035048807d3955e2581168fe6d4e3d2ffa7dd09496f4"
+  },
+  {
+    "file": "bedroom-flex-a.png",
+    "bytes": 2701124,
+    "sha256": "4d1915b87f33dffa3806ec4501760ce7d2aba8b11ea14f98fab9e6593170b328"
+  },
+  {
+    "file": "bedroom-flex-b.png",
+    "bytes": 2719135,
+    "sha256": "34bdb0667891121447a4f6f503f087cc361b1298b58da21f8cecbcf4f628425d"
+  },
+  {
+    "file": "basement-open-a.png",
+    "bytes": 2337437,
+    "sha256": "19faa8842f3d563c2cb9e0a777450279e6b51a576b19c95a93667816e408f132"
+  },
+  {
+    "file": "basement-open-b.png",
+    "bytes": 2244727,
+    "sha256": "161a142a463215c6e899ac86bd71700396e72879dc6dd135ecec51f3db009f12"
+  },
+  {
+    "file": "entry-a.png",
+    "bytes": 2708748,
+    "sha256": "7a44822acb0d60e89975feebf25a739bce8433fbb74889664325c75acc29546a"
+  },
+  {
+    "file": "entry-b.png",
+    "bytes": 1993781,
+    "sha256": "d438d6cb71f837e3b81a22ef0916a6a6e6633ab365e79227a044b948a191b1ee"
+  },
+  {
+    "file": "Amy-design-generated-images.pdf",
+    "bytes": 70076523,
+    "sha256": "56b5414b2cd5782d1249f46c572dfa1d7e389513d7f8b667b069755751baf09d"
+  },
+  {
+    "file": "START-HERE.txt",
+    "bytes": 2053,
+    "sha256": "ae64dc3e493f865b959808eca9edf541ea9f75b1b78dbfe5edbf8f42211e5614"
+  },
+  {
+    "file": "generation-provenance.json",
+    "bytes": 11951,
+    "sha256": "7c465f4ad4675afbc922188d6e398793323a1fcd1814744a48089733d41a41ae"
+  },
+  {
+    "file": "image-QA.json",
+    "bytes": 16561,
+    "sha256": "1b5f36a9076eb53a20512e5d29e3e1fae1e7b2e576f9b7324a3cf44d9b0b1cf8"
+  },
+  {
+    "file": "image-QA.txt",
+    "bytes": 6925,
+    "sha256": "6acd4bd591aba053e03e2a1295172abfb503a990ff22e528e6fbded0fb80844d"
+  },
+  {
+    "file": "geometry-reference-findings.json",
+    "bytes": 19469,
+    "sha256": "89b81ae1e5c69ffc59642b3f0a9a67b2a93815e2e0d9c7f22cface4dcac1b6e6"
+  },
+  {
+    "file": "geometry-reference-findings.txt",
+    "bytes": 7822,
+    "sha256": "763d5e834fc534078e62a9c7d764848145e1dc8c7cccd0f474d7eb09705ac0dd"
+  },
+  {
+    "file": "root-generation-prompts.json",
+    "bytes": 11302,
+    "sha256": "1549f82b34b9e308320e2f22adf4350c408c0b7d84889db14b82aab1c3f0a1b4"
+  },
+  {
+    "file": "root-generation-record.json",
+    "bytes": 12456,
+    "sha256": "8edab94e0d024a3d0f6cd6f411076e94fe57fff18e13f9563bee1d96297164f5"
+  },
+  {
+    "file": "living-his-office-prompts.json",
+    "bytes": 15830,
+    "sha256": "2d94ca8c7eed728f6c93fcc863477603a8e73540d4c3d3f12a0f653c6e6a917e"
+  },
+  {
+    "file": "office-bedroom-prompts-final.json",
+    "bytes": 17703,
+    "sha256": "f27e105e45f5a65a657d7c8254ee6d98abfc8c8322d441174f411b4abcb8fb89"
+  },
+  {
+    "file": "office-bedroom-generation-record.json",
+    "bytes": 35609,
+    "sha256": "4ce9639caff2dd1107922946f264d901b81a76f0c3ff5ca062a7706b7b318d84"
+  },
+  {
+    "file": "references/Amy-design-boards/Lana & Ben BASEMENT.jpeg",
+    "bytes": 1017076,
+    "sha256": "338834216f1ac541001c2c1f249ba98acac2934c5fac95d4e9c88febf6ce656b"
+  },
+  {
+    "file": "references/Amy-design-boards/Lana & Ben BEDROOM.jpeg",
+    "bytes": 1578889,
+    "sha256": "fd8a0aebef3a07538e903f9e5949d1838e8f128b27c0ff2101702f2703b70f33"
+  },
+  {
+    "file": "references/Amy-design-boards/Lana & Ben ENTRYWAY.jpeg",
+    "bytes": 146116,
+    "sha256": "fabb5523c6fde762e3c30f07f0b4e8f929ccb16e9745627e6e7471f27994b322"
+  },
+  {
+    "file": "references/Amy-design-boards/Lana & Ben HER OFFICE.jpeg",
+    "bytes": 939285,
+    "sha256": "26a25d178de2bc029fa5de696379904ccafd0948643575a281ece790bc328185"
+  },
+  {
+    "file": "references/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg",
+    "bytes": 1241818,
+    "sha256": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5"
+  },
+  {
+    "file": "references/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg",
+    "bytes": 549484,
+    "sha256": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0"
+  },
+  {
+    "file": "references/modeled-views/basement-open-a.jpg",
+    "bytes": 295359,
+    "sha256": "2048e946c0690b740e87ef80a28d42d251a493165ebe6e91135149ef28630757"
+  },
+  {
+    "file": "references/modeled-views/basement-open-b.jpg",
+    "bytes": 283547,
+    "sha256": "2a7a16f8577391c868261d7c64c046564849105f59bb87bb023be7d33c6fb608"
+  },
+  {
+    "file": "references/modeled-views/bedroom-flex-a.jpg",
+    "bytes": 191486,
+    "sha256": "4cab0fb2a5343c9ed4a851c7d0f3f9b10453f66427a23912812e134de327ff91"
+  },
+  {
+    "file": "references/modeled-views/bedroom-flex-b.jpg",
+    "bytes": 300186,
+    "sha256": "32fc4e4b0fc84994c374548ec5bb6bd878c0cfec87c9160d26ab6f495b15f950"
+  },
+  {
+    "file": "references/modeled-views/entry-a.jpg",
+    "bytes": 340102,
+    "sha256": "d8845c7f2ad7768530c21ab7b511a567bdcb615af6273a93c68d75096241f2f9"
+  },
+  {
+    "file": "references/modeled-views/entry-b.jpg",
+    "bytes": 259343,
+    "sha256": "e318e53ab36a5cdb2d973555cced71d0aaec226fd98bff08f303b19658eb46fb"
+  },
+  {
+    "file": "references/modeled-views/her-office-a.jpg",
+    "bytes": 282911,
+    "sha256": "6655f3007fd426eb345f2e056479719db2956b7f40f9fc00e668b9814fdc4844"
+  },
+  {
+    "file": "references/modeled-views/her-office-b.jpg",
+    "bytes": 266605,
+    "sha256": "bafda9797ed62e8e8c3c03dadb0b58503ea8b9dddea6707907f1f993abcbd293"
+  },
+  {
+    "file": "references/modeled-views/his-office-a.jpg",
+    "bytes": 240543,
+    "sha256": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3"
+  },
+  {
+    "file": "references/modeled-views/his-office-b.jpg",
+    "bytes": 222914,
+    "sha256": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f"
+  },
+  {
+    "file": "references/modeled-views/living-a.jpg",
+    "bytes": 298390,
+    "sha256": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a"
+  },
+  {
+    "file": "references/modeled-views/living-b.jpg",
+    "bytes": 296897,
+    "sha256": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55"
+  }
+]

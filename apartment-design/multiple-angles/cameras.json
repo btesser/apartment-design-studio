@@ -1,0 +1,614 @@
+[
+  {
+    "room": "living-room",
+    "angle": 1,
+    "floor": 1,
+    "camera": [
+      -2.700000047683716,
+      -2.3499999046325684,
+      3.0
+    ],
+    "target": [
+      3.200000047683716,
+      0.15000000596046448,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/living-room/angle-1.png"
+  },
+  {
+    "room": "living-room",
+    "angle": 2,
+    "floor": 1,
+    "camera": [
+      3.200000047683716,
+      -2.3499999046325684,
+      3.0
+    ],
+    "target": [
+      -2.700000047683716,
+      0.15000000596046448,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/living-room/angle-2.png"
+  },
+  {
+    "room": "living-room",
+    "angle": 3,
+    "floor": 1,
+    "camera": [
+      3.200000047683716,
+      0.15000000596046448,
+      3.0
+    ],
+    "target": [
+      -2.700000047683716,
+      -2.3499999046325684,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/living-room/angle-3.png"
+  },
+  {
+    "room": "living-room",
+    "angle": 4,
+    "floor": 1,
+    "camera": [
+      -2.700000047683716,
+      0.15000000596046448,
+      3.0
+    ],
+    "target": [
+      3.200000047683716,
+      -2.3499999046325684,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/living-room/angle-4.png"
+  },
+  {
+    "room": "his-office",
+    "angle": 1,
+    "floor": 1,
+    "camera": [
+      -7.650000095367432,
+      -2.299999952316284,
+      3.0
+    ],
+    "target": [
+      -4.199999809265137,
+      -0.25,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/his-office/angle-1.png"
+  },
+  {
+    "room": "his-office",
+    "angle": 2,
+    "floor": 1,
+    "camera": [
+      -4.199999809265137,
+      -2.299999952316284,
+      3.0
+    ],
+    "target": [
+      -7.650000095367432,
+      -0.25,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/his-office/angle-2.png"
+  },
+  {
+    "room": "his-office",
+    "angle": 3,
+    "floor": 1,
+    "camera": [
+      -4.199999809265137,
+      -0.25,
+      3.0
+    ],
+    "target": [
+      -7.650000095367432,
+      -2.299999952316284,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/his-office/angle-3.png"
+  },
+  {
+    "room": "his-office",
+    "angle": 4,
+    "floor": 1,
+    "camera": [
+      -7.650000095367432,
+      -0.25,
+      3.0
+    ],
+    "target": [
+      -4.199999809265137,
+      -2.299999952316284,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/his-office/angle-4.png"
+  },
+  {
+    "room": "her-office",
+    "angle": 1,
+    "floor": 1,
+    "camera": [
+      4.349999904632568,
+      -2.25,
+      3.0
+    ],
+    "target": [
+      7.650000095367432,
+      0.30000001192092896,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/her-office/angle-1.png"
+  },
+  {
+    "room": "her-office",
+    "angle": 2,
+    "floor": 1,
+    "camera": [
+      7.650000095367432,
+      -2.25,
+      3.0
+    ],
+    "target": [
+      4.349999904632568,
+      0.30000001192092896,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/her-office/angle-2.png"
+  },
+  {
+    "room": "her-office",
+    "angle": 3,
+    "floor": 1,
+    "camera": [
+      7.650000095367432,
+      0.30000001192092896,
+      3.0
+    ],
+    "target": [
+      4.349999904632568,
+      -2.25,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/her-office/angle-3.png"
+  },
+  {
+    "room": "her-office",
+    "angle": 4,
+    "floor": 1,
+    "camera": [
+      4.349999904632568,
+      0.30000001192092896,
+      3.0
+    ],
+    "target": [
+      7.650000095367432,
+      -2.25,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/her-office/angle-4.png"
+  },
+  {
+    "room": "entryway",
+    "angle": 1,
+    "floor": 1,
+    "camera": [
+      1.5,
+      0.20000000298023224,
+      3.0
+    ],
+    "target": [
+      3.0999999046325684,
+      1.649999976158142,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/entryway/angle-1.png"
+  },
+  {
+    "room": "entryway",
+    "angle": 2,
+    "floor": 1,
+    "camera": [
+      3.0999999046325684,
+      0.20000000298023224,
+      3.0
+    ],
+    "target": [
+      1.5,
+      1.649999976158142,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/entryway/angle-2.png"
+  },
+  {
+    "room": "entryway",
+    "angle": 3,
+    "floor": 1,
+    "camera": [
+      3.0999999046325684,
+      1.649999976158142,
+      3.0
+    ],
+    "target": [
+      1.5,
+      0.20000000298023224,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/entryway/angle-3.png"
+  },
+  {
+    "room": "entryway",
+    "angle": 4,
+    "floor": 1,
+    "camera": [
+      1.5,
+      1.649999976158142,
+      3.0
+    ],
+    "target": [
+      3.0999999046325684,
+      0.20000000298023224,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/entryway/angle-4.png"
+  },
+  {
+    "room": "kitchen",
+    "angle": 1,
+    "floor": 1,
+    "camera": [
+      -7.400000095367432,
+      1.2000000476837158,
+      3.0
+    ],
+    "target": [
+      -2.1500000953674316,
+      2.049999952316284,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/kitchen/angle-1.png"
+  },
+  {
+    "room": "kitchen",
+    "angle": 2,
+    "floor": 1,
+    "camera": [
+      -2.1500000953674316,
+      1.2000000476837158,
+      3.0
+    ],
+    "target": [
+      -7.400000095367432,
+      2.049999952316284,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/kitchen/angle-2.png"
+  },
+  {
+    "room": "kitchen",
+    "angle": 3,
+    "floor": 1,
+    "camera": [
+      -2.1500000953674316,
+      2.049999952316284,
+      3.0
+    ],
+    "target": [
+      -7.400000095367432,
+      1.2000000476837158,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/kitchen/angle-3.png"
+  },
+  {
+    "room": "kitchen",
+    "angle": 4,
+    "floor": 1,
+    "camera": [
+      -7.400000095367432,
+      2.049999952316284,
+      3.0
+    ],
+    "target": [
+      -2.1500000953674316,
+      1.2000000476837158,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/kitchen/angle-4.png"
+  },
+  {
+    "room": "upstairs-bathroom",
+    "angle": 1,
+    "floor": 1,
+    "camera": [
+      -0.949999988079071,
+      0.949999988079071,
+      3.0
+    ],
+    "target": [
+      0.550000011920929,
+      2.299999952316284,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/upstairs-bathroom/angle-1.png"
+  },
+  {
+    "room": "upstairs-bathroom",
+    "angle": 2,
+    "floor": 1,
+    "camera": [
+      0.550000011920929,
+      0.949999988079071,
+      3.0
+    ],
+    "target": [
+      -0.949999988079071,
+      2.299999952316284,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/upstairs-bathroom/angle-2.png"
+  },
+  {
+    "room": "upstairs-bathroom",
+    "angle": 3,
+    "floor": 1,
+    "camera": [
+      0.550000011920929,
+      2.299999952316284,
+      3.0
+    ],
+    "target": [
+      -0.949999988079071,
+      0.949999988079071,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/upstairs-bathroom/angle-3.png"
+  },
+  {
+    "room": "upstairs-bathroom",
+    "angle": 4,
+    "floor": 1,
+    "camera": [
+      -0.949999988079071,
+      2.299999952316284,
+      3.0
+    ],
+    "target": [
+      0.550000011920929,
+      0.949999988079071,
+      2.799999952316284
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/upstairs-bathroom/angle-4.png"
+  },
+  {
+    "room": "basement-living-dining",
+    "angle": 1,
+    "floor": 0,
+    "camera": [
+      0.0,
+      -1.899999976158142,
+      -0.10000000149011612
+    ],
+    "target": [
+      6.650000095367432,
+      0.800000011920929,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/basement-living-dining/angle-1.png"
+  },
+  {
+    "room": "basement-living-dining",
+    "angle": 2,
+    "floor": 0,
+    "camera": [
+      6.650000095367432,
+      -1.899999976158142,
+      -0.10000000149011612
+    ],
+    "target": [
+      0.0,
+      0.800000011920929,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/basement-living-dining/angle-2.png"
+  },
+  {
+    "room": "basement-living-dining",
+    "angle": 3,
+    "floor": 0,
+    "camera": [
+      6.650000095367432,
+      0.800000011920929,
+      -0.10000000149011612
+    ],
+    "target": [
+      0.0,
+      -1.899999976158142,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/basement-living-dining/angle-3.png"
+  },
+  {
+    "room": "basement-living-dining",
+    "angle": 4,
+    "floor": 0,
+    "camera": [
+      0.0,
+      0.800000011920929,
+      -0.10000000149011612
+    ],
+    "target": [
+      6.650000095367432,
+      -1.899999976158142,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/basement-living-dining/angle-4.png"
+  },
+  {
+    "room": "bedroom-flex-area",
+    "angle": 1,
+    "floor": 0,
+    "camera": [
+      -3.25,
+      -1.899999976158142,
+      -0.10000000149011612
+    ],
+    "target": [
+      -0.8999999761581421,
+      -0.05000000074505806,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/bedroom-flex-area/angle-1.png"
+  },
+  {
+    "room": "bedroom-flex-area",
+    "angle": 2,
+    "floor": 0,
+    "camera": [
+      -0.8999999761581421,
+      -1.899999976158142,
+      -0.10000000149011612
+    ],
+    "target": [
+      -3.25,
+      -0.05000000074505806,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/bedroom-flex-area/angle-2.png"
+  },
+  {
+    "room": "bedroom-flex-area",
+    "angle": 3,
+    "floor": 0,
+    "camera": [
+      -0.8999999761581421,
+      -0.05000000074505806,
+      -0.10000000149011612
+    ],
+    "target": [
+      -3.25,
+      -1.899999976158142,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/bedroom-flex-area/angle-3.png"
+  },
+  {
+    "room": "bedroom-flex-area",
+    "angle": 4,
+    "floor": 0,
+    "camera": [
+      -3.25,
+      -0.05000000074505806,
+      -0.10000000149011612
+    ],
+    "target": [
+      -0.8999999761581421,
+      -1.899999976158142,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/bedroom-flex-area/angle-4.png"
+  },
+  {
+    "room": "music-gym",
+    "angle": 1,
+    "floor": 0,
+    "camera": [
+      -7.099999904632568,
+      -1.9500000476837158,
+      -0.10000000149011612
+    ],
+    "target": [
+      -4.25,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/music-gym/angle-1.png"
+  },
+  {
+    "room": "music-gym",
+    "angle": 2,
+    "floor": 0,
+    "camera": [
+      -4.25,
+      -1.9500000476837158,
+      -0.10000000149011612
+    ],
+    "target": [
+      -7.099999904632568,
+      -0.30000001192092896,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/music-gym/angle-2.png"
+  },
+  {
+    "room": "music-gym",
+    "angle": 3,
+    "floor": 0,
+    "camera": [
+      -4.25,
+      -0.30000001192092896,
+      -0.10000000149011612
+    ],
+    "target": [
+      -7.099999904632568,
+      -1.9500000476837158,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/music-gym/angle-3.png"
+  },
+  {
+    "room": "music-gym",
+    "angle": 4,
+    "floor": 0,
+    "camera": [
+      -7.099999904632568,
+      -0.30000001192092896,
+      -0.10000000149011612
+    ],
+    "target": [
+      -4.25,
+      -1.9500000476837158,
+      -0.30000001192092896
+    ],
+    "lens_mm": 20,
+    "path": "/workspace/apartment-design/multiple-angles/music-gym/angle-4.png"
+  }
+]

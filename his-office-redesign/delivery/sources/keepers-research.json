@@ -1,0 +1,547 @@
+{
+  "researched_at_utc": "2026-10-08T14:44:43.756040+00:00",
+  "scope": "Research only. No apartment model or prior deliverable modified.",
+  "length_units": "meters unless explicitly labelled inches",
+  "products": {
+    "cat_tree": {
+      "name": "MUTTROS 59-inch Modern Cat Tree for Large Cats, 3 Wicker Baskets & Condo, Brown",
+      "asin": "B0HHRC6XBC",
+      "model_number": "USA13-AMT0355BN-FBM",
+      "user_url": "https://a.co/d/0578xA7h",
+      "canonical_url": "https://www.amazon.com/dp/B0HHRC6XBC",
+      "brand_store_url": "https://www.amazon.com/stores/MUTTROS/page/BEC64763-84E5-490A-ADCF-0ADD69DC95AD",
+      "identification_confidence": "high; exact user shortlink resolves to this ASIN and title/colour/quantity match the requested screenshot",
+      "selected_colour": "Brown",
+      "forms": "Three handwoven wicker basket beds on natural pear-wood branching trunks, brown fleece-lined suspended hammock, bottom round condo, brown carpeted rectangular base, sisal-wrapped posts.",
+      "dimensions": {
+        "height": {
+          "inches": 59,
+          "meters": 1.4986,
+          "confidence": "high",
+          "source": "Exact ASIN dimensional graphic PT04"
+        },
+        "base": {
+          "inches": [
+            23.6,
+            22
+          ],
+          "meters": [
+            0.59944,
+            0.5588
+          ],
+          "confidence": "high",
+          "source": "Exact ASIN PT04/PT02 dimensional graphics and stability bullet"
+        },
+        "listing_item_dimensions": {
+          "inches": [
+            23.5,
+            22,
+            59
+          ],
+          "meters": [
+            0.5969,
+            0.5588,
+            1.4986
+          ],
+          "confidence": "high that these are listed, but low as complete assembled envelope",
+          "source": "Exact ASIN Product Dimensions / Item Dimensions L x W x H"
+        },
+        "top_basket_width": {
+          "inches": 17.7,
+          "meters": 0.44958,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "upper_side_basket_width": {
+          "inches": 15,
+          "meters": 0.381,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "hammock_width": {
+          "inches": 15.7,
+          "meters": 0.39878,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "condo_width": {
+          "inches": 15.7,
+          "meters": 0.39878,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "condo_height": {
+          "inches": 12,
+          "meters": 0.3048,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "condo_opening_height": {
+          "inches": 9.8,
+          "meters": 0.24892,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "base_thickness": {
+          "inches": 1.5,
+          "meters": 0.0381,
+          "confidence": "high",
+          "source": "Exact ASIN PT04 graphic"
+        },
+        "post_diameter": {
+          "inches": 3.5,
+          "meters": 0.0889,
+          "confidence": "high",
+          "source": "Exact ASIN PT02 graphic and bullet"
+        },
+        "total_branch_and_basket_projection": {
+          "meters": null,
+          "confidence": "unverified",
+          "reason": "No published overall basket-to-basket width, plan-view depth, or branch centre offsets found. Exact product photos visibly extend beyond the base on both sides. Base dimensions do not bound the assembled tree."
+        }
+      },
+      "conflicts": [
+        "Listing23.5in length vs graphics/base bullet23.6in: use0.59944m base for conservative nominal fit.",
+        "The reported item footprint matches the base even though basket photographs overhang it; do not treat it as an assembled bounding box."
+      ],
+      "layout_guidance": "Model the visible branching silhouette with three wicker baskets, condo, hammock. Check high-level basket clearance separately from floor base. Do not assert exact branch offsets or a precisely measured overall envelope.",
+      "image_provenance": "Brand-labelled product photographs and dimensional diagrams supplied on the exact Amazon listing. Independent manufacturer-site provenance not established; no affiliate-site image substituted.",
+      "primary_images": [
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT04.jpg",
+          "url": "https://m.media-amazon.com/images/I/7118G4munXL._AC_SL1500_.jpg",
+          "bytes": 167476,
+          "sha256": "e34a20b0f167cdadc41a18a97900bf6d0a2793f23996c2d68ddd063abe498506",
+          "role": "Exact product dimensional diagram; best model reference without lifestyle cats",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-MAIN.jpg",
+          "url": "https://m.media-amazon.com/images/I/81sFaB2T43L._AC_SL1500_.jpg",
+          "bytes": 484809,
+          "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749",
+          "role": "Exact product lifestyle photograph; form and brown colour",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT03.jpg",
+          "url": "https://m.media-amazon.com/images/I/81JAvbAGkRL._AC_SL1500_.jpg",
+          "bytes": 298901,
+          "sha256": "621fccfd8329b6801a8521b594bbafd4c45548a45fc57476f0f7f3892770923b",
+          "role": "Alternate elevated angle; branch/hammock/base relationships",
+          "confidence": "high"
+        }
+      ],
+      "saved_page": "/workspace/his-office-redesign/products/keepers/amazon-shortlink.html",
+      "saved_visible_text": "/workspace/his-office-redesign/products/keepers/amazon-shortlink-visible.txt"
+    },
+    "lamp": {
+      "name": "Honeywell 02E Pro Sunturalux LED Floor Lamp, white,10400LM,100W",
+      "asin": "B0C3BVYTXP",
+      "model_number": "HWL-02E Pro",
+      "manufacturer": "Huo Ming Technology Guangdong Co., Ltd (Amazon listing)",
+      "user_url": "https://www.amazon.com/dp/B0C3BVYTXP",
+      "official_product_url": "https://honeywellsmartlighting.com/products/02e-pro",
+      "identification_confidence": "high; exact user ASIN lists model HWL-02E Pro /10400LM; matching authorized storefront SKU HWL-02EPro",
+      "selected_colour": "White",
+      "forms": "Flat rectangular light panel above a slim rectangular upright, rotary dimming knob, U-shaped flat weighted floor base. No dome, cone shade or alternate lamp model.",
+      "dimensions": {
+        "listed_D_W_H": {
+          "inches": [
+            24.02,
+            11.34,
+            77.5
+          ],
+          "meters": [
+            0.610108,
+            0.288036,
+            1.9685
+          ],
+          "confidence": "high",
+          "source": "Exact ASIN Item Dimensions plus DIMN product image"
+        },
+        "head_length_width_nominal": {
+          "inches": [
+            24,
+            11.3
+          ],
+          "meters": [
+            0.6096,
+            0.28702
+          ],
+          "confidence": "high",
+          "source": "Exact ASIN bullet"
+        },
+        "base_exact_length_width": {
+          "meters": null,
+          "confidence": "unverified",
+          "reason": "Exact U-shaped base is visible, but no separate numeric base dimensions found; listed overall dimensions are not proof of base dimensions."
+        }
+      },
+      "controls": "Rotary knob, on/off and 10\u2013100% stepless dimming per exact ASIN bullets and photographed form",
+      "light_output": {
+        "watts": 100,
+        "lumens": 10400,
+        "kelvin": 4000,
+        "upward_lumens": 7500,
+        "downward_lumens": 2900,
+        "source": "Exact ASIN bullets / authorized storefront images"
+      },
+      "conflicts": [
+        "Bullet height77.4in vs dimensions/image77.5in: use1.9685m overall.",
+        "Amazon structured fields include misleading Base Diameter2in, shade height24in, Wi-Fi/E26/A19 metadata; rejected where they contradict the rectangular integrated-LED product photograph.",
+        "The generic6000LM HWL-02E is a different variant and must not replace the user-confirmed02E Pro."
+      ],
+      "primary_images": [
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-MAIN.jpg",
+          "url": "https://m.media-amazon.com/images/I/41jkWMsi6EL._AC_SL1500_.jpg",
+          "bytes": 13936,
+          "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8",
+          "role": "Exact ASIN isolated product",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-DIMN.jpg",
+          "url": "https://m.media-amazon.com/images/I/51248VH3gvL._AC_SL1500_.jpg",
+          "bytes": 26374,
+          "sha256": "0d2817e76a84a34cc950a73cda4d94229e54b7f11949a2bd0aebb2f9838f3afe",
+          "role": "Exact ASIN dimensions",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-01.webp",
+          "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-282.webp?v=1778193503",
+          "bytes": 10151,
+          "sha256": "f153d6e4372839179379bb46f826b5ace7074f0fcdbb470ff8b1317851214425",
+          "role": "Authorized manufacturer storefront isolated product",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-06.webp",
+          "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-580.webp?v=1778193530",
+          "bytes": 69974,
+          "sha256": "c0a6e1e4a90b816d1167f179e95b1ba39a54a231181f8eeb683971e071db205e",
+          "role": "Authorized manufacturer storefront dual-direction output / placement illustration; room is unrelated",
+          "confidence": "high"
+        }
+      ],
+      "saved_page": "/workspace/his-office-redesign/products/keepers/amazon-honeywell-B0C3BVYTXP.html",
+      "saved_visible_text": "/workspace/his-office-redesign/products/keepers/amazon-honeywell-B0C3BVYTXP-visible.txt",
+      "saved_official_product_json": "/workspace/his-office-redesign/products/keepers/honeywell-02e-pro-product.json"
+    },
+    "desk": {
+      "name": "Existing UPLIFT V2 Standing Desk, Pheasantwood solid wood barkline top, Industrial Style C-frame",
+      "owned_variant_source": "User order screenshot details transcribed by parent agent; user-confirmed desktop42\u00d730in, two brushed nickel grommet covers, V2 two-leg C-frame and27-inch industrial-style feet/side brackets.",
+      "identification_confidence": "high for user-confirmed order attributes; official photos are finish/form references, not a photograph of the owned unit",
+      "dimensions": {
+        "owned_desktop_width_depth": {
+          "inches": [
+            42,
+            30
+          ],
+          "meters": [
+            1.0668,
+            0.762
+          ],
+          "confidence": "high",
+          "source": "User order screenshot"
+        },
+        "desktop_thickness": {
+          "inches": 1.75,
+          "meters": 0.04445,
+          "confidence": "high for official Pheasantwood Live Edge product",
+          "source": "Official Desktop Lookbook"
+        },
+        "frame_foot_length": {
+          "inches": 27.6,
+          "meters": 0.70104,
+          "confidence": "high official V2 C-frame spec; user order rounds to27in",
+          "source": "Official selected option6667 and V2 spec PDF"
+        },
+        "frame_only_height_range": {
+          "inches": [
+            24.3,
+            49.9
+          ],
+          "meters": [
+            0.61722,
+            1.26746
+          ],
+          "confidence": "high",
+          "source": "Official V2 specification PDF"
+        },
+        "overall_height_range_with_confirmed_top": {
+          "inches": [
+            26.05,
+            51.65
+          ],
+          "meters": [
+            0.66167,
+            1.31191
+          ],
+          "confidence": "calculated nominal, not measured; includes1.75in top",
+          "source": "Official frame range plus official Pheasantwood thickness"
+        },
+        "frame_width_adjustable": {
+          "inches": [
+            41.3,
+            72.2
+          ],
+          "meters": [
+            1.04902,
+            1.83388
+          ],
+          "confidence": "high",
+          "source": "Official V2 spec PDF"
+        }
+      },
+      "finish": "Pheasantwood solid hardwood: irregular golden amber, dark brown and black figuring; barkline/live edge on front and square rear for grommet version. Industrial Style is a tinted clear powdercoat that shows raw steel character, not opaque white/black paint. Two brushed nickel grommet covers from user order.",
+      "model_guidance": "Use exact1.0668\u00d7.762m top and0.04445m thickness. Front edge is live/barkline, rear square. Do not enlarge to the wider top shown in catalog photos. Existing purchase is not a new furniture cost.",
+      "source_urls": [
+        "https://www.upliftdesk.com/desktop-lookbook/",
+        "https://checkout.upliftdesk.com/test-uplift-2-leg-standing-desk-frame/",
+        "https://www.upliftdesk.com/crossbar-rail-for-uplift-standing-desks/",
+        "https://www.content.upliftdesk.com/content/pdfs/desks-and-frames/frma-2-srd-c-v2-standing-desk-spec-sheet.pdf"
+      ],
+      "primary_images": [
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/uplift-live-edge-pheasantwood-overhead.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/5udLuWgwolYTsTyS1lt4Ve/2697c1defae13bb34a8a4126557191de/live-edge-pheasantwood-overhead.jpg",
+          "bytes": 202364,
+          "use": "appearance reference; photographed width not verified as 42in",
+          "sha256": "ee19930e48a99e94dd4c361b36bd4c8ceab820c447bf245c9151a887158cb376",
+          "role": "Official matching wood/edge finish; catalog width unspecified",
+          "confidence": "high",
+          "notes": "Contains different grommet finish/accessories; owned covers must be brushed nickel."
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/uplift-live-edge-pheasantwood-front.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/26dZz6pXZvbkmYgmnD8JCo/ca9431f07851e327bdcb95da3c0ac38c/live-edge-pheasantwood-front.jpg",
+          "bytes": 40727,
+          "use": "appearance reference; photographed width not verified as 42in",
+          "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+          "role": "Official matching barkline front; catalog width unspecified",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/uplift-live-edge-pheasantwood-side.jpg",
+          "url": "https://images.ctfassets.net/t27d8cst70un/3VTJFggcSWY6Ryd6kTkWwH/0ac532c4776cbbab7bbf5b20af493577/live-edge-pheasantwood-side.jpg",
+          "bytes": 54338,
+          "use": "appearance reference; photographed width not verified as 42in",
+          "sha256": "d73a342602ab2278032b6825a6719a3bedec1602bae9cc7fffd756752e2ce9a7",
+          "role": "Official matching thickness and square rear / grommets; catalog width unspecified",
+          "confidence": "high"
+        },
+        {
+          "file": "/workspace/his-office-redesign/products/keepers/uplift-v2-c-frame-industrial-official.png",
+          "url": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280x1280/products/818/6352/desk-build-v2-frame-60-metallic__28533.1579303493.png?c=2",
+          "source_page": "https://checkout.upliftdesk.com/test-uplift-2-leg-standing-desk-frame/",
+          "option_id": "6667",
+          "label": "metallic-v2-frm > V2 C-Frame27.6in feet - Industrial Style",
+          "use": "Exact V2 C-frame industrial finish; frame depicted at another desktop width, do not infer owned width from photo",
+          "bytes": 55191,
+          "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4",
+          "role": "Official selected V2 C-frame industrial finish",
+          "confidence": "high",
+          "notes": "Image filename denotes60in configured frame width; appearance only. Owned desktop is42in."
+        }
+      ],
+      "saved_spec_pdf": "/workspace/his-office-redesign/products/keepers/uplift-v2-standing-desk-spec-sheet.pdf",
+      "saved_spec_text": "/workspace/his-office-redesign/products/keepers/uplift-v2-standing-desk-spec-sheet.txt"
+    }
+  },
+  "all_downloaded_product_images": [
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-MAIN.jpg",
+      "url": "https://m.media-amazon.com/images/I/81sFaB2T43L._AC_SL1500_.jpg",
+      "bytes": 484809,
+      "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT01.jpg",
+      "url": "https://m.media-amazon.com/images/I/71Tz7zzzDSL._AC_SL1500_.jpg",
+      "bytes": 234314,
+      "sha256": "9c3ebae984ce14c6fd451d20c41194168f35e5cef98b37cc6fb1d61df313276a"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT02.jpg",
+      "url": "https://m.media-amazon.com/images/I/81IgFi6O5eL._AC_SL1500_.jpg",
+      "bytes": 393445,
+      "sha256": "7752ffe755971424b9584281a234b772adc1905e34edb8388fcd9d65713eb486"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT03.jpg",
+      "url": "https://m.media-amazon.com/images/I/81JAvbAGkRL._AC_SL1500_.jpg",
+      "bytes": 298901,
+      "sha256": "621fccfd8329b6801a8521b594bbafd4c45548a45fc57476f0f7f3892770923b"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT04.jpg",
+      "url": "https://m.media-amazon.com/images/I/7118G4munXL._AC_SL1500_.jpg",
+      "bytes": 167476,
+      "sha256": "e34a20b0f167cdadc41a18a97900bf6d0a2793f23996c2d68ddd063abe498506"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/muttros-B0HHRC6XBC-PT05.jpg",
+      "url": "https://m.media-amazon.com/images/I/71Rdb5aTxXL._AC_SL1500_.jpg",
+      "bytes": 174091,
+      "sha256": "460ba6e80e7e2c450a478a90d5e8de5941fd9ea37ac271fe6addb2170ee1b4ce"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-MAIN.jpg",
+      "url": "https://m.media-amazon.com/images/I/41jkWMsi6EL._AC_SL1500_.jpg",
+      "bytes": 13936,
+      "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT01.jpg",
+      "url": "https://m.media-amazon.com/images/I/71QWNQhOs5L._AC_SL1500_.jpg",
+      "bytes": 152523,
+      "sha256": "d4d8499ee7b65b6f126a4a7fd5b4c405335e81990f5c31bcc5e4ac4c09a272db"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT02.jpg",
+      "url": "https://m.media-amazon.com/images/I/71N7mSV985L._AC_SL1500_.jpg",
+      "bytes": 151659,
+      "sha256": "bbf7c3288d49659c5b8bf396d6d09da2301e651d6f8aa9fc39e0f36ed99c9f74"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT03.jpg",
+      "url": "https://m.media-amazon.com/images/I/718+fH9vlyL._AC_SL1500_.jpg",
+      "bytes": 174337,
+      "sha256": "067368ce6f818ab1c5034afb35966170d501fc14afef2ac896563183b6ed0f07"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT04.jpg",
+      "url": "https://m.media-amazon.com/images/I/717ksDMYyIL._AC_SL1500_.jpg",
+      "bytes": 162961,
+      "sha256": "fc713cae71316b327ed3d9d2ee6fe9ed7b379b9f23b9f7dde2ef970d6e7b30fa"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT05.jpg",
+      "url": "https://m.media-amazon.com/images/I/71GJRc7ZNML._AC_SL1500_.jpg",
+      "bytes": 134318,
+      "sha256": "5e660f1f1ebd0c9d07caeb662c7bed86aaadf5474512dfa7607a4c523a44ee48"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT06.jpg",
+      "url": "https://m.media-amazon.com/images/I/71r+kqGAFxL._AC_SL1500_.jpg",
+      "bytes": 201246,
+      "sha256": "b4ac950592fdbcbf335d2c2d9f171b3fdf19f6dd22171a4ca16e5b22af226085"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-PT07.jpg",
+      "url": "https://m.media-amazon.com/images/I/61ZPCDsgg0L._AC_SL1500_.jpg",
+      "bytes": 78163,
+      "sha256": "5624091d51d0fc01900250c94cf5cf1d9db2776e2cdab6f92b4086310c1f9712"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-B0C3BVYTXP-DIMN.jpg",
+      "url": "https://m.media-amazon.com/images/I/51248VH3gvL._AC_SL1500_.jpg",
+      "bytes": 26374,
+      "sha256": "0d2817e76a84a34cc950a73cda4d94229e54b7f11949a2bd0aebb2f9838f3afe"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-01.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-282.webp?v=1778193503",
+      "bytes": 10151,
+      "sha256": "f153d6e4372839179379bb46f826b5ace7074f0fcdbb470ff8b1317851214425"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-02.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-566.webp?v=1778193509",
+      "bytes": 37558,
+      "sha256": "cf3bc6fc545626ad8650f0530304381839eb969119a5062fd971dd06a6299469"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-03.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-925.webp?v=1778193515",
+      "bytes": 51337,
+      "sha256": "b619f89f6091adda80ef3d8ae0dd7315be23bd2c0b08022be39b7d57d4681963"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-04.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-762.webp?v=1778193522",
+      "bytes": 57750,
+      "sha256": "ffc8e150e26932329d123b5533c5dc44b469f9535bd2333803759756019e6794"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-05.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-545.webp?v=1778239824",
+      "bytes": 36045,
+      "sha256": "10b3ea1da3ffd5e386b97b064cb73aa36d530399eee636744c4a14c399dcf266"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-06.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-580.webp?v=1778193530",
+      "bytes": 69974,
+      "sha256": "c0a6e1e4a90b816d1167f179e95b1ba39a54a231181f8eeb683971e071db205e"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-07.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-812.webp?v=1778193534",
+      "bytes": 70517,
+      "sha256": "7c05070b39b43901b6e5bc25da4525ad747a2eda95d063e2bb5e6c6e282eddfc"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-08.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-194.webp?v=1778193538",
+      "bytes": 103907,
+      "sha256": "19a1a5f5f0733fa4fed0fe337b962fe400616614884c4fce9fe99dee752fc82d"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/honeywell-official-02e-pro-09.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0674/6796/8799/files/honeywell-02e-pro-100w-10400-lumen-eye-caring-natural-daylight-floor-470.webp?v=1778193541",
+      "bytes": 84090,
+      "sha256": "e95cfc708dfd0bf7112ccb9ce38a9d1f866c714c8a0a01b0d3dde01cf9162cf7"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/uplift-live-edge-pheasantwood-overhead.jpg",
+      "url": "https://images.ctfassets.net/t27d8cst70un/5udLuWgwolYTsTyS1lt4Ve/2697c1defae13bb34a8a4126557191de/live-edge-pheasantwood-overhead.jpg",
+      "bytes": 202364,
+      "use": "appearance reference; photographed width not verified as 42in",
+      "sha256": "ee19930e48a99e94dd4c361b36bd4c8ceab820c447bf245c9151a887158cb376"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/uplift-live-edge-pheasantwood-front.jpg",
+      "url": "https://images.ctfassets.net/t27d8cst70un/26dZz6pXZvbkmYgmnD8JCo/ca9431f07851e327bdcb95da3c0ac38c/live-edge-pheasantwood-front.jpg",
+      "bytes": 40727,
+      "use": "appearance reference; photographed width not verified as 42in",
+      "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/uplift-live-edge-pheasantwood-side.jpg",
+      "url": "https://images.ctfassets.net/t27d8cst70un/3VTJFggcSWY6Ryd6kTkWwH/0ac532c4776cbbab7bbf5b20af493577/live-edge-pheasantwood-side.jpg",
+      "bytes": 54338,
+      "use": "appearance reference; photographed width not verified as 42in",
+      "sha256": "d73a342602ab2278032b6825a6719a3bedec1602bae9cc7fffd756752e2ce9a7"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/uplift-rectangular-desktop-size-options.jpg",
+      "url": "https://images.ctfassets.net/t27d8cst70un/YTzPbc3xJqAxB3v7SLS4H/7d2e2d1aef7a9cb5f39e448a3743f911/desktop-sizes-rectangular.jpg",
+      "bytes": 152779,
+      "use": "appearance reference; photographed width not verified as 42in",
+      "sha256": "dd66f6ffeaf21ec1a0cc1ff82a419b91259353bed3d11a8e55e53485f9956dbc"
+    },
+    {
+      "file": "/workspace/his-office-redesign/products/keepers/uplift-v2-c-frame-industrial-official.png",
+      "url": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1280x1280/products/818/6352/desk-build-v2-frame-60-metallic__28533.1579303493.png?c=2",
+      "source_page": "https://checkout.upliftdesk.com/test-uplift-2-leg-standing-desk-frame/",
+      "option_id": "6667",
+      "label": "metallic-v2-frm > V2 C-Frame27.6in feet - Industrial Style",
+      "use": "Exact V2 C-frame industrial finish; frame depicted at another desktop width, do not infer owned width from photo",
+      "bytes": 55191,
+      "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4"
+    }
+  ],
+  "unresolved": [
+    "Cat tree exact assembled branch/basket envelope and offsets.",
+    "Separate lamp U-base dimensions."
+  ],
+  "discarded_alternatives": [
+    "Cat tree2-flower-perch Cloud White variant and PAWZ ROAD cross-brand59in model were not used as exact sources.",
+    "Honeywell6000lm base/GEN/MAX were not substituted for user-provided02E Pro ASIN.",
+    "Current UPLIFT V3 catalog product is not the owned V2 frame."
+  ]
+}

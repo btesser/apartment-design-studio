@@ -1,0 +1,498 @@
+{
+  "title": "His office \u2014 warm modern studio",
+  "date_UTC": "2026-10-08",
+  "files": [
+    {
+      "path": "START-HERE.txt",
+      "bytes": 3214,
+      "sha256": "0e4c64b7aaf8b100e00292214d87a0ed34814d17172f5f2d6173eb93e90cd240"
+    },
+    {
+      "path": "DESIGN-BRIEF.txt",
+      "bytes": 4899,
+      "sha256": "37193e402e3bbbd9a9daa3efde6454ec48783ac57a7bb8c008c2bdca6962fcec"
+    },
+    {
+      "path": "His-office-design-review.pdf",
+      "bytes": 6209638,
+      "sha256": "eb6c33e01b04bd9a02e185371b1a196ad7cce0bad663e4d2b59dd8c8da35b27c"
+    },
+    {
+      "path": "his-office-viewer.html",
+      "bytes": 23203758,
+      "sha256": "7ba703372595a7ceac5a6993d90ddc67c02e2a8aefa8133e7fd4b6fcf4291d38"
+    },
+    {
+      "path": "model/his-office-design.blend",
+      "bytes": 25317287,
+      "sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a"
+    },
+    {
+      "path": "model/his-office-design.glb",
+      "bytes": 16832436,
+      "sha256": "895550f4a29566a7e277e64cfc54eda0878ad8a00d0dc53b5fce7e62b94d059d"
+    },
+    {
+      "path": "model/his-office-shell.glb",
+      "bytes": 739764,
+      "sha256": "11ed88b2993bcf7fc1ccf1257e83e7934338b1fd5840de880071fe069ca19a9c"
+    },
+    {
+      "path": "model/his-office-door-leaves.glb",
+      "bytes": 167392,
+      "sha256": "360b7c57d4fc45a75cb74830a539392ef700648e60dad3d42f534ee39f66d3ec"
+    },
+    {
+      "path": "model/his-office-furniture.glb",
+      "bytes": 15956032,
+      "sha256": "fe9cea9df2e569a3e727f3d4252c35649ab1eacec6c576322ac2bc1f046d96b6"
+    },
+    {
+      "path": "model/layout.json",
+      "bytes": 9405,
+      "sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09"
+    },
+    {
+      "path": "model/camera-poses.json",
+      "bytes": 3010,
+      "sha256": "c325ec270aeea957dca340fe728e7c12de1b0808c56d7818654cf8bd84d42d8f"
+    },
+    {
+      "path": "model/dimensioned-plan.png",
+      "bytes": 691399,
+      "sha256": "cede5dcf2fc9f535369b167ccf08a68e9a60dd2a2ffd6f54952331c30ab422c4"
+    },
+    {
+      "path": "model/dimensioned-plan.pdf",
+      "bytes": 50857,
+      "sha256": "7eedb2020e2beb8ddc01ae8dcf9e1166cf3873d7de65b4c89377d1bbaced0f7f"
+    },
+    {
+      "path": "model/product-model-notes.json",
+      "bytes": 1682,
+      "sha256": "24e69bdc46617163c7fcfd38ee6cbc080d0563a0b185a5b74150c0844b065167"
+    },
+    {
+      "path": "model/fixed-feature-manifest.json",
+      "bytes": 3865,
+      "sha256": "2eb36aeb9ce20ef518acf03d3bf86d3f386b33bb155ce6836436e6c5bac10f7a"
+    },
+    {
+      "path": "model/renders/room-a.jpg",
+      "bytes": 635272,
+      "sha256": "276172577fef490b0d02fb91a1c679a6077f7d2a6c9e39d852cc82f02ccb076e"
+    },
+    {
+      "path": "model/renders/room-b.jpg",
+      "bytes": 571024,
+      "sha256": "7b63d598bf492227cb1c35c13e5d313c5295155b17506c7e8e4fe073b92764c7"
+    },
+    {
+      "path": "model/renders/room-c.jpg",
+      "bytes": 791209,
+      "sha256": "a98fdb1af46ecde6fbc57208d4ae4bef5ab33545b931781093b30af0fcfd74df"
+    },
+    {
+      "path": "model/renders/room-d.jpg",
+      "bytes": 619919,
+      "sha256": "b8c3ad2efff491d65ad34aa2e5180357cc0b48aa488f310d3b8828b14d1baad6"
+    },
+    {
+      "path": "model/final-model-verification.json",
+      "bytes": 3118,
+      "sha256": "d24a560f80ecd0461f0fb5b19323c687d088c1d97b505c9b0fe12f38f7a6b367"
+    },
+    {
+      "path": "model/final-render-verification.json",
+      "bytes": 3894,
+      "sha256": "3bbdda630567759dd889443040b588377b17983295a35c00e8d74913fe9daad2"
+    },
+    {
+      "path": "model/render-revision-note.json",
+      "bytes": 1116,
+      "sha256": "a70bc9b2dfc480a76212baaf60936f1fd63ace3393d70647bf922f6cea4d5deb"
+    },
+    {
+      "path": "model/lamp-visibility.json",
+      "bytes": 4336,
+      "sha256": "9b16cd57ef28de7648f03796ed7db2d076eb543ff2efda179255ed29ed2a00e0"
+    },
+    {
+      "path": "model/README.txt",
+      "bytes": 4936,
+      "sha256": "78d29d776e7f85f408dbd51b752d2c2927e31aa23f75f72fe275ce991f1092d7"
+    },
+    {
+      "path": "images/concept-a.png",
+      "bytes": 2397473,
+      "sha256": "bded341e31a5c3799b9a145fa405acf3c56d6547df1f4ddfa414bd35b7eff501"
+    },
+    {
+      "path": "images/concept-b.png",
+      "bytes": 2188206,
+      "sha256": "cb4d975935dbfe0a50b04048ad4afafaa42c20968486ed16c217dda13ccc19c3"
+    },
+    {
+      "path": "images/concept-c.png",
+      "bytes": 2550063,
+      "sha256": "10011853ae25b018c826fcfc70e6f1e4e25b254bdd34ab610743913b4bdc9aff"
+    },
+    {
+      "path": "images/generation-manifest.json",
+      "bytes": 25767,
+      "sha256": "64df9df4c36c97629db7fb95d88ca41e3a4672e3d964f93efa52cce9d5629f86"
+    },
+    {
+      "path": "images/generation-inputs.json",
+      "bytes": 21936,
+      "sha256": "fd39880d34b7aa9e03d08db166c641db7a5ab4fb4157d1e70b004d19d1a6ea87"
+    },
+    {
+      "path": "images/product-board-1.png",
+      "bytes": 1428692,
+      "sha256": "f83dc8e709a6eb3eeb4b63ef28f95e518ab8571154f97cd07be02bc96972ee77"
+    },
+    {
+      "path": "images/product-board-2.png",
+      "bytes": 2321945,
+      "sha256": "eae83f128cf8ffafde8d00fd4f3cab0c22ea42a209b6462496efb6c5232e2d4b"
+    },
+    {
+      "path": "images/product-reference-boards.pdf",
+      "bytes": 7767384,
+      "sha256": "726c2e991e7176dba16deda001572edb2bffc24cd9c711f77095a149264b6f5b"
+    },
+    {
+      "path": "images/product-reference-boards.sources.json",
+      "bytes": 10852,
+      "sha256": "152c80e98b070f94b9f609867526c20301158aab810756888e650d98461db45b"
+    },
+    {
+      "path": "geometry/room-measurements.json",
+      "bytes": 11040,
+      "sha256": "40e86343957dd57fe6045e7e344d7f0f54f7510981e2cf7cb591ca6f05e8239a"
+    },
+    {
+      "path": "geometry/fixed-features.json",
+      "bytes": 8529,
+      "sha256": "2943ce109b8605e092a0676145b16a9484561fdf7d4a9c31a48afb4c56b2042d"
+    },
+    {
+      "path": "geometry/final-furnished-plan-delta.json",
+      "bytes": 3026,
+      "sha256": "4c77b6ae57a8c3138e202dd54573032b489719965e6b56c6ff4345b5d47d3108"
+    },
+    {
+      "path": "geometry/final-plan-footprints.json",
+      "bytes": 6380,
+      "sha256": "df0583708c60b5593e81713405b3c8cc12ba12cee09ce8be99ec3a9d3ac704e9"
+    },
+    {
+      "path": "His-office-design-review.sources.json",
+      "bytes": 12248,
+      "sha256": "5178eb3e7eb38fb85f5ff12f20d465ae929c7a3d61d14b16b61108803ddb2df0"
+    },
+    {
+      "path": "his-office-viewer-source.zip",
+      "bytes": 12736602,
+      "sha256": "8deec7da9164841844923248b12bb817c8538366f27e538c7a38272e83ceead5"
+    },
+    {
+      "path": "products/photos/lagkapten-alex-single.jpg",
+      "bytes": 58739,
+      "sha256": "6af473be23b4cc09d78c2d7431ecd3cb5167f1049e7b25b41ed2b038318d9761"
+    },
+    {
+      "path": "products/photos/storklinta-low-drawers.jpg",
+      "bytes": 254755,
+      "sha256": "caa0d86f3551c1d5ed00e5863ba706d7e93d3105b57bd566b4387b262d3c6833"
+    },
+    {
+      "path": "products/photos/ekenaset-turquoise.jpg",
+      "bytes": 238502,
+      "sha256": "b5daae66a4fe3a70ce7c4915274c61864f8c6d212212f06a51ed5d15a3151bd3"
+    },
+    {
+      "path": "products/photos/grejig-shoes.jpg",
+      "bytes": 93610,
+      "sha256": "e0cdce879fa00d0f1f08c0e8dffb7ba75a8134493d4dba40eee7d70f9a28224b"
+    },
+    {
+      "path": "products/photos/ruggable-inkdrop-selected.jpg",
+      "bytes": 970160,
+      "sha256": "f83a9da1852eed7033475faf1f445c4b4bc6045596af17c9ada731a3cefb350a"
+    },
+    {
+      "path": "products/photos/branch-pro-selected.jpg",
+      "bytes": 174646,
+      "sha256": "4998c1152afd03dc1a2fd908f2c53e5275759f835117feedef62891f60c0e0b7"
+    },
+    {
+      "path": "products/photos/art-blue-bold-selected.jpg",
+      "bytes": 3444509,
+      "sha256": "a92059a7de936db087387da4cf94673962e4dd93b2391e630ca3897a60e70bca"
+    },
+    {
+      "path": "products/photos/art-blue-geometric-selected.jpg",
+      "bytes": 450990,
+      "sha256": "dcb54b475b6de56518feda1b0fcae4e8b625736fed7a8cd3c91fd626574efc68"
+    },
+    {
+      "path": "products/photos/art-black-frame.jpg",
+      "bytes": 39214,
+      "sha256": "6946c690247841f1462d974bfb137a90114e7c1530318484983cb128f1272e95"
+    },
+    {
+      "path": "products/photos/art-black-frame-large.jpg",
+      "bytes": 101115,
+      "sha256": "02c2cb64ab2dc5f0f747f3e7613ea0022fed70e1ce8035c5981da24cd5b31c58"
+    },
+    {
+      "path": "products/selected-products.json",
+      "bytes": 16453,
+      "sha256": "eae8780f6cb2e3f65930bb5aaf59017579a0c3d089e042185daa19b784309b68"
+    },
+    {
+      "path": "products/product-links-and-prices.txt",
+      "bytes": 4490,
+      "sha256": "6a217c2deea13b02873351e6423c0a504264ec4c4d368100031a3860f031b875"
+    },
+    {
+      "path": "sources/selected-products-research.json",
+      "bytes": 18636,
+      "sha256": "e423652a3905d7540314eff8897ac0de4ae6acec2e9ad2577fa6acfcdcd9fa4f"
+    },
+    {
+      "path": "sources/keepers-research.json",
+      "bytes": 27651,
+      "sha256": "2e781f527aa19b0fac8baccc25b1c2feef2d2670d09a1d5e55931b7c6257c03b"
+    },
+    {
+      "path": "sources/keepers-findings.txt",
+      "bytes": 1332,
+      "sha256": "d219847fce52c0b29b2f2258a18d53c01e61193a5efcd35b130098ca75ed17ec"
+    },
+    {
+      "path": "products/photos/uplift-live-edge-pheasantwood-front.jpg",
+      "bytes": 40727,
+      "sha256": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab"
+    },
+    {
+      "path": "products/photos/uplift-v2-c-frame-industrial-official.png",
+      "bytes": 55191,
+      "sha256": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4"
+    },
+    {
+      "path": "products/photos/honeywell-B0C3BVYTXP-MAIN.jpg",
+      "bytes": 13936,
+      "sha256": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8"
+    },
+    {
+      "path": "products/photos/honeywell-B0C3BVYTXP-DIMN.jpg",
+      "bytes": 26374,
+      "sha256": "0d2817e76a84a34cc950a73cda4d94229e54b7f11949a2bd0aebb2f9838f3afe"
+    },
+    {
+      "path": "products/photos/muttros-B0HHRC6XBC-MAIN.jpg",
+      "bytes": 484809,
+      "sha256": "acdd6d2b000c1a05467a5b48a8cb70cbcdcee5fc33d0b4f6f019f09fef369749"
+    },
+    {
+      "path": "products/photos/muttros-B0HHRC6XBC-PT01.jpg",
+      "bytes": 234314,
+      "sha256": "9c3ebae984ce14c6fd451d20c41194168f35e5cef98b37cc6fb1d61df313276a"
+    },
+    {
+      "path": "sources/reference-brick-wall-annotated.png",
+      "bytes": 1821146,
+      "sha256": "6bde8507a1f98a231fb5c6c128029d721329cf9c80cc189d76a30de94fddeb35"
+    },
+    {
+      "path": "sources/reference-rear-door-window-annotated.png",
+      "bytes": 1540313,
+      "sha256": "5ce5e416186ce1226ad6b792c4e93c759cf8f53c810cfd1b75dc3817cc17d870"
+    },
+    {
+      "path": "sources/reference-closet-entry-annotated.png",
+      "bytes": 1638242,
+      "sha256": "f94d5f8459568c151d7b80a546040a1b524b4744c857de817515a7cb968f9ce1"
+    },
+    {
+      "path": "qa/QA-REPORT.json",
+      "bytes": 6462,
+      "sha256": "39b069d480f8bfd243099aaa7ea5c3353df2ecd86241c5b34796a9ece1e5c594"
+    },
+    {
+      "path": "qa/QA-REPORT.txt",
+      "bytes": 5363,
+      "sha256": "b854a7c08c068d9e38228b889cdf3bf7412b5749026a0feb1817a8a6ca48b2a5"
+    },
+    {
+      "path": "qa/chair-pullback-operation.json",
+      "bytes": 1441,
+      "sha256": "0a9b52ad8d3753f3930a9aebd6022f4a750889578960957b10df4415bc77a43e"
+    },
+    {
+      "path": "qa/desk-height-operation.json",
+      "bytes": 2916,
+      "sha256": "5dbc418ee55574b7cb9675e2427022abbb55710535165031d80cfbe3058be3c0"
+    },
+    {
+      "path": "qa/export-parity.json",
+      "bytes": 228501,
+      "sha256": "e9a4c57b1354fbb2502c38f313f2cd1c7cb63d1d2c4b4b9a1244793972229ab5"
+    },
+    {
+      "path": "qa/fireplace-recess-check.json",
+      "bytes": 6906,
+      "sha256": "eb1c8806a712769719b51a606f2e69ae97d9f17be5d737b20daed5398f9fe321"
+    },
+    {
+      "path": "qa/image-QA.json",
+      "bytes": 3732,
+      "sha256": "7f834cb203892f0bb6d1da97cd95b0924f7b4a393a00ce390873e4995b985a91"
+    },
+    {
+      "path": "qa/image-QA.txt",
+      "bytes": 1541,
+      "sha256": "d7160222a82041571f69ee0e7aa76b53b153bb60ad12c1dd5f601be8594da339"
+    },
+    {
+      "path": "qa/integrated-mesh-checks.json",
+      "bytes": 146690,
+      "sha256": "ae7dbfbe2092df669b8d927a270c1a5d3f98ddc412db4f4c5671da4ba5abbae3"
+    },
+    {
+      "path": "qa/keeper-part-checks.json",
+      "bytes": 9743,
+      "sha256": "b6b406dd531c2282087be88423f7d2bb05aa9fb497106e9bee5c10a7d217dab0"
+    },
+    {
+      "path": "qa/lamp-aperture-check.json",
+      "bytes": 5041,
+      "sha256": "bae7a1ba4105dddc01aad5a2a374091a651d23fce002fbd9d55ba312d23e2d2f"
+    },
+    {
+      "path": "qa/material-availability.json",
+      "bytes": 15415,
+      "sha256": "4a6533084eca04315d7c62f4ff60e2e9f3bdd19af33d1939a268c96a8e335db6"
+    },
+    {
+      "path": "qa/operation-clearances.json",
+      "bytes": 5459,
+      "sha256": "1b0345629b00df00262324c289d8f51bd84bca8b9c86263f7162b46a823032e3"
+    },
+    {
+      "path": "qa/pdf-layout-check.json",
+      "bytes": 2381,
+      "sha256": "ca67f3e0d8e48a1622ea69bcad104073d8ccd4f248f56178aa1d1b19aa9403c4"
+    },
+    {
+      "path": "qa/pdf-page-3.png",
+      "bytes": 127010,
+      "sha256": "1911433844275f335bd944aa6a3c8d54f237e21ee2947aa41e152e28ea4d7727"
+    },
+    {
+      "path": "qa/pdf-page-8.png",
+      "bytes": 85467,
+      "sha256": "7ad350e4a628ca350f56ed46277da526ea4c1baefba64f15ed17893021f68fbd"
+    },
+    {
+      "path": "qa/product-fit-inputs.json",
+      "bytes": 4048,
+      "sha256": "75486b8a08fec36d9be2a788ea8bce8a6f59dc29b0ecc4895846b141804c6d79"
+    },
+    {
+      "path": "qa/routing-analysis.json",
+      "bytes": 5221,
+      "sha256": "193cc5b3ed4a5952b4030d897195cfd6bdc5aa2c0635cd2ea27aaffcf88205d6"
+    },
+    {
+      "path": "qa/viewer-final-overview.png",
+      "bytes": 257408,
+      "sha256": "41c4baa8a0e1951ef175bf3deffc1511f48dba1d709bec5c41ba6447a4ffedbe"
+    },
+    {
+      "path": "qa/viewer-independent-checks.json",
+      "bytes": 10179,
+      "sha256": "73661b03c85b3b8df1138176d9aed68315217ad73ff6785753f6e2551b5d8988"
+    },
+    {
+      "path": "qa/viewer-lamp-aperture-check.json",
+      "bytes": 5688,
+      "sha256": "37e8626d40b47eab207da3ec88227f3ded3c1556a07cfa8b5284319afe88432c"
+    },
+    {
+      "path": "qa/viewer-room-a.png",
+      "bytes": 550489,
+      "sha256": "2170a089ddfcdde66e713d5bdf85b521b35bedff3e7e05a2e503c3d307e01977"
+    },
+    {
+      "path": "qa/viewer-room-b.png",
+      "bytes": 553239,
+      "sha256": "153ce346f08b3de535633150d0998260daa901b9154818c4023206d77aaf145b"
+    },
+    {
+      "path": "qa/viewer-room-c.png",
+      "bytes": 817885,
+      "sha256": "df1ad257ef5632b0b7b219dc776004893b8d4121ddb3d795a0d1d34f9d1990bb"
+    },
+    {
+      "path": "qa/viewer-room-d.png",
+      "bytes": 586775,
+      "sha256": "76d3fe26eede0a3a6a19fbb44fe01dac2e3a1b9fd99021940e8e969ab21e4b84"
+    },
+    {
+      "path": "qa/window-calibration-check.json",
+      "bytes": 1565,
+      "sha256": "30097f0e87dab096caeffc827433a23b8149df4a0f4f52428b85a88082c3822c"
+    },
+    {
+      "path": "images/generation-manifest.tool-inputs.json",
+      "bytes": 24993,
+      "sha256": "3b37d40207fba3416d670a28bb126d81d47001dc4483927cda1e3a115cfd0c70"
+    },
+    {
+      "path": "images/attempts/initial-a.png",
+      "bytes": 2545436,
+      "sha256": "383623930942503de2ac114ae6c05e3d4fbd320a9c9d51de333d80b55ec125df"
+    },
+    {
+      "path": "model/generation-guides/open-lamp-room-a.jpg",
+      "bytes": 635272,
+      "sha256": "276172577fef490b0d02fb91a1c679a6077f7d2a6c9e39d852cc82f02ccb076e"
+    },
+    {
+      "path": "model/generation-guides/pre-lamp-correction-room-b.jpg",
+      "bytes": 571024,
+      "sha256": "7b63d598bf492227cb1c35c13e5d313c5295155b17506c7e8e4fe073b92764c7"
+    },
+    {
+      "path": "images/attempts/initial-b.png",
+      "bytes": 2268170,
+      "sha256": "f8666fe8414cbbf36f87a900521de897fba1ee136f16dc7122ef1deb3f7f80b9"
+    },
+    {
+      "path": "model/generation-guides/pre-lamp-correction-room-a.jpg",
+      "bytes": 638798,
+      "sha256": "11ed15387c1888f469d63b4015b9a4344122a38b9a81b88e65260071ea803747"
+    },
+    {
+      "path": "images/attempts/repaired-c-before-edge.png",
+      "bytes": 2654292,
+      "sha256": "64777d97ade084bf45bcb7f777153579dc0da6509f42cbe67a9f5bf72bb696e8"
+    },
+    {
+      "path": "images/attempts/initial-c.png",
+      "bytes": 2865621,
+      "sha256": "ca558a8dededf98a96d55423768f776e155b5ade325cd34486fbc851ac773d75"
+    },
+    {
+      "path": "model/generation-guides/pre-lamp-correction-room-c.jpg",
+      "bytes": 791209,
+      "sha256": "a98fdb1af46ecde6fbc57208d4ae4bef5ab33545b931781093b30af0fcfd74df"
+    }
+  ],
+  "scope": "Final proposal; measured 3D model is placement authority. Generated images illustrate finish and style.",
+  "original_scan_included": false
+}

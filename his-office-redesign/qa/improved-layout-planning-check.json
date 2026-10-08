@@ -1,0 +1,100 @@
+{
+  "status": "proposed root parameter scenario before canonical update",
+  "overrides": {
+    "primary_work_y": -0.85,
+    "secondary_work_y": -0.8,
+    "visitor_y": -2.0,
+    "lamp_xy": [
+      -7.67,
+      -0.24
+    ]
+  },
+  "checks": {
+    "working": [
+      {
+        "assumed_person_diameter_m": 0.45,
+        "entry_component": 0,
+        "rear_component": 0,
+        "continuous_nominal_route": true,
+        "free_component_areas_m2": [
+          4.2633142252453355,
+          0.01913524322304971
+        ]
+      },
+      {
+        "assumed_person_diameter_m": 0.5,
+        "entry_component": 0,
+        "rear_component": 0,
+        "continuous_nominal_route": true,
+        "free_component_areas_m2": [
+          3.837188419010095
+        ]
+      },
+      {
+        "assumed_person_diameter_m": 0.55,
+        "entry_component": 1,
+        "rear_component": 0,
+        "continuous_nominal_route": false,
+        "free_component_areas_m2": [
+          2.914893704148301,
+          0.5192131122320987
+        ]
+      },
+      {
+        "assumed_person_diameter_m": 0.6,
+        "entry_component": 1,
+        "rear_component": 0,
+        "continuous_nominal_route": false,
+        "free_component_areas_m2": [
+          2.601669027434599,
+          0.44646074071857
+        ]
+      }
+    ],
+    "pulledback": [
+      {
+        "assumed_person_diameter_m": 0.45,
+        "entry_component": 0,
+        "rear_component": 0,
+        "continuous_nominal_route": true,
+        "free_component_areas_m2": [
+          3.6645323081077072,
+          0.01913524322304971,
+          0.002328416980796535
+        ]
+      },
+      {
+        "assumed_person_diameter_m": 0.5,
+        "entry_component": 0,
+        "rear_component": 0,
+        "continuous_nominal_route": true,
+        "free_component_areas_m2": [
+          3.1754175694801914
+        ]
+      },
+      {
+        "assumed_person_diameter_m": 0.55,
+        "entry_component": 2,
+        "rear_component": 0,
+        "continuous_nominal_route": false,
+        "free_component_areas_m2": [
+          1.2379534694463923,
+          0.9560987947916535,
+          0.5192131122320987
+        ]
+      },
+      {
+        "assumed_person_diameter_m": 0.6,
+        "entry_component": 2,
+        "rear_component": 0,
+        "continuous_nominal_route": false,
+        "free_component_areas_m2": [
+          1.0024981781935804,
+          0.8388205898768304,
+          0.44646074071857
+        ]
+      }
+    ]
+  },
+  "scope": "Nominal conservative footprint/person-circle planning only, open door state, basket/lamp part-height checks pending canonical rebuilt meshes."
+}

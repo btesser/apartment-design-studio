@@ -1,0 +1,48 @@
+{
+  "coordinates": "GLTF Y-up; actual exported mesh extrema compared to clean architecture planes",
+  "items": [
+    {
+      "item": "entry-gold-console",
+      "model_floor_y_m": 1.534999966621399,
+      "actual_lowest_mesh_y_m": 1.5350000858306885,
+      "gap_m": 1.1920928955078125e-07,
+      "grounded": true
+    },
+    {
+      "item": "entry-rattan-shoe-cabinet",
+      "model_floor_y_m": 1.534999966621399,
+      "actual_lowest_mesh_y_m": 1.5350000336766243,
+      "gap_m": 6.705522537231445e-08,
+      "grounded": true
+    },
+    {
+      "item": "bedroom-king-bed",
+      "model_floor_y_m": -1.3849999904632568,
+      "actual_lowest_mesh_y_m": -1.3849999904632568,
+      "gap_m": 0.0,
+      "grounded": true
+    },
+    {
+      "item": "bedroom-nightstand-1",
+      "model_floor_y_m": -1.3849999904632568,
+      "actual_lowest_mesh_y_m": -1.385000042617321,
+      "gap_m": -5.21540641784668e-08,
+      "grounded": true
+    },
+    {
+      "item": "bedroom-nightstand-2",
+      "model_floor_y_m": -1.3849999904632568,
+      "actual_lowest_mesh_y_m": -1.385000042617321,
+      "gap_m": -5.21540641784668e-08,
+      "grounded": true
+    },
+    {
+      "item": "bedroom-large-dresser",
+      "model_floor_y_m": -1.3849999904632568,
+      "actual_lowest_mesh_y_m": -1.385000042617321,
+      "gap_m": -5.21540641784668e-08,
+      "grounded": true
+    }
+  ],
+  "all_grounded": true
+}

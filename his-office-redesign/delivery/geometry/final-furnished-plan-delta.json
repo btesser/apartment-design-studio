@@ -1,0 +1,87 @@
+{
+  "source_layout": "/workspace/his-office-redesign/model/layout.json",
+  "layout_version": "root-QA-frozen-final-2026-10-08",
+  "layout_sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09",
+  "positions_changed": false,
+  "positions_modified_by_plan": false,
+  "canonical_QA_revisions_from_previous_plan": {
+    "branch-primary_y_m": [
+      -1.03,
+      -0.85
+    ],
+    "branch-secondary_y_m": [
+      -1.03,
+      -0.8
+    ],
+    "visitor-chair_y_m": [
+      -1.9,
+      -2.0
+    ],
+    "honeywell-lamp_xy_m": [
+      [
+        -7.57,
+        -0.05
+      ],
+      [
+        -7.67,
+        -0.24
+      ]
+    ]
+  },
+  "outputs": [
+    "final-furnished-plan.png",
+    "final-furnished-plan.pdf"
+  ],
+  "room_dimensions_m": [
+    4.9,
+    3.1,
+    3.02
+  ],
+  "floor_area_m2": 14.028,
+  "visual_layer_notes": [
+    "Solid floor-level footprints; Branch rolling bases shown at nominal \u00d8.70104m",
+    "Upper cat basket circles dashed at provisional offsets in current build_keepers.py; not a solid collision rectangle",
+    "Lamp U-base shape follows current approximate model; its exact outer light head is a separate dashed overhead layer",
+    "45cm task-chair rearward motion and .276225m dresser pullout dashed, separate from fixed furniture",
+    "Stacked shoe racks use world footprint.27X\u00d7.58Y, per clarified canonical layout"
+  ],
+  "deltas_from_geometry_feasibility_sketch": {
+    "dresser": "Final X=-6.60,Y=-2.51,69.85\u00d747.94cm; clears rear-door planning approach by~3.1cm alongX",
+    "cat": "Final base center(-7.59,-1.00), confirmed base.59944\u00d7.5588m; upper baskets provisional",
+    "visitor": "Final64.14\u00d778.11cm footprint replaces the earlier.78m square allowance",
+    "main_desk": "Final center(-6.95,-.131), top106.68\u00d776.2cm; back edgeY.25, .06m from nominalwhitewall",
+    "secondary": "Final center(-5.55,-.05),140\u00d760cm; right edgeX-4.85, .05m from closetapproach"
+  },
+  "fit_disclosures": [
+    {
+      "id": "lamp_foot_gap",
+      "value_m": 0.1095,
+      "status": "model-derived from approximate U-base shape; no plan position altered"
+    },
+    {
+      "id": "chair_pullback_plus_open_drawer",
+      "value_m": 0.343542,
+      "default_chair_state_gap_m": 0.793542,
+      "status": "simultaneously extended states have insufficient passage; sequential use retained"
+    },
+    {
+      "id": "nominal_continuous_route",
+      "person_circle_pass_m": 0.5,
+      "person_circle_fail_m": 0.55,
+      "chair_states": [
+        "working",
+        "both45cmrearward"
+      ],
+      "authority": "qa/routing-analysis.json; nominal generalized walls, open doors, conservative floor envelopes; not measured passage width"
+    },
+    {
+      "id": "closet_shoes",
+      "status": "unrecorded interior fit provisional; stack hidden behind observedcloseddoor"
+    },
+    {
+      "id": "cat_upper",
+      "status": "branch/basket dimensions unpublished; dashed model offsets are provisional"
+    }
+  ],
+  "footprints_file": "final-plan-footprints.json"
+}

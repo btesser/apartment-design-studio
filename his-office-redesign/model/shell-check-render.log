@@ -1,0 +1,25 @@
+Blender 4.3.2
+Read blend: "/workspace/his-office-redesign/model/his-office-shell.blend"
+Fra:1 Mem:72.41M (Peak 72.73M) | Time:00:02.77 | Rendering 1 / 16 samples
+Fra:1 Mem:72.41M (Peak 72.73M) | Time:00:10.15 | Rendering 16 / 16 samples
+Saved: '/workspace/his-office-redesign/model/shell-checks/room-a.jpg'
+Time: 00:10.38 (Saving: 00:00.22)
+
+Fra:1 Mem:72.41M (Peak 72.41M) | Time:00:01.53 | Rendering 1 / 16 samples
+Fra:1 Mem:72.41M (Peak 72.41M) | Time:00:09.35 | Rendering 16 / 16 samples
+Saved: '/workspace/his-office-redesign/model/shell-checks/room-b.jpg'
+Time: 00:09.46 (Saving: 00:00.10)
+
+Fra:1 Mem:72.41M (Peak 72.41M) | Time:00:01.60 | Rendering 1 / 16 samples
+Fra:1 Mem:72.41M (Peak 72.41M) | Time:00:09.46 | Rendering 16 / 16 samples
+Saved: '/workspace/his-office-redesign/model/shell-checks/room-c.jpg'
+Time: 00:09.58 (Saving: 00:00.10)
+
+Fra:1 Mem:72.41M (Peak 72.41M) | Time:00:01.49 | Rendering 1 / 16 samples
+Fra:1 Mem:72.41M (Peak 72.41M) | Time:00:09.83 | Rendering 16 / 16 samples
+Saved: '/workspace/his-office-redesign/model/shell-checks/room-d.jpg'
+Time: 00:09.91 (Saving: 00:00.07)
+
+SHELL_CHECK_PREVIEWS_READY
+
+Blender quit

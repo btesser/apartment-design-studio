@@ -1,0 +1,84 @@
+[
+  {
+    "item": "Hendrix ivory loveseat",
+    "sku": "W005597633",
+    "dimensions_m": {
+      "width": 1.27508,
+      "depth": 0.6858,
+      "height": 0.889
+    },
+    "confidence": "retailer verified",
+    "url": "https://www.wayfair.com/furniture/pdp/etta-avenue-hendrix-velvet-flared-arm-loveseat-w005597633.html"
+  },
+  {
+    "item": "Lysiane Biscotti combo dresser",
+    "sku": "W111189303",
+    "dimensions_m": {
+      "width": 2.9972,
+      "depth": 0.39624,
+      "height": 0.82296
+    },
+    "confidence": "retailer verified; fit unresolved",
+    "url": "https://www.wayfair.com/furniture/pdp/latitude-run-lysiane-118-w-6-drawer-4-door-combo-dresser-w111189303.html?piid=575136409"
+  },
+  {
+    "item": "NTC Gem King bed",
+    "sku": "W113727382",
+    "dimensions_m": {
+      "king_properties_width": 2.19,
+      "king_properties_length": 2.098,
+      "king_properties_height": 1.0701
+    },
+    "confidence": "conflicting retailer fields; selected king properties vs default queen dimension panel",
+    "url": "https://www.wayfair.com/furniture/pdp/ntc-gem-solid-wooden-bed-frame-with-headboard-and-natural-rattan-1000-lb-capacity-w113727382.html"
+  },
+  {
+    "item": "Basement nesting table set",
+    "sku": "W113334432",
+    "dimensions_m": {
+      "height": 0.43942,
+      "listed_width": 0.75946,
+      "listed_depth": 0.43942
+    },
+    "confidence": "height corroborated; footprint conflict round shape vs displayed depth",
+    "url": "https://www.wayfair.com/furniture/pdp/ivy-bronx-2-piece-modern-round-nesting-coffee-table-set-for-home-apartment-w113334432.html?piid=560702324%2C560702325"
+  },
+  {
+    "item": "Ebern Designs 3-drawer nightstand, Natural",
+    "sku": "W121522044",
+    "dimensions_m": {
+      "width": 0.508,
+      "depth": 0.4064,
+      "height": 0.59944
+    },
+    "confidence": "retailer verified selected variant",
+    "url": "https://www.wayfair.com/furniture/pdp/ebern-designs-3-drawer-nightstand-w121522044.html?piid=760756985",
+    "retailer_inches": {
+      "width": 20,
+      "depth": 16,
+      "height": 23.6
+    }
+  },
+  {
+    "item": "Lovett entry console, Gold",
+    "sku": "W009247541",
+    "dimensions_m": {
+      "width": 0.5588,
+      "depth": 0.2032,
+      "height": 0.7493
+    },
+    "confidence": "retailer verified; model entry placement provisional",
+    "url": "https://www.wayfair.com/furniture/pdp/wade-logan-lovett-22-console-table-w009247541.html?piid=1248255057"
+  },
+  {
+    "item": "Rubenstein rattan shoe storage, Natural Wood",
+    "sku": "W100191469",
+    "dimensions_m": {
+      "width": 0.679958,
+      "depth": 0.399796,
+      "height": 0.834898
+    },
+    "confidence": "retailer verified; model entry placement provisional",
+    "url": "https://www.wayfair.com/storage-organization/pdp/bay-isle-home-rubenstein-modern-rattan-18-pair-shoe-storage-cabinet-w100191469.html?piid=1573850628"
+  }
+]

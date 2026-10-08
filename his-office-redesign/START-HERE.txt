@@ -1,0 +1,53 @@
+HIS OFFICE — WARM MODERN STUDIO
+
+Open His-office-design-review.pdf for the complete proposal, measured plan,
+real product photographs, prices, links and three model/concept comparisons.
+
+Open his-office-viewer.html in a desktop browser for the offline 3D walkthrough.
+Use Orbit to inspect the whole room or Walk to look around at eye level.
+The viewpoint menu opens the same room angles used for image generation.
+The model and its textures are embedded; an internet connection is not needed.
+
+The design preserves the owned 42 x 30 inch Pheasantwood UPLIFT desk,
+white Honeywell 02E Pro floor lamp and MUTTROS cat tree. It adds a separate
+140 x 60 cm desk with office drawers, two task chairs, folded-clothes drawers,
+provisional shoe racks in the existing closet, a teal visitor chair, a 6 x 9 ft
+graphic rug and two blue art prints. Existing hanging storage stays in the closet.
+
+The Blender file is editable and contains packed textures. The GLB is a
+portable combined room model; separate shell, door and furniture GLBs are
+also supplied. All models retain the original Polycam scale in metres.
+Blender uses Z-up; GLB uses Y-up. The canonical furniture positions and
+orientations are in model/layout.json.
+
+The room outline is approximately 4.90 x 3.10 m with a closet notch,
+about 14.03 square metres of usable floor and a 3.02 m ceiling. Typical
+scan-outline uncertainty is 5–12 cm. This is a design model, not a survey.
+The owned desk size is confirmed by the order screenshot. Retail product
+dimensions are nominal, and some product forms are photograph-based models.
+
+The checked arrangement retains a nominal 50 cm planning-person route from
+entry to rear door, including simultaneous 45 cm chair pullback. The more
+conservative 55 cm route does not pass. Tuck the main task chair toward its
+desk before using the dresser comfortably. Check real door swings, closet
+internals, cat-tree branch reach and lamp-base spacing before ordering or
+installation. Recorded doors are closed; hiding them is only a viewing aid.
+The STORKLINTA drawers require its Anchor/Unlock wall fixing. Confirm the
+approved fixing or spacer for the brick wall, or move the chest closer to
+the wall during installation; the rendered rear gap does not prove kit fit.
+
+The three generated images in images/ illustrate the materials and overall
+look. They were generated from multiple angles of this 3D model plus original
+online product photographs. For dimensions, furniture placement and facing,
+use the model and dimensioned plan. The images are not measurement evidence.
+The separate images/attempts folder contains earlier images used as inputs
+to targeted corrections; use concept-a.png, concept-b.png and concept-c.png
+as the accepted final concepts. Reference sheets and hashes are included.
+
+Product links, variants and prices are in products/selected-products.json.
+Proposed new pieces including both task chairs and art frames total about
+$2,344.43 before tax and shipping at the research date, October 8, 2026.
+Stock and promotional prices can change. No purchases were made.
+
+Provenance and fit checks are included in sources/ and qa/. The original
+scan and earlier apartment deliverables have been left separate.

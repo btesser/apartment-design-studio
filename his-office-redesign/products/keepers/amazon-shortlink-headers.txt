@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+date: Thu, 08 Oct 2026 14:35:13 GMT
+server: envoy
+
+HTTP/2 301 
+server: envoy
+date: Thu, 08 Oct 2026 14:35:13 GMT
+content-type: application/json
+content-length: 2
+x-amzn-requestid: c1e36474-231a-47db-90bd-2ac7a2fbd934
+location: https://www.amazon.com/dp/B0HHRC6XBC?ref=cm_sw_r_cso_cp_apin_dp_BS5MC9C6FG6XSV1TEW2X&ref_=cm_sw_r_cso_cp_apin_dp_BS5MC9C6FG6XSV1TEW2X&social_share=cm_sw_r_cso_cp_apin_dp_BS5MC9C6FG6XSV1TEW2X&rsd=5Yz6NiJtaePFkJi5L3gJmH0eEsOQlwYS37YVUK1Mubo7SKU0Fa7aDFlGNQpe7OY8WOzZax%2BA%2Fahzdkt%2FYeZ4ihsenJcgiLZjBTqZiPfWttohAzXB&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQE6yPPAt%2FxNT3twOFZzqrGdAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMc13OViL89P8G6OAaAgEQgDvoFteY6J7AtFJwyLlY6Sgq665KeGQIdqCOGSrNqKKY3AgB8z%2FoARxud3%2Bm22T%2F81Ypemro2ahALzXVKQ%3D%3D
+x-amz-rid: 0ZNRS8EEHN0799J3E951
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: User-Agent,Accept-Encoding
+x-envoy-upstream-service-time: 118
+
+HTTP/1.1 200 OK
+date: Thu, 08 Oct 2026 14:35:13 GMT
+server: envoy
+
+HTTP/2 200 
+date: Thu, 08 Oct 2026 14:35:14 GMT
+pragma: no-cache
+expires: -1
+x-amz-rid: 2JSPETF5VC5X3ZPF64FB
+cache-control: no-cache
+x-cache: Miss from cloudfront
+via: 1.1 957118bfe19074c580912e59d505af4a.cloudfront.net (CloudFront)
+x-amz-cf-pop: ORD56-P13
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: bzuaxfh7Y-YVTayW0qFiZgkwVCaDYbm0u1L7yKMDYRmqT1yQiqpCcQ==
+x-envoy-upstream-service-time: 121
+server: envoy
+

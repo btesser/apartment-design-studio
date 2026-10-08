@@ -1,0 +1,97 @@
+{
+  "generated_utc": "2026-10-08T15:33:52.671079+00:00",
+  "coordinate_system": "Blender metric Z-up; glTF (X,Z,-Y), no scale/recenter/mirror",
+  "frozen_layout_instances": 14,
+  "texture_node_count": 32,
+  "texture_node_failures": [],
+  "assets": [
+    {
+      "filename": "his-office-design.blend",
+      "bytes": 25317287,
+      "sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a"
+    },
+    {
+      "filename": "his-office-design.glb",
+      "bytes": 16832436,
+      "sha256": "895550f4a29566a7e277e64cfc54eda0878ad8a00d0dc53b5fce7e62b94d059d",
+      "meshes": 268,
+      "nodes": 286,
+      "embedded_images": 26
+    },
+    {
+      "filename": "his-office-furniture.glb",
+      "bytes": 15956032,
+      "sha256": "fe9cea9df2e569a3e727f3d4252c35649ab1eacec6c576322ac2bc1f046d96b6",
+      "meshes": 186,
+      "nodes": 204,
+      "embedded_images": 25
+    },
+    {
+      "filename": "his-office-shell.glb",
+      "bytes": 739764,
+      "sha256": "11ed88b2993bcf7fc1ccf1257e83e7934338b1fd5840de880071fe069ca19a9c",
+      "meshes": 69,
+      "nodes": 69,
+      "embedded_images": 2
+    },
+    {
+      "filename": "his-office-door-leaves.glb",
+      "bytes": 167392,
+      "sha256": "360b7c57d4fc45a75cb74830a539392ef700648e60dad3d42f534ee39f66d3ec",
+      "meshes": 13,
+      "nodes": 13,
+      "embedded_images": 0
+    },
+    {
+      "filename": "layout.json",
+      "bytes": 9405,
+      "sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09"
+    },
+    {
+      "filename": "camera-poses.json",
+      "bytes": 3010,
+      "sha256": "c325ec270aeea957dca340fe728e7c12de1b0808c56d7818654cf8bd84d42d8f"
+    }
+  ],
+  "review": "PASS: updated A visually reviewed with source-faithful open lamphead. B/C/D preserved with unchanged visible geometry and per-view provenance. Model/exports fixed after local correction.",
+  "arch_ray": {
+    "origin_blender_m": [
+      -5.315,
+      -2.1,
+      2.2
+    ],
+    "direction": [
+      0,
+      -1,
+      0
+    ],
+    "hit_object": "Observed recessed white arched fireplace infill",
+    "hit_y_m": -2.835,
+    "adjacent_chimney_face_y_m": -2.722
+  },
+  "render_settings": {
+    "engine": "Cycles CPU",
+    "resolution": [
+      1440,
+      1000
+    ],
+    "maximum_samples": 64,
+    "adaptive_sampling": true,
+    "adaptive_threshold": 0.03,
+    "minimum_samples": 16,
+    "denoising": false,
+    "denoiser_limitation": "This installed Blender exposes no Cycles denoiser enum values; fresh probe fails to select OPENIMAGEDENOISE",
+    "exposure": -0.5,
+    "same_saved_scene": "his-office-design.blend"
+  },
+  "final_render_verification": "final-render-verification.json",
+  "local_product_correction": "Honeywell head open aperture/two narrow LED bars; envelope and allother products unchanged. See honeywell-open-head-validation.json.",
+  "browser_head_aperture_proof": "../qa/viewer-lamp-aperture-check.json",
+  "browser_head_aperture_ray_checks": {
+    "empty_aperture": 9,
+    "interior_rim_LED_controls": 4,
+    "all_pass": true,
+    "errors": []
+  },
+  "local_product_correction_proof": "honeywell-open-head-validation.json"
+}

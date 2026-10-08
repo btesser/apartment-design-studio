@@ -1,0 +1,217 @@
+{
+  "verified_at_utc": "2026-10-08T14:56:32.333315+00:00",
+  "currency": "USD",
+  "price_basis": "Public US official product variant price before tax; no coupon assumed. Variant-specific structured data refreshed at verification.",
+  "christie_charcoal": {
+    "name": "Rugs USA Christie Washable Modern Rug, Charcoal",
+    "selected_size_feet": [
+      5,
+      8
+    ],
+    "selected_size_meters": [
+      1.524,
+      2.4384
+    ],
+    "variant_id": "47065110544440",
+    "sku": "200BIRV71A-508",
+    "price_usd": 54.99,
+    "material": "100% polyester",
+    "technique": "Power loomed",
+    "pile_height_inches": 0.1,
+    "pile_height_mm": 2.54,
+    "feel": "Soft and smooth",
+    "availability": "InStock",
+    "confidence": "high; selected official size/price SKU in JSON-LD, material/pile in official visible product detail",
+    "url": "https://www.rugsusa.com/products/christie-washable-modern-rug-charcoal?variant=47065110544440",
+    "proof_html": "/workspace/his-office-redesign/products/candidates/source-pages/rug-christie-5x8-verified.html",
+    "proof_text": "/workspace/his-office-redesign/products/candidates/source-pages/rug-christie.txt",
+    "exact_variant_structured_data": [
+      {
+        "@type": "Product",
+        "sku": "200BIRV71A-508",
+        "name": "Christie Washable Modern Rug | Charcoal - 5' x 8'",
+        "url": "https://www.rugsusa.com/products/christie-washable-modern-rug-charcoal?variant=47065110544440",
+        "size": "5' x 8'",
+        "image": "https://www.rugsusa.com/cdn/shop/files/171b742fe32f2f128676a4cde3e5f57a2bd61164.jpg?v=1776156174&width=1000",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "54.99",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.rugsusa.com/products/christie-washable-modern-rug-charcoal?variant=47065110544440"
+        }
+      }
+    ]
+  },
+  "ruggable_inkdrop_slate_blue": {
+    "name": "Jonathan Adler Inkdrop Slate Blue Flatwoven Rug",
+    "selected_size_feet": [
+      6,
+      9
+    ],
+    "selected_size_meters": [
+      1.8288,
+      2.7432
+    ],
+    "selected_configuration": "Flatwoven Two-Piece, Rug + Standard Pad System",
+    "variant_id": "39402849828919",
+    "sku": "RUG-SYS-IND-RCT-CHN-JA016-06x09",
+    "price_usd": 429.0,
+    "cover_material": "100% polyester with built-in waterproof barrier",
+    "cover_thickness_mm": 2,
+    "pad": "Standard, low profile; suited to rolling furniture",
+    "pad_thickness_inches": 0.125,
+    "pad_thickness_mm": 3.175,
+    "nominal_cover_plus_pad_thickness_mm": 5.175,
+    "thickness_confidence": "Cover2mm and Standard Pad1/8in directly sourced;5.175mm combined is arithmetic nominal, not a vendor-tested assembled measurement.",
+    "availability": "InStock",
+    "confidence": "high; official5\u00d77 RUG-SYS variant price explicitly identified, not inferred from page default6\u00d79",
+    "url": "https://ruggable.com/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402849828919",
+    "pad_source_url": "https://ruggable.com/products/standard-rug-pad",
+    "proof_html": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-inkdrop-5x7-verified.html",
+    "proof_text": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-inkdrop.txt",
+    "pad_proof_html": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-standard-pad-verified.html",
+    "selection_note": "Parent changed selection to6\u00d79 for two task chairs;5\u00d77 retained as historical backup.",
+    "exact_selected_variant_structured_data": {
+      "@type": "Product",
+      "sku": "RUG-SYS-IND-RCT-CHN-JA016-06x09",
+      "name": "Inkdrop Slate Blue Flatwoven Rug by Jonathan Adler | Rug + Pad System | 6'x9' | Ruggable",
+      "description": "Effortlessly glam. Ink-inspired lines make up a striking triangular design on this geometric rug, beautifully done in shades of dark and light blue on an ivory background. Water-resistant, stain-resistant, and machine-washable.",
+      "image": "https://cdn.shopify.com/s/files/1/1033/0751/products/jonathan-adler-inkdrop-slate-blue-A-RC-JA016-69-V10.jpg?v=1748546963",
+      "size": "6'x9'",
+      "offers": [
+        {
+          "@type": "Offer",
+          "price": "429.00",
+          "priceCurrency": "USD",
+          "availability": "http://schema.org/InStock",
+          "priceValidUntil": "2026-10-8",
+          "url": "/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402849828919",
+          "shippingDetails": {
+            "@id": "#free_shipping_us"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy_us"
+          }
+        }
+      ]
+    }
+  },
+  "ruggable_inkdrop_slate_blue_5x7_backup": {
+    "name": "Jonathan Adler Inkdrop Slate Blue Flatwoven Rug",
+    "selected_size_feet": [
+      5,
+      7
+    ],
+    "selected_size_meters": [
+      1.524,
+      2.1336
+    ],
+    "selected_configuration": "Flatwoven Two-Piece, Rug + Standard Pad System",
+    "variant_id": "39402849796151",
+    "sku": "RUG-SYS-IND-RCT-CHN-JA016-05x07",
+    "price_usd": 299.0,
+    "cover_material": "100% polyester with built-in waterproof barrier",
+    "cover_thickness_mm": 2,
+    "pad": "Standard, low profile; suited to rolling furniture",
+    "pad_thickness_inches": 0.125,
+    "pad_thickness_mm": 3.175,
+    "nominal_cover_plus_pad_thickness_mm": 5.175,
+    "thickness_confidence": "Cover2mm and Standard Pad1/8in directly sourced;5.175mm combined is arithmetic nominal, not a vendor-tested assembled measurement.",
+    "availability": "InStock",
+    "confidence": "high; official5\u00d77 RUG-SYS variant price explicitly identified, not inferred from page default6\u00d79",
+    "url": "https://ruggable.com/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402849796151",
+    "pad_source_url": "https://ruggable.com/products/standard-rug-pad",
+    "proof_html": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-inkdrop-5x7-verified.html",
+    "proof_text": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-inkdrop.txt",
+    "pad_proof_html": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-standard-pad-verified.html",
+    "variant_alternatives": {
+      "5x7_cover_only": {
+        "price_usd": 219,
+        "variant_id": "39402850549815"
+      },
+      "5x7_cover_plus_cushioned_pad": {
+        "price_usd": 359,
+        "variant_id": "39402850091063"
+      },
+      "page_default_6x9_standard_system": {
+        "price_usd": 429,
+        "warning": "Not the requested5\u00d77 size"
+      }
+    },
+    "exact_5x7_variants_structured_data": [
+      {
+        "@type": "Product",
+        "sku": "RUG-SYS-IND-RCT-CHN-JA016-05x07",
+        "name": "Inkdrop Slate Blue Flatwoven Rug by Jonathan Adler | Rug + Pad System | 5'x7' | Ruggable",
+        "description": "Effortlessly glam. Ink-inspired lines make up a striking triangular design on this geometric rug, beautifully done in shades of dark and light blue on an ivory background. Water-resistant, stain-resistant, and machine-washable.",
+        "image": "https://cdn.shopify.com/s/files/1/1033/0751/products/jonathan-adler-inkdrop-slate-blue-A-RC-JA016-57-V10.jpg?v=1748546960",
+        "size": "5'x7'",
+        "offers": [
+          {
+            "@type": "Offer",
+            "price": "299.00",
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-10-8",
+            "url": "/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402849796151",
+            "shippingDetails": {
+              "@id": "#free_shipping_us"
+            },
+            "hasMerchantReturnPolicy": {
+              "@id": "#return_policy_us"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "sku": "RUG-SY2-IND-RCT-CHN-JA016-05x07",
+        "name": "Inkdrop Slate Blue Flatwoven Rug by Jonathan Adler | Rug + Cushioned Pad System | 5'x7' | Ruggable",
+        "description": "Effortlessly glam. Ink-inspired lines make up a striking triangular design on this geometric rug, beautifully done in shades of dark and light blue on an ivory background. Water-resistant, stain-resistant, and machine-washable.",
+        "image": "https://cdn.shopify.com/s/files/1/1033/0751/products/jonathan-adler-inkdrop-slate-blue-A-RC-JA016-57-V10.jpg?v=1748546960",
+        "size": "5'x7'",
+        "offers": [
+          {
+            "@type": "Offer",
+            "price": "359.00",
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-10-8",
+            "url": "/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402850091063",
+            "shippingDetails": {
+              "@id": "#free_shipping_us"
+            },
+            "hasMerchantReturnPolicy": {
+              "@id": "#return_policy_us"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "sku": "RUG-CVR-IND-RCT-CHN-JA016-05x07",
+        "name": "Inkdrop Slate Blue Flatwoven Rug by Jonathan Adler | Washable Rug Cover | 5'x7' | Ruggable",
+        "description": "Effortlessly glam. Ink-inspired lines make up a striking triangular design on this geometric rug, beautifully done in shades of dark and light blue on an ivory background. Water-resistant, stain-resistant, and machine-washable.",
+        "image": "https://cdn.shopify.com/s/files/1/1033/0751/products/jonathan-adler-inkdrop-slate-blue-A-RC-JA016-57-V10.jpg?v=1748546960",
+        "size": "5'x7'",
+        "offers": [
+          {
+            "@type": "Offer",
+            "price": "219.00",
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-10-8",
+            "url": "/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402850549815",
+            "shippingDetails": {
+              "@id": "#free_shipping_us"
+            },
+            "hasMerchantReturnPolicy": {
+              "@id": "#return_policy_us"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

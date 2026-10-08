@@ -1,0 +1,13 @@
+EGL Error (0x3009): EGL_BAD_MATCH: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+EGL Error (0x3009): EGL_BAD_MATCH: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+Blender 4.3.2
+Read blend: "/workspace/apartment-model/scene-base.blend"
+Fra:1 Mem:131.61M (Peak 131.75M) | Time:00:53.17 | Rendering 1 / 64 samples
+Fra:1 Mem:131.61M (Peak 131.75M) | Time:01:13.48 | Rendering 25 / 64 samples
+Fra:1 Mem:131.61M (Peak 131.75M) | Time:01:43.76 | Rendering 50 / 64 samples
+Fra:1 Mem:131.61M (Peak 131.75M) | Time:02:01.06 | Rendering 64 / 64 samples
+Saved: '/workspace/apartment-model/eevee-preview.png'
+Time: 02:01.47 (Saving: 00:00.40)
+
+
+Blender quit

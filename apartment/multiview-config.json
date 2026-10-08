@@ -1,0 +1,11 @@
+{
+ "living-room":{"floor":1,"z":3.0,"bounds":[-2.7,3.2,-2.35,0.15]},
+ "his-office":{"floor":1,"z":3.0,"bounds":[-7.65,-4.2,-2.3,-0.25]},
+ "her-office":{"floor":1,"z":3.0,"bounds":[4.35,7.65,-2.25,0.3]},
+ "entryway":{"floor":1,"z":3.0,"bounds":[1.5,3.1,0.2,1.65]},
+ "kitchen":{"floor":1,"z":3.0,"bounds":[-7.4,-2.15,1.2,2.05]},
+ "upstairs-bathroom":{"floor":1,"z":3.0,"bounds":[-0.95,0.55,0.95,2.3]},
+ "basement-living-dining":{"floor":0,"z":-0.1,"bounds":[0,6.65,-1.9,0.8]},
+ "bedroom-flex-area":{"floor":0,"z":-0.1,"bounds":[-3.25,-0.9,-1.9,-0.05]},
+ "music-gym":{"floor":0,"z":-0.1,"bounds":[-7.1,-4.25,-1.95,-0.3]}
+}

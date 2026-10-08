@@ -1,0 +1,136 @@
+{
+  "coordinate_system": "Blender Z-up metres; rectangles[xmin,xmax,ymin,ymax]",
+  "zones": [
+    {
+      "id": "closet-approach",
+      "bounds_xy_m": [
+        -4.8,
+        -3.87,
+        -0.98,
+        -0.06
+      ],
+      "type": "preserve access",
+      "basis": "Planning rectangle in front of observed .62m closet door and forward trim at X~-3.87. Includes .93m depth; hinge/swing not directly verified."
+    },
+    {
+      "id": "living-entry-approach",
+      "bounds_xy_m": [
+        -4.08,
+        -3.08,
+        -2.79,
+        -1.55
+      ],
+      "type": "preserve access",
+      "basis": "Planning rectangle1.00m inward depth from observed1.08m frame. Allows approach without furniture pinching door."
+    },
+    {
+      "id": "rear-door-approach",
+      "bounds_xy_m": [
+        -7.98,
+        -6.98,
+        -2.66,
+        -1.52
+      ],
+      "type": "preserve access",
+      "basis": "Planning rectangle1m inward from exterior door; door swing not observed."
+    },
+    {
+      "id": "rear-radiator-envelope",
+      "bounds_xy_m": [
+        -7.96,
+        -7.43,
+        -2.79,
+        -2.47
+      ],
+      "type": "observed fixed object",
+      "basis": "Measured approximate radiator footprint, not hypothetical regulatory buffer."
+    },
+    {
+      "id": "fireplace-projection",
+      "bounds_xy_m": [
+        -6.1,
+        -4.48,
+        -2.94,
+        -2.48
+      ],
+      "type": "preserve architecture",
+      "basis": "Conservative projected chimney/hearth bounds; operability unknown."
+    },
+    {
+      "id": "window-access",
+      "bounds_xy_m": [
+        -7.98,
+        -7.32,
+        -1.08,
+        -0.05
+      ],
+      "type": "operating access preference",
+      "basis": "Optional reachable strip for sash/blind. Cat tree may overlap this strip if reachable around; not a door path."
+    },
+    {
+      "id": "rear-pipe",
+      "bounds_xy_m": [
+        -8,
+        -7.72,
+        0.14,
+        0.31
+      ],
+      "type": "observed fixed object",
+      "basis": "Measured approximate protrusion; keep desk end away."
+    },
+    {
+      "id": "white-wall-worktop-run",
+      "bounds_xy_m": [
+        -7.7,
+        -4.85,
+        -0.452,
+        0.31
+      ],
+      "type": "feasible work/storage zone",
+      "basis": "2.85m run clear of pipe and forward closet trim. Existing UPLIFT 1.0668\u00d7.762m plus 1.40m secondary worktop total 2.4668m, leaving .3832m for separation/end margins. Chair use extends into room."
+    },
+    {
+      "id": "rear-brick-clothes-storage",
+      "bounds_xy_m": [
+        -7.25,
+        -6.35,
+        -2.79,
+        -2.27
+      ],
+      "type": "feasible folded-clothes zone",
+      "basis": "Can fit~.80m width\u00d7.47m depth drawers. Clear of observed radiator and broad chimney; user says hanging clothes remain in existing closet."
+    },
+    {
+      "id": "visitor-chair-adjusted",
+      "bounds_xy_m": [
+        -4.92,
+        -4.14,
+        -2.29,
+        -1.51
+      ],
+      "type": "feasible compact visitor-chair zone",
+      "basis": "Example .78\u00d7.78 footprint centered(-4.53,-1.90), forward of hearth and .06m left of entry approach. Requires final actual product/collision check."
+    },
+    {
+      "id": "cat-tree-near-window",
+      "bounds_xy_m": [
+        -7.93,
+        -6.97,
+        -1.43,
+        -0.47
+      ],
+      "type": "provisional retained-tree zone",
+      "basis": "Conservative .96\u00d7.96 example centered(-7.45,-.95). Actual product branching envelope must be checked; do not infer physical footprint from category/photo."
+    }
+  ],
+  "feasibility_notes": [
+    "Main desk now confirmed by order screenshot:42\u00d730in=1.0668\u00d7.762m, UPLIFTV2C, Pheasantwood barkline front/square back. Zone fit uses exact known footprint; frame/monitor arrangement separate.",
+    "Feasible primary center X=-6.95 gives X[-7.4834,-6.4166], against white wall Y=.31 -> Y[-.452,.31]. Rear window/cat tree remain near its left end; rear pipe envelope ends X=-7.72.",
+    "Secondary width 1.40m centered X=-5.20 gives X[-5.90,-4.50] and overlaps the updated closet approach by .30m if its depth enters Y<-.06. Feasible center X=-5.55 gives X[-6.25,-4.85], .05m before the planning buffer. With primary center X=-6.95, desk-to-desk gap is .1666m.",
+    "Proposed dresser center(-6.80,-2.50), .80\u00d7.47m fits rearbrick zone; its rear edge-2.735m clears generalizedbrickwall-2.79m by.055m. Practical againstwallcenterY=-2.555 givesrear-2.79.",
+    "Original visitor chair center(-4.20,-2.05), .78\u00d7.78m would overlap entryapproach0.27m along X; shiftto(-4.53,-1.90) or choose narrower chair.",
+    "Catcenter(-7.45,-1.10) with1mYbranching envelope reaches-1.60 and intersectsreardoorapproachY\u2264-1.52; centerY-.95 leaves~.07m under .96m footprint assumption. ActualretainedMUTTROS productdimensionsrequired forfinalfit.",
+    "Chair use zones for both desks will occupyYroughly[-1.45,-.45]. This leavescentral circulation behindchairs towardbrickside but mustbe checkedwithactual chairarm/swivel envelope. Theseare planningenvelopes, notasserted measuredclearances."
+  ],
+  "status": "Room-only feasibility; root owns final furniture layout."
+}

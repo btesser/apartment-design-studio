@@ -1,0 +1,188 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.44",
+      "reviewCount": 3445
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Desenio"
+    },
+    "category": "Frames > Wood frames > Black frames > Black picture frame, 20\" x 28\" in",
+    "description": "- Black wood frame fitting for posters in&nbsp; 19.7&quot; x 27.6&quot;  Black wood frame sized 19.7&quot; x 27.6&quot;&nbsp;made from solid yellow poplar wood painted in black. Our black wood frame is equipped with a lightweight and shatterproof acrylic glass. The acrylic glass is protected on both sides by a protective film to be removed before use. This frame is equipped with two metal hangers on the back, to enable both vertical and horizontal placement on your wall. The frame opens from the back using the metal clips that turn sideways, making it easy to frame your art.  Frame size:&nbsp;19.7&quot; x 27.6&quot; Width:&nbsp;0,5&quot; in Depth:&nbsp;0,9&quot; in Weight:&nbsp;3Ib 5oz",
+    "image": "https://media.desenio.com/site_images/67f802ae7a5168260e574eaf_1052221058_AASP50104_main_image_DS.jpg",
+    "isRelatedTo": [
+      {
+        "@type": "Product",
+        "image": "https://media.desenio.com/site_images/67c5656ec2ca41280d29cc3b_picturehooks.jpg",
+        "name": "Picture hooks (Pack of 2)",
+        "sku": "HOOK-0001",
+        "url": "https://desenio.com/poster-accessories/picture-hooks/picture-hooks-pack-of-2/"
+      }
+    ],
+    "mpn": "AASP50104",
+    "name": "Black picture frame, 20 x 28 in",
+    "productGroupID": "AASP50104",
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Marilyn S"
+        },
+        "datePublished": "2026-09-15T21:10:57.000Z",
+        "name": "Black picture frame, 20 x 28 in",
+        "reviewBody": "Looks good. It is plastic not glass which for the price is quite shocking.&nbsp;",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Lisa H"
+        },
+        "datePublished": "2026-06-28T18:28:06.000Z",
+        "name": "Black picture frame, 20 x 28 in",
+        "reviewBody": "There is a slight chip on the top part of the frame facing outward. Is there anyway to get a replacement?",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3,
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jonathan M"
+        },
+        "datePublished": "2026-06-10T16:55:12.000Z",
+        "name": "Black picture frame, 20 x 28 in",
+        "reviewBody": "The picture frame arrived with one corner of the frame showing a gap and scratches on the plexiglass.&nbsp;",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2,
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Ian G"
+        },
+        "datePublished": "2025-08-04T15:43:12.000Z",
+        "name": "Black picture frame, 20 x 28 in",
+        "reviewBody": "Frame arrived with the corner damaged and coming apart.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1,
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Eliana J"
+        },
+        "datePublished": "2025-07-30T12:34:16.000Z",
+        "name": "Black picture frame, 20 x 28 in",
+        "reviewBody": "Great looking frame. Easy to use.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      }
+    ],
+    "sku": "AASP50104",
+    "url": "https://desenio.com/frames/wood-frames/black-wood-frames/black-picture-frame-20-x-28-in/",
+    "variesBy": "https://schema.org/Size",
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "height": {
+          "@type": "QuantitativeValue",
+          "value": "28",
+          "unitCode": "INH"
+        },
+        "image": "https://media.desenio.com/site_images/67f83a345d339427fa9a8c22_1809291497_AASP-50104_variant_main_image_DS.jpg",
+        "mpn": "AASP-50104",
+        "name": "Black picture frame, 20\" x 28\" in",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "US",
+            "merchantReturnDays": 90,
+            "merchantReturnLink": "https://desenio.com/info/terms-and-conditions-of-sale-2/",
+            "returnFees": "https://schema.org/ReturnFeesCustomerResponsibility",
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow"
+          },
+          "itemCondition": "https://schema.org/NewCondition",
+          "name": "Black picture frame, 20\" x 28\" in",
+          "priceSpecification": [
+            {
+              "@type": "UnitPriceSpecification",
+              "price": 59.46,
+              "priceCurrency": "USD"
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/StrikethroughPrice",
+              "price": 69.95,
+              "priceCurrency": "USD"
+            }
+          ],
+          "priceValidUntil": "2026-10-08",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "d"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "d"
+              }
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            }
+          },
+          "sku": "AASP-50104",
+          "url": "https://desenio.com/frames/wood-frames/black-wood-frames/black-picture-frame-20-x-28-in/"
+        },
+        "size": "20\" x 28\" in",
+        "sku": "AASP-50104",
+        "width": {
+          "@type": "QuantitativeValue",
+          "value": "20",
+          "unitCode": "INH"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,621 @@
+{
+  "output": "/workspace/apartment-imagegen-v3/Amy-design-generated-images.pdf",
+  "pages": 12,
+  "built_utc": "2026-10-08T02:40:29.274227+00:00",
+  "sha256": "56b5414b2cd5782d1249f46c572dfa1d7e389513d7f8b667b069755751baf09d",
+  "bytes": 70076523,
+  "source_pixels_edited": false,
+  "image_display_scaling_only": true,
+  "rejected_first_attempts_excluded": true,
+  "source_attachment_count": 19,
+  "attachments": [
+    "model-reference_living-a.jpg",
+    "Lana & Ben LIVING ROOM.jpeg",
+    "model-reference_living-b.jpg",
+    "model-reference_his-office-a.jpg",
+    "Lana & Ben HIS OFFICE.jpeg",
+    "model-reference_his-office-b.jpg",
+    "model-reference_her-office-a.jpg",
+    "Lana & Ben HER OFFICE.jpeg",
+    "model-reference_her-office-b.jpg",
+    "model-reference_bedroom-flex-a.jpg",
+    "Lana & Ben BEDROOM.jpeg",
+    "model-reference_bedroom-flex-b.jpg",
+    "model-reference_basement-open-a.jpg",
+    "Lana & Ben BASEMENT.jpeg",
+    "model-reference_basement-open-b.jpg",
+    "model-reference_entry-a.jpg",
+    "Lana & Ben ENTRYWAY.jpeg",
+    "model-reference_entry-b.jpg",
+    "image-QA.txt"
+  ],
+  "source_attachment_sha256": {
+    "model-reference_living-a.jpg": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a",
+    "Lana & Ben LIVING ROOM.jpeg": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0",
+    "model-reference_living-b.jpg": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55",
+    "model-reference_his-office-a.jpg": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3",
+    "Lana & Ben HIS OFFICE.jpeg": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5",
+    "model-reference_his-office-b.jpg": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f",
+    "model-reference_her-office-a.jpg": "6655f3007fd426eb345f2e056479719db2956b7f40f9fc00e668b9814fdc4844",
+    "Lana & Ben HER OFFICE.jpeg": "26a25d178de2bc029fa5de696379904ccafd0948643575a281ece790bc328185",
+    "model-reference_her-office-b.jpg": "bafda9797ed62e8e8c3c03dadb0b58503ea8b9dddea6707907f1f993abcbd293",
+    "model-reference_bedroom-flex-a.jpg": "4cab0fb2a5343c9ed4a851c7d0f3f9b10453f66427a23912812e134de327ff91",
+    "Lana & Ben BEDROOM.jpeg": "fd8a0aebef3a07538e903f9e5949d1838e8f128b27c0ff2101702f2703b70f33",
+    "model-reference_bedroom-flex-b.jpg": "32fc4e4b0fc84994c374548ec5bb6bd878c0cfec87c9160d26ab6f495b15f950",
+    "model-reference_basement-open-a.jpg": "2048e946c0690b740e87ef80a28d42d251a493165ebe6e91135149ef28630757",
+    "Lana & Ben BASEMENT.jpeg": "338834216f1ac541001c2c1f249ba98acac2934c5fac95d4e9c88febf6ce656b",
+    "model-reference_basement-open-b.jpg": "2a7a16f8577391c868261d7c64c046564849105f59bb87bb023be7d33c6fb608",
+    "model-reference_entry-a.jpg": "d8845c7f2ad7768530c21ab7b511a567bdcb615af6273a93c68d75096241f2f9",
+    "Lana & Ben ENTRYWAY.jpeg": "fabb5523c6fde762e3c30f07f0b4e8f929ccb16e9745627e6e7471f27994b322",
+    "model-reference_entry-b.jpg": "e318e53ab36a5cdb2d973555cced71d0aaec226fd98bff08f303b19658eb46fb",
+    "image-QA.txt": "6acd4bd591aba053e03e2a1295172abfb503a990ff22e528e6fbded0fb80844d"
+  },
+  "final_QA_read": true,
+  "final_QA_decision": "PASS FOR CONCEPT VISUALIZATION. No major room-topology or furniture-facing failure found in the final twelve images. Residual furniture-silhouette drift remains in Her-office A and bedroom headboards/bedding; these are approximate concept images, not exact geometry or dimension validation.",
+  "page_sources": [
+    {
+      "page": 1,
+      "room": "living",
+      "angle": "A",
+      "generated_image": "/workspace/apartment-imagegen-v3/living-a.png",
+      "model_reference": "/workspace/apartment-v2/room-views/living-a.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg",
+      "generated_sha256": "0f3be93d63b79ed48667c6c87b4f1adf66c4cb79fcb39e2d7e29382359a54a75",
+      "model_sha256": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a",
+      "board_sha256": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          2048,
+          1172
+        ],
+        "display_box_pt": [
+          306.638,
+          172.068,
+          256.638,
+          146.865
+        ]
+      }
+    },
+    {
+      "page": 2,
+      "room": "living",
+      "angle": "B",
+      "generated_image": "/workspace/apartment-imagegen-v3/living-b.png",
+      "model_reference": "/workspace/apartment-v2/room-views/living-b.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg",
+      "generated_sha256": "bb35af4fb47f0e65fe16ccaeb51e3d2387b11f2c886cdd87ed6514350dfc46be",
+      "model_sha256": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55",
+      "board_sha256": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          2048,
+          1172
+        ],
+        "display_box_pt": [
+          306.638,
+          172.068,
+          256.638,
+          146.865
+        ]
+      }
+    },
+    {
+      "page": 3,
+      "room": "his-office",
+      "angle": "A",
+      "generated_image": "/workspace/apartment-imagegen-v3/his-office-a.png",
+      "model_reference": "/workspace/apartment-v2/room-views/his-office-a.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg",
+      "generated_sha256": "0d1aba83f3b1b0455f2c607954243af9d4eaaf8fe824c53ebf6164ca2b0b43cc",
+      "model_sha256": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3",
+      "board_sha256": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          4035,
+          2595
+        ],
+        "display_box_pt": [
+          312.896,
+          167.0,
+          244.121,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 4,
+      "room": "his-office",
+      "angle": "B",
+      "generated_image": "/workspace/apartment-imagegen-v3/his-office-b.png",
+      "model_reference": "/workspace/apartment-v2/room-views/his-office-b.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg",
+      "generated_sha256": "d7ae3c98c672ffb9547717926fa26efe1b579ced008b167e91a15d7e8b4fe92b",
+      "model_sha256": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f",
+      "board_sha256": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          4035,
+          2595
+        ],
+        "display_box_pt": [
+          312.896,
+          167.0,
+          244.121,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 5,
+      "room": "her-office",
+      "angle": "A",
+      "generated_image": "/workspace/apartment-imagegen-v3/her-office-a.png",
+      "model_reference": "/workspace/apartment-v2/room-views/her-office-a.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HER OFFICE.jpeg",
+      "generated_sha256": "ad5266c2d00f01d431ad9094ba519001069d6b1e8cc55619d8570a273cbe7bb0",
+      "model_sha256": "6655f3007fd426eb345f2e056479719db2956b7f40f9fc00e668b9814fdc4844",
+      "board_sha256": "26a25d178de2bc029fa5de696379904ccafd0948643575a281ece790bc328185",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          4096,
+          2548
+        ],
+        "display_box_pt": [
+          308.765,
+          167.0,
+          252.383,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 6,
+      "room": "her-office",
+      "angle": "B",
+      "generated_image": "/workspace/apartment-imagegen-v3/her-office-b.png",
+      "model_reference": "/workspace/apartment-v2/room-views/her-office-b.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HER OFFICE.jpeg",
+      "generated_sha256": "f751ad4763ea2b3eee03035048807d3955e2581168fe6d4e3d2ffa7dd09496f4",
+      "model_sha256": "bafda9797ed62e8e8c3c03dadb0b58503ea8b9dddea6707907f1f993abcbd293",
+      "board_sha256": "26a25d178de2bc029fa5de696379904ccafd0948643575a281ece790bc328185",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          4096,
+          2548
+        ],
+        "display_box_pt": [
+          308.765,
+          167.0,
+          252.383,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 7,
+      "room": "bedroom-flex",
+      "angle": "A",
+      "generated_image": "/workspace/apartment-imagegen-v3/bedroom-flex-a.png",
+      "model_reference": "/workspace/apartment-v2/room-views/bedroom-flex-a.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben BEDROOM.jpeg",
+      "generated_sha256": "4d1915b87f33dffa3806ec4501760ce7d2aba8b11ea14f98fab9e6593170b328",
+      "model_sha256": "4cab0fb2a5343c9ed4a851c7d0f3f9b10453f66427a23912812e134de327ff91",
+      "board_sha256": "fd8a0aebef3a07538e903f9e5949d1838e8f128b27c0ff2101702f2703b70f33",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          3950,
+          2796
+        ],
+        "display_box_pt": [
+          324.057,
+          167.0,
+          221.799,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 8,
+      "room": "bedroom-flex",
+      "angle": "B",
+      "generated_image": "/workspace/apartment-imagegen-v3/bedroom-flex-b.png",
+      "model_reference": "/workspace/apartment-v2/room-views/bedroom-flex-b.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben BEDROOM.jpeg",
+      "generated_sha256": "34bdb0667891121447a4f6f503f087cc361b1298b58da21f8cecbcf4f628425d",
+      "model_sha256": "32fc4e4b0fc84994c374548ec5bb6bd878c0cfec87c9160d26ab6f495b15f950",
+      "board_sha256": "fd8a0aebef3a07538e903f9e5949d1838e8f128b27c0ff2101702f2703b70f33",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          3950,
+          2796
+        ],
+        "display_box_pt": [
+          324.057,
+          167.0,
+          221.799,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 9,
+      "room": "basement-open",
+      "angle": "A",
+      "generated_image": "/workspace/apartment-imagegen-v3/basement-open-a.png",
+      "model_reference": "/workspace/apartment-v2/room-views/basement-open-a.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben BASEMENT.jpeg",
+      "generated_sha256": "19faa8842f3d563c2cb9e0a777450279e6b51a576b19c95a93667816e408f132",
+      "model_sha256": "2048e946c0690b740e87ef80a28d42d251a493165ebe6e91135149ef28630757",
+      "board_sha256": "338834216f1ac541001c2c1f249ba98acac2934c5fac95d4e9c88febf6ce656b",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          4096,
+          2587
+        ],
+        "display_box_pt": [
+          310.668,
+          167.0,
+          248.578,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 10,
+      "room": "basement-open",
+      "angle": "B",
+      "generated_image": "/workspace/apartment-imagegen-v3/basement-open-b.png",
+      "model_reference": "/workspace/apartment-v2/room-views/basement-open-b.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben BASEMENT.jpeg",
+      "generated_sha256": "161a142a463215c6e899ac86bd71700396e72879dc6dd135ecec51f3db009f12",
+      "model_sha256": "2a7a16f8577391c868261d7c64c046564849105f59bb87bb023be7d33c6fb608",
+      "board_sha256": "338834216f1ac541001c2c1f249ba98acac2934c5fac95d4e9c88febf6ce656b",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          4096,
+          2587
+        ],
+        "display_box_pt": [
+          310.668,
+          167.0,
+          248.578,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 11,
+      "room": "entry",
+      "angle": "A",
+      "generated_image": "/workspace/apartment-imagegen-v3/entry-a.png",
+      "model_reference": "/workspace/apartment-v2/room-views/entry-a.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben ENTRYWAY.jpeg",
+      "generated_sha256": "7a44822acb0d60e89975feebf25a739bce8433fbb74889664325c75acc29546a",
+      "model_sha256": "d8845c7f2ad7768530c21ab7b511a567bdcb615af6273a93c68d75096241f2f9",
+      "board_sha256": "fabb5523c6fde762e3c30f07f0b4e8f929ccb16e9745627e6e7471f27994b322",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          596,
+          1489
+        ],
+        "display_box_pt": [
+          403.536,
+          167.0,
+          62.842,
+          157.0
+        ]
+      }
+    },
+    {
+      "page": 12,
+      "room": "entry",
+      "angle": "B",
+      "generated_image": "/workspace/apartment-imagegen-v3/entry-b.png",
+      "model_reference": "/workspace/apartment-v2/room-views/entry-b.jpg",
+      "Amy_board_reference": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben ENTRYWAY.jpeg",
+      "generated_sha256": "d438d6cb71f837e3b81a22ef0916a6a6e6633ab365e79227a044b948a191b1ee",
+      "model_sha256": "e318e53ab36a5cdb2d973555cced71d0aaec226fd98bff08f303b19658eb46fb",
+      "board_sha256": "fabb5523c6fde762e3c30f07f0b4e8f929ccb16e9745627e6e7471f27994b322",
+      "hero": {
+        "source_size_px": [
+          1505,
+          1045
+        ],
+        "display_box_pt": [
+          32.0,
+          371.054,
+          531.276,
+          368.892
+        ]
+      },
+      "model_thumbnail": {
+        "source_size_px": [
+          1440,
+          1000
+        ],
+        "display_box_pt": [
+          47.279,
+          167.0,
+          226.08,
+          157.0
+        ]
+      },
+      "board_thumbnail": {
+        "source_size_px": [
+          596,
+          1489
+        ],
+        "display_box_pt": [
+          403.536,
+          167.0,
+          62.842,
+          157.0
+        ]
+      }
+    }
+  ]
+}

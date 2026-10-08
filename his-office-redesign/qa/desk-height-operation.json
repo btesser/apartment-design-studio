@@ -1,0 +1,81 @@
+{
+  "source_file": "/workspace/his-office-redesign/model/his-office-design.blend",
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "layout_sha256": "62a0401fe789ff9963f75a880f46e3656dfc49f4900fed60245455f2500cff09",
+  "official_source": "Official V2 C-frame specification PDF, 24.3\u201349.9-inch frame range plus 1.75-inch Pheasantwood top.",
+  "nominal_overall_top_height_range_m": [
+    0.66167,
+    1.31191
+  ],
+  "displayed_top_height_m": 0.74,
+  "method": "No model saved. Upper desktop/side brackets/braces/crossbar/keypad/grommets and equipment translated vertically; feet fixed. Whole-range swept world bounds first, then evaluated triangle BVH at endpoints,current,midpoint,and33 evenly spaced height samples for remaining candidates.",
+  "moving_parts": [
+    "uplift-main-desk::generic equipment assumption::monitor stand",
+    "uplift-main-desk::generic equipment assumption::monitor stem",
+    "uplift-main-desk::generic equipment assumption::monitor frame",
+    "uplift-main-desk::generic equipment assumption::dark display",
+    "uplift-main-desk::generic equipment assumption::keyboard",
+    "kept-uplift-desk::solid wood barkline top",
+    "V2 upper stage",
+    "Underside side bracket",
+    "V2 triangular stability brace",
+    "V2 upper stage.001",
+    "Underside side bracket.001",
+    "V2 triangular stability brace.001",
+    "Hidden upper crossbar",
+    "Two brushed nickel grommet covers",
+    "Two brushed nickel grommet covers.001",
+    "Height keypad"
+  ],
+  "whole_range_swept_candidates": [
+    [
+      "Height keypad",
+      "branch-pro-task-chair-1::Mesh_0"
+    ]
+  ],
+  "cat_or_lamp_whole_range_swept_candidates": [],
+  "heights_sampled_m": [
+    0.66167,
+    0.68199,
+    0.70231,
+    0.72263,
+    0.74,
+    0.74295,
+    0.76327,
+    0.78359,
+    0.8039099999999999,
+    0.82423,
+    0.8445499999999999,
+    0.86487,
+    0.8851899999999999,
+    0.9055099999999999,
+    0.9258299999999999,
+    0.9461499999999999,
+    0.9664699999999999,
+    0.98679,
+    1.00711,
+    1.0274299999999998,
+    1.04775,
+    1.06807,
+    1.08839,
+    1.1087099999999999,
+    1.12903,
+    1.1493499999999999,
+    1.16967,
+    1.1899899999999999,
+    1.2103099999999998,
+    1.23063,
+    1.25095,
+    1.27127,
+    1.2915899999999998,
+    1.31191
+  ],
+  "surface_intersections": [],
+  "limits": [
+    "Does not validate actual actuator/cable travel, load ratings, dynamic stability or mechanical telescoping internals.",
+    "Unpublished cat-tree branch offsets and lamp U-base geometry remain field checks.",
+    "Swept boxes conclusively rule out intersections only where they are disjoint. Sampled triangle checks cannot prove all intermediate clearances for overlapping swept candidates.",
+    "Chair arms may need adjustment/tucking when changing desk height; no seated ergonomics certification."
+  ],
+  "cat_lamp_clear_in_proxy_for_full_nominal_range": true
+}

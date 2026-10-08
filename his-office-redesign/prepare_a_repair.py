@@ -1,0 +1,20 @@
+from pathlib import Path
+import json,hashlib
+ROOT=Path(__file__).resolve().parent
+path=ROOT/'images/generation-inputs.json'; data=json.loads(path.read_text())
+view=next(v for v in data['views'] if v['id']=='a')
+refs=[ROOT/'images/attempts/initial-a.png',ROOT/'model/generation-guides/open-lamp-room-a.jpg',
+      ROOT/'model/generation-guides/pre-lamp-correction-room-b.jpg',
+      ROOT/'images/product-board-1.png',ROOT/'images/product-board-2.png']
+view['referenced_image_paths']=[str(p) for p in refs]
+view['reference_sha256']=[hashlib.sha256(p.read_bytes()).hexdigest() for p in refs]
+view['prompt']='''Edit the FIRST finished interior photograph with two source-faithful product corrections. Preserve its realistic lighting, camera, crop, room size, doors, window and every furniture footprint and facing. The SECOND reference is the same exact camera of the checked 3D room, now with the corrected Honeywell lamp head. Use it as the geometry/placement authority. The THIRD image is a companion angle of the same frozen room. References FOUR and FIVE are sheets containing original real retailer product photographs, for appearance only; do not add their showroom props, cats, backgrounds or labels.
+
+1. Correct the owned white Honeywell 02E Pro head. It is an OPEN RECTANGULAR FRAME with a visibly EMPTY CENTRAL APERTURE and TWO NARROW PARALLEL LED BARS on the perimeter. You can see through the center to the window/wall. It is not a solid glowing slab, panel, roof, ceiling fixture or generic T-shaped light. Match the exact product photo in board 1 and the corrected model in reference 2. Retain the existing head's overall 61.0 x 28.8 cm envelope, angle, height (196.85 cm overall) and the same thin white rectangular post and U-shaped base. The aperture remains appropriately foreshortened at this exact camera angle; do not enlarge or move the lamp to show it off. The two slim bars can glow gently; the center must stay open.
+
+2. Correct the owned UPLIFT Pheasantwood desk finish to the real wood photograph in board 1: rich dark amber/brown with strong natural alternating chocolate-brown and golden grain stripes, similar to the dark striped Pheasantwood in the other final room angle. It is not pale blond oak. Preserve exactly its SMALL 42 x 30 inch footprint (106.68 x 76.2 cm), thick solid-wood barkline FRONT, square BACK, two brushed-nickel grommets and industrial-gray steel V2 C-frame. The wide catalogue wood photo is for grain/finish only and never changes the modeled desktop width or depth. Keep the existing monitor/keyboard and task chair where the 3D model puts them.
+
+Everything else remains unchanged: actual original window and exterior door with brass hardware; radiator fragment at left; natural brown MUTTROS tree with three wicker baskets, fleece hammock, sisal branches and condo in the same position/rotation, lower basket naturally hidden behind the chair rather than forced into view; exactly TWO black Branch mesh task chairs facing their two desks/white wall; one dark black-brown 140 x 60 cm IKEA LAGKAPTEN/ALEX secondary desktop, ONE white five-drawer ALEX pedestal on the LEFT and TWO white legs at right with clear knee space, its plain top has no metal grommets; unchanged oak folded-clothes chest at left edge; unchanged teal corduroy EKENASET visitor-chair fragment at the lower edge; actual ivory/slate-blue 6 x 9 foot Inkdrop rug with the same modeled footprint and pattern; the correct Blue Geometric art stays above the main UPLIFT desk, with no art above the secondary desk. No other art, cabinets, shelves, doorways, windows, plants, cats, people or text. Keep the exact same perspective and all spacing. One realistic landscape photograph, not a collage. Only these product-detail corrections.'''
+view['iteration_note']='Corrected lamp aperture and Pheasantwood finish using the updated lamp-only model; furniture positions and outer dimensions unchanged.'
+path.write_text(json.dumps(data,indent=2))
+print('A repair prepared with five viewed references and corrected-model snapshot')

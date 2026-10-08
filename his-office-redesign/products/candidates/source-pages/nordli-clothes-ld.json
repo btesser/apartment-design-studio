@@ -1,0 +1,442 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Products",
+        "item": "https://www.ikea.com/us/en/cat/products-products/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Storage & organization",
+        "item": "https://www.ikea.com/us/en/cat/storage-organization-st001/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Dressers & storage drawers",
+        "item": "https://www.ikea.com/us/en/cat/dressers-storage-drawers-st004/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Dressers & chests of drawers",
+        "item": "https://www.ikea.com/us/en/cat/chests-of-drawers-10451/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "2.6",
+      "reviewCount": "31"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "IKEA"
+    },
+    "category": "Dressers & chests of drawers",
+    "color": "white",
+    "depth": "18 1/2 \"",
+    "description": "NORDLI 4-drawer dresser - white 31 1/2x18 1/2x20 7/8 \". Integrated damper catches the running drawer and closes it slowly, silently and softly. The concealed drawer runners ensure that drawers run smoothly even when heavily loaded. The chest of drawers holds approximately 100 medium-sized T-shirts.",
+    "height": "20 7/8 \"",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/nordli-4-drawer-dresser-white__1293673_pe938442_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/nordli-4-drawer-dresser-white__1590188_pe1038827_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/nordli-4-drawer-dresser-white__1293674_pe938443_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/nordli-4-drawer-dresser-white__0857874_pe660879_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    ],
+    "material": "Wood (including board)",
+    "mpn": "505.890.78",
+    "name": "NORDLI 4-drawer dresser - white 31 1/2x18 1/2x20 7/8 \"",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "price": "249.99",
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "IKEA",
+        "url": "https://www.ikea.com/us/en/"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "US"
+        }
+      },
+      "url": "https://www.ikea.com/us/en/p/nordli-4-drawer-dresser-white-50589078/"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Tyvincia"
+        },
+        "datePublished": "2026-08-21",
+        "name": "BY FAR THE WOOOORRRST PURCHASE I EVER MADE.",
+        "reviewBody": "I\u2019ve exclusively purchased IKEA only furniture for the past 10 years and never have I ever encountered lower quality from them like this. The tongue and grooves don\u2019t match up, causing the holes not to match up rendering the product pretty much useless.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Natalie"
+        },
+        "datePublished": "2026-07-14",
+        "name": "Not the best material or surface finish",
+        "reviewBody": "The first piece I picked up, the cover material pulled away from the particle board. When fitting pieces together, it was easy to damage the edges. For the money paid, the quality is bad. I finished building it, not worth the work to take it apart to return. I wonder how long it will last?",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jillian"
+        },
+        "datePublished": "2026-05-25",
+        "name": "Read recent reviews for warnings",
+        "reviewBody": "I just put together two 6ft+ Billy bookcases by myself (+ a handtruck) and did not have any of the issues with assembly that I just had with this garbage. One of the worst assembly experiences I've ever had. As others have reported, the base pieces just slide together (plastic plugs into poorly routed keyhole shapes) like a pathetic puzzle- no actual fastening is happening. And to slide completely requires some degree of force which these materials absolutely cannot stand. The chipboard was falling apart in my hands; the finishes scratched & split. It's now together; the base feels sturdy enough but the drawers are wonky & I don't expect it to last long.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Mary"
+        },
+        "datePublished": "2025-12-29",
+        "name": "Assembly is a nightmare",
+        "reviewBody": "This dresser looks great in the store and I wish I read the reviews. Assembly is horrendous. Some of the cuts were wrong requiring some rigging. The material is incredibly cheap for a $250 dresser and trying to fit the pieces together when the cuts are wrong is impossible. This dresser took me almost 3 hours to assemble due to the poor cuts from manufacturing. The drawers are not even in the frame because they wouldn\u2019t fit properly on the racks.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Alana"
+        },
+        "datePublished": "2025-09-29",
+        "name": "Tiny dresser",
+        "reviewBody": "I assumed this would be like the rest of the Nordli series. This is the height of a nightstand. I\u2019m not sure why they are calling it a dresser. Waste of time and money. Not recommended",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Liz"
+        },
+        "datePublished": "2025-08-05",
+        "name": "BUYER BEWARE! More like Temu than Ikea",
+        "reviewBody": "Wow, in all my years of purchasing IKEA furniture, I've never had the parts break during assembly. The drawer pieces are flimsier than a Wasa cracker and extremely difficult to build without chipping. The frame is fairly heavy, and yet held together with plastic pegs. If you manage to get the frame and drawers built, good luck aligning the drawer holes to the metal sliders! If you're unlucky like me, the holes don't even line up, rendering the entire dresser unusable. What a waste of time and money. I'm so upset. I should have listened to the other reviews warning about this product, I just didn't think it could be this bad!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Julia"
+        },
+        "datePublished": "2025-07-26",
+        "name": "Downgrade in quality ",
+        "reviewBody": "We had purchased a Nordli modular set back in 2023 and we love it. It\u2019s sturdy and looks great. We decided to expand and reconfigure the dressers and decided to purchase these 4 drawer sets. Upon building, we were disappointed to discover that they are not the same quality as the sets purchased 2 years ago nor could we interlock it with the older set. The hardware is mostly plastic and the back panel of the unit doesn\u2019t even fully meet the top piece so there\u2019s a gap. We are keeping one set because we can work with it, but are returning the 2nd unit we purchased. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Sheikh"
+        },
+        "datePublished": "2025-06-06",
+        "name": "Worth every penny",
+        "reviewBody": "I use this inside my closet and the size and deep drawers are unmatchable.  Very hard to find anything else like this. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Robin"
+        },
+        "datePublished": "2025-06-06",
+        "name": "Believe the reviews",
+        "reviewBody": "I took a chance despite the reviews and wish I hadn\u2019t. Basically had the same issues as the rest. Assembly is not easy and even when put together, doesn\u2019t seem sturdy enough. Was wanting to using as a bench but don\u2019t trust the structure and will be returning. Which is disappointing because I love IKEA furniture ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jeff"
+        },
+        "datePublished": "2025-05-15",
+        "name": "Nordli Dresser",
+        "reviewBody": "When I read the existing reviews for this item I was dubious about making the purchase.  But it sounded like an assembly challenge so I made the buy.  It turned out that some of the reviews were accurate as the assembly system was new to me.  I have to say that the assembly would not have been possible at all if I hadn't used my rubber mallet.  The panels cannot be pushed into place by hand and need to be hammered.  The end result was excellent, by the way.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Stephan"
+        },
+        "datePublished": "2025-03-23",
+        "name": "Disappointing Decline in Quality",
+        "reviewBody": "I used to love the Nordli 4-drawer dresser, but the latest version is flimsy and poorly designed. Even when fully assembled, it wobbles side to side and feels unstable. The slide lock mechanism was a terrible choice\u2014it doesn\u2019t provide enough structural integrity. Unlike the sturdy previous versions, this one can\u2019t even be moved without shifting awkwardly. Really disappointed in the quality downgrade. IKEA needs to bring back the solid build that made Nordli great.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Lisa"
+        },
+        "datePublished": "2025-03-10",
+        "name": "Garbage ",
+        "reviewBody": "I bought this today and it is very low quality. Three of the four drawers didn\u2019t fit together and were falling apart as I tried to assemble them. IKEA is sending me a replacement box, but I am not hopeful. The wastefulness of producing furniture like this has put me off IKEA for life now.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Marianne"
+        },
+        "datePublished": "2025-02-27",
+        "name": "Not what it used to be",
+        "reviewBody": "We have multiple nordli pieces in our primary and vacation homes. I put them together myself and they have survived moves over many years. It\u2019s been our go to furniture and many friend loved it too. Everything about our nordli pieces as wonderful- functional, sturdy, and good looking. \nIt seems ikea just ruined Nordli as I knew it. I just tried to assemble an additional piece and it was a nightmare. The particle board is ridiculously crumbly and the pieces don\u2019t line up. The finished piece is a joke. It looks terrible. \nI\u2019m going to return the other piece that is still in the box. \nWhat a shame. \n\n",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jennifer"
+        },
+        "datePublished": "2025-01-29",
+        "name": "Cute but....",
+        "reviewBody": "These dressers are cute but after years of putting IKEA furniture together, I have to admit these were the most difficult to assemble because of the construction.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Sabrina"
+        },
+        "datePublished": "2025-01-10",
+        "name": "Not what it used to be",
+        "reviewBody": "I purchased this as a modular storage system within the past couple years and decided to get a smaller 4 drawer version. The quality has changed! No longer can you order it as a modular system, the back is no longer finished and the base has a white top so there is a white line visible all around where it used to be (and in the photos) it shows a nice dark finish.  The base used to be set in, but now it's flush. And like others have mentioned putting this thing together is HARD!!!  The drawers are the worst. I give it 4 starts because IKEA sent me a replacement after the drawers arrived damaged, and ultimately once together it does look nice. It's just unfortunate that the photos and descriptions are more about the older versions, so be aware. The price is good compared to similar storage units though if you can get it together.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Tasha"
+        },
+        "datePublished": "2025-01-07",
+        "name": "Perfect little storage ",
+        "reviewBody": "Need something with deeper drawers and short. This was perfect and is pretty sturdy once put together. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Liz"
+        },
+        "datePublished": "2024-12-31",
+        "name": "Quality is not there",
+        "reviewBody": "This was a little difficult to assemble, the parts didn\u2019t line up all the time and had to be hammered in, causing some dents and damage to the fragile boards. It looks nice and I like the soft close drawers, I hope it holds up long term. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous reviewer"
+        },
+        "datePublished": "2024-11-09",
+        "name": "Assembly from hell.",
+        "reviewBody": "I\u2019m a 180lb man. Took all of my body weight just to get the snap assembly aligned. I\u2019ve worked on military aircraft components that required less strength.  ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anonymous reviewer"
+        },
+        "datePublished": "2024-11-07",
+        "name": "Great Storage Solution With a Few Quirks ",
+        "reviewBody": "First of all, I love how the cabinet looks. They look very clean and they held everything I needed. I bought 4 at the same time and all of them were consistent in quality with no scratches or scruff from the box. I wish I could give this a 5 star but the instructions were very unclear and only made up more confusion (I have built a lot of Ikea items this instruction booklet was not great). This option was much better than anything I found from any other vendor and the quality is there. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Dana"
+        },
+        "datePublished": "2024-10-09",
+        "name": "Low Quality - not like the original Nordli",
+        "reviewBody": "I made the mistake of ignoring the other one star review and purchasing this product. As an owner of 3 of the older Nordli drawer sets & other IKEA products (all self-assembled), I\u2019m extremely disappointed in this product.  \nQuality is very low in this new release. Parts do not line up and you\u2019re instructed to hammer them into place , but the particle board falls apart with gentle taps.\n\nI understand the redesign was to ensure product is mounted to wall for safety , but the product falls apart before you\u2019re even done assembling it , so don\u2019t think about building it in another room and moving it .. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      }
+    ],
+    "sku": "505.890.78",
+    "url": "https://www.ikea.com/us/en/p/nordli-4-drawer-dresser-white-50589078/",
+    "width": "31 1/2 \""
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "3DModel",
+    "encoding": [
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp3/glb_draco/85cb0a9e2d6cc30dd904cdf49017bb9e-50589078_LPT_S01_NV01_RQP3_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp2/glb_draco/bba501dc04eeb8e4d7ade5ab1436fe81-50589078_LPT_S01_NV01_RQP2_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp1/glb_draco/1868f274841c85e14d4e8b165a48a808-50589078_LPT_S01_NV01_RQP1_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp3/glb/cf97acd61ebd012a6208ad0c499f2b58-50589078_LPT_S01_NV01_RQP3_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp2/glb/2ec2e1337d38472c29c0f5f5818ad17f-50589078_LPT_S01_NV01_RQP2_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp1/glb/37a1b40a230b904c80e08093ee2b5867-50589078_LPT_S01_NV01_RQP1_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/50589078/PS01_S01_NV_01/simple/glb/ebf5a53877f08527cdac243f62e9f8aa-G-50589078-172a6e8bdf42d5bc657373d35f8391c5e9983f60-simple.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp3/gltf/fecd2bd8f2188edf24b82ca3d88051a2-50589078_LPT_S01_NV01_RQP3_4.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp2/gltf/a743b040b9daef861fd39f4519a111b7-50589078_LPT_S01_NV01_RQP2_4.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp1/gltf/238198ed581fdc61f16a6ac336fd35b8-50589078_LPT_S01_NV01_RQP1_4.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      }
+    ],
+    "image": "",
+    "name": "NORDLI"
+  }
+]

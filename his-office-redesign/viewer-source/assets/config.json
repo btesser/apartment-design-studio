@@ -1,0 +1,705 @@
+{
+  "title": "His office \u00b7 New design",
+  "status": "final",
+  "units": "metres",
+  "coordinates": "GLTF Y-up; native frame preserved without normalization",
+  "assets": {
+    "shell": "his-office-shell.glb",
+    "doors": "his-office-door-leaves.glb",
+    "furniture": "his-office-furniture.glb"
+  },
+  "room": {
+    "floor": 1.575,
+    "ceiling": 4.595,
+    "bounds": [
+      -7.98,
+      -3.08,
+      -0.31,
+      2.79
+    ],
+    "polygon": [
+      [
+        -7.98,
+        2.79
+      ],
+      [
+        -3.08,
+        2.79
+      ],
+      [
+        -3.08,
+        1.35
+      ],
+      [
+        -3.78,
+        1.35
+      ],
+      [
+        -3.78,
+        -0.31
+      ],
+      [
+        -7.98,
+        -0.31
+      ]
+    ],
+    "area": 14.028,
+    "eyeHeight": 1.55,
+    "width": 4.9,
+    "depth": 3.1
+  },
+  "views": [
+    {
+      "id": "room-a",
+      "label": "From the entry",
+      "filename": "renders/room-a.jpg",
+      "room": "his-office",
+      "eye_blender_m": [
+        -3.46,
+        -2.34,
+        3.125
+      ],
+      "target_blender_m": [
+        -6.32,
+        -0.4,
+        2.64
+      ],
+      "eye": [
+        -3.46,
+        3.125,
+        2.34
+      ],
+      "target": [
+        -6.32,
+        2.64,
+        0.4
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+      "render_resolution": [
+        1440,
+        1000
+      ],
+      "source_scene": "his-office-design.blend",
+      "view_state": "Observed door leaves closed; fourth view is additional model reference",
+      "description": "See both workspaces from the entrance."
+    },
+    {
+      "id": "room-b",
+      "label": "Rear door side",
+      "filename": "renders/room-b.jpg",
+      "room": "his-office",
+      "eye_blender_m": [
+        -7.48,
+        -2.27,
+        3.125
+      ],
+      "target_blender_m": [
+        -4.88,
+        -0.48,
+        2.64
+      ],
+      "eye": [
+        -7.48,
+        3.125,
+        2.27
+      ],
+      "target": [
+        -4.88,
+        2.64,
+        0.48
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+      "render_resolution": [
+        1440,
+        1000
+      ],
+      "source_scene": "his-office-design.blend",
+      "view_state": "Observed door leaves closed; fourth view is additional model reference",
+      "description": "Look back toward the workspaces and room entrance."
+    },
+    {
+      "id": "room-c",
+      "label": "White wall corner",
+      "filename": "renders/room-c.jpg",
+      "room": "his-office",
+      "eye_blender_m": [
+        -4.18,
+        -0.35,
+        3.125
+      ],
+      "target_blender_m": [
+        -6.12,
+        -2.22,
+        2.65
+      ],
+      "eye": [
+        -4.18,
+        3.125,
+        0.35
+      ],
+      "target": [
+        -6.12,
+        2.65,
+        2.22
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+      "render_resolution": [
+        1440,
+        1000
+      ],
+      "source_scene": "his-office-design.blend",
+      "view_state": "Observed door leaves closed; fourth view is additional model reference",
+      "description": "Review the brick wall, visitor chair and storage."
+    },
+    {
+      "id": "room-d",
+      "label": "Window side",
+      "filename": "renders/room-d.jpg",
+      "room": "his-office",
+      "eye_blender_m": [
+        -7.23,
+        -1.74,
+        3.125
+      ],
+      "target_blender_m": [
+        -4.6,
+        -1.15,
+        2.68
+      ],
+      "eye": [
+        -7.23,
+        3.125,
+        1.74
+      ],
+      "target": [
+        -4.6,
+        2.68,
+        1.15
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+      "render_resolution": [
+        1440,
+        1000
+      ],
+      "source_scene": "his-office-design.blend",
+      "view_state": "Observed door leaves closed; fourth view is additional model reference",
+      "description": "An additional view across the new room arrangement."
+    }
+  ],
+  "desk": {
+    "width": 1.0668,
+    "depth": 0.762,
+    "confidence": "User-confirmed 42 \u00d7 30 inches",
+    "operatingHeight": 0.74,
+    "heightConfidence": "Assumed seated operating height"
+  },
+  "catStand": {
+    "baseWidth": 0.59944,
+    "baseDepth": 0.5588,
+    "listedHeight": 1.4986,
+    "branchEnvelope": [
+      0.7,
+      1.1,
+      1.4986
+    ],
+    "branchEnvelopeConfidence": "Provisional; full projecting reach is unverified"
+  },
+  "footprints": [
+    {
+      "id": "uplift-main-desk",
+      "kind": "kept_desk",
+      "polygon": [
+        [
+          -7.4834000000000005,
+          0.512
+        ],
+        [
+          -6.4166,
+          0.512
+        ],
+        [
+          -6.4166,
+          -0.25
+        ],
+        [
+          -7.4834000000000005,
+          -0.25
+        ]
+      ],
+      "center": [
+        -6.95,
+        0.131
+      ],
+      "facing": [
+        0,
+        1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "branch-primary",
+      "kind": "task_chair",
+      "polygon": [
+        [
+          -7.170520000000001,
+          1.20052
+        ],
+        [
+          -6.46948,
+          1.20052
+        ],
+        [
+          -6.46948,
+          0.49948
+        ],
+        [
+          -7.170520000000001,
+          0.49948
+        ]
+      ],
+      "center": [
+        -6.82,
+        0.85
+      ],
+      "facing": [
+        0,
+        -1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "secondary-workspace",
+      "kind": "secondary_desk",
+      "polygon": [
+        [
+          -6.25,
+          0.35
+        ],
+        [
+          -4.85,
+          0.35
+        ],
+        [
+          -4.85,
+          -0.25
+        ],
+        [
+          -6.25,
+          -0.25
+        ]
+      ],
+      "center": [
+        -5.55,
+        0.05
+      ],
+      "facing": [
+        0,
+        1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "branch-secondary",
+      "kind": "task_chair",
+      "polygon": [
+        [
+          -5.750520000000001,
+          1.15052
+        ],
+        [
+          -5.04948,
+          1.15052
+        ],
+        [
+          -5.04948,
+          0.44948000000000005
+        ],
+        [
+          -5.750520000000001,
+          0.44948000000000005
+        ]
+      ],
+      "center": [
+        -5.4,
+        0.8
+      ],
+      "facing": [
+        0,
+        -1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "honeywell-lamp",
+      "kind": "kept_lamp",
+      "polygon": [
+        [
+          -7.814018,
+          0.5450539999999999
+        ],
+        [
+          -7.525982,
+          0.5450539999999999
+        ],
+        [
+          -7.525982,
+          -0.065054
+        ],
+        [
+          -7.814018,
+          -0.065054
+        ]
+      ],
+      "center": [
+        -7.67,
+        0.24
+      ],
+      "facing": null,
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "muttros-cat-tree",
+      "kind": "kept_cat_tree",
+      "polygon": [
+        [
+          -7.88972,
+          1.2793999999999999
+        ],
+        [
+          -7.29028,
+          1.2793999999999999
+        ],
+        [
+          -7.29028,
+          0.7206
+        ],
+        [
+          -7.88972,
+          0.7206
+        ]
+      ],
+      "center": [
+        -7.59,
+        1.0
+      ],
+      "facing": null,
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "muttros-cat-tree-provisional-reach",
+      "kind": "provisional_branch_reach",
+      "polygon": [
+        [
+          -7.9399999999999995,
+          1.55
+        ],
+        [
+          -7.24,
+          1.55
+        ],
+        [
+          -7.24,
+          0.44999999999999996
+        ],
+        [
+          -7.9399999999999995,
+          0.44999999999999996
+        ]
+      ],
+      "center": [
+        -7.59,
+        1.0
+      ],
+      "facing": null,
+      "provisional": true,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "clothes-dresser",
+      "kind": "clothes_dresser",
+      "polygon": [
+        [
+          -6.949249999999999,
+          2.7497125
+        ],
+        [
+          -6.25075,
+          2.7497125
+        ],
+        [
+          -6.25075,
+          2.2702875
+        ],
+        [
+          -6.949249999999999,
+          2.2702875
+        ]
+      ],
+      "center": [
+        -6.6,
+        2.51
+      ],
+      "facing": [
+        0,
+        -1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "visitor-chair",
+      "kind": "lounge_chair",
+      "polygon": [
+        [
+          -4.850675,
+          2.3905250000000002
+        ],
+        [
+          -4.209325000000001,
+          2.3905250000000002
+        ],
+        [
+          -4.209325000000001,
+          1.609475
+        ],
+        [
+          -4.850675,
+          1.609475
+        ]
+      ],
+      "center": [
+        -4.53,
+        2.0
+      ],
+      "facing": [
+        0,
+        -1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": true
+    },
+    {
+      "id": "rug",
+      "kind": "rug",
+      "polygon": [
+        [
+          -7.4716,
+          2.0144
+        ],
+        [
+          -4.7284,
+          2.0144
+        ],
+        [
+          -4.7284,
+          0.1856000000000001
+        ],
+        [
+          -7.4716,
+          0.1856000000000001
+        ]
+      ],
+      "center": [
+        -6.1,
+        1.1
+      ],
+      "facing": null,
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": false
+    },
+    {
+      "id": "grejig-1",
+      "kind": "closet_shoe_rack",
+      "polygon": [
+        [
+          -3.3449999999999998,
+          0.8300000000000001
+        ],
+        [
+          -3.3449999999999998,
+          0.25000000000000006
+        ],
+        [
+          -3.615,
+          0.25000000000000006
+        ],
+        [
+          -3.615,
+          0.8300000000000001
+        ]
+      ],
+      "center": [
+        -3.48,
+        0.54
+      ],
+      "facing": [
+        1,
+        0
+      ],
+      "provisional": true,
+      "hiddenWhenDoorsClosed": true,
+      "walkBlocker": false
+    },
+    {
+      "id": "grejig-2",
+      "kind": "closet_shoe_rack",
+      "polygon": [
+        [
+          -3.3449999999999998,
+          0.8300000000000001
+        ],
+        [
+          -3.3449999999999998,
+          0.25000000000000006
+        ],
+        [
+          -3.615,
+          0.25000000000000006
+        ],
+        [
+          -3.615,
+          0.8300000000000001
+        ]
+      ],
+      "center": [
+        -3.48,
+        0.54
+      ],
+      "facing": [
+        1,
+        0
+      ],
+      "provisional": true,
+      "hiddenWhenDoorsClosed": true,
+      "walkBlocker": false
+    },
+    {
+      "id": "grejig-3",
+      "kind": "closet_shoe_rack",
+      "polygon": [
+        [
+          -3.3449999999999998,
+          0.8300000000000001
+        ],
+        [
+          -3.3449999999999998,
+          0.25000000000000006
+        ],
+        [
+          -3.615,
+          0.25000000000000006
+        ],
+        [
+          -3.615,
+          0.8300000000000001
+        ]
+      ],
+      "center": [
+        -3.48,
+        0.54
+      ],
+      "facing": [
+        1,
+        0
+      ],
+      "provisional": true,
+      "hiddenWhenDoorsClosed": true,
+      "walkBlocker": false
+    },
+    {
+      "id": "blue-bold-art",
+      "kind": "art",
+      "polygon": [
+        [
+          -5.67,
+          2.707
+        ],
+        [
+          -4.949999999999999,
+          2.707
+        ],
+        [
+          -4.949999999999999,
+          2.689
+        ],
+        [
+          -5.67,
+          2.689
+        ]
+      ],
+      "center": [
+        -5.31,
+        2.698
+      ],
+      "facing": [
+        0,
+        -1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": false
+    },
+    {
+      "id": "blue-geometric-art",
+      "kind": "art",
+      "polygon": [
+        [
+          -7.08,
+          -0.216
+        ],
+        [
+          -6.5600000000000005,
+          -0.216
+        ],
+        [
+          -6.5600000000000005,
+          -0.234
+        ],
+        [
+          -7.08,
+          -0.234
+        ]
+      ],
+      "center": [
+        -6.82,
+        -0.225
+      ],
+      "facing": [
+        0,
+        1
+      ],
+      "provisional": false,
+      "hiddenWhenDoorsClosed": false,
+      "walkBlocker": false
+    }
+  ],
+  "notes": "The shell follows the metric scan with reconstructed gaps. Generalized wall positions have approximately 5\u201312 cm uncertainty. Product shapes are simplified."
+}

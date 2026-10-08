@@ -1,0 +1,192 @@
+{
+  "source_file": "/workspace/his-office-redesign/model/his-office-design.blend",
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "root_native_m": [
+    -7.670000076293945,
+    -0.23999999463558197,
+    1.5750000476837158
+  ],
+  "actual_whole_lamp_bounds_blender_m": [
+    [
+      -7.8140177726745605,
+      -0.545054018497467,
+      1.5750000476837158
+    ],
+    [
+      -7.52598237991333,
+      0.0650540143251419,
+      3.5435001850128174
+    ]
+  ],
+  "expected_overall_dimensions_m": [
+    0.288036,
+    0.610108,
+    1.9685
+  ],
+  "method": "Read-only evaluated owned-lamp mesh BVH;9 vertical rays through central aperture plus2 LED-bar and2 perimeter positive-control rays. No model saved.",
+  "cases": [
+    {
+      "ray_origin_blender_m": [
+        -7.700000286102295,
+        -0.3400000035762787,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.700000286102295,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.700000286102295,
+        -0.14000000059604645,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.670000076293945,
+        -0.3400000035762787,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.670000076293945,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.670000076293945,
+        -0.14000000059604645,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.639999866485596,
+        -0.3400000035762787,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.639999866485596,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.639999866485596,
+        -0.14000000059604645,
+        3.799999952316284
+      ],
+      "expected": "Open aperture; no lamp head hit within0.5m downward ray",
+      "first_hit": null,
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.744999885559082,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Narrow parallel LED light bar",
+      "first_hit": {
+        "name": "Narrow parallel LED light bar",
+        "point": [
+          -7.744999885559082,
+          -0.23999999463558197,
+          3.5264999866485596
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.595000267028809,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Narrow parallel LED light bar",
+      "first_hit": {
+        "name": "Narrow parallel LED light bar.001",
+        "point": [
+          -7.595000267028809,
+          -0.23999999463558197,
+          3.5264999866485596
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.805017948150635,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Rectangular panel long rim",
+      "first_hit": {
+        "name": "Rectangular panel long rim",
+        "point": [
+          -7.805017948150635,
+          -0.23999999463558197,
+          3.5435001850128174
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -7.534982204437256,
+        -0.23999999463558197,
+        3.799999952316284
+      ],
+      "expected": "Rectangular panel long rim",
+      "first_hit": {
+        "name": "Rectangular panel long rim.001",
+        "point": [
+          -7.534982204437256,
+          -0.23999999463558197,
+          3.5435001850128174
+        ]
+      },
+      "pass": true
+    }
+  ],
+  "all_cases_pass": true,
+  "source": "Exact Honeywell02E Pro ASINB0C3BVYTXP source photograph shows an open rectangular perimeter and two narrow diffusers.",
+  "limits": [
+    "Fine lamp frame/base profiles remain photo-derived review approximations; test verifies restored head topology, not exact manufactured dimensions."
+  ]
+}

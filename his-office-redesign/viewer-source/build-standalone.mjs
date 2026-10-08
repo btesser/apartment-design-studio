@@ -1,0 +1,21 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {dirname,resolve} from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {createHash} from 'node:crypto';
+import {build} from 'esbuild';
+const root=dirname(fileURLToPath(import.meta.url));
+const config=JSON.parse(await readFile(resolve(root,'assets/config.json'),'utf8'));
+const assets={},assetHashes={};
+for(const[key,name]of Object.entries(config.assets)){if(!name)continue;const data=await readFile(resolve(root,'assets',name));assets[key]=data.toString('base64');assetHashes[key]=createHash('sha256').update(data).digest('hex');}
+const source=await readFile(resolve(root,'app.js'),'utf8');
+const imports=source.match(/^(?:import[^;]+;\s*)+/)[0],body=source.slice(imports.length);
+const wrapped=`${imports}\n(async()=>{${body}\n})().catch(error=>{document.getElementById('loading-detail').textContent='Could not open this model: '+error.message;console.error(error);});`;
+const result=await build({stdin:{contents:wrapped,resolveDir:root,sourcefile:'app.js',loader:'js'},bundle:true,format:'iife',minify:true,target:['chrome100','safari16','firefox110'],write:false,legalComments:'inline'});
+const code=result.outputFiles[0].text.replace(/<\/script/gi,'<\\/script');
+const css=await readFile(resolve(root,'style.css'),'utf8');
+let html=await readFile(resolve(root,'index.html'),'utf8');
+html=html.replace('<link rel="stylesheet" href="style.css">',()=>`<style>${css}</style>`).replace(/\s*<script type="importmap">[\s\S]*?<\/script>/,'');
+const embed=JSON.stringify({config,assets,assetHashes}).replace(/</g,'\\u003c');
+html=html.replace('<script type="module" src="app.js"></script>',()=>`<script>window.OFFICE_EMBED=${embed};</script><script>${code}</script>`);
+const output=process.argv[2]||resolve(root,'..','his-office-viewer.html');
+await writeFile(output,html);console.log(`Standalone office viewer: ${output} (${(Buffer.byteLength(html)/1048576).toFixed(2)} MiB)`);

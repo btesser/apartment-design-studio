@@ -1,0 +1,583 @@
+[
+  {
+    "material": "Branch selected Black \u2014 Material_0",
+    "node": "Image Texture",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+    "size": [
+      2048,
+      2048
+    ],
+    "filepath": "//branch-textures/branch-pro-image_2.jpg",
+    "packed_bytes": 613076,
+    "links": [
+      [
+        "Image Texture",
+        "Mix",
+        "A"
+      ]
+    ]
+  },
+  {
+    "material": "Branch selected Black \u2014 Material_0",
+    "node": "Image Texture.001",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+    "size": [
+      2048,
+      2048
+    ],
+    "filepath": "//branch-textures/branch-pro-image_4.jpg",
+    "packed_bytes": 340408,
+    "links": [
+      [
+        "Image Texture.001",
+        "Separate Color",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "Branch selected Black \u2014 Material_0",
+    "node": "Image Texture.002",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+    "size": [
+      2048,
+      2048
+    ],
+    "filepath": "//branch-textures/branch-pro-image_3.jpg",
+    "packed_bytes": 1654547,
+    "links": [
+      [
+        "Image Texture.002",
+        "Normal Map",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "Branch selected Black \u2014 Material_0",
+    "node": "Image Texture.003",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+    "size": [
+      2048,
+      2048
+    ],
+    "filepath": "//branch-textures/branch-pro-image_5.png",
+    "packed_bytes": 140648,
+    "links": [
+      [
+        "Image Texture.003",
+        "Principled BSDF",
+        "Sheen Tint"
+      ]
+    ]
+  },
+  {
+    "material": "Branch selected Black \u2014 Material_0",
+    "node": "Image Texture.004",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+    "size": [
+      2048,
+      2048
+    ],
+    "filepath": "//branch-textures/branch-pro-image_5.png",
+    "packed_bytes": 140648,
+    "links": [
+      [
+        "Image Texture.004",
+        "Principled BSDF",
+        "Sheen Roughness"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_32",
+    "node": "Image Texture",
+    "image": "Basecolor_0_62",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20620,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_32",
+    "node": "Image Texture.001",
+    "image": "Metalness_0_65",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20025,
+    "links": [
+      [
+        "Image Texture.001",
+        "Separate Color",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_32",
+    "node": "Image Texture.002",
+    "image": "Normals_0_63",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 28228,
+    "links": [
+      [
+        "Image Texture.002",
+        "Normal Map",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_32",
+    "node": "Image Texture.003",
+    "image": "Metalness_0_65",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20025,
+    "links": [
+      [
+        "Image Texture.003",
+        "Separate Color.001",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "blue-geometric-art official photograph",
+    "node": "Image Texture",
+    "image": "art-blue-geometric-selected.jpg",
+    "size": [
+      2000,
+      2800
+    ],
+    "filepath": "/workspace/his-office-redesign/products/candidates/official-images/art-blue-geometric-selected.jpg",
+    "packed_bytes": 450990,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "Reconstructed upper wood",
+    "node": "Image Texture",
+    "image": "wood-upper.png",
+    "size": [
+      1024,
+      512
+    ],
+    "filepath": "//../../apartment-model/wood-upper.png",
+    "packed_bytes": 378939,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "blue-bold-art official photograph",
+    "node": "Image Texture",
+    "image": "art-blue-bold-selected.jpg",
+    "size": [
+      2000,
+      2857
+    ],
+    "filepath": "/workspace/his-office-redesign/products/candidates/official-images/art-blue-bold-selected.jpg",
+    "packed_bytes": 3444509,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "Reconstructed exposed brick",
+    "node": "Image Texture",
+    "image": "brick-upper.png",
+    "size": [
+      1024,
+      512
+    ],
+    "filepath": "//../../apartment-model/brick-upper.png",
+    "packed_bytes": 3548,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial.001",
+    "node": "Image Texture",
+    "image": "Basecolor_0",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 21172,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial.001",
+    "node": "Image Texture.001",
+    "image": "Metalness_0",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20815,
+    "links": [
+      [
+        "Image Texture.001",
+        "Separate Color",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial.001",
+    "node": "Image Texture.002",
+    "image": "Normals_0",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 29364,
+    "links": [
+      [
+        "Image Texture.002",
+        "Normal Map",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial.001",
+    "node": "Image Texture.003",
+    "image": "Metalness_0",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20815,
+    "links": [
+      [
+        "Image Texture.003",
+        "Separate Color.001",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial",
+    "node": "Image Texture",
+    "image": "00473546_PS01_S01_NV01_RQP1_3.0_Basecolor_0",
+    "size": [
+      826,
+      826
+    ],
+    "filepath": "",
+    "packed_bytes": 45437,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial",
+    "node": "Image Texture.001",
+    "image": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+    "size": [
+      826,
+      826
+    ],
+    "filepath": "",
+    "packed_bytes": 66219,
+    "links": [
+      [
+        "Image Texture.001",
+        "Separate Color",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial",
+    "node": "Image Texture.002",
+    "image": "00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0",
+    "size": [
+      826,
+      826
+    ],
+    "filepath": "",
+    "packed_bytes": 66219,
+    "links": [
+      [
+        "Image Texture.002",
+        "Separate Color.001",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "Branch selected Black \u2014 Material_1",
+    "node": "Image Texture",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+    "size": [
+      1024,
+      1024
+    ],
+    "filepath": "//branch-textures/branch-pro-image_0.png",
+    "packed_bytes": 1061555,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Alpha"
+      ],
+      [
+        "Image Texture",
+        "Mix",
+        "A"
+      ]
+    ]
+  },
+  {
+    "material": "Branch selected Black \u2014 Material_1",
+    "node": "Image Texture.001",
+    "image": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+    "size": [
+      1024,
+      1024
+    ],
+    "filepath": "//branch-textures/branch-pro-image_1.jpg",
+    "packed_bytes": 145269,
+    "links": [
+      [
+        "Image Texture.001",
+        "Normal Map",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_33",
+    "node": "Image Texture",
+    "image": "Basecolor_0_67",
+    "size": [
+      719,
+      719
+    ],
+    "filepath": "",
+    "packed_bytes": 58114,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_33",
+    "node": "Image Texture.001",
+    "image": "Metalness_0_70",
+    "size": [
+      719,
+      719
+    ],
+    "filepath": "",
+    "packed_bytes": 41032,
+    "links": [
+      [
+        "Image Texture.001",
+        "Separate Color",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_33",
+    "node": "Image Texture.002",
+    "image": "Normals_0_68",
+    "size": [
+      719,
+      719
+    ],
+    "filepath": "",
+    "packed_bytes": 39539,
+    "links": [
+      [
+        "Image Texture.002",
+        "Normal Map",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_33",
+    "node": "Image Texture.003",
+    "image": "Metalness_0_70",
+    "size": [
+      719,
+      719
+    ],
+    "filepath": "",
+    "packed_bytes": 41032,
+    "links": [
+      [
+        "Image Texture.003",
+        "Separate Color.001",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_31",
+    "node": "Image Texture",
+    "image": "Basecolor_0_57",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20024,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_31",
+    "node": "Image Texture.001",
+    "image": "Metalness_0_60",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20533,
+    "links": [
+      [
+        "Image Texture.001",
+        "Separate Color",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_31",
+    "node": "Image Texture.002",
+    "image": "Normals_0_58",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 30599,
+    "links": [
+      [
+        "Image Texture.002",
+        "Normal Map",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "SimplygonCastMaterial_31",
+    "node": "Image Texture.003",
+    "image": "Metalness_0_60",
+    "size": [
+      558,
+      558
+    ],
+    "filepath": "",
+    "packed_bytes": 20533,
+    "links": [
+      [
+        "Image Texture.003",
+        "Separate Color.001",
+        "Color"
+      ]
+    ]
+  },
+  {
+    "material": "Actual selected Inkdrop6x9 textile photograph",
+    "node": "Image Texture",
+    "image": "ruggable-inkdrop-selected.jpg",
+    "size": [
+      2400,
+      3000
+    ],
+    "filepath": "/workspace/his-office-redesign/products/candidates/official-images/ruggable-inkdrop-selected.jpg",
+    "packed_bytes": 970160,
+    "links": [
+      [
+        "Image Texture",
+        "Principled BSDF",
+        "Base Color"
+      ]
+    ]
+  },
+  {
+    "material": "Pheasantwood official appearance reference",
+    "node": "Image Texture",
+    "image": "uplift-live-edge-pheasantwood-front.jpg",
+    "size": [
+      1380,
+      185
+    ],
+    "filepath": "//../products/keepers/uplift-live-edge-pheasantwood-front.jpg",
+    "packed_bytes": 40727,
+    "links": [
+      [
+        "Image Texture",
+        "Mix",
+        "A"
+      ]
+    ]
+  }
+]

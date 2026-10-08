@@ -1,0 +1,42 @@
+{
+  "reviewed_utc": "2026-10-08T15:54:28.883058+00:00",
+  "per_product": {
+    "kept-uplift-desk": {
+      "world_bounds_exact_match": true,
+      "component_bounds_exact_match": true,
+      "component_count_before": 21,
+      "component_count_after": 21
+    },
+    "kept-honeywell-02e-pro": {
+      "world_bounds_exact_match": true,
+      "component_bounds_exact_match": false,
+      "component_count_before": 10,
+      "component_count_after": 11
+    },
+    "kept-muttros-cat-tree": {
+      "world_bounds_exact_match": true,
+      "component_bounds_exact_match": true,
+      "component_count_before": 42,
+      "component_count_after": 42
+    },
+    "branch-pro-task-chair-1": {
+      "world_bounds_exact_match": true,
+      "component_bounds_exact_match": true,
+      "component_count_before": 2,
+      "component_count_after": 2
+    },
+    "branch-pro-task-chair-2": {
+      "world_bounds_exact_match": true,
+      "component_bounds_exact_match": true,
+      "component_count_before": 2,
+      "component_count_after": 2
+    }
+  },
+  "all_frozen_poses_and_envelopes_unchanged": true,
+  "other_product_component_bounds_unchanged": true,
+  "lamp_change": "Removed broad head panel and replaced it with two narrow LED bars within the same fixed perimeter, leaving central aperture empty. +1 mesh; all other lamp component bounds preserved.",
+  "glb_sha256": "db57d48d5a19b484320d76db9c4b916054729ffca1f4683bdaab5bad7a89013f",
+  "blend_stamp_utc": "2026-10-08T15:54:01.003964+00:00",
+  "glb_stamp_utc": "2026-10-08T15:54:01.933572+00:00",
+  "all_other_lamp_component_bounds_unchanged": true
+}

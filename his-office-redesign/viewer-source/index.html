@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#263c48"><link rel="icon" href="data:,">
+<title>His office · New design</title>
+<link rel="stylesheet" href="style.css">
+<script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+</head>
+<body>
+<main id="app">
+  <div id="viewport" tabindex="0" aria-label="Interactive 3D model of the new His Office design"></div>
+  <div id="loading" role="status"><div class="spinner"></div><strong>Opening the new office design</strong><span id="loading-detail">Loading the room model…</span></div>
+  <header><div class="brand"><span class="mark">⌂</span><div><h1>His office</h1><p>NEW DESIGN</p></div></div><div class="toolbar"><button id="overview">Whole room</button><button id="save-view">Save image</button></div></header>
+  <aside id="panel">
+    <div class="panel-intro"><span class="eyebrow">ONE ROOM. A NEW LAYOUT.</span><h2 id="view-title">Whole room</h2><p id="view-description">A new design placed inside the measured office shell.</p><p class="dimensions" id="dimensions">Approximately 4.9 × 3.1 m · irregular outline</p></div>
+    <section><label for="view" class="label">Choose a viewpoint</label><select id="view"><option value="overview">Whole room</option></select><div class="segments" role="group" aria-label="Navigation mode"><button id="orbit" class="active">Orbit</button><button id="walk">Walk</button></div><p id="nav-hint" class="muted">Drag to rotate · scroll to zoom · right-drag to pan</p><label id="cutaway-row"><span>Wall cutaway <output id="cutaway-value">0.6 m</output></span><input id="cutaway" type="range" min="0.6" max="3.2" value="0.6" step="0.1" aria-label="Wall cutaway height"></label></section>
+    <section><span class="label">Inspect the layout</span><label class="check"><input id="furniture" type="checkbox" checked><span>New furnishings</span></label><label class="check"><input id="hide-doors" type="checkbox"><span>Hide closed doors for viewing</span></label><p id="door-note" class="muted">Doors match the recorded closed state.</p><label class="check"><input id="grid" type="checkbox"><span>One metre reference grid</span></label></section>
+    <section class="evidence"><span class="label">Measurements &amp; limits</span><p><strong>Desk: 42 × 30 in.</strong><br><span>Confirmed desktop size; standing height is adjustable.</span></p><p><strong>Cat stand: branch reach is provisional.</strong><br><span id="cat-note">Listed base: 23.6 × 22 in. The projecting branches are approximate.</span></p><p><strong>Closet racks: placement is provisional.</strong><br><span>The interior was not recorded; shown only with doors hidden.</span></p><p class="muted" id="model-note">The room outline follows the scan. Architectural gaps and product shapes are reconstructed.</p></section>
+  </aside>
+  <button id="controls-toggle" aria-label="Show controls" aria-expanded="false">☰</button>
+  <div id="map-card"><div class="map-heading"><span>OFFICE PLAN</span><span>m</span></div><canvas id="map" width="420" height="280" aria-label="Office outline and viewing direction"></canvas><p><i></i> Your viewpoint <span>Original metre scale</span></p></div>
+  <div id="walk-help"><strong>Click the room to look around</strong><span>W A S D / arrow keys to move · Shift for faster movement · Esc releases the mouse</span><button id="enter-walk">Enter walk mode</button></div>
+  <div id="touch-pad"><button data-move="forward" aria-label="Move forward">↑</button><div><button data-move="left" aria-label="Move left">←</button><button data-move="back" aria-label="Move back">↓</button><button data-move="right" aria-label="Move right">→</button></div></div>
+  <div id="crosshair"></div><div id="status"><span></span><span id="status-text">New design · original metre scale</span></div><div id="toast" role="status"></div>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

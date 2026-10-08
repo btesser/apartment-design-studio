@@ -1,0 +1,216 @@
+{
+  "coordinate_frame": "Meters; original Blender Z-up. GLB Y-up maps(x,y,z)\u2192(x,z,-y), no rescale.",
+  "status": "Provisional design staging. Source plan omits exact entry furniture locations.",
+  "floor_grounding": {
+    "measured_entry_floor_z_m": 1.535,
+    "source": "plate-geometry.json living architecture_floor",
+    "uniform_z_correction_m": -0.04,
+    "rug_surface_offset_m": 0.003
+  },
+  "items": [
+    {
+      "id": "entry-gold-console",
+      "kind": "console",
+      "position": [
+        1.365,
+        0.8,
+        1.535
+      ],
+      "rotation_deg": -90,
+      "dimensions": [
+        0.5588,
+        0.2032,
+        0.7493
+      ],
+      "shopping_row": 4,
+      "source": "Wayfair W009247541; gold console22W\u00d78D\u00d729.5H inches",
+      "dimension_confidence": "Selected product dimensions verified; modeled shape approximate",
+      "placement_confidence": "Provisional: source plan does not assign entry furnishing positions",
+      "footprint_blender_xy": [
+        [
+          1.2634,
+          1.0794
+        ],
+        [
+          1.2634,
+          0.5206
+        ],
+        [
+          1.4666,
+          0.5206
+        ],
+        [
+          1.4666,
+          1.0794
+        ]
+      ],
+      "viewer_position": [
+        1.365,
+        1.535,
+        -0.8
+      ],
+      "facing_blender_xy": [
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "id": "entry-faceted-mirror",
+      "kind": "mirror",
+      "position": [
+        1.255,
+        0.8,
+        2.445
+      ],
+      "rotation_deg": -90,
+      "dimensions": [
+        0.4064,
+        0.035,
+        0.6096
+      ],
+      "shopping_row": 5,
+      "source": "Shopping list24H\u00d716W inches; source board faceted beveled mirror",
+      "dimension_confidence": "Width/height sourced; thickness approximate",
+      "placement_confidence": "Provisional above console",
+      "footprint_blender_xy": [
+        [
+          1.2375,
+          1.0032
+        ],
+        [
+          1.2375,
+          0.5968
+        ],
+        [
+          1.2725,
+          0.5968
+        ],
+        [
+          1.2725,
+          1.0032
+        ]
+      ],
+      "viewer_position": [
+        1.255,
+        2.445,
+        -0.8
+      ],
+      "facing_blender_xy": [
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "id": "entry-rattan-shoe-cabinet",
+      "kind": "cabinet",
+      "position": [
+        3.48,
+        0.95,
+        1.535
+      ],
+      "rotation_deg": 90,
+      "dimensions": [
+        0.679958,
+        0.399796,
+        0.834898
+      ],
+      "shopping_row": 11,
+      "source": "Wayfair W100191469; natural wood26.77W\u00d715.74D\u00d732.87H inches",
+      "dimension_confidence": "Selected product dimensions verified; modeled shape approximate",
+      "placement_confidence": "Provisional: solid side wall placement",
+      "footprint_blender_xy": [
+        [
+          3.679898,
+          0.610021
+        ],
+        [
+          3.679898,
+          1.289979
+        ],
+        [
+          3.280102,
+          1.289979
+        ],
+        [
+          3.280102,
+          0.610021
+        ]
+      ],
+      "viewer_position": [
+        3.48,
+        1.535,
+        -0.95
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ]
+    },
+    {
+      "id": "entry-patchwork-rug",
+      "kind": "rug",
+      "position": [
+        2.55,
+        1.0,
+        1.538
+      ],
+      "rotation_deg": 0,
+      "dimensions": [
+        0.6096,
+        0.9144,
+        0.009
+      ],
+      "shopping_row": 12,
+      "source": "Shopping list Ruggable Patchwork Boho red2\u00d73ft flatwoven",
+      "dimension_confidence": "Selected source size exact; pattern conceptual",
+      "placement_confidence": "Provisional clear entry floor",
+      "footprint_blender_xy": [
+        [
+          2.2452,
+          0.5428
+        ],
+        [
+          2.8548,
+          0.5428
+        ],
+        [
+          2.8548,
+          1.4572
+        ],
+        [
+          2.2452,
+          1.4572
+        ]
+      ],
+      "viewer_position": [
+        2.55,
+        1.538,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ]
+    }
+  ],
+  "clearance_checks": {
+    "console_min_x_m": 1.2634,
+    "cabinet_max_x_m": 3.679898,
+    "cabinet_to_stair_void_y_clearance_m": 0.540021,
+    "console_to_cabinet_walk_width_m": 1.813502,
+    "doorway_y_m": 1.84,
+    "doorway_x_interval_m": [
+      1.7,
+      2.78
+    ]
+  },
+  "limitations": [
+    "Actual entry doorway and stair-opening shell must remain visible; no wall geometry modified.",
+    "Entry paint and wallpaper are alternatives, not final selections. No wallpaper or painted wall is inserted.",
+    "Dimensions from selected product titles/specs; shapes and rug motif are simplified concept approximations."
+  ],
+  "paint_options_reference": [
+    "Benjamin Moore Conch Shell052",
+    "Benjamin Moore Hidden SapphireCSP-690"
+  ]
+}

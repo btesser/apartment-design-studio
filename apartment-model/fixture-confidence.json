@@ -1,0 +1,36 @@
+{
+  "observed_fixtures": "positions from scan; object envelopes/render forms approximate; fixture rendering does not imply measured SKU",
+  "inferred_utility_rooms": [
+    {
+      "id": "bathroom-lower-unrecorded",
+      "bounds": [
+        -3.8,
+        -2.15,
+        0.61,
+        2.4
+      ],
+      "note": "listing-only inferred; geometry/dimensions unverified"
+    },
+    {
+      "id": "laundry-unrecorded",
+      "bounds": [
+        -2.15,
+        -0.65,
+        0.61,
+        2.4
+      ],
+      "note": "listing-only inferred; geometry/dimensions unverified"
+    },
+    {
+      "id": "boiler-utility-unrecorded",
+      "bounds": [
+        -6.65,
+        -3.8,
+        0.52,
+        1.95
+      ],
+      "note": "listing-only inferred; geometry/dimensions unverified"
+    }
+  ],
+  "visibility": "Observed fixture proxies are default clean-shell render. Unrecorded utility interiors are an independently toggleable listing-inference layer, excluded from design photos unless named."
+}

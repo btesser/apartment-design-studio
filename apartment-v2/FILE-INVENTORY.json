@@ -1,0 +1,387 @@
+[
+  {
+    "path": "Apartment-design-review.pdf",
+    "bytes": 8404482,
+    "sha256": "3342fb74a9850b344ed9382ebce99ac9ab678ea38fa885fbf8fb20a43cc50481"
+  },
+  {
+    "path": "QA-REPORT.txt",
+    "bytes": 4855,
+    "sha256": "eec16de86cdebe58b3656c0c63485eaaf180dcbd80d1289976dd5b6363b63ae1"
+  },
+  {
+    "path": "START-HERE.txt",
+    "bytes": 2631,
+    "sha256": "6af8be8e1a025f8112479305d10fa7f04a50fe09b4e9f33d9ddc9b0dae77d950"
+  },
+  {
+    "path": "amy_scan_registration.png",
+    "bytes": 2216542,
+    "sha256": "e7419748224d96321079becd83d5b82330d89c6f23477d9fb342f10f3b84de5c"
+  },
+  {
+    "path": "apartment-walkthrough.html",
+    "bytes": 37200551,
+    "sha256": "f05e2f1c8958673cd1c5fcc33b00f8dc4eac0d20ca0a54c0a0d7e581cbe86752"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben BASEMENT.jpeg",
+    "bytes": 1017076,
+    "sha256": "338834216f1ac541001c2c1f249ba98acac2934c5fac95d4e9c88febf6ce656b"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben BEDROOM.jpeg",
+    "bytes": 1578889,
+    "sha256": "fd8a0aebef3a07538e903f9e5949d1838e8f128b27c0ff2101702f2703b70f33"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben ENTRYWAY.jpeg",
+    "bytes": 146116,
+    "sha256": "fabb5523c6fde762e3c30f07f0b4e8f929ccb16e9745627e6e7471f27994b322"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben FLOOR PLAN.png",
+    "bytes": 69613,
+    "sha256": "73dbf1a29efa53c0f672be2d85a8d1e6d039608494ee302af5ce5b119320371e"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben HER OFFICE.jpeg",
+    "bytes": 939285,
+    "sha256": "26a25d178de2bc029fa5de696379904ccafd0948643575a281ece790bc328185"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg",
+    "bytes": 1241818,
+    "sha256": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5"
+  },
+  {
+    "path": "evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg",
+    "bytes": 549484,
+    "sha256": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0"
+  },
+  {
+    "path": "evidence/FURNITURE-NOTES.txt",
+    "bytes": 4154,
+    "sha256": "d74113a003234e9190deb5e9d959a581bd47b981d2289749df5d48d93a63949f"
+  },
+  {
+    "path": "evidence/MODEL-REPAIR-REPORT.txt",
+    "bytes": 3416,
+    "sha256": "4437b910609d9c25fefef0c61454d9077556cd06f6b3372a265027b1a052efc3"
+  },
+  {
+    "path": "evidence/amy_affine_registration.json",
+    "bytes": 4212,
+    "sha256": "44f8d0815db451450597288056d841a7f795dfdad704cdfcfcb18eedb74d69f5"
+  },
+  {
+    "path": "evidence/artifact-checks.json",
+    "bytes": 296373,
+    "sha256": "b7e64674e88112dd34a11b0d66408c53bb7b9a4f222c0e273b007b6867fee9d7"
+  },
+  {
+    "path": "evidence/audit-report.txt",
+    "bytes": 5291,
+    "sha256": "3545069191e9242ffbf94adb24edf98387b46576f5146230f117c4e287a9e5c6"
+  },
+  {
+    "path": "evidence/camera-poses.json",
+    "bytes": 18244,
+    "sha256": "a21b00c0e83a53b8e5ed97a29a41e23a15d95d5ce801f24c44850c5294cd25b9"
+  },
+  {
+    "path": "evidence/door-approaches.json",
+    "bytes": 1031,
+    "sha256": "8411a750d70576996b5c3598e90e595a9e0f7b3afb2e642b065a6eab10b54049"
+  },
+  {
+    "path": "evidence/entry-manifest.json",
+    "bytes": 4887,
+    "sha256": "472963b837b493b1d32a6d57dcf01955c8682b638419b017c8991111e3a71590"
+  },
+  {
+    "path": "evidence/fidelity-checklist.json",
+    "bytes": 10242,
+    "sha256": "f38d49588d2fd7873e9be34fbf0a2a16a4e840f0c1cd123d382f33ab7959e465"
+  },
+  {
+    "path": "evidence/final-keyboard-proof.json",
+    "bytes": 3689,
+    "sha256": "8041df08ca8cb79e568a66d949f007c5b9293ce386ed328b9e44f75bb25f8869"
+  },
+  {
+    "path": "evidence/fireplace-anchors.json",
+    "bytes": 1165,
+    "sha256": "f79779a40c3e1cfd97895d4229f114074ef1187e02a58e43bcb8aa7b023f99a2"
+  },
+  {
+    "path": "evidence/fixture-confidence.json",
+    "bytes": 989,
+    "sha256": "8164616ff7d911cec8b0e6dbfbc459e7c2a929d3445e7bdf6a079580cbeb2016"
+  },
+  {
+    "path": "evidence/furniture-manifest.json",
+    "bytes": 61891,
+    "sha256": "8ede4e75777b89d9147d2337a640c7b8e290dd2852511679342b3a083d6a6456"
+  },
+  {
+    "path": "evidence/geometry.json",
+    "bytes": 13815,
+    "sha256": "02ed48044de46bea74155604e14e44d9efdbb113eaf430777bf6676f3aec6b4f"
+  },
+  {
+    "path": "evidence/hearth-actual-geometry.json",
+    "bytes": 1411,
+    "sha256": "9113f9c8c45ad6ed19a8ce2b8a3d2ac992bea9e0d7a16292b5c8e39dea25013a"
+  },
+  {
+    "path": "evidence/her-hearth-polygon.json",
+    "bytes": 1108,
+    "sha256": "55e3279a73aa6b0683e76da28b24ee1d0b36969a46d4948f2cacc24cb4b6ec08"
+  },
+  {
+    "path": "evidence/integrated-inventory.json",
+    "bytes": 1149,
+    "sha256": "449165ae4c8f53fd08f3f0a5acb1e83337840fe33f967856288058de31134ac3"
+  },
+  {
+    "path": "evidence/layer-hashes.json",
+    "bytes": 4499,
+    "sha256": "0006298d42016e50267797837a60f3bcc811db44f624e284100511fde9a7db9e"
+  },
+  {
+    "path": "evidence/listing-floorplan.jpg",
+    "bytes": 359968,
+    "sha256": "cbd08e190701f959d0b16789bd2507d3681a87355cf5b862bdccb198b6a73c3a"
+  },
+  {
+    "path": "evidence/model-metadata.json",
+    "bytes": 15240,
+    "sha256": "a8f9ad35db6345bae7665b5b1eeb5401f217f8281ab0061cf75cb7303aa682a1"
+  },
+  {
+    "path": "evidence/product-dimensions.json",
+    "bytes": 2871,
+    "sha256": "aaaa653114078d84f78aad243ffcb047b4ee23cf3aad7ee13caf011f075244bb"
+  },
+  {
+    "path": "evidence/registration-findings.json",
+    "bytes": 4254,
+    "sha256": "7f2e0391c136752ecb84ed9f75491f223d09a759ba169ebf7ed61ff77c64e201"
+  },
+  {
+    "path": "evidence/repair-log.json",
+    "bytes": 14221,
+    "sha256": "b80680e4255fc39f2c9634dfa23c1fc1f97548fe37c4beb0b1f631631f6511dc"
+  },
+  {
+    "path": "evidence/shopping-items.json",
+    "bytes": 35770,
+    "sha256": "a2424c26c46fffe501c98b930df9c304853a8cdc4dc09c86e351b2c5c7887caf"
+  },
+  {
+    "path": "evidence/source-hashes.json",
+    "bytes": 1266,
+    "sha256": "681f6bffc6152fa328a00b8810520026a8e0003cb1814c390e940c5b8654a225"
+  },
+  {
+    "path": "evidence/source-wall-measurements.json",
+    "bytes": 553,
+    "sha256": "1d7a574eea01041497af628f2bbbda1fb4bb7b22479fc46d2a3468db4d1f6070"
+  },
+  {
+    "path": "evidence/stair-roundtrip.json",
+    "bytes": 3435,
+    "sha256": "972883b92c52186a91571ae6ce6b1bb099926b2f2bf3ab8d5140808209e435e4"
+  },
+  {
+    "path": "evidence/standalone-results.json",
+    "bytes": 9502,
+    "sha256": "13f84f4c45788ef6e77ebd116c7bec7ec6f0ee65ca274f1423707351676be080"
+  },
+  {
+    "path": "evidence/surface_plane_fits.json",
+    "bytes": 6145,
+    "sha256": "9899b0dbe7816edb3537aa202b4bdec53354fa34fb357bc0eb7c3ecfd0873c6b"
+  },
+  {
+    "path": "evidence/validation.json",
+    "bytes": 2009,
+    "sha256": "c03d763c5c7d83cdc9232a6cac45e50fa85c73abf098117b17456ff7e90f1ee2"
+  },
+  {
+    "path": "evidence/vertical-grounding.json",
+    "bytes": 1381,
+    "sha256": "291e2a8721ed70827f5c02e0d4f0bc4147ce2fa84babe0d7af16c8b32b3237d7"
+  },
+  {
+    "path": "image-generator-reference-briefs.json",
+    "bytes": 6743,
+    "sha256": "937f3273d9e08eabbc9b3c384b4b9c3d102bd103b30cb9badaeb016a60e9eb5c"
+  },
+  {
+    "path": "lower-dimensioned-plan.png",
+    "bytes": 390015,
+    "sha256": "de9a88f1c2ccaecdb6e3bee8d94cd3427d968f9e24802e89bcb47b1f7f1fc156"
+  },
+  {
+    "path": "models/apartment-design.blend",
+    "bytes": 61165164,
+    "sha256": "4318eeb1f85d919b14f7801371e1437070988a57be0785fa736b7049bbbbd186"
+  },
+  {
+    "path": "models/apartment-design.glb",
+    "bytes": 6321760,
+    "sha256": "a657a0238afa2500e6c882533f76642bd8cc9677ec8e710bf1f3949a432a8950"
+  },
+  {
+    "path": "models/layers/architecture.glb",
+    "bytes": 292392,
+    "sha256": "ede184238d4dc9d473d9882c264dba276ffe52314dcba1be871ca1e8b922c91c"
+  },
+  {
+    "path": "models/layers/existing-fixtures.glb",
+    "bytes": 695492,
+    "sha256": "a700c77b1f32aced0a32801e394737769368752a10a87c80956fb951d42496e8"
+  },
+  {
+    "path": "models/layers/furniture.glb",
+    "bytes": 4667700,
+    "sha256": "9e3fbacc9d81562fcb0cd44d20dd15ab3aa2616b1185e18a8e34b1e75a126a36"
+  },
+  {
+    "path": "models/layers/inferred-surface-repairs.glb",
+    "bytes": 291508,
+    "sha256": "bdbf73d5ce02f71c2c1874d29f0756892b4f889891d603aa51f89b9b8267249e"
+  },
+  {
+    "path": "models/layers/inferred-utility-interiors.glb",
+    "bytes": 63044,
+    "sha256": "8bf2c3a6d522fe71c399a1718ed0845f91d9a87c43910e02cdcdecd93e51f44b"
+  },
+  {
+    "path": "models/layers/proposed-dresser.glb",
+    "bytes": 157220,
+    "sha256": "57fe8032aab9ebff81a40f0ccc36d1a1503d49a09a550892d60ae3c0c7215a9c"
+  },
+  {
+    "path": "models/layers/provisional-entry.glb",
+    "bytes": 498332,
+    "sha256": "89f511a3a4c22ba9174848b86d300d16c0cae7411123910e6cbf127f02dc1399"
+  },
+  {
+    "path": "room-views/basement-open-a.jpg",
+    "bytes": 295359,
+    "sha256": "2048e946c0690b740e87ef80a28d42d251a493165ebe6e91135149ef28630757"
+  },
+  {
+    "path": "room-views/basement-open-b.jpg",
+    "bytes": 283547,
+    "sha256": "2a7a16f8577391c868261d7c64c046564849105f59bb87bb023be7d33c6fb608"
+  },
+  {
+    "path": "room-views/bathroom-a.jpg",
+    "bytes": 135996,
+    "sha256": "988e68d6f70456c6db14235b099aae8665b25551564a5e6c1f0ee85e01bd4ebf"
+  },
+  {
+    "path": "room-views/bathroom-b.jpg",
+    "bytes": 167725,
+    "sha256": "3b511b5a85468903739838cc9180aad8096c02b70ea59903f98924bd3712cd48"
+  },
+  {
+    "path": "room-views/bedroom-flex-a.jpg",
+    "bytes": 191486,
+    "sha256": "4cab0fb2a5343c9ed4a851c7d0f3f9b10453f66427a23912812e134de327ff91"
+  },
+  {
+    "path": "room-views/bedroom-flex-b.jpg",
+    "bytes": 300186,
+    "sha256": "32fc4e4b0fc84994c374548ec5bb6bd878c0cfec87c9160d26ab6f495b15f950"
+  },
+  {
+    "path": "room-views/entry-a.jpg",
+    "bytes": 340102,
+    "sha256": "d8845c7f2ad7768530c21ab7b511a567bdcb615af6273a93c68d75096241f2f9"
+  },
+  {
+    "path": "room-views/entry-b.jpg",
+    "bytes": 259343,
+    "sha256": "e318e53ab36a5cdb2d973555cced71d0aaec226fd98bff08f303b19658eb46fb"
+  },
+  {
+    "path": "room-views/her-office-a.jpg",
+    "bytes": 282911,
+    "sha256": "6655f3007fd426eb345f2e056479719db2956b7f40f9fc00e668b9814fdc4844"
+  },
+  {
+    "path": "room-views/her-office-b.jpg",
+    "bytes": 266605,
+    "sha256": "bafda9797ed62e8e8c3c03dadb0b58503ea8b9dddea6707907f1f993abcbd293"
+  },
+  {
+    "path": "room-views/his-office-a.jpg",
+    "bytes": 240543,
+    "sha256": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3"
+  },
+  {
+    "path": "room-views/his-office-b.jpg",
+    "bytes": 222914,
+    "sha256": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f"
+  },
+  {
+    "path": "room-views/kitchen-a.jpg",
+    "bytes": 187756,
+    "sha256": "713e55f58996b2db4cd8c87a9d1326e0510518616d1f34d4c0d93acf5c84a22d"
+  },
+  {
+    "path": "room-views/kitchen-b.jpg",
+    "bytes": 233334,
+    "sha256": "50e8c9b1f457cd72cb165096651f21c6a3f2e3bb3d0e5eace64d7619887262fa"
+  },
+  {
+    "path": "room-views/living-a.jpg",
+    "bytes": 298390,
+    "sha256": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a"
+  },
+  {
+    "path": "room-views/living-b.jpg",
+    "bytes": 296897,
+    "sha256": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55"
+  },
+  {
+    "path": "room-views/lower-plan.jpg",
+    "bytes": 197498,
+    "sha256": "6a1b105b6ed6098a952ea047c90cbcc97011d281741ce8764b41c37aa4d6c393"
+  },
+  {
+    "path": "room-views/music-gym-a.jpg",
+    "bytes": 212469,
+    "sha256": "802e7eeea1f0e9eea6863504612899b9690534bf63e7e5d90b2bbcd5ccf1d254"
+  },
+  {
+    "path": "room-views/music-gym-b.jpg",
+    "bytes": 250815,
+    "sha256": "cc471b6949225cf9bd6ff5d25c30eff8afc59e8367e74bd0a24e7527e9d0b0e6"
+  },
+  {
+    "path": "room-views/stairs-a.jpg",
+    "bytes": 164628,
+    "sha256": "3c2b3914484ec5bf985ebc3c72f275a6d426996f3c73b5d4a0bb68b97351a6d6"
+  },
+  {
+    "path": "room-views/upper-plan.jpg",
+    "bytes": 222984,
+    "sha256": "c44b8b84423249544bfb0357f85b81f9184bccf360d999e317ff7e6e159fc120"
+  },
+  {
+    "path": "upper-dimensioned-plan.png",
+    "bytes": 363966,
+    "sha256": "943a4408014656c56c5b438eb5d869d8a687168822213cc70abae8ab01981ca4"
+  },
+  {
+    "path": "viewer-source.zip",
+    "bytes": 20457856,
+    "sha256": "b2336030eb2f815cfed3218d3e1dd1e03420ee3c2a38fa8407042f13835c20b1"
+  }
+]

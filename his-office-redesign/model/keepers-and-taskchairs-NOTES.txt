@@ -1,0 +1,19 @@
+Product geometry authority for the redesigned office
+
+Native unscaled Blender meters, Z up; floorZ=1.575. GLB export is Y up without additional rescaling.
+
+Named collection: His Office — kept products and two Branch task chairs. Five named product parents: kept-uplift-desk, kept-honeywell-02e-pro, kept-muttros-cat-tree, branch-pro-task-chair-1, branch-pro-task-chair-2.
+
+Desk: exact user-order42×30in Pheasantwood top,1.75in thick,top height0.74m. Barkline front faces-Y, square rear+Y; two brushed nickel grommets. V2 C-frame industrial-style tinted clear steel. Grommet spacing, keypad, brace/column profiles are photo-guided proxies. Keypad extends9mm beyond tabletop footprint; grommet covers add2.5mm above top. Official wood photo supplies grain appearance through UV mapping, catalog photo width does not control geometry.
+
+Lamp: exact Honeywell02E Pro ASIN B0C3BVYTXP white integrated LED, rectangular head long axisY, overall0.288036X×0.610108Y×1.9685H. Head is an open rectangular perimeter with two narrow parallel LED bars and empty central aperture, as in the exact product photo. U-base and post proportions are photo-guided; separate U-base measurements remain unpublished.
+
+Cat tree: exact MUTTROS B0HHRC6XBC brown variant, three wicker baskets plus brown fleece hammock, cylindrical condo with actual arched opening, sisal-wrapped natural wood branches. Exact base0.59944X×0.5588Y and nominal height1.4986m. Actual exported proxy height1.4980m differs0.6mm due strand discretization. Basket coordinates are provisional, inside root-authorized0.7X×1.1Y upper allocation; true manufacturer total overhang is unpublished. Baskets are open, individually modelled, not a bounding box. Condo entrance faces+X into the room.
+
+Two Branch Ergonomic Chair Pro black task chairs: source geometry uses public official optimized Shore preview GLB, rebased to floor, rotated180degrees so seated gaze is+Y, material multiplied by dark colour to represent selected Black. Source preview is0.9810m high, within official0.9652–1.04648m adjustment range. Source plan geometry is uniformly normalized to nominal0.70104m caster-base circle. This adjusted mesh is a dimensioned review proxy, not the exact selected-colour vendor CAD. Model includes detailed caster base, seat, armrests, adjustable lumbar and transparent mesh back; no optional headrests.
+
+Revised frozen positions: desktop[-6.95,-0.131,1.575]; primary chair[-6.82,-0.85,1.575]; second chair[-5.40,-0.80,1.575]; lamp[-7.67,-0.24,1.575]; catbase[-7.59,-1.00,1.575]. All supplied poses preserved.
+
+Component bounds and source/uncertainty notes: keepers-and-taskchairs-bounds.json. Build script: build_keepers.py. Preview images are isolated product review cameras with temporary studio floor, which is not included in the exports.
+
+Native import texture robustness: all six official Branch images retain their original vendor-encoded bytes, packed in the .blend, and are additionally saved under branch-textures/ with unique product-prefixed image names and real file paths. Fresh-shell collection append and save confirms every Branch image node has data and nonzero dimensions. Integration must skip image.pack() for already packed images; Blender 4.3.2 may clear packed embedded data when repacking images with empty file paths.

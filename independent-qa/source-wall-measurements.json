@@ -1,0 +1,32 @@
+{
+  "her-office": {
+    "scan_wall_positions_y_m": [
+      -2.813924442257625,
+      0.8403263323330802
+    ],
+    "wall_to_wall_width_m": 3.6543,
+    "sample_vertical_z_range": [
+      2.9,
+      3.5
+    ],
+    "sample_longitudinal_x_range": [
+      4.4,
+      7.5
+    ]
+  },
+  "his-office": {
+    "scan_wall_positions_y_m": [
+      -2.721639244523058,
+      0.325467994866682
+    ],
+    "wall_to_wall_width_m": 3.0471,
+    "sample_vertical_z_range": [
+      2.9,
+      3.5
+    ],
+    "sample_longitudinal_x_range": [
+      -7.5,
+      -4.2
+    ]
+  }
+}

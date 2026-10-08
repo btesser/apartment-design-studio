@@ -1,0 +1,101 @@
+[
+  {
+    "room": "living",
+    "geometry_references": [
+      "room-views/living-a.jpg",
+      "room-views/living-b.jpg"
+    ],
+    "designer_reference": "evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg",
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "his-office",
+    "geometry_references": [
+      "room-views/his-office-a.jpg",
+      "room-views/his-office-b.jpg"
+    ],
+    "designer_reference": "evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg",
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "her-office",
+    "geometry_references": [
+      "room-views/her-office-a.jpg",
+      "room-views/her-office-b.jpg"
+    ],
+    "designer_reference": "evidence/Amy-design-boards/Lana & Ben HER OFFICE.jpeg",
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "entry",
+    "geometry_references": [
+      "room-views/entry-a.jpg",
+      "room-views/entry-b.jpg"
+    ],
+    "designer_reference": "evidence/Amy-design-boards/Lana & Ben ENTRYWAY.jpeg",
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "bedroom-flex",
+    "geometry_references": [
+      "room-views/bedroom-flex-a.jpg",
+      "room-views/bedroom-flex-b.jpg"
+    ],
+    "designer_reference": "evidence/Amy-design-boards/Lana & Ben BEDROOM.jpeg",
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "basement-open",
+    "geometry_references": [
+      "room-views/basement-open-a.jpg",
+      "room-views/basement-open-b.jpg"
+    ],
+    "designer_reference": "evidence/Amy-design-boards/Lana & Ben BASEMENT.jpeg",
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "music-gym",
+    "geometry_references": [
+      "room-views/music-gym-a.jpg",
+      "room-views/music-gym-b.jpg"
+    ],
+    "designer_reference": null,
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "kitchen",
+    "geometry_references": [
+      "room-views/kitchen-a.jpg",
+      "room-views/kitchen-b.jpg"
+    ],
+    "designer_reference": null,
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  },
+  {
+    "room": "bathroom",
+    "geometry_references": [
+      "room-views/bathroom-a.jpg",
+      "room-views/bathroom-b.jpg"
+    ],
+    "designer_reference": null,
+    "instruction": "Use the two fixed 3D views together for room geometry and furniture orientation. Preserve doors, windows, columns, floor height, wall positions, product footprints and camera perspective. Use the designer board only for material and decorative appearance. Do not infer alternative architecture from a mood board. Any furniture dimensions marked estimated remain unconfirmed.",
+    "geometry_authority": "models/apartment-design.glb and evidence/geometry.json",
+    "furniture_authority": "evidence/furniture-manifest.json"
+  }
+]

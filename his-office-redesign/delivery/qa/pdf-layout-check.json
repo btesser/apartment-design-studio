@@ -1,0 +1,116 @@
+{
+  "file": "/workspace/his-office-redesign/His-office-design-review.pdf",
+  "sha256": "eb6c33e01b04bd9a02e185371b1a196ad7cce0bad663e4d2b59dd8c8da35b27c",
+  "pages": 9,
+  "page_checks": [
+    {
+      "page": 1,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 1247,
+      "outside_text_blocks": [],
+      "clickable_links": 0,
+      "draft_label": false
+    },
+    {
+      "page": 2,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 1363,
+      "outside_text_blocks": [],
+      "clickable_links": 0,
+      "draft_label": false
+    },
+    {
+      "page": 3,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 1120,
+      "outside_text_blocks": [],
+      "clickable_links": 4,
+      "draft_label": false
+    },
+    {
+      "page": 4,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 1269,
+      "outside_text_blocks": [],
+      "clickable_links": 6,
+      "draft_label": false
+    },
+    {
+      "page": 5,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 695,
+      "outside_text_blocks": [],
+      "clickable_links": 0,
+      "draft_label": false
+    },
+    {
+      "page": 6,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 695,
+      "outside_text_blocks": [],
+      "clickable_links": 0,
+      "draft_label": false
+    },
+    {
+      "page": 7,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 695,
+      "outside_text_blocks": [],
+      "clickable_links": 0,
+      "draft_label": false
+    },
+    {
+      "page": 8,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "text_chars": 2723,
+      "outside_text_blocks": [],
+      "clickable_links": 4,
+      "draft_label": false
+    },
+    {
+      "page": 9,
+      "size_pt": [
+        1188.0,
+        842.4000244140625
+      ],
+      "text_chars": 2004,
+      "outside_text_blocks": [],
+      "clickable_links": 0,
+      "draft_label": false
+    }
+  ],
+  "text_content_checks": {
+    "2,344.43": true,
+    "50 cm": true,
+    "55 cm": true,
+    "8.7": true,
+    "66.2": true,
+    "131.2": true,
+    "42": true,
+    "30": true
+  }
+}

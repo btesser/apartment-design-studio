@@ -1,0 +1,3386 @@
+[
+  {
+    "name": "secondary-workspace::official alex-drawers part0",
+    "parent": "secondary-workspace",
+    "world_bounds_m": [
+      [
+        -6.230000019073486,
+        -0.3400000035762787,
+        1.5750000476837158
+      ],
+      [
+        -5.87000036239624,
+        0.23999999463558197,
+        2.2750000953674316
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::black-brown tabletop",
+    "parent": "secondary-workspace",
+    "world_bounds_m": [
+      [
+        -6.25,
+        -0.3500000238418579,
+        2.2749998569488525
+      ],
+      [
+        -4.850000381469727,
+        0.25,
+        2.305000066757202
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::right white ADILS leg",
+    "parent": "secondary-workspace",
+    "world_bounds_m": [
+      [
+        -4.975000381469727,
+        -0.31300002336502075,
+        1.5750000476837158
+      ],
+      [
+        -4.925000190734863,
+        -0.2630000114440918,
+        2.2750000953674316
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::black adjustment foot",
+    "parent": "secondary-workspace",
+    "world_bounds_m": [
+      [
+        -4.975000381469727,
+        -0.31300002336502075,
+        1.5750000476837158
+      ],
+      [
+        -4.925000190734863,
+        -0.2630000114440918,
+        1.5929999351501465
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::right white ADILS leg.001",
+    "parent": "secondary-workspace",
+    "world_bounds_m": [
+      [
+        -4.975000381469727,
+        0.16300000250339508,
+        1.5750000476837158
+      ],
+      [
+        -4.925000190734863,
+        0.21300001442432404,
+        2.2750000953674316
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::black adjustment foot.001",
+    "parent": "secondary-workspace",
+    "world_bounds_m": [
+      [
+        -4.975000381469727,
+        0.16300000250339508,
+        1.5750000476837158
+      ],
+      [
+        -4.925000190734863,
+        0.21300001442432404,
+        1.5929999351501465
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "clothes-dresser::official storklinta-low-drawers part0",
+    "parent": "clothes-dresser",
+    "world_bounds_m": [
+      [
+        -6.948058605194092,
+        -2.7182624340057373,
+        2.0770621299743652
+      ],
+      [
+        -6.252046585083008,
+        -2.272730827331543,
+        2.2993602752685547
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "clothes-dresser::official storklinta-low-drawers part1",
+    "parent": "clothes-dresser",
+    "world_bounds_m": [
+      [
+        -6.948081016540527,
+        -2.7181637287139893,
+        1.62911856174469
+      ],
+      [
+        -6.252070903778076,
+        -2.272712230682373,
+        1.8514132499694824
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "clothes-dresser::official storklinta-low-drawers part2",
+    "parent": "clothes-dresser",
+    "world_bounds_m": [
+      [
+        -6.948063373565674,
+        -2.7181284427642822,
+        1.853089690208435
+      ],
+      [
+        -6.2520751953125,
+        -2.2725863456726074,
+        2.075387954711914
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "clothes-dresser::official storklinta-low-drawers part3",
+    "parent": "clothes-dresser",
+    "world_bounds_m": [
+      [
+        -6.949249744415283,
+        -2.7497124671936035,
+        1.5750000476837158
+      ],
+      [
+        -6.2507500648498535,
+        -2.27028751373291,
+        2.3243000507354736
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::padded seat",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.80940055847168,
+        -2.1848127841949463,
+        1.9009559154510498
+      ],
+      [
+        -4.2505998611450195,
+        -1.6321351528167725,
+        2.025444507598877
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::sloping padded back",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.80940055847168,
+        -2.2853188514709473,
+        2.016045093536377
+      ],
+      [
+        -4.2505998611450195,
+        -2.123694658279419,
+        2.3290255069732666
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::sloping front wooden leg",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.845674991607666,
+        -1.7750654220581055,
+        1.5750000476837158
+      ],
+      [
+        -4.805675029754639,
+        -1.609475016593933,
+        2.1976261138916016
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::sloping rear wooden leg",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.845674991607666,
+        -2.3905248641967773,
+        1.5756086111068726
+      ],
+      [
+        -4.805675029754639,
+        -2.2280399799346924,
+        2.3031392097473145
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::rounded wooden arm",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.849675178527832,
+        -2.285444498062134,
+        2.1827392578125
+      ],
+      [
+        -4.801675319671631,
+        -1.6590080261230469,
+        2.2317185401916504
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::lower side seat support",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.850675106048584,
+        -2.307619333267212,
+        1.846007227897644
+      ],
+      [
+        -4.800675392150879,
+        -1.692270278930664,
+        1.8970272541046143
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::sloping front wooden leg.001",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.2543253898620605,
+        -1.7750654220581055,
+        1.5750000476837158
+      ],
+      [
+        -4.214325428009033,
+        -1.609475016593933,
+        2.1976261138916016
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::sloping rear wooden leg.001",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.2543253898620605,
+        -2.3905248641967773,
+        1.5756086111068726
+      ],
+      [
+        -4.214325428009033,
+        -2.2280399799346924,
+        2.3031392097473145
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::rounded wooden arm.001",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.258325099945068,
+        -2.285444498062134,
+        2.1827392578125
+      ],
+      [
+        -4.210325241088867,
+        -1.6590080261230469,
+        2.2317185401916504
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::lower side seat support.001",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.25932502746582,
+        -2.307619333267212,
+        1.846007227897644
+      ],
+      [
+        -4.209325313568115,
+        -1.692270278930664,
+        1.8970272541046143
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "visitor-chair::front timber stretcher",
+    "parent": "visitor-chair",
+    "world_bounds_m": [
+      [
+        -4.8256754875183105,
+        -1.7288585901260376,
+        1.8225380182266235
+      ],
+      [
+        -4.234324932098389,
+        -1.66676926612854,
+        1.8796805143356323
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "rug::Standard Pad support",
+    "parent": "rug",
+    "world_bounds_m": [
+      [
+        -7.47160005569458,
+        -2.014400005340576,
+        1.5750000476837158
+      ],
+      [
+        -4.728399753570557,
+        -0.18560004234313965,
+        1.5801751613616943
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "rug::official6x9 flatwoven textile",
+    "parent": "rug",
+    "world_bounds_m": [
+      [
+        -7.47160005569458,
+        -2.014400005340576,
+        1.580475091934204
+      ],
+      [
+        -4.728399753570557,
+        -0.18560004234313965,
+        1.580475091934204
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "blue-bold-art::assumed slim black frame",
+    "parent": "blue-bold-art",
+    "world_bounds_m": [
+      [
+        -5.670000076293945,
+        -2.7070000171661377,
+        2.690000057220459
+      ],
+      [
+        -4.949999809265137,
+        -2.688999891281128,
+        3.7100000381469727
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "blue-bold-art::actual selected print",
+    "parent": "blue-bold-art",
+    "world_bounds_m": [
+      [
+        -5.659999847412109,
+        -2.688499927520752,
+        2.700000047683716
+      ],
+      [
+        -4.960000038146973,
+        -2.688499927520752,
+        3.700000047683716
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "blue-geometric-art::assumed slim black frame",
+    "parent": "blue-geometric-art",
+    "world_bounds_m": [
+      [
+        -7.079999923706055,
+        0.21599999070167542,
+        2.940000057220459
+      ],
+      [
+        -6.560000419616699,
+        0.23399999737739563,
+        3.6599998474121094
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "blue-geometric-art::actual selected print",
+    "parent": "blue-geometric-art",
+    "world_bounds_m": [
+      [
+        -7.070000171661377,
+        0.21549999713897705,
+        2.950000047683716
+      ],
+      [
+        -6.570000171661377,
+        0.21549999713897705,
+        3.6499998569488525
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "uplift-main-desk::generic equipment assumption::monitor stand",
+    "parent": "uplift-main-desk::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -7.034999847412109,
+        -0.030000001192092896,
+        2.315000057220459
+      ],
+      [
+        -6.864999771118164,
+        0.14000000059604645,
+        2.3390002250671387
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "uplift-main-desk::generic equipment assumption::monitor stem",
+    "parent": "uplift-main-desk::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -6.972499847412109,
+        0.05250000208616257,
+        2.3299999237060547
+      ],
+      [
+        -6.927499771118164,
+        0.08749999850988388,
+        2.4600000381469727
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "uplift-main-desk::generic equipment assumption::monitor frame",
+    "parent": "uplift-main-desk::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -7.21999979019165,
+        0.035999998450279236,
+        2.3965001106262207
+      ],
+      [
+        -6.679999828338623,
+        0.07400000095367432,
+        2.7214999198913574
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "uplift-main-desk::generic equipment assumption::dark display",
+    "parent": "uplift-main-desk::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -7.204999923706055,
+        0.03350000083446503,
+        2.4130001068115234
+      ],
+      [
+        -6.694999694824219,
+        0.03450000286102295,
+        2.7049999237060547
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "uplift-main-desk::generic equipment assumption::keyboard",
+    "parent": "uplift-main-desk::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -7.154999732971191,
+        -0.29749998450279236,
+        2.315000057220459
+      ],
+      [
+        -6.744999885559082,
+        -0.16249999403953552,
+        2.3390002250671387
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::generic equipment assumption::monitor stan",
+    "parent": "secondary-workspace::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -5.385000228881836,
+        -0.03999999910593033,
+        2.305000066757202
+      ],
+      [
+        -5.215000152587891,
+        0.12999999523162842,
+        2.329000234603882
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::generic equipment assumption::monitor stem",
+    "parent": "secondary-workspace::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -5.322500228881836,
+        0.042500004172325134,
+        2.319999933242798
+      ],
+      [
+        -5.277500152587891,
+        0.07750000059604645,
+        2.450000047683716
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::generic equipment assumption::monitor fram",
+    "parent": "secondary-workspace::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -5.570000171661377,
+        0.026000002399086952,
+        2.386500120162964
+      ],
+      [
+        -5.03000020980835,
+        0.06400000303983688,
+        2.7114999294281006
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::generic equipment assumption::dark display",
+    "parent": "secondary-workspace::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -5.555000305175781,
+        0.023500002920627594,
+        2.4030001163482666
+      ],
+      [
+        -5.045000076293945,
+        0.024500001221895218,
+        2.694999933242798
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "secondary-workspace::generic equipment assumption::keyboard",
+    "parent": "secondary-workspace::generic equipment assumption",
+    "world_bounds_m": [
+      [
+        -5.505000114440918,
+        -0.3075000047683716,
+        2.305000066757202
+      ],
+      [
+        -5.095000267028809,
+        -0.17249998450279236,
+        2.329000234603882
+      ]
+    ],
+    "role": "furniture",
+    "collection": "05 Chosen new furniture and sourced textiles/art"
+  },
+  {
+    "name": "grejig-1::folded steel leg",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.368661403656006,
+        -0.8262314200401306,
+        1.5776928663253784
+      ],
+      [
+        -3.348768711090088,
+        -0.806488573551178,
+        1.7343071699142456
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::folded steel leg.001",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6112313270568848,
+        -0.8262315392494202,
+        1.5776928663253784
+      ],
+      [
+        -3.591338634490967,
+        -0.8064884543418884,
+        1.7343071699142456
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::folded steel leg.002",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.368661403656006,
+        -0.27351143956184387,
+        1.5776928663253784
+      ],
+      [
+        -3.348768711090088,
+        -0.25376859307289124,
+        1.7343071699142456
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::folded steel leg.003",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6112313270568848,
+        -0.27351152896881104,
+        1.5776928663253784
+      ],
+      [
+        -3.591338634490967,
+        -0.2537685036659241,
+        1.7343071699142456
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::top long rim",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.3559999465942383,
+        -0.8220000267028809,
+        1.7310000658035278
+      ],
+      [
+        -3.3499999046325684,
+        -0.2580000162124634,
+        1.7370001077651978
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::top long rim.001",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6100001335144043,
+        -0.8220000267028809,
+        1.7310000658035278
+      ],
+      [
+        -3.6040000915527344,
+        -0.2580000162124634,
+        1.7370001077651978
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::top end rim",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.8250000476837158,
+        1.7310000658035278
+      ],
+      [
+        -3.3529999256134033,
+        -0.8190000057220459,
+        1.7370001077651978
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::top end rim.001",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.26100000739097595,
+        1.7310000658035278
+      ],
+      [
+        -3.3529999256134033,
+        -0.2550000250339508,
+        1.7370001077651978
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.7918000221252441,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.7882000207901001,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.001",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.7418000102043152,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.7382000088691711,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.002",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.691800057888031,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.688200056552887,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.003",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.641800045967102,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.638200044631958,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.004",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.5918000340461731,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.588200032711029,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.005",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.5418000221252441,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.5382000207901001,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.006",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.4918000102043152,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.48820000886917114,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.007",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.4418000280857086,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.4382000267505646,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.008",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.39180001616477966,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.3882000148296356,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.009",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.3418000340461731,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.33820003271102905,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice across.010",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.29180002212524414,
+        1.7311999797821045
+      ],
+      [
+        -3.3529999256134033,
+        -0.2882000207901001,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice lengthwise",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.3968000411987305,
+        -0.8220000267028809,
+        1.7311999797821045
+      ],
+      [
+        -3.393199920654297,
+        -0.2580000162124634,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice lengthwise.001",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.439300060272217,
+        -0.8220000267028809,
+        1.7311999797821045
+      ],
+      [
+        -3.435699939727783,
+        -0.2580000162124634,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice lengthwise.002",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.481800079345703,
+        -0.8220000267028809,
+        1.7311999797821045
+      ],
+      [
+        -3.4781999588012695,
+        -0.2580000162124634,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice lengthwise.003",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.5243000984191895,
+        -0.8220000267028809,
+        1.7311999797821045
+      ],
+      [
+        -3.520699977874756,
+        -0.2580000162124634,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-1::wire lattice lengthwise.004",
+    "parent": "grejig-1",
+    "world_bounds_m": [
+      [
+        -3.566800117492676,
+        -0.8220000267028809,
+        1.7311999797821045
+      ],
+      [
+        -3.563199996948242,
+        -0.2580000162124634,
+        1.734800100326538
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::folded steel leg",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.368661403656006,
+        -0.8262314200401306,
+        1.7476928234100342
+      ],
+      [
+        -3.348768711090088,
+        -0.806488573551178,
+        1.9043071269989014
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::folded steel leg.001",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6112313270568848,
+        -0.8262315392494202,
+        1.7476928234100342
+      ],
+      [
+        -3.591338634490967,
+        -0.8064884543418884,
+        1.9043071269989014
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::folded steel leg.002",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.368661403656006,
+        -0.27351143956184387,
+        1.7476928234100342
+      ],
+      [
+        -3.348768711090088,
+        -0.25376859307289124,
+        1.9043071269989014
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::folded steel leg.003",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6112313270568848,
+        -0.27351152896881104,
+        1.7476928234100342
+      ],
+      [
+        -3.591338634490967,
+        -0.2537685036659241,
+        1.9043071269989014
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::top long rim",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.3559999465942383,
+        -0.8220000267028809,
+        1.9010000228881836
+      ],
+      [
+        -3.3499999046325684,
+        -0.2580000162124634,
+        1.9070000648498535
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::top long rim.001",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6100001335144043,
+        -0.8220000267028809,
+        1.9010000228881836
+      ],
+      [
+        -3.6040000915527344,
+        -0.2580000162124634,
+        1.9070000648498535
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::top end rim",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.8250000476837158,
+        1.9010000228881836
+      ],
+      [
+        -3.3529999256134033,
+        -0.8190000057220459,
+        1.9070000648498535
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::top end rim.001",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.26100000739097595,
+        1.9010000228881836
+      ],
+      [
+        -3.3529999256134033,
+        -0.2550000250339508,
+        1.9070000648498535
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.7918000221252441,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.7882000207901001,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.001",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.7418000102043152,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.7382000088691711,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.002",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.691800057888031,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.688200056552887,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.003",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.641800045967102,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.638200044631958,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.004",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.5918000340461731,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.588200032711029,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.005",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.5418000221252441,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.5382000207901001,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.006",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.4918000102043152,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.48820000886917114,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.007",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.4418000280857086,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.4382000267505646,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.008",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.39180001616477966,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.3882000148296356,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.009",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.3418000340461731,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.33820003271102905,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice across.010",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.29180002212524414,
+        1.9011999368667603
+      ],
+      [
+        -3.3529999256134033,
+        -0.2882000207901001,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice lengthwise",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.3968000411987305,
+        -0.8220000267028809,
+        1.9011999368667603
+      ],
+      [
+        -3.393199920654297,
+        -0.2580000162124634,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice lengthwise.001",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.439300060272217,
+        -0.8220000267028809,
+        1.9011999368667603
+      ],
+      [
+        -3.435699939727783,
+        -0.2580000162124634,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice lengthwise.002",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.481800079345703,
+        -0.8220000267028809,
+        1.9011999368667603
+      ],
+      [
+        -3.4781999588012695,
+        -0.2580000162124634,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice lengthwise.003",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.5243000984191895,
+        -0.8220000267028809,
+        1.9011999368667603
+      ],
+      [
+        -3.520699977874756,
+        -0.2580000162124634,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-2::wire lattice lengthwise.004",
+    "parent": "grejig-2",
+    "world_bounds_m": [
+      [
+        -3.566800117492676,
+        -0.8220000267028809,
+        1.9011999368667603
+      ],
+      [
+        -3.563199996948242,
+        -0.2580000162124634,
+        1.9048000574111938
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::folded steel leg",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.368661403656006,
+        -0.8262314200401306,
+        1.91769278049469
+      ],
+      [
+        -3.348768711090088,
+        -0.806488573551178,
+        2.0743072032928467
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::folded steel leg.001",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6112313270568848,
+        -0.8262315392494202,
+        1.91769278049469
+      ],
+      [
+        -3.591338634490967,
+        -0.8064884543418884,
+        2.0743072032928467
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::folded steel leg.002",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.368661403656006,
+        -0.27351143956184387,
+        1.91769278049469
+      ],
+      [
+        -3.348768711090088,
+        -0.25376859307289124,
+        2.0743072032928467
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::folded steel leg.003",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6112313270568848,
+        -0.27351152896881104,
+        1.91769278049469
+      ],
+      [
+        -3.591338634490967,
+        -0.2537685036659241,
+        2.0743072032928467
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::top long rim",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.3559999465942383,
+        -0.8220000267028809,
+        2.07099986076355
+      ],
+      [
+        -3.3499999046325684,
+        -0.2580000162124634,
+        2.0769999027252197
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::top long rim.001",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6100001335144043,
+        -0.8220000267028809,
+        2.07099986076355
+      ],
+      [
+        -3.6040000915527344,
+        -0.2580000162124634,
+        2.0769999027252197
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::top end rim",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.8250000476837158,
+        2.07099986076355
+      ],
+      [
+        -3.3529999256134033,
+        -0.8190000057220459,
+        2.0769999027252197
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::top end rim.001",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.26100000739097595,
+        2.07099986076355
+      ],
+      [
+        -3.3529999256134033,
+        -0.2550000250339508,
+        2.0769999027252197
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.7918000221252441,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.7882000207901001,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.001",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.7418000102043152,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.7382000088691711,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.002",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.691800057888031,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.688200056552887,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.003",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.641800045967102,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.638200044631958,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.004",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.5918000340461731,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.588200032711029,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.005",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.5418000221252441,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.5382000207901001,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.006",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.4918000102043152,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.48820000886917114,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.007",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.4418000280857086,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.4382000267505646,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.008",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.39180001616477966,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.3882000148296356,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.009",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.3418000340461731,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.33820003271102905,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice across.010",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.6070001125335693,
+        -0.29180002212524414,
+        2.071199893951416
+      ],
+      [
+        -3.3529999256134033,
+        -0.2882000207901001,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice lengthwise",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.3968000411987305,
+        -0.8220000267028809,
+        2.071199893951416
+      ],
+      [
+        -3.393199920654297,
+        -0.2580000162124634,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice lengthwise.001",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.439300060272217,
+        -0.8220000267028809,
+        2.071199893951416
+      ],
+      [
+        -3.435699939727783,
+        -0.2580000162124634,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice lengthwise.002",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.481800079345703,
+        -0.8220000267028809,
+        2.071199893951416
+      ],
+      [
+        -3.4781999588012695,
+        -0.2580000162124634,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice lengthwise.003",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.5243000984191895,
+        -0.8220000267028809,
+        2.071199893951416
+      ],
+      [
+        -3.520699977874756,
+        -0.2580000162124634,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "grejig-3::wire lattice lengthwise.004",
+    "parent": "grejig-3",
+    "world_bounds_m": [
+      [
+        -3.566800117492676,
+        -0.8220000267028809,
+        2.071199893951416
+      ],
+      [
+        -3.563199996948242,
+        -0.2580000162124634,
+        2.0748000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "Provisional rack floor support \u2014 closet unrecorded",
+    "parent": null,
+    "world_bounds_m": [
+      [
+        -3.6600000858306885,
+        -0.875,
+        1.5729999542236328
+      ],
+      [
+        -3.299999952316284,
+        -0.20500001311302185,
+        1.5750000476837158
+      ]
+    ],
+    "role": "inferred_closet_support",
+    "collection": "06 Provisional contents of unrecorded closet"
+  },
+  {
+    "name": "kept-uplift-desk::solid wood barkline top",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.483399868011475,
+        -0.5119988918304443,
+        2.270550012588501
+      ],
+      [
+        -6.416599750518799,
+        0.25,
+        2.315000057220459
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "C-frame steel foot",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.436999797821045,
+        -0.48151999711990356,
+        1.5820001363754272
+      ],
+      [
+        -7.367000102996826,
+        0.21952001750469208,
+        1.6160000562667847
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Foot glide",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.430999755859375,
+        -0.4659999907016754,
+        1.5750000476837158
+      ],
+      [
+        -7.373000144958496,
+        -0.4259999692440033,
+        1.5859999656677246
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Foot glide.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.430999755859375,
+        0.164000004529953,
+        1.5750000476837158
+      ],
+      [
+        -7.373000144958496,
+        0.20399999618530273,
+        1.5859999656677246
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 lower slim stage",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.424999713897705,
+        -0.030999992042779922,
+        1.6000001430511475
+      ],
+      [
+        -7.379000186920166,
+        0.025000009685754776,
+        1.9100000858306885
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 middle stage",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.430999755859375,
+        -0.03949999064207077,
+        1.842000126838684
+      ],
+      [
+        -7.373000144958496,
+        0.033500008285045624,
+        2.1020002365112305
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 upper stage",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.438499927520752,
+        -0.04849999025464058,
+        2.0435001850128174
+      ],
+      [
+        -7.365499973297119,
+        0.04250000789761543,
+        2.2685000896453857
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Underside side bracket",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.446000099182129,
+        -0.4710000157356262,
+        2.2545502185821533
+      ],
+      [
+        -7.357999801635742,
+        0.20900000631809235,
+        2.270550012588501
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 triangular stability brace",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.421000003814697,
+        -0.132716566324234,
+        2.144042730331421
+      ],
+      [
+        -7.382999897003174,
+        0.010716577991843224,
+        2.2679574489593506
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "C-frame steel foot.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.532999515533447,
+        -0.48151999711990356,
+        1.5820001363754272
+      ],
+      [
+        -6.4629998207092285,
+        0.21952001750469208,
+        1.6160000562667847
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Foot glide.002",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.526999473571777,
+        -0.4659999907016754,
+        1.5750000476837158
+      ],
+      [
+        -6.468999862670898,
+        -0.4259999692440033,
+        1.5859999656677246
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Foot glide.003",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.526999473571777,
+        0.164000004529953,
+        1.5750000476837158
+      ],
+      [
+        -6.468999862670898,
+        0.20399999618530273,
+        1.5859999656677246
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 lower slim stage.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.520999431610107,
+        -0.030999992042779922,
+        1.6000001430511475
+      ],
+      [
+        -6.474999904632568,
+        0.025000009685754776,
+        1.9100000858306885
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 middle stage.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.526999473571777,
+        -0.03949999064207077,
+        1.842000126838684
+      ],
+      [
+        -6.468999862670898,
+        0.033500008285045624,
+        2.1020002365112305
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 upper stage.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.534499645233154,
+        -0.04849999025464058,
+        2.0435001850128174
+      ],
+      [
+        -6.4614996910095215,
+        0.04250000789761543,
+        2.2685000896453857
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Underside side bracket.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.541999816894531,
+        -0.4710000157356262,
+        2.2545502185821533
+      ],
+      [
+        -6.4539995193481445,
+        0.20900000631809235,
+        2.270550012588501
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "V2 triangular stability brace.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.5169997215271,
+        -0.132716566324234,
+        2.144042730331421
+      ],
+      [
+        -6.478999614715576,
+        0.010716577991843224,
+        2.2679574489593506
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Hidden upper crossbar",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.404999732971191,
+        -0.03049999475479126,
+        2.198499917984009
+      ],
+      [
+        -6.494999885559082,
+        0.03450000286102295,
+        2.2634999752044678
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Two brushed nickel grommet covers",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -7.341999530792236,
+        0.09700001776218414,
+        2.314500093460083
+      ],
+      [
+        -7.257999897003174,
+        0.1810000091791153,
+        2.317499876022339
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Two brushed nickel grommet covers.001",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.6419997215271,
+        0.09700001776218414,
+        2.314500093460083
+      ],
+      [
+        -6.558000087738037,
+        0.1810000091791153,
+        2.317499876022339
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Height keypad",
+    "parent": "kept-uplift-desk",
+    "world_bounds_m": [
+      [
+        -6.679960250854492,
+        -0.5209999680519104,
+        2.2739999294281006
+      ],
+      [
+        -6.579959869384766,
+        -0.49299997091293335,
+        2.2980000972747803
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "U-base closed crossbar",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.793499946594238,
+        -0.47099998593330383,
+        1.5750000476837158
+      ],
+      [
+        -7.546500205993652,
+        -0.4009999930858612,
+        1.5989999771118164
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "U-base open prong",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.7935004234313965,
+        -0.44099998474121094,
+        1.5750000476837158
+      ],
+      [
+        -7.7144999504089355,
+        -0.003000006079673767,
+        1.5989999771118164
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "U-base open prong.001",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.625500202178955,
+        -0.44099998474121094,
+        1.5750000476837158
+      ],
+      [
+        -7.546499729156494,
+        -0.003000006079673767,
+        1.5989999771118164
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Slim rectangular upright",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.689499855041504,
+        -0.41999998688697815,
+        1.5989999771118164
+      ],
+      [
+        -7.650500297546387,
+        -0.3699999749660492,
+        3.5310001373291016
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Rotary dimming knob",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.649499893188477,
+        -0.4099999666213989,
+        2.619999885559082
+      ],
+      [
+        -7.638500213623047,
+        -0.3799999952316284,
+        2.6500000953674316
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Rectangular panel long rim",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.8140177726745605,
+        -0.545054018497467,
+        3.5134999752044678
+      ],
+      [
+        -7.796018123626709,
+        0.0650540143251419,
+        3.5435001850128174
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Rectangular panel long rim.001",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.543982028961182,
+        -0.545054018497467,
+        3.5134999752044678
+      ],
+      [
+        -7.52598237991333,
+        0.0650540143251419,
+        3.5435001850128174
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Rectangular panel end rim",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.798017978668213,
+        -0.545054018497467,
+        3.5134999752044678
+      ],
+      [
+        -7.541982173919678,
+        -0.5270540118217468,
+        3.5435001850128174
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Rectangular panel end rim.001",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.798017978668213,
+        0.04705401137471199,
+        3.5134999752044678
+      ],
+      [
+        -7.541982173919678,
+        0.0650540143251419,
+        3.5435001850128174
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Narrow parallel LED light bar",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.763999938964844,
+        -0.5245540142059326,
+        3.5154998302459717
+      ],
+      [
+        -7.72599983215332,
+        0.04455401003360748,
+        3.5264999866485596
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Narrow parallel LED light bar.001",
+    "parent": "kept-honeywell-02e-pro",
+    "world_bounds_m": [
+      [
+        -7.61400032043457,
+        -0.5245540142059326,
+        3.5154998302459717
+      ],
+      [
+        -7.576000213623047,
+        0.04455401003360748,
+        3.5264999866485596
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Triple thickness brown fleece base",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.8897199630737305,
+        -1.2793999910354614,
+        1.5750000476837158
+      ],
+      [
+        -7.290280342102051,
+        -0.7206000089645386,
+        1.6131000518798828
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::arched hollow condo wall",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.7893900871276855,
+        -1.3093900680541992,
+        1.6131000518798828
+      ],
+      [
+        -7.390610218048096,
+        -0.910610020160675,
+        1.9179000854492188
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Condo top plush cushion",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.7893900871276855,
+        -1.3093900680541992,
+        1.905400037765503
+      ],
+      [
+        -7.390610218048096,
+        -0.910610020160675,
+        1.9304001331329346
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Condo dark floor",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.772000312805176,
+        -1.2920000553131104,
+        1.6175999641418457
+      ],
+      [
+        -7.4079999923706055,
+        -0.9280000329017639,
+        1.6326000690460205
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch0-0",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.7429728507995605,
+        -1.193000078201294,
+        1.643465280532837
+      ],
+      [
+        -7.647027492523193,
+        -1.1069998741149902,
+        1.92653489112854
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch0-1",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.770727634429932,
+        -1.210727334022522,
+        1.9218082427978516
+      ],
+      [
+        -7.629272937774658,
+        -1.0692726373672485,
+        2.3081917762756348
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch0-2",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.769435405731201,
+        -1.1893372535705566,
+        2.2995083332061768
+      ],
+      [
+        -7.630565166473389,
+        -1.0406627655029297,
+        2.590492010116577
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch0-3",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.744377613067627,
+        -1.154349684715271,
+        2.583059310913086
+      ],
+      [
+        -7.630622386932373,
+        -1.03065025806427,
+        2.9369406700134277
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.736999988555908,
+        -1.191999912261963,
+        1.8760000467300415
+      ],
+      [
+        -7.64300012588501,
+        -1.1079999208450317,
+        1.974000096321106
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction.001",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.756999969482422,
+        -1.1719999313354492,
+        2.25600004196167
+      ],
+      [
+        -7.663000106811523,
+        -1.087999939918518,
+        2.3540000915527344
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction.002",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.736999988555908,
+        -1.1419999599456787,
+        2.5360000133514404
+      ],
+      [
+        -7.64300012588501,
+        -1.0579999685287476,
+        2.634000062942505
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch1-0",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.542673587799072,
+        -0.8776562809944153,
+        1.6181875467300415
+      ],
+      [
+        -7.422326564788818,
+        -0.7523437142372131,
+        1.8868125677108765
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch1-1",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.54958438873291,
+        -0.8945613503456116,
+        1.8823319673538208
+      ],
+      [
+        -7.420415878295898,
+        -0.7604386210441589,
+        2.1776678562164307
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch1-2",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.551161289215088,
+        -0.9306595325469971,
+        2.1674933433532715
+      ],
+      [
+        -7.438839435577393,
+        -0.784340500831604,
+        2.442506790161133
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction.003",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.5269999504089355,
+        -0.8619999885559082,
+        1.8359999656677246
+      ],
+      [
+        -7.433000087738037,
+        -0.777999997138977,
+        1.934000015258789
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction.004",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.5370001792907715,
+        -0.8769999742507935,
+        2.126000165939331
+      ],
+      [
+        -7.443000316619873,
+        -0.7929999828338623,
+        2.2240002155303955
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch2-0",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.7426910400390625,
+        -1.2315332889556885,
+        2.4901556968688965
+      ],
+      [
+        -7.667308807373047,
+        -1.0884666442871094,
+        2.61484432220459
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch2-1",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.74347448348999,
+        -1.3224706649780273,
+        2.56449031829834
+      ],
+      [
+        -7.661526203155518,
+        -1.1875293254852295,
+        2.6785097122192383
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction.005",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.756999969482422,
+        -1.2519999742507935,
+        2.5410001277923584
+      ],
+      [
+        -7.663000106811523,
+        -1.1679999828338623,
+        2.639000177383423
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch3-0",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.515226364135742,
+        -0.8494899868965149,
+        1.7395755052566528
+      ],
+      [
+        -7.441774368286133,
+        -0.7105099558830261,
+        1.9104245901107788
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Natural wood branch3-1",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.512502193450928,
+        -0.7669388055801392,
+        1.8767434358596802
+      ],
+      [
+        -7.442497730255127,
+        -0.6330611705780029,
+        2.023256540298462
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Organic branch junction.006",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.522000312805176,
+        -0.7820000052452087,
+        1.8459999561309814
+      ],
+      [
+        -7.428000450134277,
+        -0.6980000138282776,
+        1.944000005722046
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Top wicker basket woven horizontal cours",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.909590244293213,
+        -1.3095883131027222,
+        2.9439926147460938
+      ],
+      [
+        -7.460411548614502,
+        -0.8604116439819336,
+        3.0730252265930176
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Top wicker basket crossing wicker strand",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.909033298492432,
+        -1.3087704181671143,
+        2.942838191986084
+      ],
+      [
+        -7.460967063903809,
+        -0.8612295389175415,
+        3.0707976818084717
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Top wicker basket brown fleece cushion",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.804766654968262,
+        -1.2047665119171143,
+        2.947000026702881
+      ],
+      [
+        -7.56523323059082,
+        -0.9652334451675415,
+        2.997000217437744
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::High side wicker basket woven horizontal",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.885300159454346,
+        -1.5352977514266968,
+        2.651787519454956
+      ],
+      [
+        -7.504701614379883,
+        -1.1547023057937622,
+        2.763425350189209
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::High side wicker basket crossing wicker ",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.884744167327881,
+        -1.534531831741333,
+        2.650848865509033
+      ],
+      [
+        -7.505256175994873,
+        -1.155468225479126,
+        2.761183261871338
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "High side wicker basket brown fleece cushion",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.796249866485596,
+        -1.4462499618530273,
+        2.6549999713897705
+      ],
+      [
+        -7.59375,
+        -1.243749976158142,
+        2.705000162124634
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Low side wicker basket woven horizontal ",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.675300121307373,
+        -0.8452976942062378,
+        2.0057873725891113
+      ],
+      [
+        -7.29470157623291,
+        -0.4647022485733032,
+        2.1174254417419434
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Low side wicker basket crossing wicker s",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.674744129180908,
+        -0.844531774520874,
+        2.0048489570617676
+      ],
+      [
+        -7.2952561378479,
+        -0.46546822786331177,
+        2.1151833534240723
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Low side wicker basket brown fleece cushion",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.586249828338623,
+        -0.7562499046325684,
+        2.008999824523926
+      ],
+      [
+        -7.383749961853027,
+        -0.5537499785423279,
+        2.059000015258789
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Brown fleece suspended bowl hammock",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.788000106811523,
+        -1.1579999923706055,
+        2.2750000953674316
+      ],
+      [
+        -7.392000198364258,
+        -0.7619999647140503,
+        2.4086523056030273
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Thick fleece hammock rim",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.804000377655029,
+        -1.1740000247955322,
+        2.38700008392334
+      ],
+      [
+        -7.376012325286865,
+        -0.7459999918937683,
+        2.4190001487731934
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Sisal rope winding",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.736608028411865,
+        -1.198836326599121,
+        1.9518836736679077
+      ],
+      [
+        -7.640402317047119,
+        -1.1011534929275513,
+        2.108598470687866
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Sisal rope winding.001",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.746608257293701,
+        -1.1788463592529297,
+        2.341883659362793
+      ],
+      [
+        -7.650400161743164,
+        -1.0811545848846436,
+        2.5084879398345947
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Sisal rope winding.002",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.526608943939209,
+        -0.8688459992408752,
+        1.6218836307525635
+      ],
+      [
+        -7.430403232574463,
+        -0.7711535692214966,
+        1.818591833114624
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Hanging pom-pom cord",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.58650016784668,
+        -1.0862990617752075,
+        2.7850000858306885
+      ],
+      [
+        -7.583500385284424,
+        -1.0837010145187378,
+        2.945000171661377
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Brown play ball",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.610000133514404,
+        -1.1100000143051147,
+        2.740000009536743
+      ],
+      [
+        -7.559999942779541,
+        -1.0600000619888306,
+        2.7900002002716064
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Hanging pom-pom cord.001",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.596499919891357,
+        -1.3462990522384644,
+        2.493000030517578
+      ],
+      [
+        -7.593500137329102,
+        -1.3437010049819946,
+        2.6529998779296875
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Brown play ball.001",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.62000036239624,
+        -1.3700000047683716,
+        2.447999954223633
+      ],
+      [
+        -7.570000171661377,
+        -1.3200000524520874,
+        2.498000144958496
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "kept-muttros-cat-tree::Hanging pom-pom cord.002",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.386500358581543,
+        -0.6562989950180054,
+        1.8470001220703125
+      ],
+      [
+        -7.383500099182129,
+        -0.6537009477615356,
+        2.006999969482422
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "Brown play ball.002",
+    "parent": "kept-muttros-cat-tree",
+    "world_bounds_m": [
+      [
+        -7.410000324249268,
+        -0.6799999475479126,
+        1.8020000457763672
+      ],
+      [
+        -7.360000133514404,
+        -0.6299999952316284,
+        1.8519999980926514
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "branch-pro-task-chair-1::Mesh_0",
+    "parent": "branch-pro-task-chair-1",
+    "world_bounds_m": [
+      [
+        -7.138394832611084,
+        -1.1827495098114014,
+        1.5750000476837158
+      ],
+      [
+        -6.50160551071167,
+        -0.5172504782676697,
+        2.555281639099121
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "branch-pro-task-chair-1::Back | Plane001",
+    "parent": "branch-pro-task-chair-1",
+    "world_bounds_m": [
+      [
+        -7.045292377471924,
+        -1.0466125011444092,
+        1.9691826105117798
+      ],
+      [
+        -6.594671249389648,
+        -0.908301591873169,
+        2.556027889251709
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "branch-pro-task-chair-2::Mesh_0",
+    "parent": "branch-pro-task-chair-2",
+    "world_bounds_m": [
+      [
+        -5.718394756317139,
+        -1.1327495574951172,
+        1.5750000476837158
+      ],
+      [
+        -5.081605434417725,
+        -0.46725043654441833,
+        2.555281639099121
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  },
+  {
+    "name": "branch-pro-task-chair-2::Back | Plane001",
+    "parent": "branch-pro-task-chair-2",
+    "world_bounds_m": [
+      [
+        -5.6252923011779785,
+        -0.996612548828125,
+        1.9691826105117798
+      ],
+      [
+        -5.174671173095703,
+        -0.85830157995224,
+        2.556027889251709
+      ]
+    ],
+    "role": "furniture",
+    "collection": "His Office \u2014 kept products and two Branch task chairs"
+  }
+]

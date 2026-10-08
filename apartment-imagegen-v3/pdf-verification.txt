@@ -1,0 +1,9 @@
+PDF: Amy-design-generated-images.pdf
+Pages: 12
+Source attachments: 19
+One final generated image per page, with target model and Amy board references below.
+Original image pixels are unchanged; PDF display uses proportional scaling without cropping.
+All attached source bytes match their original SHA-256 fingerprints.
+Rejected first attempts are excluded. Final image QA was read and attached.
+The concepts do not verify dimensions. Room-specific uncertainties remain visible on the pages.
+SHA-256: 56b5414b2cd5782d1249f46c572dfa1d7e389513d7f8b667b069755751baf09d

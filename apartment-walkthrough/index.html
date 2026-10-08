@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#182c27">
+  <link rel="icon" href="data:,">
+  <title>Apartment · Spatial review</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+</head>
+<body>
+  <main id="app">
+    <div id="viewport" tabindex="0" aria-label="Interactive apartment model"></div>
+    <div id="loading" role="status"><div class="loader"></div><strong>Opening your apartment</strong><span id="load-detail">Loading the original scan…</span></div>
+    <header><div class="brand"><span class="brand-symbol">⌂</span><div><h1>Apartment</h1><p>Spatial review</p></div></div><div class="toolbar"><button id="reset" title="Reset to the overview">Overview</button><button id="capture" title="Download this view">Save view</button></div></header>
+    <aside id="panel">
+      <div class="panel-top"><p class="eyebrow">EXPLORE THE SPACE</p><h2 id="area-name">Whole apartment</h2><p id="area-description">The recorded geometry, with separate repair and furniture layers.</p></div>
+      <div class="control-section"><label class="control-label" for="floor">Floor</label><select id="floor"><option value="upper">Upstairs</option><option value="basement">Basement</option><option value="all">Both floors</option></select><label class="control-label" for="room">Go to a room</label><select id="room"><option value="">Floor overview</option></select><p id="room-dimensions" class="quiet"></p></div>
+      <div class="control-section"><span class="control-label">View</span><div class="segmented" role="group" aria-label="Navigation mode"><button id="orbit-mode" class="active">Orbit</button><button id="walk-mode">Walk</button></div><p id="navigation-hint" class="quiet">Drag to orbit · scroll to zoom · right-drag to pan</p><label id="cutaway-row"><span>Wall cutaway <output id="cutaway-value">1.5 m</output></span><input id="cutaway" type="range" min="0.6" max="2.8" value="1.5" step="0.1" aria-label="Wall cutaway height in orbit view"></label></div>
+      <div class="control-section"><span class="control-label">Model layers</span><label class="check-row"><input type="checkbox" id="architecture" checked><span><strong>Measured shell</strong><small>Rooms reconstructed from the scan</small></span><i class="swatch furniture-swatch"></i></label><label class="check-row"><input type="checkbox" id="scan"><span><strong>Recorded scan</strong><small>The untouched Polycam geometry</small></span><i class="swatch scan-swatch"></i></label><label class="check-row"><input type="checkbox" id="repairs"><span><strong>Filled gaps</strong><small>Inferred surfaces from surrounding evidence</small></span><i class="swatch repair-swatch"></i></label><label class="check-row"><input type="checkbox" id="furniture" checked><span><strong>Furniture layout</strong><small>Amy’s arrangement in the same scale</small></span><i class="swatch furniture-swatch"></i></label><label class="check-row compact"><input type="checkbox" id="highlight"><span>Highlight inferred surfaces</span></label><label class="check-row compact"><input type="checkbox" id="grid"><span>One metre reference grid</span></label></div>
+      <div class="control-section"><details><summary>Comparisons &amp; incomplete areas</summary><label class="check-row compact"><input type="checkbox" id="entry" checked><span>Entry design — provisional placement</span></label><label class="check-row compact"><input type="checkbox" id="dresser" checked><span>Include proposed dresser (tight fit)</span></label><p class="quiet" id="dresser-note">Bedroom foot clearance is approximately 0.47 m with Amy’s dresser.</p><label class="check-row compact"><input type="checkbox" id="fixtures" checked><span>Observed existing fixtures</span></label><label class="check-row compact"><input type="checkbox" id="utilities"><span>Unrecorded utility outlines</span></label><p class="quiet">Utility interiors are inferred from the listing only and remain unverified.</p></details></div>
+      <div class="model-note"><strong>Geometry comes first.</strong><p>Recorded room sizes are preserved. Filled gaps and furniture are editable approximations; their status remains visible in the model.</p><p id="model-status">Loading layers…</p></div>
+    </aside>
+    <button id="panel-toggle" aria-label="Show model controls" aria-expanded="true">☰</button>
+    <div id="map-card"><div class="map-title"><span id="map-label">UPSTAIRS</span><span>m</span></div><canvas id="map" width="600" height="220" aria-label="Apartment plan and camera location"></canvas><div class="map-legend"><span><i></i> Your viewpoint</span><span>Same coordinates as the model</span></div></div>
+    <div id="walk-help"><span>Click the view to look around</span><small>W A S D / arrow keys to move · Shift for faster movement · Esc releases mouse</small><button id="enter-walk">Enter walk mode</button></div>
+    <div id="touch-pad"><button data-move="forward" aria-label="Move forward">↑</button><div><button data-move="left" aria-label="Move left">←</button><button data-move="back" aria-label="Move back">↓</button><button data-move="right" aria-label="Move right">→</button></div></div>
+    <div id="crosshair"></div>
+    <div id="clearance-warning" hidden>Bedroom · approximately 0.47 m bed-to-dresser clearance</div>
+    <div id="position"><span class="status-dot"></span><span id="position-text">Scan scale · metres</span></div>
+    <div id="toast" role="status"></div>
+  </main>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

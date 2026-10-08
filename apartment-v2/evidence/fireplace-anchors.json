@@ -1,0 +1,39 @@
+{
+  "source": "Original raw scan orthographic render; image geometry scale known. Blender XY meters.",
+  "his": {
+    "center_xy": [
+      -5.31,
+      -2.79
+    ],
+    "camera_xyz": [
+      -5.55,
+      -0.7,
+      3.05
+    ],
+    "ortho_width_m": 5.4,
+    "image_width_px": 1600,
+    "opening_center_u_px": 729,
+    "opening_width_m": 0.62,
+    "recess_white_surface_y_median": -2.8299
+  },
+  "her": {
+    "center_xy": [
+      5.61,
+      -2.79
+    ],
+    "camera_xyz": [
+      5.85,
+      0,
+      3.05
+    ],
+    "ortho_width_m": 4.9,
+    "image_width_px": 1600,
+    "opening_center_u_px": 880,
+    "opening_width_m": 0.82,
+    "recess_white_surface_y_median": -2.9251,
+    "chimney_front_y_m_mode": -2.69,
+    "hearth_lip_note": "Raw floor-level stone lip nearX6.31,Y\u22122.34,Z1.63 slightly overlaps pre-shift loveseat diagonal corner; shift+.08mY requested. Lip depth varies acrossX; do not extrapolate frontY\u22122.34 uniformly across wholefireplace."
+  },
+  "formula": "X = cameraX + orthoWidth/2 - imageU*orthoWidth/imageWidth (camera faces -Y).",
+  "confidence": "Fireplace centers within~0.05m visually; widths approximate; no physical measurement."
+}

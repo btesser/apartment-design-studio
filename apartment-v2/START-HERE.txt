@@ -1,0 +1,47 @@
+APARTMENT DESIGN MODEL — REVISED GEOMETRY REVIEW
+
+Open apartment-walkthrough.html in a recent desktop browser with WebGL.
+The standalone viewer embeds its assets and works offline. Choose a room,
+then use Orbit to inspect it or Walk to move through it. W/A/S/D move;
+Escape releases the mouse. Save view exports a PNG.
+
+This model replaces the earlier image-generated room samples for geometry
+and furniture placement. All new images use the same fixed 3D scene.
+
+MODEL LAYERS
+Measured shell: a simplified architectural reconstruction in the original
+Polycam metre coordinate frame, with doors/windows retained.
+Furniture: dimensioned visual proxies from Amy Wu's proposal and shopping
+list. Shapes and decorative details are approximate.
+Recorded scan: the original capture, including recording artifacts.
+Filled gaps: inferred surface continuations; these can be highlighted.
+
+EVIDENCE AND LIMITS
+The original Polycam capture was not rescaled to match the schematic.
+Amy's plan was registered by doors, closets, windows and fireplaces.
+Listing dimensions are approximate. Her office's short dimension differs
+by about 13% between listing and scan; the model preserves the scan.
+Generalized wall outlines have an estimated 0.05–0.12 m uncertainty.
+Existing upstairs sofa and standing-desk dimensions are estimates.
+The king bed retailer exposes inconsistent variant fields; a conservative
+king-size envelope is used and marked for confirmation.
+The proposed curtain divider is movable, not an existing measured wall.
+Its rail height is modeled conservatively below the low beam; the selected
+full curtain length needs field fitting. Entry furnishing locations are
+provisional because Amy supplied products but no positions for that area.
+The nearly 3 m dresser leaves about 0.47 m at the foot of the bed in the
+modeled proposal. Toggle it off to compare circulation. It was not shrunk
+to make the layout look more spacious.
+Unrecorded lower utility interiors are identified as inferred or missing.
+Surface repairs are visual reconstructions, not a survey or construction
+specification. Verify tight fits and opening sizes in the apartment.
+
+SOURCES
+Amy Wu, Uploft: reveal email and room design boards, 7 October 2026;
+revised layout email, 21 September 2026.
+Polycam: 8_21_2026.zip / 8_21_2026.glb.
+https://drive.google.com/file/d/1Kw1KSS0f-Yv-lm1ypV5Ugl1TLxmzoxfU/view
+Shopping list:
+https://docs.google.com/spreadsheets/d/1GEfF1a9UWdcgt-Wd10g8ZLfjmbfrGezbF-TfW6TLupI/edit
+Approximate dimensioned listing floor plan, supplied in the email thread.
+Product-dimensions.json records the retailer links and specification caveats.

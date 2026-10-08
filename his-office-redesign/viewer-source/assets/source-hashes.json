@@ -1,0 +1,17 @@
+{
+  "shell": {
+    "file": "his-office-shell.glb",
+    "bytes": 739764,
+    "sha256": "11ed88b2993bcf7fc1ccf1257e83e7934338b1fd5840de880071fe069ca19a9c"
+  },
+  "doors": {
+    "file": "his-office-door-leaves.glb",
+    "bytes": 167392,
+    "sha256": "360b7c57d4fc45a75cb74830a539392ef700648e60dad3d42f534ee39f66d3ec"
+  },
+  "furniture": {
+    "file": "his-office-furniture.glb",
+    "bytes": 15956032,
+    "sha256": "fe9cea9df2e569a3e727f3d4252c35649ab1eacec6c576322ac2bc1f046d96b6"
+  }
+}

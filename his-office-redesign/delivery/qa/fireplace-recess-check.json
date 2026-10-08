@@ -1,0 +1,246 @@
+{
+  "source_file": "/workspace/his-office-redesign/model/his-office-design.blend",
+  "source_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "method": "Read-only evaluated architecture/fixed-fixture mesh BVH rays from room toward brick wall;10 points within the arch plus3 outside test first visible surfaces.",
+  "expected_recess_depth_m": 0.113,
+  "all_cases_pass": true,
+  "cases": [
+    {
+      "ray_origin_blender_m": [
+        -5.534999847412109,
+        -2.0,
+        1.75
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.534999847412109,
+          -2.8350000381469727,
+          1.75
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.534999847412109,
+        -2.0,
+        2.0999999046325684
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.534999847412109,
+          -2.8350000381469727,
+          2.0999999046325684
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.534999847412109,
+        -2.0,
+        2.319999933242798
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.534999847412109,
+          -2.8350000381469727,
+          2.319999933242798
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.315000057220459,
+        -2.0,
+        1.75
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.315000057220459,
+          -2.8350000381469727,
+          1.75
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.315000057220459,
+        -2.0,
+        2.0999999046325684
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.315000057220459,
+          -2.8350000381469727,
+          2.0999999046325684
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.315000057220459,
+        -2.0,
+        2.319999933242798
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.315000057220459,
+          -2.8350000381469727,
+          2.319999933242798
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.09499979019165,
+        -2.0,
+        1.75
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.09499979019165,
+          -2.8350000381469727,
+          1.75
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.09499979019165,
+        -2.0,
+        2.0999999046325684
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.09499979019165,
+          -2.8350000381469727,
+          2.0999999046325684
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.09499979019165,
+        -2.0,
+        2.319999933242798
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.09499979019165,
+          -2.8350000381469727,
+          2.319999933242798
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.315000057220459,
+        -2.0,
+        2.430000066757202
+      ],
+      "expected_first_object": "Observed recessed white arched fireplace infill",
+      "expected_surface_y_m": -2.835,
+      "actual_first_hit": {
+        "object": "Observed recessed white arched fireplace infill",
+        "point_blender_m": [
+          -5.315000057220459,
+          -2.8350000381469727,
+          2.430000066757202
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.690000057220459,
+        -2.0,
+        2.0199999809265137
+      ],
+      "expected_first_object": "Observed brick chimney projection",
+      "expected_surface_y_m": -2.722,
+      "actual_first_hit": {
+        "object": "Observed brick chimney projection",
+        "point_blender_m": [
+          -5.690000057220459,
+          -2.7219998836517334,
+          2.0199999809265137
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -4.940000057220459,
+        -2.0,
+        2.0199999809265137
+      ],
+      "expected_first_object": "Observed brick chimney projection",
+      "expected_surface_y_m": -2.722,
+      "actual_first_hit": {
+        "object": "Observed brick chimney projection",
+        "point_blender_m": [
+          -4.940000057220459,
+          -2.7219998836517334,
+          2.0199999809265137
+        ]
+      },
+      "pass": true
+    },
+    {
+      "ray_origin_blender_m": [
+        -5.315000057220459,
+        -2.0,
+        2.5299999713897705
+      ],
+      "expected_first_object": "Observed brick chimney projection",
+      "expected_surface_y_m": -2.722,
+      "actual_first_hit": {
+        "object": "Observed brick chimney projection",
+        "point_blender_m": [
+          -5.315000057220459,
+          -2.7219998836517334,
+          2.5299999713897705
+        ]
+      },
+      "pass": true
+    }
+  ],
+  "limits": [
+    "Tests repaired proxy topology and measured plane offsets, not exact raw arch curve or masonry detailing. Numerical tolerance is model verification, not site measurement accuracy."
+  ]
+}

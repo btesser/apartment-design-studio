@@ -1,0 +1,1555 @@
+[
+  {
+    "row": 1,
+    "values": [
+      "Makeover Shopping List",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 2,
+    "values": [
+      "Room",
+      "Item",
+      "Store",
+      "Specs",
+      "Quantity",
+      "Retail Price (Not Promotional or Sale Pricing)",
+      "Price (Discount/Taxes/Shipping Not Included)",
+      "Designer Discount",
+      "Total\nDiscount",
+      "Price with Shopping Service Discount",
+      "Approved for Uploft to Order",
+      "Sale/Trade Price",
+      "Designer Notes"
+    ],
+    "links": {}
+  },
+  {
+    "row": 3,
+    "values": [
+      "THIS ROW SHOULD BE HIDDEN. PLEASE DO NOT DELETE FORMULAE",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f0e00114830>",
+      "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f0e00115070>",
+      "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f0e001150a0>",
+      "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f0e00114800>",
+      null,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 4,
+    "values": [
+      "ENTRYWAY",
+      "ENTRY CONSOLE",
+      "WAYFAIR",
+      "GOLD",
+      1.0,
+      131.99,
+      131.99,
+      0.0,
+      0.0,
+      131.99,
+      false,
+      131.99,
+      null
+    ],
+    "links": {
+      "B4": "https://www.wayfair.com/furniture/pdp/wade-logan-lovett-22-console-table-w009247541.html?piid=1248255057"
+    }
+  },
+  {
+    "row": 5,
+    "values": [
+      null,
+      "MIRROR ABOVE CONSOLE",
+      "WAYFAIR",
+      "24\" X 16\"",
+      1.0,
+      114.99,
+      114.99,
+      0.0,
+      0.0,
+      114.99,
+      false,
+      66.99,
+      null
+    ],
+    "links": {
+      "B5": "https://www.wayfair.com/home/pdp/orren-ellis-aevar-tempered-glass-and-beveled-french-cleat-mounted-wall-mirror-w121018651.html?piid=929903030"
+    }
+  },
+  {
+    "row": 6,
+    "values": [
+      null,
+      "PAINT COLOR (CONSOLE WALL) OPTION 1",
+      "BENJAMIN MOORE",
+      "CONCH SHELL, REGAL SELECT, FLAT OR EGGSHELL",
+      null,
+      null,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      "ORDER SAMPLE"
+    ],
+    "links": {
+      "B6": "https://samplize.com/products/conch-shell-052-12x12"
+    }
+  },
+  {
+    "row": 7,
+    "values": [
+      null,
+      "PAINT COLOR (CONSOLE WALL) OPTION 2",
+      "BENJAMIN MOORE",
+      "HIDDEN SAPPHIRE, REGAL SELECT, FLAT OR EGGSHELL",
+      null,
+      null,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      "ORDER SAMPLE"
+    ],
+    "links": {
+      "B7": "https://samplize.com/products/hidden-sapphire-csp-690-12x12"
+    }
+  },
+  {
+    "row": 8,
+    "values": [
+      null,
+      "WALLPAPER OPTION 1",
+      "PERIGOLD",
+      null,
+      null,
+      3.58,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B8": "https://www.perigold.com/decor/pdp/galerie-wallcoverings-galerie-collection-metallic-gold-marble-wallpaper-roll-p001580734.html"
+    }
+  },
+  {
+    "row": 9,
+    "values": [
+      null,
+      "WALLPAPER OPTION 2",
+      "PERIGOLD",
+      null,
+      null,
+      null,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B9": "https://www.perigold.com/decor/pdp/seabrook-designs-vining-beauty-metallized-polyester-unpasted-wall-mural-p100352095.html"
+    }
+  },
+  {
+    "row": 10,
+    "values": [
+      null,
+      "WALLPAPER OPTION 3",
+      "PERIGOLD",
+      "BLUSH/ROSE GOLD",
+      null,
+      2.98,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      "OR GREEN"
+    ],
+    "links": {
+      "B10": "http://perigold.com/decor/pdp/graham-brown-betula-328084-l-x-204724-w-smooth-wallpaper-roll-p000747412.html?piid=41342769"
+    }
+  },
+  {
+    "row": 11,
+    "values": [
+      null,
+      "SHOE CLOSET",
+      "WAYFAIR",
+      "NATURAL WOOD",
+      1.0,
+      179.99,
+      179.99,
+      0.0,
+      0.0,
+      179.99,
+      false,
+      109.99,
+      null
+    ],
+    "links": {
+      "B11": "https://www.wayfair.com/storage-organization/pdp/bay-isle-home-rubenstein-modern-rattan-18-pair-shoe-storage-cabinet-w100191469.html?piid=1573850628"
+    }
+  },
+  {
+    "row": 12,
+    "values": [
+      null,
+      "RUG (ENTRY AREA)",
+      "RUGGABLE",
+      "BOHO RED, 2' X 3', FLATWOVEN",
+      1.0,
+      89.0,
+      89.0,
+      0.2,
+      17.8,
+      71.2,
+      false,
+      66.75,
+      null
+    ],
+    "links": {
+      "B12": "https://ruggable.com/products/patchwork-boho?size=2x3&system=rug-sys"
+    }
+  },
+  {
+    "row": 13,
+    "values": [
+      null,
+      "COAT HOOKS",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 14,
+    "values": [
+      null,
+      "ART (STAIRS)",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 15,
+    "values": [
+      "UPSTAIRS LIVING ROOM",
+      "MEDIA CONSOLE",
+      "WAYFAIR",
+      "WHITE, 21.7\" H X 68.9\" W X 15.7\" D",
+      1.0,
+      199.99,
+      199.99,
+      0.0,
+      0.0,
+      199.99,
+      false,
+      159.99,
+      null
+    ],
+    "links": {
+      "B15": "https://www.wayfair.com/furniture/pdp/latitude-run-modern-solid-and-manufactured-wood-tv-stand-for-tvs-up-to-80-w112517414.html?piid=873269667%2C892549975"
+    }
+  },
+  {
+    "row": 16,
+    "values": [
+      null,
+      "RUG (UPSTAIRS LIVING AREA)",
+      "RUGGABLE",
+      "BROWN & PINK, 9' X 12'",
+      1.0,
+      1069.0,
+      1069.0,
+      0.2,
+      213.8,
+      855.2,
+      false,
+      801.75,
+      null
+    ],
+    "links": {
+      "B16": "https://ruggable.com/products/ari-natural-multicolor-tufted-rug?size=9x12&system=rug-cvr"
+    }
+  },
+  {
+    "row": 17,
+    "values": [
+      null,
+      "COFFEE TABLE",
+      "WAYFAIR",
+      null,
+      1.0,
+      629.0,
+      629.0,
+      0.0,
+      0.0,
+      629.0,
+      false,
+      559.99,
+      null
+    ],
+    "links": {
+      "B17": "https://www.wayfair.com/furniture/pdp/ivy-bronx-rudina-modern-nesting-coffee-table-set-oval-wood-double-leg-design-minimalist-style-living-room-tables-for-office-lounge-w111872399.html"
+    }
+  },
+  {
+    "row": 18,
+    "values": [
+      null,
+      "ART (ABOVE SOFA)",
+      "ETSY",
+      "80 X 60 (203 X 153CM), GOLD FRAME STRETCH",
+      0.0,
+      3797.25,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B18": "https://www.etsy.com/listing/4463313962/vibrant-abstract-landscape-oil-painting?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=PINK+ABSTRACT+ART&ref=sc_gallery-1-5&sr_prefetch=1&pf_from=search&pro=1&frs=1&cns=1&sts=1&plkey=Eu0fRn5zLTSIV_ZLIzI1BU9b2196%3ALT5405a740f7a19819657f1a841e177b6dced5e9da&variation0=6348404592&variation1=6344202707"
+    }
+  },
+  {
+    "row": 19,
+    "values": [
+      null,
+      "ART (ABOVE SOFA) OPTION 2",
+      "ETSY",
+      "81 X 60 (203 X 153CM), GOLD FRAME STRETCH",
+      1.0,
+      3821.24,
+      3821.24,
+      0.0,
+      0.0,
+      3821.24,
+      false,
+      2101.68,
+      null
+    ],
+    "links": {
+      "B19": "https://www.etsy.com/listing/4543196401/textured-abstract-floral-oil-painting?ls=a&ref=rlp-ads-listing-grid-8&external=1&sr_prefetch=1&pf_from=rlp&pro=1&frs=1&sts=1&plkey=Eub8hVJxKGkZUAh8INS5ny1Tl690%3ALT2b8e2344c62ae8974fdea427f3308dd3530b26cd&variation0=6889111406&variation1=6889111394"
+    }
+  },
+  {
+    "row": 20,
+    "values": [
+      null,
+      "SCONCES",
+      "WEST ELM",
+      "SET OF 2",
+      1.0,
+      298.0,
+      298.0,
+      0.2,
+      59.6,
+      238.4,
+      false,
+      238.4,
+      null
+    ],
+    "links": {
+      "B20": "https://www.westelm.com/products/anais-plug-in-sconce-h13352/?catalogId=71&sku=9972772&pickuplocation=ST:%7Bstore_code%7D&cm_ven=PLA&cm_cat=Google&cm_pla=Lighting%20%3E%20Sconces&cm_ite=9972772_14465514686_pla-545093792091&cm_ven=PLA&cm_cat=Google&gad_source=1&gad_campaignid=14465514686&gbraid=0AAAAABjYLmnBjHFIRGWLqcCDDq0fptjem&gclid=Cj0KCQjwzsjVBhC3ARIsALnMv4m3dM2TwBsARL4wmv6KdxEoqtT6VTpkIkHehbUqjixsPQAbitW-s2AaAu-rEALw_wcB"
+    }
+  },
+  {
+    "row": 21,
+    "values": [
+      null,
+      "SIDE TABLES",
+      "WAYFAIR",
+      "WHITE/GOLD",
+      2.0,
+      101.99,
+      203.98,
+      0.0,
+      0.0,
+      203.98,
+      false,
+      189.98,
+      null
+    ],
+    "links": {
+      "B21": "https://www.wayfair.com/furniture/pdp/willa-arlo-interiors-rochdale-round-end-table-with-modern-style-w011349023.html?piid=1778932230"
+    }
+  },
+  {
+    "row": 22,
+    "values": [
+      null,
+      "THROW PILLOW SET 1",
+      "ETSY",
+      "20 X 20 INCH",
+      2.0,
+      80.78,
+      161.56,
+      0.0,
+      0.0,
+      161.56,
+      false,
+      96.78,
+      null
+    ],
+    "links": {
+      "B22": "https://www.etsy.com/listing/4519619502/pink-velvet-pillow-with-crane-embroidery?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=PINK+AND+GOLD+THROW+PILLOW&ref=sr_gallery-1-17&sr_prefetch=1&pf_from=search&pro=1&frs=1&content_source=73474d75-8c70-4ac3-a172-01e8d97c2532%253ALT614d5ac2499083fbfa264026196edafc92d405af&organic_search_click=1&logging_key=73474d75-8c70-4ac3-a172-01e8d97c2532%3ALT614d5ac2499083fbfa264026196edafc92d405af&variation0=6706810231"
+    }
+  },
+  {
+    "row": 23,
+    "values": [
+      null,
+      "THROW PILLOW SET 2",
+      "ETSY",
+      "14X24 WHITE BACK, XL LIGHTPINK PIPING, QUANTITY 2",
+      1.0,
+      148.0,
+      148.0,
+      0.0,
+      0.0,
+      148.0,
+      false,
+      133.2,
+      null
+    ],
+    "links": {
+      "B23": "https://www.etsy.com/listing/1777350764/danika-herrick-pink-vines-floral-pillow?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=PINK+AND+WHITE+THROW+PILLOW&ref=sc_gallery-1-5&sr_prefetch=1&pf_from=search&pro=1&bes=1&sts=1&plkey=EukqlPqUSnn4aKhajshR-5mCW1b5%3ALT89992a6512bf533c2198ae804a5f268c12fe6801"
+    }
+  },
+  {
+    "row": 24,
+    "values": [
+      null,
+      "THROW BLANKET",
+      "COMFRT",
+      "AMETHYST TIGER, MEGA DREAMER",
+      1.0,
+      259.0,
+      259.0,
+      "0%",
+      0.0,
+      259.0,
+      false,
+      129.0,
+      null
+    ],
+    "links": {
+      "B24": "https://comfrt.com/products/the-dreamer-blanket?variant=46183673659436"
+    }
+  },
+  {
+    "row": 25,
+    "values": [
+      "HER OFFICE",
+      "PAX",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 26,
+    "values": [
+      null,
+      "MAKEUP VANITY",
+      "WAYFAIR",
+      "NATURAL OAK",
+      1.0,
+      380.0,
+      380.0,
+      0.0,
+      0.0,
+      380.0,
+      false,
+      380.0,
+      null
+    ],
+    "links": {
+      "B26": "https://www.wayfair.com/furniture/pdp/latitude-run-48-modern-makeup-vanity-desk-with-mirror-and-lights-makeup-vanity-with-9-drawers-with-power-outletadjustable-lighting-dressing-table-for-bedroom-w116479040.html?piid=869812254"
+    }
+  },
+  {
+    "row": 27,
+    "values": [
+      null,
+      "MAKEUP VANITY OPTION 2",
+      "HOMARY",
+      "MATTE WARM WHITE",
+      0.0,
+      819.99,
+      0.0,
+      "0%",
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B27": "https://www.homary.com/lditem/551-modern-offwhite-curved-desk-3drawers-wooden-home-office-desk-double-pedestal-43732.html?currency=usd&language=en&country_code=us&utm_source=google&utm_medium=cpc&utm_campaign=PLA-US-Desk-High-tina&utm_content=tina&utm_term=22787078550&gad_source=1&gad_campaignid=22787078550&gbraid=0AAAAADKz_E4OsbyAHY7YgVFAVSkfzTT_S&gclid=Cj0KCQjwzsjVBhC3ARIsALnMv4lDOMTSx32KO_iDFEh8Qde_qBT8HcuHAtwBUmtZHnGmBVdhn8I8hq8aAti2EALw_wcB"
+    }
+  },
+  {
+    "row": 28,
+    "values": [
+      null,
+      "MAKEUP MIRROR",
+      "WAYFAIR",
+      "32\" X 22\"",
+      1.0,
+      199.99,
+      199.99,
+      0.0,
+      0.0,
+      199.99,
+      false,
+      124.99,
+      null
+    ],
+    "links": {
+      "B28": "https://www.wayfair.com/home/pdp/orren-ellis-brodowsky-led-bathroom-vanity-mirrors-dimmable-vanity-mirror-with-1-year-warranty-w100775083.html?piid=1282369959%2C1282369977&auctionId=11111b70-3225-4100-bae8-b2d9fcf52962&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%2211111b70-3225-4100-bae8-b2d9fcf52962%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 29,
+    "values": [
+      null,
+      "CHAIR",
+      "WAYFAIR",
+      "LIGHT PINK ",
+      1.0,
+      202.99,
+      202.99,
+      0.0,
+      0.0,
+      202.99,
+      false,
+      174.99,
+      null
+    ],
+    "links": {
+      "B29": "https://www.wayfair.com/furniture/pdp/george-oliver-velvet-vanity-chair-with-wheels-adjustable-height-360-swivel-home-office-desk-task-chair-with-gold-metal-base-300-lb-capacity-w122518572.html?piid=1756991290"
+    }
+  },
+  {
+    "row": 30,
+    "values": [
+      null,
+      "CHEST OF DRAWERS",
+      "WAYFAIR",
+      "WHITE",
+      1.0,
+      399.99,
+      399.99,
+      0.0,
+      0.0,
+      399.99,
+      false,
+      245.99,
+      null
+    ],
+    "links": {
+      "B30": "https://www.wayfair.com/furniture/pdp/mercer41-8-drawer-double-dresser-55-w-arqi1019.html?piid=101271668&auctionId=f60892cc-e9d9-4f6e-94ab-00a230e6c952&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%22f60892cc-e9d9-4f6e-94ab-00a230e6c952%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 31,
+    "values": [
+      null,
+      "ART (BETWEEN WINDOWS)",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 32,
+    "values": [
+      null,
+      "TWIN SLEEPER / LOVESEAT OPTION 1",
+      "WAYFAIR",
+      "IVORY VELVET",
+      1.0,
+      799.0,
+      799.0,
+      0.0,
+      0.0,
+      799.0,
+      false,
+      329.99,
+      null
+    ],
+    "links": {
+      "B32": "https://www.wayfair.com/furniture/pdp/etta-avenue-hendrix-velvet-flared-arm-loveseat-w005597633.html?piid=91143980&auctionId=5d35fb61-c517-4da4-ad8a-2dc756f85937&trackingId=%7B%22adType%22:%22WSP%22,%22auctionId%22:%225d35fb61-c517-4da4-ad8a-2dc756f85937%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 33,
+    "values": [
+      null,
+      "TWIN SLEEPER / LOVESEAT OPTION 2",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 34,
+    "values": [
+      null,
+      "TWIN SLEEPER / LOVESEAT OPTION 2",
+      "WAYFAIR",
+      "TANNISH GRAY LINEN",
+      0.0,
+      709.99,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B34": "https://www.wayfair.com/furniture/pdp/ebern-designs-vadims-485-linen-square-arm-sleeper-w110530038.html?piid=1009476406&auctionId=0bc8cb9b-6cb0-44c4-82e2-a653c41c76c2&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%220bc8cb9b-6cb0-44c4-82e2-a653c41c76c2%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 35,
+    "values": [
+      null,
+      "MINI CHANDELIER",
+      "WAYFAIR",
+      "POLISHED BRASS",
+      1.0,
+      1199.0,
+      1199.0,
+      0.0,
+      0.0,
+      1199.0,
+      false,
+      319.99,
+      null
+    ],
+    "links": {
+      "B35": "https://www.wayfair.com/lighting/pdp/willa-arlo-interiors-darcey-12-light-dimmable-empire-chandelier-w100745969.html?piid=1269886230"
+    }
+  },
+  {
+    "row": 36,
+    "values": [
+      null,
+      "ROUND RUG",
+      "WAYFAIR",
+      "PINK, ROUND 6'1\"",
+      1.0,
+      198.0,
+      198.0,
+      0.0,
+      0.0,
+      198.0,
+      false,
+      77.99,
+      null
+    ],
+    "links": {
+      "B36": "https://www.wayfair.com/rugs/pdp/langley-street-griego-geometric-machine-made-power-loom-polypropylene-area-rug-in-light-pink-w007800337.html?piid=77551430"
+    }
+  },
+  {
+    "row": 37,
+    "values": [
+      null,
+      "SIDE TABLE",
+      "WAYFAIR",
+      "TEAL WASH",
+      1.0,
+      99.99,
+      99.99,
+      0.0,
+      0.0,
+      99.99,
+      false,
+      43.99,
+      null
+    ],
+    "links": {
+      "B37": "https://www.wayfair.com/furniture/pdp/mercer41-harbor-breeze-round-pedestal-side-table-soft-cream-w116695283.html?piid=179012124"
+    }
+  },
+  {
+    "row": 38,
+    "values": [
+      null,
+      "ART (ABOVE FIREPLACE)",
+      "ETSY",
+      "40\" X 30\" (102X76CM), GOLD FRAME",
+      1.0,
+      720.94,
+      720.94,
+      0.0,
+      0.0,
+      720.94,
+      false,
+      720.94,
+      null
+    ],
+    "links": {
+      "B38": "https://www.etsy.com/listing/4577111793/blush-pink-and-gold-abstract-oil?ls=a&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=pink+and+white+and+gold+and+blue+art&ref=sc_gallery-1-1&sr_prefetch=1&pf_from=search&pro=1&frs=1&cns=1&plkey=Eu-HauTn-Pmc06zIs_D0D-sRVV45%3ALTe4034b6eb3bde8a5c0035bbe13e28dff3219657b&variation0=7080204447&variation1=7080204433"
+    }
+  },
+  {
+    "row": 39,
+    "values": [
+      null,
+      "DRAPE",
+      "ETSY",
+      "2 PANELS. EACH 40 INCHES, LENGTH 101-106 INCHES, ACTUAL PANEL LENGTH 106\", HEADING GROMMET, COLOR /",
+      2.0,
+      167.0,
+      334.0,
+      0.0,
+      0.0,
+      334.0,
+      false,
+      334.0,
+      null
+    ],
+    "links": {
+      "B39": "https://www.etsy.com/listing/1275498266/pair-of-custom-made-shimmer-champagne?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=sheer+drape+24%26quot%3B&ref=sr_gallery-1-6&sr_prefetch=1&pf_from=search&frs=1&sts=1&content_source=8e0702d1-8440-4bde-8c07-ddd42ec7fdcb%253ALT13ff88ad2d8bf236cccab6e41911e314d4b35e2d&organic_search_click=1&logging_key=8e0702d1-8440-4bde-8c07-ddd42ec7fdcb%3ALT13ff88ad2d8bf236cccab6e41911e314d4b35e2d&variation0=2825055029&variation1=4000703935"
+    }
+  },
+  {
+    "row": 40,
+    "values": [
+      null,
+      "DRAPERY RODS",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 41,
+    "values": [
+      "HIS OFFICE",
+      "PAX",
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      false,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 42,
+    "values": [
+      null,
+      "ADDITIONAL OFFICE CHAIR",
+      "WAYFAIR",
+      "BLACK",
+      1.0,
+      499.99,
+      499.99,
+      0.0,
+      0.0,
+      499.99,
+      false,
+      101.99,
+      null
+    ],
+    "links": {
+      "B42": "http://wayfair.com/furniture/pdp/inbox-zero-home-office-ergonomic-mesh-task-chair-w006595466.html?piid=726990099&auctionId=76bf6da3-c5ea-4637-b845-280d3f62a4c3&trackingId=%7B%22adType%22:%22WSP%22,%22auctionId%22:%2276bf6da3-c5ea-4637-b845-280d3f62a4c3%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 43,
+    "values": [
+      null,
+      "FLOOR LAMP",
+      "WAYFAIR",
+      "BLACK",
+      1.0,
+      78.99,
+      78.99,
+      0.0,
+      0.0,
+      78.99,
+      false,
+      74.99,
+      null
+    ],
+    "links": {
+      "B43": "https://www.wayfair.com/lighting/pdp/mercer41-modern-dome-floor-lamp-with-indirect-light-slim-metal-pole-foot-switch-65-tall-standing-lamp-for-living-room-bedroom-office-e26-socket-w112313554.html?piid=1309769400&auctionId=9e813ddb-997a-45fa-8df1-2237872ba6ec&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%229e813ddb-997a-45fa-8df1-2237872ba6ec%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 44,
+    "values": [
+      null,
+      "BOOKSHELVES",
+      "WAYFAIR",
+      "(5 SHELVES) 43.66\"H X 16.61\"W X 7.28\"D",
+      3.0,
+      49.99,
+      149.97,
+      0.0,
+      0.0,
+      149.97,
+      false,
+      149.97,
+      null
+    ],
+    "links": {
+      "B44": "https://www.wayfair.com/furniture/pdp/furinno-open-shelf-bookcase-bookshelf-storage-organizer-amber-pine-fvd11893.html?piid=116834288&auctionId=beb49b1b-c51e-40b5-9fc7-1c79337aba48&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%22beb49b1b-c51e-40b5-9fc7-1c79337aba48%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 45,
+    "values": [
+      null,
+      "LAMP NEXT TO BOOKSHELVES",
+      "WAYFAIR",
+      "BLACK, ADJUSTABLE, REMOTE INCLUDED YES",
+      1.0,
+      78.99,
+      78.99,
+      0.0,
+      0.0,
+      78.99,
+      false,
+      39.99,
+      null
+    ],
+    "links": {
+      "B45": "https://www.wayfair.com/lighting/pdp/wrought-studio-57-led-dimmable-novelty-corner-floor-lamp-with-remote-w115160256.html"
+    }
+  },
+  {
+    "row": 46,
+    "values": [
+      null,
+      "CONSOLE TABLE",
+      "WAYFAIR",
+      null,
+      1.0,
+      133.99,
+      133.99,
+      0.0,
+      0.0,
+      133.99,
+      false,
+      72.99,
+      null
+    ],
+    "links": {
+      "B46": "https://www.wayfair.com/furniture/pdp/williston-forge-394-narrow-console-table-with-power-outlet-2-tier-sofa-table-for-entryway-w121502967.html"
+    }
+  },
+  {
+    "row": 47,
+    "values": [
+      null,
+      "RUG",
+      "RUGSUSA.COM",
+      "RECTANGLE, 8' 10\" X 13'",
+      1.0,
+      809.99,
+      809.99,
+      "0%",
+      0.0,
+      809.99,
+      false,
+      319.0,
+      null
+    ],
+    "links": {
+      "B47": "https://www.rugsusa.com/products/makalu-abstract-rug-light-brown?variant=48452935450680",
+      "C47": "http://rugs.com/"
+    }
+  },
+  {
+    "row": 48,
+    "values": [
+      "BASEMENT LIVING / DINING ROOM ",
+      "SOFA",
+      "WAYFAIR",
+      "BEIGE",
+      1.0,
+      479.99,
+      479.99,
+      0.0,
+      0.0,
+      479.99,
+      false,
+      419.99,
+      null
+    ],
+    "links": {
+      "B48": "https://www.wayfair.com/furniture/pdp/charlton-home-83-modern-boucle-sofa-minimalist-style-comfy-loveseat-with-2-pillows-luxury-2-seater-couch-with-curved-armrest-wooden-leg-contemporary-home-sofa-for-living-room-bedroom-w115613943.html?piid=128467157"
+    }
+  },
+  {
+    "row": 49,
+    "values": [
+      null,
+      "COFFEE TABLE",
+      "WAYFAIR",
+      "29.9\" H X 29.9\" L X 17.3\" W, BLACK",
+      1.0,
+      399.99,
+      399.99,
+      0.0,
+      0.0,
+      399.99,
+      false,
+      365.99,
+      null
+    ],
+    "links": {
+      "B49": "https://www.wayfair.com/furniture/pdp/ivy-bronx-2-piece-modern-round-nesting-coffee-table-set-for-home-apartment-w113334432.html?piid=560702324%2C560702325&auctionId=17f063df-0c15-4b0b-922b-2f97e9ab17e6&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%2217f063df-0c15-4b0b-922b-2f97e9ab17e6%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 50,
+    "values": [
+      null,
+      "SWIVEL CHAIRS",
+      "WAYFAIR",
+      "ORANGE CHENILLE",
+      2.0,
+      539.99,
+      1079.98,
+      0.0,
+      0.0,
+      1079.98,
+      false,
+      771.98,
+      null
+    ],
+    "links": {
+      "B50": "https://www.wayfair.com/furniture/pdp/wrought-studio-30-wide-upholstered-swivel-barrel-accent-chair-no-assembly-w110474911.html?piid=1115738100&auctionId=96f5d7a0-6865-4a2f-a9f1-9c56ad7028c6&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%2296f5d7a0-6865-4a2f-a9f1-9c56ad7028c6%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 51,
+    "values": [
+      null,
+      "SIDE TABLE",
+      "WAYFAIR",
+      null,
+      1.0,
+      79.99,
+      79.99,
+      0.0,
+      0.0,
+      79.99,
+      false,
+      71.99,
+      null
+    ],
+    "links": {
+      "B51": "https://www.wayfair.com/furniture/pdp/ophelia-co-rustic-pedestal-round-end-table-w118401977.html?auctionId=656638c0-cf9d-42a6-8f63-699dfe3d813b&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%22656638c0-cf9d-42a6-8f63-699dfe3d813b%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 52,
+    "values": [
+      null,
+      "SIDE TABLE LAMP",
+      "ALLMODERN",
+      "BLACK",
+      1.0,
+      50.0,
+      50.0,
+      0.0,
+      0.0,
+      50.0,
+      false,
+      48.0,
+      null
+    ],
+    "links": {
+      "B52": "https://www.allmodern.com/lighting/pdp/george-oliver-table-lamp-a000199767.html?piid=1782147496"
+    }
+  },
+  {
+    "row": 53,
+    "values": [
+      null,
+      "RUG FOR SOFA",
+      "RUGSUSA.COM",
+      "CHARCOAL, 6' X 9'",
+      1.0,
+      704.99,
+      704.99,
+      "0%",
+      0.0,
+      704.99,
+      false,
+      399.0,
+      null
+    ],
+    "links": {
+      "B53": "https://www.rugsusa.com/products/nazco-abstract-new-zealand-wool-rug-charcoal?variant=47054070579256&_gl=1*1um90ps*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw8c3VBhCsARIsAA_xJ939DqJb7g4aJwsi_fngNL03lC4rp0OJFUq5IvSOCWvtmOFY489UoGQaAjxLEALw_wcB&gbraid=0AAAAAD_thW-_BrLOvxBHyU1avOepZj89y",
+      "C53": "http://rugs.com/"
+    }
+  },
+  {
+    "row": 54,
+    "values": [
+      null,
+      "DINING TABLE",
+      "WAYFAIR",
+      "BROWN",
+      1.0,
+      269.99,
+      269.99,
+      0.0,
+      0.0,
+      269.99,
+      false,
+      233.99,
+      null
+    ],
+    "links": {
+      "B54": "https://www.wayfair.com/furniture/pdp/17-stories-solid-wood-dining-table-for-6-63-inch-farmhouse-kitchen-table-with-fluting-details-w116586206.html?piid=175243751"
+    }
+  },
+  {
+    "row": 55,
+    "values": [
+      null,
+      "DINING CHAIRS",
+      "WAYFAIR",
+      "CAMEL",
+      1.0,
+      1079.97,
+      1079.97,
+      0.0,
+      0.0,
+      1079.97,
+      false,
+      531.0,
+      null
+    ],
+    "links": {
+      "B55": "https://www.wayfair.com/furniture/pdp/george-oliver-modern-fabric-upholstered-dining-armchair-with-metal-legs-ergonomic-back-w117601946.html?piid=577543303"
+    }
+  },
+  {
+    "row": 56,
+    "values": [
+      null,
+      "ART (DINING AREA)",
+      "ETSY",
+      "75X100CM, 30\" X 40\", QUANTITY 1",
+      1.0,
+      98.26,
+      98.26,
+      0.0,
+      0.0,
+      98.26,
+      false,
+      77.26,
+      null
+    ],
+    "links": {
+      "B56": "https://www.etsy.com/listing/4519301464/plant-sunset-wall-art-orange-warm-moody?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=abstract+orange+art&ref=sr_gallery-1-3&sr_prefetch=1&pf_from=search&pro=1&frs=1&sts=1&content_source=c8fe5449-91f5-4503-8e8a-b19210f8a673%253ALTb71af8c4003d90564e0771a8d5393f3b21fd2fd6&organic_search_click=1&logging_key=c8fe5449-91f5-4503-8e8a-b19210f8a673%3ALTb71af8c4003d90564e0771a8d5393f3b21fd2fd6&variation0=6712099128"
+    }
+  },
+  {
+    "row": 57,
+    "values": [
+      null,
+      "DRESSER",
+      "WAYFAIR",
+      "BISCOTTI",
+      1.0,
+      989.99,
+      989.99,
+      0.0,
+      0.0,
+      989.99,
+      false,
+      509.99,
+      null
+    ],
+    "links": {
+      "B57": "https://www.wayfair.com/furniture/pdp/latitude-run-lysiane-118-w-6-drawer-4-door-combo-dresser-w111189303.html?piid=575136409"
+    }
+  },
+  {
+    "row": 58,
+    "values": [
+      null,
+      "RUG (MUSIC CORNER)",
+      "RUGSUSA.COM",
+      "RECTANGLE, 4' X 6'",
+      1.0,
+      67.99,
+      67.99,
+      "0%",
+      0.0,
+      67.99,
+      false,
+      34.99,
+      null
+    ],
+    "links": {
+      "B58": "https://www.rugsusa.com/products/paula-abstract-stripes-rug-beige?variant=47065058148408",
+      "C58": "http://rugs.com/"
+    }
+  },
+  {
+    "row": 59,
+    "values": [
+      "BEDROOM",
+      "KING BED FRAME OPTION 1",
+      "WAYFAIR",
+      "KING, DARK WALNUT",
+      1.0,
+      555.39,
+      555.39,
+      0.0,
+      0.0,
+      555.39,
+      false,
+      419.94,
+      null
+    ],
+    "links": {
+      "B59": "https://www.wayfair.com/furniture/pdp/ntc-gem-solid-wooden-bed-frame-with-headboard-and-natural-rattan-1000-lb-capacity-w113727382.html?piid=232042218%2C232042219"
+    }
+  },
+  {
+    "row": 60,
+    "values": [
+      null,
+      "KING BED FRAME OPTION 2",
+      "WAYFAIR",
+      "KING",
+      0.0,
+      389.99,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B60": "https://www.wayfair.com/furniture/pdp/nfusion-heritage-mid-century-bed-frame-with-upholstered-headboard-mcaw3300.html?piid=129229649"
+    }
+  },
+  {
+    "row": 61,
+    "values": [
+      null,
+      "KING BED FRAME OPTION 3",
+      "WAYFAIR",
+      "KING, CREAM",
+      0.0,
+      329.99,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B61": "https://www.wayfair.com/furniture/pdp/ebern-designs-hayden-platform-bed-frame-cloud-collection-with-boucle-upholstery-rounded-headboard-thickened-footboard-w111807314.html?piid=1364679769%2C1372066170"
+    }
+  },
+  {
+    "row": 62,
+    "values": [
+      null,
+      "DUVET",
+      "IKEA",
+      "KING",
+      1.0,
+      119.99,
+      119.99,
+      0.0,
+      0.0,
+      119.99,
+      false,
+      119.99,
+      null
+    ],
+    "links": {
+      "B62": "https://www.ikea.com/us/en/p/smasporre-duvet-insert-all-seasons-80592215/"
+    }
+  },
+  {
+    "row": 63,
+    "values": [
+      null,
+      "DUVET OPTION 2",
+      "BROOKLINEN",
+      "KING/CALI KING, ALL-SEASON",
+      0.0,
+      339.0,
+      0.0,
+      0.2,
+      0.0,
+      0.0,
+      false,
+      null,
+      null
+    ],
+    "links": {
+      "B63": "https://www.brooklinen.com/collections/gs/products/down-alternative-comforter?variant=42723524313178&g_network=g&g_productchannel=online&g_adid=723138617001&g_locinterest=&g_keyword=&g_campaign=21958739170&g_adtype=pla&g_keywordid=pla-2498651641623&g_ifcreative=&g_ifproduct=product&g_adgroupid=171508104375&g_productid=42723524182106&g_source=%7Bsourceid%7D&g_merchantid=104824303&g_placement=&g_campaignid=21958739170&g_partition=2498651641623&g_locphysical=9004338&g_acctid=557-212-9822&gclsrc=aw.ds&utm_source=google&utm_medium=PMax_NB_SS_Secondary&utm_campaign=PMax_NB_SS_Secondary&utm_content=&g_network=g&g_adid=723138617001&g_keyword=&g_adgroupid=171508104375&g_campaignid=21958739170&g_partition=2498651641623&g_locphysical=9004338&g_acctid=557-212-9822&gclsrc=aw.ds&nbt=nb%3Aadwords%3Ag%3A21958739170%3A171508104375%3A723138617001&gad_source=1&gad_campaignid=21958739170&gbraid=0AAAAADd1rP3yYtxx4FnH5lJH5e3c5MF5J&gclid=CjwKCAjw25fWBhAVEiwAMopNjn_tnIbHyvZPRQOeOEbtCOXN6gbKbqyBN0vHxeF0odhLNhf-xDFCQhoCnggQAvD_BwE"
+    }
+  },
+  {
+    "row": 64,
+    "values": [
+      null,
+      "BEDDING",
+      "BROOKLINEN",
+      "WASHED EUROPEAN LINEN CORE SHEET SET, FRESH MOSS, KING; WASHED EUROPEAN LINEN DUVET COVER, OAT CHAMBRAY, KING/CALI KING; WASHED EUROPEAN LINEN PILLOWCASE SET, OAT CHAMBRAY, STANDARD",
+      1.0,
+      877.0,
+      877.0,
+      0.2,
+      175.4,
+      701.6,
+      false,
+      611.27,
+      null
+    ],
+    "links": {
+      "B64": "https://www.brooklinen.com/products/washed-linen-hardcore-sheet-bundle?variant=43188883980378"
+    }
+  },
+  {
+    "row": 65,
+    "values": [
+      null,
+      "36\" PILLOW COVER",
+      "JOONLOLOI",
+      "COVER ONLY",
+      1.0,
+      49.0,
+      49.0,
+      "0%",
+      0.0,
+      49.0,
+      false,
+      49.0,
+      null
+    ],
+    "links": {
+      "B65": "https://www.joonloloi.com/shop/product/hepburn-pillow?color=bluemulti&size=35x13lumbar&utm_term=&utm_campaign=JL_NE_NB_PMAX_Decor_Tier_1-2_100_Q225&utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=22521862283&gbraid=0AAAAA9_ulMfZXXjiGSXL7fBds0KFef1Ro&gclid=CjwKCAjww-3VBhAcEiwAwUUIuzWX-ZTMjQEhywyokTC-tzyKrYkpXsYJ83FAnybmuhvOe9TP9JCmihoC6EUQAvD_BwE"
+    }
+  },
+  {
+    "row": 66,
+    "values": [
+      null,
+      "NIGHTSTANDS",
+      "WAYFAIR",
+      "NATURAL",
+      2.0,
+      306.99,
+      613.98,
+      0.0,
+      0.0,
+      613.98,
+      false,
+      391.98,
+      null
+    ],
+    "links": {
+      "B66": "https://www.wayfair.com/furniture/pdp/ebern-designs-3-drawer-nightstand-w121522044.html?piid=760756985&auctionId=cec3092e-8fee-4b70-83f8-b96c8da5ea13&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%22cec3092e-8fee-4b70-83f8-b96c8da5ea13%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 67,
+    "values": [
+      null,
+      "LAMPS",
+      "WAYFAIR",
+      "NATURAL",
+      2.0,
+      60.0,
+      120.0,
+      0.0,
+      0.0,
+      120.0,
+      false,
+      99.98,
+      null
+    ],
+    "links": {
+      "B67": "https://www.wayfair.com/lighting/pdp/wrought-studio-triplett-25-table-lamp-w001343921.html?piid=413652858&auctionId=d5f082fa-2c85-4334-8466-73fb49be35e0&trackingId=%7B%22adType%22%3A%22WSP%22%2C%22auctionId%22%3A%22d5f082fa-2c85-4334-8466-73fb49be35e0%22%7D&adTypeId=1"
+    }
+  },
+  {
+    "row": 68,
+    "values": [
+      null,
+      "RUG",
+      "RUGSUSA.COM",
+      "RECTANGLE, 7' 10\" X 10'",
+      1.0,
+      419.99,
+      419.99,
+      "0%",
+      0.0,
+      419.99,
+      false,
+      179.0,
+      null
+    ],
+    "links": {
+      "B68": "https://www.rugsusa.com/products/indray-traditional-floral-and-paisley-rug-green?variant=50930395021606",
+      "C68": "http://rugs.com/"
+    }
+  },
+  {
+    "row": 69,
+    "values": [
+      null,
+      "ROOM DIVIDER RAILING",
+      "AMAZON",
+      "WHITE, 9-12 FT",
+      1.0,
+      55.98,
+      55.98,
+      0.0,
+      0.0,
+      55.98,
+      false,
+      55.98,
+      null
+    ],
+    "links": {
+      "B69": "https://www.amazon.com/dp/B0FQVB68PX/ref=sspa_dk_detail_3?pd_rd_i=B0FQVC6WNY&pd_rd_w=Kno92&content-id=amzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_p=3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_r=29Y0YTTYA1F07GXHRC2E&pd_rd_wg=kC6Hg&pd_rd_r=359f920a-7558-4130-a3fb-c7b236eecf3c&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1"
+    }
+  },
+  {
+    "row": 70,
+    "values": [
+      null,
+      "ROOM DIVIDER DRAPE",
+      "TWO PAGES CURTAINS",
+      "COLOR SEPIA EBONY 1908-14, HEADER STYLE: FRENCH PLEAT, WIDTH 200\", LENGTH 104\", LINING TYPE: BLACKOUT, SHADING RATE 100%, 150 GSM MICROFIBER 2-PASS COATED GRAYISH WHITE, MATCHING TIEBACK (3X18 INCHES) NO NEED, BODY MEMORY SHAPED: YES NEED MEMORY TRAINING",
+      1.0,
+      760.98,
+      760.98,
+      "0%",
+      0.0,
+      760.98,
+      false,
+      760.98,
+      null
+    ],
+    "links": {
+      "B70": "https://twopagescurtains.com/products/liz-linen-drape-pleated?variant=41127253541044"
+    }
+  },
+  {
+    "row": 71,
+    "values": [
+      null,
+      "16\" X 8\" PILLOW COVER",
+      "ETSY",
+      "BOUDOIR, 12\" X 16\"",
+      1.0,
+      48.21,
+      48.21,
+      0.0,
+      0.0,
+      48.21,
+      false,
+      36.16,
+      null
+    ],
+    "links": {
+      "B71": "https://www.etsy.com/listing/4540126126/embroidered-floral-linen-lumbar-pillow?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=8x16+pillow+cover&ref=sr_gallery-1-39&sr_prefetch=1&pf_from=market&pro=1&frs=1&content_source=1e9edda7-5a45-46c4-8aa6-27b711f5b144%253ALTe159a3cc8e987868b7e421b73681e6a16c9b4726&organic_search_click=1&logging_key=1e9edda7-5a45-46c4-8aa6-27b711f5b144%3ALTe159a3cc8e987868b7e421b73681e6a16c9b4726&variation1=6865165932"
+    }
+  },
+  {
+    "row": 72,
+    "values": [
+      null,
+      "THROW BLANKET",
+      "BROOKLINEN",
+      "FRESH MOSS, KING/CALI KING",
+      1.0,
+      259.0,
+      259.0,
+      0.2,
+      51.800000000000004,
+      207.2,
+      false,
+      220.15,
+      null
+    ],
+    "links": {
+      "B72": "https://www.brooklinen.com/products/dreamweave-waffle-bed-blanket?variant=41274819739738"
+    }
+  },
+  {
+    "row": 73,
+    "values": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      " ",
+      "",
+      " ",
+      " ",
+      null,
+      null,
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 74,
+    "values": [
+      "TOTAL",
+      null,
+      null,
+      "15K",
+      "SUBTOTAL",
+      null,
+      "=SUM(G4:G73)",
+      null,
+      "=SUM(I4:I73)",
+      "=SUM(J4:J73)",
+      null,
+      "=SUM(L4:L73)",
+      null
+    ],
+    "links": {}
+  },
+  {
+    "row": 75,
+    "values": [
+      "*Some of our selections are affiliated, and we may receive commissions when clicked. These affiliates or lack thereof never impact our recommendations. ",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "links": {}
+  }
+]

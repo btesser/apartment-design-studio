@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+TypeError: bpy_struct: item.attr = val: enum "OPENIMAGEDENOISE" not found in ()
+Blender 4.3.2
+
+Blender quit

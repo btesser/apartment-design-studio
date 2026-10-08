@@ -1,0 +1,39 @@
+{
+  "reviewed_at_utc": "2026-10-08T15:18:33.717713+00:00",
+  "source": "keepers-and-taskchairs.blend",
+  "review_images": [
+    "keepers-preview-a.jpg",
+    "keepers-preview-b.jpg"
+  ],
+  "passes": [
+    "Five product instances only; two taskchairs.",
+    "Final approved XY poses recorded in canonical bounds manifest.",
+    "All product floor bases aligned toZ1.575.",
+    "Owned desktop nominal42\u00d730in; front-Y, rear+Y; two nickel covers.",
+    "Lamp is tall white rectangular-head/U-base02E Pro, exact overall dimensions.",
+    "Cat tree has exactly three open wicker baskets, suspended brown hammock, brown arched condo and branched wood/sisal supports.",
+    "Both Branch chairs have detailed source mesh forms, black selected-colour factors explicitly present inGLB, seated gaze+Y.",
+    "Desk top surface normals and grain texture sampler repaired, matching Blender/GLB appearance."
+  ],
+  "limits": [
+    "Standalone preview uses temporary studio lighting, not the room.",
+    "Cat branches/basket offsets and lamp U-base separate size remain photo-guided estimates.",
+    "Branch source Shore preview geometry was adapted toBlack and nominal caster diameter, not claimed exactBlack variant CAD.",
+    "Cat proxy height differs0.6mm from1.4986m source due curved-strand discretization."
+  ],
+  "native_append_texture_fix": {
+    "passed": true,
+    "proof": "keeper-append-proof.json",
+    "fix": "Vendor source image bytes preserved with unique product-prefixed names and real texture file paths; all six remain packed. Integration loop must not repack already packed embedded images.",
+    "geometry_or_pose_changes": false,
+    "blend_stamp_utc": "2026-10-08T15:23:12Z",
+    "glb_stamp_utc": "2026-10-08T15:23:13Z",
+    "glb_sha256": "81f0fd608b8c6c4d7a83716c4ecb862dda212a2a3b25d82bb5ffb1375abbadc6"
+  },
+  "honeywell_open_head_revision": {
+    "stamp_utc": "2026-10-08T15:54:01Z",
+    "scope": "Broad diffuser removed; two narrow parallel LED bars leave center open. Outer rim, full envelope and every product pose unchanged.",
+    "validation": "honeywell-open-head-validation.json",
+    "glb_sha256": "db57d48d5a19b484320d76db9c4b916054729ffca1f4683bdaab5bad7a89013f"
+  }
+}

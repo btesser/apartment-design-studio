@@ -1,0 +1,12 @@
+Orientation review of existing samples
+
+Living-room sofa/media relationship matches Amy plan.
+His-office prior samples incorrectly float desk near window, facing into room; revised generation requested wall-facing desk opposite window.
+Her-office prior samples place loveseat flat against windows; revised generation requested inward diagonal orientation near window/fireplace corner.
+Basement prior samples incorrectly place sofa along long perimeter wall; corrected rule places back at divider facing dining.
+Basement prior bed samples place headboard on end wall; corrected rule places headboard on long perimeter wall facing across room.
+Entry and music furniture facing directions are inferred, since supplied designer plan does not define these pieces.
+
+Generated samples are illustrative; placement-rules and original floor plan govern orientation when a generated image differs. No geographic compass orientation asserted.
+
+Latest orientation-review concepts visibly show desk facing its wall, vanity chair facing mirror, loveseat angled inward, basement sofa facing dining with divider behind, and bed facing across room. Generated architecture and footprints remain approximate, including doorway/column positions; do not substitute these images for original scan and designer plan.

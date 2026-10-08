@@ -1,0 +1,39 @@
+{
+  "source": "/workspace/apartment-model/integrated.blend",
+  "native_scale": 1.0,
+  "objects": [
+    "HIS existing fireplace closed panel",
+    "HIS fireplace trim side",
+    "HIS fireplace trim side.001",
+    "HIS fireplace trim top",
+    "Sky outside window",
+    "Window glazing",
+    "Window horizontal trim",
+    "Window horizontal trim.001",
+    "Window horizontal trim.002",
+    "Window vertical trim",
+    "Window vertical trim.001",
+    "architecture_ceiling \u2014 his-office",
+    "architecture_floor \u2014 his-office",
+    "his-office wall0 segment",
+    "his-office wall1 segment",
+    "his-office wall1 segment.001",
+    "his-office wall1 segment.002",
+    "his-office wall1 segment.003",
+    "his-office wall2 segment",
+    "his-office wall3 segment",
+    "his-office wall4 segment",
+    "his-office wall5 segment",
+    "his-office wall5 segment.001",
+    "his-office wall5 segment.002",
+    "his-office wall5 segment.003",
+    "his-office wall5 segment.004",
+    "his-office wall5 segment.005",
+    "his-office wall5 segment.006"
+  ],
+  "pending_corrections": [
+    "Observed rear-brick-corner radiator",
+    "Full-height closet door and overhead cupboard, missing in old proxy"
+  ],
+  "old_Amy_furniture_selected": false
+}

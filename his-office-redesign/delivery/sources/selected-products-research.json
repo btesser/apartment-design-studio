@@ -1,0 +1,382 @@
+{
+  "version": "selected-warm-modern-studio-2026-10-08",
+  "scope": "New HIS OFFICE design, Amy ignored; preserves three explicitly kept user products.",
+  "items": [
+    {
+      "id": "lagkapten-alex-single",
+      "category": "secondary_workspace",
+      "name": "IKEA LAGKAPTEN / ALEX desk, one 5-drawer pedestal and two legs",
+      "selected_color": "Black-brown top / white drawers and legs",
+      "dimensions_m_W_D_H": [
+        1.4,
+        0.6,
+        0.73
+      ],
+      "price_USD": 159.99,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.ikea.com/us/en/p/lagkapten-alex-desk-black-brown-white-s59432163/",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/lagkapten-alex-single.jpg",
+      "official_image_urls": [
+        "https://www.ikea.com/us/en/images/products/lagkapten-alex-desk-black-brown-white__1022391_pe832702_s5.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/lagkapten-alex-single.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "sku": "594.321.63",
+      "rank": 2,
+      "geometry": {
+        "top_W_D_m": [
+          1.4,
+          0.6
+        ],
+        "pedestal_W_D_H_m": [
+          0.36,
+          0.58,
+          0.7
+        ],
+        "pedestal_count": 1,
+        "calculated_knee_width_before_leg_setback_m": 1.04
+      },
+      "function": "Same usable work surface with a wider chair/knee area; best alternative if the separate clothes chest supplies storage.",
+      "quantity": 1,
+      "selection_status": "Selected by parent for design concept, not purchased",
+      "layout_requirement": "Single ALEX pedestal on LEFT / x-negative end, two legs right; keep real knee space."
+    },
+    {
+      "id": "storklinta-low-drawers",
+      "category": "folded_clothes_storage",
+      "name": "IKEA STORKLINTA 3-drawer dresser",
+      "selected_color": "Oak effect",
+      "dimensions_m_W_D_H": [
+        0.6985,
+        0.479425,
+        0.7493
+      ],
+      "price_USD": 149.99,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function-80559292/",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/storklinta-low-drawers.jpg",
+      "official_image_urls": [
+        "https://www.ikea.com/us/en/images/products/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function__1344034_pe949705_s5.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/storklinta-low-drawers.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "sku": "805.592.92",
+      "rank": 2,
+      "storage_capacity_cuft": 4.2,
+      "storage_capacity_m3": 0.118930757184,
+      "verified_inside_drawer_W_D_m": [
+        0.6096,
+        0.40005
+      ],
+      "verified_drawer_pullout_m": 0.276225,
+      "material": "Oak-effect surfaces; modern closed flush drawer fronts.",
+      "limits": "Dedicated clothes dresser, not a second desk. Anchor/unlock wall attachment is part of the product design.",
+      "quantity": 1,
+      "selection_status": "Selected by parent for design concept, not purchased",
+      "metric_catalog_nominal_W_D_H_m": [
+        0.7,
+        0.48,
+        0.75
+      ],
+      "US_retailer_nominal_W_D_H_in": [
+        27.5,
+        18.875,
+        29.5
+      ],
+      "dimension_note": "US retailer nominal inch labels converted for the model; metric catalogue labels rounded to 70\u00d748\u00d775 cm. Not physical measurement.",
+      "installation_requirement_note": "Anchor/Unlock wall fixing is required for drawer operation. Final modeled rear is about 8.7 cm from the measured brick face; approved mounting-hardware/spacer reach is unverified. Confirm a suitable masonry fixing/spacer or move the dresser closer to the wall during installation."
+    },
+    {
+      "id": "ekenaset-turquoise",
+      "category": "visitor_lounge",
+      "name": "IKEA EKEN\u00c4SET armchair",
+      "selected_color": "Kelinge gray-turquoise",
+      "dimensions_m_W_D_H": [
+        0.64,
+        0.78,
+        0.76
+      ],
+      "price_USD": 329,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.ikea.com/us/en/p/ekenaeset-armchair-kelinge-gray-turquoise-90533485/",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/ekenaset-turquoise.jpg",
+      "official_image_urls": [
+        "https://www.ikea.com/us/en/images/products/ekenaeset-armchair-kelinge-gray-turquoise__1109684_pe870150_s5.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/ekenaset-turquoise.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "sku": "905.334.85",
+      "rank": 1,
+      "seat_W_D_H_m": [
+        0.5588,
+        0.498475,
+        0.45085
+      ],
+      "armrest_height_m": 0.62865,
+      "material": "Actual photographed cool dark gray-turquoise/slate-teal corduroy upholstery, warm brown wooden arms and legs.",
+      "availability_note": "Current official page says Last Chance; store/delivery availability needs the destination ZIP.",
+      "function": "Compact relaxed visitor chair; foam and spring seat. Do not count its reclined lounge posture as a full task-chair workstation.",
+      "quantity": 1,
+      "selection_status": "Selected by parent for design concept, not purchased"
+    },
+    {
+      "id": "grejig-shoes",
+      "category": "shoes",
+      "name": "IKEA GREJIG stackable shoe rack",
+      "selected_color": "Gray",
+      "dimensions_m_W_D_H": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "price_USD": 4.99,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.ikea.com/us/en/p/grejig-shoe-rack-gray-20620061/",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/grejig-shoes.jpg",
+      "official_image_urls": [
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1499925_pe1006838_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505589_pe1008585_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505588_pe1008583_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505590_pe1008584_s5.jpg",
+        "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1420839_pe977507_s5.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/grejig-shoes.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "sku": "206.200.61",
+      "rank": 1,
+      "recommended_quantity": 2,
+      "max_stack_quantity": 3,
+      "capacity_pairs_per_unit": 3,
+      "placement_intent": "Inside the bottom of existing closet if its internal depth/width allows, preserving hanging access and approach.",
+      "material": "Powder-coated steel wire/mesh; actual official photo governs appearance.",
+      "quantity": 3,
+      "selection_status": "Selected by parent for design concept, not purchased"
+    },
+    {
+      "id": "ruggable-inkdrop",
+      "category": "rug",
+      "name": "Ruggable Jonathan Adler Inkdrop Slate Blue, Flatwoven 6\u00d79 ft + Standard Pad",
+      "selected_color": "Slate blue / ivory",
+      "dimensions_m_W_D_H": [
+        1.8288,
+        2.7432,
+        0.005175
+      ],
+      "price_USD": 429,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://ruggable.com/products/jonathan-adler-inkdrop-slate-blue-rug",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/ruggable-inkdrop-selected.jpg",
+      "official_image_urls": [
+        "https://cdn.shopify.com/s/files/1/1033/0751/products/jonathan-adler-inkdrop-slate-blue-A-RC-JA016-69-V10.jpg?v=1748546963"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/ruggable-inkdrop.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "rank": 2,
+      "sku": "RUG-SYS-IND-RCT-CHN-JA016-06x09",
+      "variant_id": 39402849828919,
+      "selected_variant_url": "https://ruggable.com/products/jonathan-adler-inkdrop-slate-blue-rug?variant=39402849828919",
+      "material": "2 mm polyester flatwoven washable cover + 1/8 inch (3.175 mm) Standard Pad; 5.175 mm combined nominal thickness is calculated.",
+      "style": "Ivory field with dark blue stepped ink-line architectural geometry.",
+      "limits": "Selected 6\u00d79 ft flatwoven Standard Pad bundle: $429. Cover thickness 2 mm + Standard Pad 3.175 mm; nominal total 5.175 mm is calculated.",
+      "quantity": 1,
+      "selection_status": "Selected by parent for design concept, not purchased",
+      "function": "Larger low-pile rug to fully support the two rolling task-chair workstations and pullback space; final position is governed by checked measured-room plan.",
+      "official_image_pixel_dimensions": [
+        2400,
+        3000
+      ]
+    },
+    {
+      "id": "branch-pro",
+      "category": "task_seating",
+      "name": "Branch Ergonomic Chair Pro, mesh / standard cylinder",
+      "selected_color": "Black",
+      "dimensions_m_W_D_H": [
+        0.635,
+        0.6096,
+        1.04648
+      ],
+      "price_USD": 499,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/branch-pro-selected.jpg",
+      "official_image_urls": [
+        "https://cdn.shopify.com/s/files/1/0124/5662/4187/files/ERGPRO_RENDER1_-1.jpg?v=1774561270"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/branch-pro.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "rank": 1,
+      "sku": "40553208840227",
+      "selected_variant_url": "https://www.branchfurniture.com/products/ergonomic-chair-pro?variant=40553208840227",
+      "height_range_m": [
+        0.9652,
+        1.04648
+      ],
+      "base_diameter_m": 0.70104,
+      "collision_footprint_m": [
+        0.70104,
+        0.70104
+      ],
+      "material": "Black mesh back, upholstered black seat, black 5-star caster base.",
+      "function": "14 adjustments, 5D armrests, height/depth adjustable lumbar, seat-depth and forward-tilt adjustments; available black variant.",
+      "limits": "Base is wider than the advertised body width; plan 70.1 cm rolling footprint plus movement.",
+      "quantity": 2,
+      "selection_status": "Selected by parent for design concept, not purchased"
+    },
+    {
+      "id": "art-blue-bold",
+      "category": "graphic_art",
+      "name": "Desenio Bold Blue Print, 70\u00d7100 cm / nominal 28\u00d739 in",
+      "selected_color": "Blue / cream / warm neutral",
+      "dimensions_m_W_D_H": [
+        0.7,
+        null,
+        1.0
+      ],
+      "price_USD": 58.8,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://desenio.com/p/posters-prints/art-prints/abstract-art/bold-blue-print/",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/art-blue-bold-selected.jpg",
+      "official_image_urls": [
+        "https://media.desenio.com/site_images/690db43084ed40de5d5219a0_164425619_20012-1.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/art-blue-bold.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "regular_price_USD": 98,
+      "sku": "20012-1",
+      "rank": 2,
+      "style": "Expressive cobalt form with warm ocher/brown countershape and off-white field.",
+      "price_valid_until": "2026-10-08",
+      "limits": "Print only; matching black frames are separate. Actual metric print size selected in model; US commercial label is rounded.",
+      "quantity": 1,
+      "selection_status": "Confirmed selected Desenio product by parent; earlier Poster Store name corrected.",
+      "placement_intent": "Above existing sealed fireplace, preserving its actual measured anchor.",
+      "official_image_pixel_dimensions": [
+        2000,
+        2857
+      ]
+    },
+    {
+      "id": "art-blue-geometric",
+      "category": "graphic_art",
+      "name": "Desenio Blue Geometric Print, 50\u00d770 cm / nominal 20\u00d728 in",
+      "selected_color": "Blue / cream / warm neutral",
+      "dimensions_m_W_D_H": [
+        0.5,
+        null,
+        0.7
+      ],
+      "price_USD": 44.07,
+      "price_checked_UTC": "2026-10-08",
+      "source_url": "https://desenio.com/p/posters-prints/art-prints/graphical/blue-geometric-print/",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/art-blue-geometric-selected.jpg",
+      "official_image_urls": [
+        "https://media.desenio.com/site_images/685c85aa67fd6077b6f2ac91_2104759436_17414-8.jpg"
+      ],
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/art-blue-geometric.html",
+      "nominal_dimensions_note": "Retailer nominal commercial measurements; not physically measured.",
+      "regular_price_USD": 73.45,
+      "sku": "17414-8",
+      "rank": 1,
+      "style": "Bold blue circles and semicircles with cream and warm sand architectural shapes.",
+      "price_valid_until": "2026-10-08",
+      "limits": "Print only; matching black frames are separate. Actual metric print size selected in model; US commercial label is rounded.",
+      "quantity": 1,
+      "selection_status": "Confirmed selected Desenio product by parent; earlier Poster Store name corrected.",
+      "placement_intent": "Above main UPLIFT workstation.",
+      "official_image_pixel_dimensions": [
+        2000,
+        2800
+      ]
+    }
+  ],
+  "architecture_authority": "Final measured room model and cameras; product references control only exact products/materials/finishes, never change room shape or placement.",
+  "pricing_note": "US prices inspected 2026-10-08 before tax/shipping, dependent on variant and promotional stock. IKEA local availability is not verified without a ZIP.",
+  "three_owned_keepers": "See products/keepers/keepers-research.json; UPLIFT42\u00d730in Pheasantwood barkline-front/square-back industrial-gray C frame; Honeywell02E Pro white; MUTTROS59in brown three-wicker-basket cat tree.",
+  "verified_task_chair": {
+    "body_W_D_m": [
+      0.635,
+      0.6096
+    ],
+    "body_height_range_m": [
+      0.9652,
+      1.04648
+    ],
+    "base_diameter_m": 0.70104,
+    "collision_plan_footprint_m": [
+      0.70104,
+      0.70104
+    ],
+    "black_full_res_photo": "/workspace/his-office-redesign/products/candidates/official-images/branch-pro-selected.jpg",
+    "selected_variant_id": 40553208840227,
+    "selected_variant_price_USD": 499
+  },
+  "new_items_subtotal_before_art_frames_tax_shipping_USD": 2183.82,
+  "frame_note": "Matching Desenio black wooden50\u00d770 and70\u00d7100 frames included separately at59.46 and101.15USD. Their picture openings match prints; external frame dimensions/profile are not manufacturer verified.",
+  "final_geometry_note": "Do not use the lounger as task seating; 2 real rolling chairs support 2 actual desk work surfaces. Closed clothes capacity is STORKLINTA4.2cuft; ALEX mainly office bits.",
+  "art_retailer_correction": "Parent confirmed Desenio images/products; prior Poster Store name was mistaken, not a second chosen artwork.",
+  "selected_matching_art_frames": [
+    {
+      "id": "art-black-frame",
+      "category": "art_frame",
+      "name": "Desenio Black wood frame,50\u00d770cm / nominal20\u00d728in",
+      "sku": "AASP-50104",
+      "quantity": 1,
+      "price_USD": 59.46,
+      "regular_price_USD": 69.95,
+      "price_valid_until": "2026-10-08",
+      "price_checked_UTC": "2026-10-08",
+      "selected_color": "Black",
+      "picture_opening_m_W_H": [
+        0.5,
+        0.7
+      ],
+      "outside_frame_dimensions_verified": false,
+      "dimensions_m_W_D_H": [
+        null,
+        null,
+        null
+      ],
+      "source_url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-20-x-28-in/",
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/art-black-frame.html",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/art-black-frame.jpg",
+      "official_image_urls": [
+        "https://media.desenio.com/site_images/67f83a345d339427fa9a8c22_1809291497_AASP-50104_variant_main_image_DS.jpg"
+      ],
+      "material": "Black painted solid yellow poplar wood; clear acrylic front.",
+      "model_note": "Exact exterior profile/depth not published; thin frame is a disclosed representative model detail, not verified CAD."
+    },
+    {
+      "id": "art-black-frame-large",
+      "category": "art_frame",
+      "name": "Desenio Black wood frame,70\u00d7100cm / nominal28\u00d739in",
+      "sku": "AASP-50105",
+      "quantity": 1,
+      "price_USD": 101.15,
+      "regular_price_USD": 119,
+      "price_valid_until": "2026-10-08",
+      "price_checked_UTC": "2026-10-08",
+      "selected_color": "Black",
+      "picture_opening_m_W_H": [
+        0.7,
+        1.0
+      ],
+      "outside_frame_dimensions_verified": false,
+      "dimensions_m_W_D_H": [
+        null,
+        null,
+        null
+      ],
+      "source_url": "https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-28-x-39-in/",
+      "source_page_file": "/workspace/his-office-redesign/products/candidates/source-pages/art-black-frame-large.html",
+      "official_image_file": "/workspace/his-office-redesign/products/candidates/official-images/art-black-frame-large.jpg",
+      "official_image_urls": [
+        "https://media.desenio.com/site_images/67f83a3fdce54ccd7f769731_89210264_AASP-50105_variant_main_image_DS.jpg"
+      ],
+      "material": "Black painted solid yellow poplar wood; clear acrylic front.",
+      "model_note": "Exact exterior profile/depth not published; thin frame is a disclosed representative model detail, not verified CAD."
+    }
+  ],
+  "matching_art_frames_subtotal_USD": 160.61,
+  "total_new_items_with_frames_before_tax_shipping_USD": 2344.43
+}

@@ -1,0 +1,151 @@
+{
+  "method": "Real Playwright keyboard.down/up events plus 20 controlled 25ms collision-controller steps. Wall-clock render speed is deliberately separate.",
+  "errors": [],
+  "rooms": [
+    {
+      "id": "his-office",
+      "before": [
+        -3.6,
+        3.1550000000000002,
+        2.3
+      ],
+      "after": [
+        -4.198794271577284,
+        3.1550000000000002,
+        1.7885298930277285
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.7874999999999978
+    },
+    {
+      "id": "her-office",
+      "before": [
+        4.32,
+        3.165,
+        0.25
+      ],
+      "after": [
+        4.815389990619764,
+        3.165,
+        0.4238210493402681
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.5250000000000011
+    },
+    {
+      "id": "living",
+      "before": [
+        2.6,
+        3.115,
+        0.15
+      ],
+      "after": [
+        2.102677457932931,
+        3.115,
+        0.31821203628739037
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.525000000000002
+    },
+    {
+      "id": "upper-kitchen",
+      "before": [
+        -2.5,
+        3.145,
+        -1.65
+      ],
+      "after": [
+        -3.021357089676995,
+        3.145,
+        -1.5882603446435124
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.5250000000000037
+    },
+    {
+      "id": "bathroom-upper",
+      "before": [
+        0.7,
+        3.1550000000000002,
+        -0.95
+      ],
+      "after": [
+        0.3452445700283928,
+        3.1550000000000002,
+        -1.3370059236053882
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.5249999999999995
+    },
+    {
+      "id": "music-gym",
+      "before": [
+        -4.08,
+        0.135,
+        1.85
+      ],
+      "after": [
+        -4.519548515195867,
+        0.135,
+        1.562907501336039
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.5250000000000071
+    },
+    {
+      "id": "bedroom-flex",
+      "before": [
+        -3.4,
+        0.19500000000000006,
+        0.25
+      ],
+      "after": [
+        -2.695638587087561,
+        0.19500000000000006,
+        0.6021807064562165
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.7875000000000044,
+      "final_grounding_revision_rechecked": true
+    },
+    {
+      "id": "basement-open",
+      "before": [
+        7,
+        0.19500000000000006,
+        0.4
+      ],
+      "after": [
+        6.480070582995985,
+        0.19500000000000006,
+        0.4727901183805635
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.5249999999999915
+    },
+    {
+      "id": "entry",
+      "before": [
+        2.6,
+        3.115,
+        -0.8
+      ],
+      "after": [
+        1.8130818249778362,
+        3.115,
+        -0.8302660836546993
+      ],
+      "keydown_received": true,
+      "keyup_received": true,
+      "distance": 0.7875000000000039
+    }
+  ]
+}

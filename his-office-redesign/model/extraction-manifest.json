@@ -1,0 +1,107 @@
+{
+  "source": "/workspace/apartment-model/integrated.blend",
+  "source_sha256": "4318eeb1f85d919b14f7801371e1437070988a57be0785fa736b7049bbbbd186",
+  "source_unchanged": true,
+  "native_scale": 1,
+  "coordinate_mapping": "GLTF (X,Y,Z) = Blender (X,Z,-Y)",
+  "extracted_objects": [
+    "HIS existing fireplace closed panel",
+    "HIS fireplace trim side",
+    "HIS fireplace trim side.001",
+    "HIS fireplace trim top",
+    "Sky outside window",
+    "Window glazing",
+    "Window horizontal trim",
+    "Window horizontal trim.001",
+    "Window horizontal trim.002",
+    "Window vertical trim",
+    "Window vertical trim.001",
+    "architecture_ceiling \u2014 his-office",
+    "architecture_floor \u2014 his-office",
+    "his-office wall0 segment",
+    "his-office wall1 segment",
+    "his-office wall1 segment.001",
+    "his-office wall1 segment.002",
+    "his-office wall1 segment.003",
+    "his-office wall2 segment",
+    "his-office wall3 segment",
+    "his-office wall4 segment",
+    "his-office wall5 segment",
+    "his-office wall5 segment.001",
+    "his-office wall5 segment.002",
+    "his-office wall5 segment.003",
+    "his-office wall5 segment.004",
+    "his-office wall5 segment.005",
+    "his-office wall5 segment.006"
+  ],
+  "original_object_transforms_preserved": true,
+  "old_Amy_furniture_count": 0,
+  "new_proposal_furniture_count": 0,
+  "status": "Starting shell, pending audited radiator and closet/cupboard corrections",
+  "template_cameras": {
+    "room-a": {
+      "eye_blender_m": [
+        -3.46,
+        -2.34,
+        3.125
+      ],
+      "target_blender_m": [
+        -6.3,
+        -0.32,
+        2.615
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "is_final": false
+    },
+    "room-b": {
+      "eye_blender_m": [
+        -7.48,
+        -2.27,
+        3.125
+      ],
+      "target_blender_m": [
+        -4.78,
+        -0.23,
+        2.615
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "is_final": false
+    },
+    "room-c": {
+      "eye_blender_m": [
+        -7.42,
+        -0.07,
+        3.125
+      ],
+      "target_blender_m": [
+        -4.8,
+        -2.2,
+        2.615
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "is_final": false
+    },
+    "room-d": {
+      "eye_blender_m": [
+        -4.14,
+        -0.07,
+        3.125
+      ],
+      "target_blender_m": [
+        -6.55,
+        -2.14,
+        2.615
+      ],
+      "lens_mm": 24,
+      "sensor_width_mm": 36,
+      "horizontal_FOV_deg": 73.73979529168804,
+      "is_final": false
+    }
+  }
+}

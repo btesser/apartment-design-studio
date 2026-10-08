@@ -1,0 +1,54 @@
+{
+  "official_assets": [
+    {
+      "product": "secondary-workspace",
+      "official_asset": "/workspace/his-office-redesign/products/candidates/official-3d-assets/alex-drawers.glb",
+      "original_bounds_m": [
+        [
+          -0.1805000603199005,
+          -0.2910000681877136,
+          0.0
+        ],
+        [
+          0.1805000603199005,
+          0.29100000858306885,
+          0.7001201510429382
+        ]
+      ],
+      "small_product_only_fit_scale": [
+        0.9972295836410566,
+        0.9965634424279118,
+        0.9998283851096711
+      ],
+      "front": "-Y for ALEX; rotated to+Y for STORKLINTA"
+    },
+    {
+      "product": "clothes-dresser",
+      "official_asset": "/workspace/his-office-redesign/products/candidates/official-3d-assets/storklinta-low-drawers.glb",
+      "original_bounds_m": [
+        [
+          -0.34964627027511597,
+          -0.2687491178512573,
+          -0.0009510014206171036
+        ],
+        [
+          0.34949225187301636,
+          0.21346555650234222,
+          0.7517878413200378
+        ]
+      ],
+      "small_product_only_fit_scale": [
+        0.9990867015220811,
+        0.9942148704675172,
+        0.9954315593332018
+      ],
+      "front": "-Y for ALEX; rotated to+Y for STORKLINTA"
+    }
+  ],
+  "textile_pixels_edited": false,
+  "rug_texture_mapping": "Original6x9 photo body selected with UV, source pixels unchanged",
+  "provisional_closet": "Interior is unrecorded; racks/support are a conditional fit idea, hidden by closed observed leaf",
+  "generic_equipment": "One monitor/keyboard per work surface, not selected purchase products",
+  "camera_file": "camera-poses.json",
+  "canonical_layout": "layout.json"
+}

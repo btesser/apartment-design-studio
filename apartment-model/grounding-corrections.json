@@ -1,0 +1,67 @@
+{
+  "reason": "Exact visual alignment with modeled architectural floor: entry Z1.535m, lower zone Z\u22121.385m; source raw floor modes remain separate",
+  "changes": [
+    {
+      "item": "bedroom-divider",
+      "delta_z_m": 0.03,
+      "new_z_m": -1.3849999904632568
+    },
+    {
+      "item": "bedroom-king-bed",
+      "delta_z_m": 0.03,
+      "new_z_m": -1.3849999904632568
+    },
+    {
+      "item": "bedroom-large-dresser",
+      "delta_z_m": 0.03,
+      "new_z_m": -1.3849999904632568
+    },
+    {
+      "item": "bedroom-nightstand-1",
+      "delta_z_m": 0.03,
+      "new_z_m": -1.3849999904632568
+    },
+    {
+      "item": "bedroom-nightstand-2",
+      "delta_z_m": 0.03,
+      "new_z_m": -1.3849999904632568
+    },
+    {
+      "item": "bedroom-nightstand-lamp-1",
+      "delta_z_m": 0.03,
+      "new_z_m": -0.7855600118637085
+    },
+    {
+      "item": "bedroom-nightstand-lamp-2",
+      "delta_z_m": 0.03,
+      "new_z_m": -0.7855600118637085
+    },
+    {
+      "item": "bedroom-rug",
+      "delta_z_m": 0.03,
+      "new_z_m": -1.3840000629425049
+    },
+    {
+      "item": "entry-faceted-mirror",
+      "delta_z_m": -0.04,
+      "new_z_m": 2.444999933242798
+    },
+    {
+      "item": "entry-gold-console",
+      "delta_z_m": -0.04,
+      "new_z_m": 1.5350000858306885
+    },
+    {
+      "item": "entry-patchwork-rug",
+      "delta_z_m": -0.04,
+      "new_z_m": 1.5379999876022339
+    },
+    {
+      "item": "entry-rattan-shoe-cabinet",
+      "delta_z_m": -0.04,
+      "new_z_m": 1.5350000858306885
+    }
+  ],
+  "canonical_furniture_stamp": "2026-10-07 23:15:56UTC",
+  "canonical_entry_stamp": "2026-10-07 23:15:33UTC"
+}

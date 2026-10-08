@@ -1,0 +1,53 @@
+INDEPENDENT VISUAL QA — FINAL IMAGE GENERATOR OUTPUTS
+
+PASS FOR CONCEPT VISUALIZATION. No major room-topology or furniture-facing failure found in the final twelve images. Residual furniture-silhouette drift remains in Her-office A and bedroom headboards/bedding; these are approximate concept images, not exact geometry or dimension validation.
+
+Twelve final image-generator outputs, two angles each of six designed areas, compared visually to their exact modeled target views, companion views and corresponding Amy Wu boards.
+Semantic visual inspection of architecture/openings, framing and apparent room proportions, furniture location/facing/quantity with genuine occlusion allowed, A/B continuity and selected design style. This is not pixel registration or metric validation of generated photographs. Precise dimensions and clearance remain properties of the separately audited 3D model.
+
+ROOM PAIR FINDINGS
+
+basement-open A/B: PASS FOR CONCEPT VISUALIZATION
+- Beam, two columns and stair mass stay on the same sides in both reverse views; kitchenette and its two high openings remain in A.
+- Six dining chairs, cream sofa, two rust swivel chairs, black tables, shared side lamp, rug and curtain divider retain modeled arrangement and facing, allowing normal occlusion.
+- Amy's warm wood, cream upholstery, rust chairs, black marble, patterned rug and dark curtains are recognizable in both angles.
+
+entry A/B: PASS FOR CONCEPT VISUALIZATION
+- Console and clipped-corner mirror remain on their target wall in A; two-door cane shoe cabinet remains in its alcove in B.
+- Neighboring living area and Her-office glimpse retain the modeled door edges and furniture sides; no added room opening found.
+- A applies Amy's yellow botanical wallpaper only to the console wall as an intentional option. B keeps the cabinet wall white. Amy's brass/glass console, mirror and natural cane cabinet style are recognizable.
+
+living A/B: PASS FOR CONCEPT VISUALIZATION
+- Black sofa remains along brick, facing the TV/media wall across the pink border rug; oval coffee table and small side table remain in their target areas.
+- Reverse views preserve rear office door openings and the kitchen-side gap; B preserves the Her-office pink-chair/teal-table/window glimpse.
+- Amy's abstract artwork, brass/white sconces, patterned pink/cream pillows, plum throw and fluted white media cabinet are recognizable.
+
+his-office A/B: PASS FOR CONCEPT VISUALIZATION
+- Desk stays against the same white wall with chair facing its monitor; three shelf columns remain on the same wall, with correct dome lamp at window and slim LED lamp by shelving.
+- A retains one visible tall window and dark rear/closet door; B retains the right-side living doorway and sofa glimpse. No extra window or doorway found.
+- Amy's walnut worktop and shelves, black mesh chair, black lamps and distressed cream/black rug are coherent between both views.
+
+her-office A/B: PASS FOR CONCEPT VISUALIZATION
+- A keeps two existing window openings on the front wall, including the cropped second window, and keeps vanity/chest on the same wall. Pink chair faces the vanity; the inward-angled cream loveseat, teal table and circular pink rug remain coherent with reverse view B.
+- B retains the closed white fireplace panel below the artwork on brick, correct living entry frame and its TV/media/coffee-table glimpse; it adds no office window behind the camera.
+- Amy's fluted natural-oak vanity, gold-edged LED mirror, fluted white chest, pink velvet/gold chair, shell-back ivory loveseat, teal table, mottled pink rug and sheers are recognizable. Her A and B remain plausible complementary views with different genuine occlusions.
+- Residual approximation: In A, vanity and mirror remain somewhat wider and shifted left from their exact target envelopes after one correction. Furniture remains on the correct wall and chair faces the vanity.
+
+bedroom-flex A/B: PASS FOR CONCEPT VISUALIZATION
+- A preserves the bed axis and blank headboard wall, two tightly placed nightstands/lamps and actual gym/access doorway at right. It adds no curtain behind the headboard and no window.
+- B keeps the curtain divider on its original side plane, not the headboard wall, and retains the mostly cropped dresser fragment at extreme left and a visibly constrained foot passage. No enlarged opening or exterior window is introduced.
+- Amy's walnut-edged cane arch, oat linen, moss green throw and pillows, dark floral lumbar, natural three-drawer stands, brass/linen lamps, muted green floral rug and sepia curtains are coherent between the pair. Dark basement tile remains where visible rather than changing to hardwood.
+- The modeled bed-foot/dresser gap is 0.46988m. The image preserves its visibly tight character and cabinet fragment, but a photograph cannot establish that precise clearance or practical drawer use.
+- Residual approximation: Headboard arches and bedding remain somewhat fuller/taller in profile than their proxy envelopes after one correction; bed axis, headboard wall, nightstands and constrained foot passage remain coherent.
+
+LIMITS AND MINOR CONSISTENCY NOTES
+- Final output pixels are recorded individually below. Reviewed outputs preserve approximately the target modeled-view aspect of 1.44:1. Framing and apparent proportions are close but not pixel-identical.
+- Basement photos add ceiling/under-cabinet light strips, recessed lights and small tabletop decor as concept lighting/styling; these are not evidence of installed fixtures.
+- Entry A intentionally shows yellow botanical wallpaper only on the console wall; entry B shows the separate white cabinet wall. Entry furniture locations remain provisional in the underlying model.
+- The living artwork visible in entry A remains a pastel-shape interpretation of the proxy, while the dedicated living pair uses Amy's painterly collage. Mounted position/size agree; the exact artwork finish varies across these concept views.
+- Some generated living/office backgrounds retain a sharp horizontal gray proxy shading band. It reads as a finish/lighting edge, not a new partition; wall finish should be selected separately.
+- Her-office A vanity/mirror remain somewhat wider and left-shifted from their model envelopes. Bedroom headboard arches and bedding remain fuller/taller in profile than the proxies. Final images retain these residual approximations after one correction per affected image.
+- Small decor, textile draping, wood grain, texture, trim and product detail vary between angles. Do not use generated texture details, reflections or outdoor greenery as evidence of actual site conditions.
+- The bedroom has a modeled 0.46988m bed-foot/dresser aisle. Visual appearance cannot validate that dimension or drawer usability; keep the model/clearance note alongside the images.
+
+Rejected *-first.png iterations were excluded. JSON records exact final output/reference SHA256 fingerprints and dimensions.

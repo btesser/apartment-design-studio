@@ -1,0 +1,17 @@
+The new approach uses one measured 3D model for every design view. Room geometry comes from the Polycam scan; Amy's plans determine furniture placement and facing. No generated image determines the room size, walls, doors, or furniture coordinates.
+
+The original scan files are unchanged. All 22 textured scan chunks remain in a separate retained-scan layer. In a copied scan, 4,741 texture-black faces within a narrowly defined upstairs living-room volume were removed because they formed the identifiable captured-person reconstruction artifact. Valid architectural surfaces outside that volume were retained.
+
+The scan's metric coordinates and scale were preserved. Listing dimensions served as approximate crosschecks; the model was never stretched to force them to match. Generalized wall locations have approximately 0.05–0.12 m uncertainty. Local scan floor modes differ from the clean planar floor used for design staging, so furnishings were aligned to the actual modeled planes without changing their X/Y placement.
+
+Gap repair is reversible. Separate floor backing surfaces sit below typical recorded flooring; ceiling backing surfaces sit beyond the recorded ceiling planes. Wall continuations use the measured room outlines with preserved door and window openings. The clean modeled shell, retained photographic scan, and backing repairs can be viewed separately. False floor gaps between room polygons were filled using the recorded floor extent, including about 4.79 square meters upstairs and 2.72 square meters downstairs.
+
+The basement ceiling is approximately 2.63 m above its main floor, with a lower observed beam/soffit. Upstairs ceiling heights vary by room, approximately 2.59–3.08 m; they were not flattened to one height. The interior stair rises toward the rear. Twelve tread positions match the scan; the two upper treads and landing connection are inferred continuation to the measured upstairs floor. The stair opening remains open.
+
+The Her-office low hearth is separately tagged. Its raised support is visible in parts of the scan, while the shallow connecting hull includes inferred missing portions. Actual support occupies about 0.087 square meters; the filled hull occupies about 0.430 square meters. Furniture clearance was checked against the recorded low lip, not merely the higher fireplace trim.
+
+Lower bathroom, laundry, and boiler/utility interiors were not recorded. Their optional blue layer follows the listing's approximate topology and is explicitly marked inferred. Exact unseen dimensions, fixture sizes, and door details remain unverified. Observed kitchen, upstairs bath, window, and fireplace fixtures use approximate render forms at source-supported locations.
+
+Furniture dimensions are sourced where the proposal or retailer supplied them; other envelopes remain labeled assumptions. The full-size basement dresser is shown in its own toggleable collection and leaves about 0.47 m at the bed foot. Drawer use and circulation still require a layout decision. Entry furniture positions are provisional because Amy's source plan did not specify them.
+
+All final design images are deterministic views of integrated.blend. The accompanying camera-poses.json records position, target, lens, field of view, units, and roofless-plan settings. Lighting, finishes, and simplified furniture forms help review the proposal; they are not additional survey measurements.

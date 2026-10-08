@@ -1,0 +1,356 @@
+{
+  "reviewed_at_utc": "2026-10-08T02:39:15.191451+00:00",
+  "reviewer": "Independent visual QA agent",
+  "scope": "Twelve final image-generator outputs, two angles each of six designed areas, compared visually to their exact modeled target views, companion views and corresponding Amy Wu boards.",
+  "method": "Semantic visual inspection of architecture/openings, framing and apparent room proportions, furniture location/facing/quantity with genuine occlusion allowed, A/B continuity and selected design style. This is not pixel registration or metric validation of generated photographs. Precise dimensions and clearance remain properties of the separately audited 3D model.",
+  "overall_decision": "PASS FOR CONCEPT VISUALIZATION. No major room-topology or furniture-facing failure found in the final twelve images. Residual furniture-silhouette drift remains in Her-office A and bedroom headboards/bedding; these are approximate concept images, not exact geometry or dimension validation.",
+  "blockers": [],
+  "advisories": [
+    "Final output pixels are recorded individually below. Reviewed outputs preserve approximately the target modeled-view aspect of 1.44:1. Framing and apparent proportions are close but not pixel-identical.",
+    "Basement photos add ceiling/under-cabinet light strips, recessed lights and small tabletop decor as concept lighting/styling; these are not evidence of installed fixtures.",
+    "Entry A intentionally shows yellow botanical wallpaper only on the console wall; entry B shows the separate white cabinet wall. Entry furniture locations remain provisional in the underlying model.",
+    "The living artwork visible in entry A remains a pastel-shape interpretation of the proxy, while the dedicated living pair uses Amy's painterly collage. Mounted position/size agree; the exact artwork finish varies across these concept views.",
+    "Some generated living/office backgrounds retain a sharp horizontal gray proxy shading band. It reads as a finish/lighting edge, not a new partition; wall finish should be selected separately.",
+    "Her-office A vanity/mirror remain somewhat wider and left-shifted from their model envelopes. Bedroom headboard arches and bedding remain fuller/taller in profile than the proxies. Final images retain these residual approximations after one correction per affected image.",
+    "Small decor, textile draping, wood grain, texture, trim and product detail vary between angles. Do not use generated texture details, reflections or outdoor greenery as evidence of actual site conditions.",
+    "The bedroom has a modeled 0.46988m bed-foot/dresser aisle. Visual appearance cannot validate that dimension or drawer usability; keep the model/clearance note alongside the images."
+  ],
+  "rooms": [
+    {
+      "room": "basement-open",
+      "decision": "PASS FOR CONCEPT VISUALIZATION",
+      "generated_images": [
+        {
+          "path": "/workspace/apartment-imagegen-v3/basement-open-a.png",
+          "sha256": "19faa8842f3d563c2cb9e0a777450279e6b51a576b19c95a93667816e408f132",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        },
+        {
+          "path": "/workspace/apartment-imagegen-v3/basement-open-b.png",
+          "sha256": "161a142a463215c6e899ac86bd71700396e72879dc6dd135ecec51f3db009f12",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        }
+      ],
+      "target_model_views": [
+        {
+          "path": "/workspace/apartment-v2/room-views/basement-open-a.jpg",
+          "sha256": "2048e946c0690b740e87ef80a28d42d251a493165ebe6e91135149ef28630757",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        },
+        {
+          "path": "/workspace/apartment-v2/room-views/basement-open-b.jpg",
+          "sha256": "2a7a16f8577391c868261d7c64c046564849105f59bb87bb023be7d33c6fb608",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        }
+      ],
+      "amy_board": {
+        "path": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben BASEMENT.jpeg",
+        "sha256": "338834216f1ac541001c2c1f249ba98acac2934c5fac95d4e9c88febf6ce656b",
+        "dimensions_px": [
+          4096,
+          2587
+        ]
+      },
+      "evidence_checks": [
+        "Beam, two columns and stair mass stay on the same sides in both reverse views; kitchenette and its two high openings remain in A.",
+        "Six dining chairs, cream sofa, two rust swivel chairs, black tables, shared side lamp, rug and curtain divider retain modeled arrangement and facing, allowing normal occlusion.",
+        "Amy's warm wood, cream upholstery, rust chairs, black marble, patterned rug and dark curtains are recognizable in both angles."
+      ],
+      "major_topology_or_facing_failures_found": [],
+      "residual_furniture_silhouette_drift": null
+    },
+    {
+      "room": "entry",
+      "decision": "PASS FOR CONCEPT VISUALIZATION",
+      "generated_images": [
+        {
+          "path": "/workspace/apartment-imagegen-v3/entry-a.png",
+          "sha256": "7a44822acb0d60e89975feebf25a739bce8433fbb74889664325c75acc29546a",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        },
+        {
+          "path": "/workspace/apartment-imagegen-v3/entry-b.png",
+          "sha256": "d438d6cb71f837e3b81a22ef0916a6a6e6633ab365e79227a044b948a191b1ee",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        }
+      ],
+      "target_model_views": [
+        {
+          "path": "/workspace/apartment-v2/room-views/entry-a.jpg",
+          "sha256": "d8845c7f2ad7768530c21ab7b511a567bdcb615af6273a93c68d75096241f2f9",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        },
+        {
+          "path": "/workspace/apartment-v2/room-views/entry-b.jpg",
+          "sha256": "e318e53ab36a5cdb2d973555cced71d0aaec226fd98bff08f303b19658eb46fb",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        }
+      ],
+      "amy_board": {
+        "path": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben ENTRYWAY.jpeg",
+        "sha256": "fabb5523c6fde762e3c30f07f0b4e8f929ccb16e9745627e6e7471f27994b322",
+        "dimensions_px": [
+          596,
+          1489
+        ]
+      },
+      "evidence_checks": [
+        "Console and clipped-corner mirror remain on their target wall in A; two-door cane shoe cabinet remains in its alcove in B.",
+        "Neighboring living area and Her-office glimpse retain the modeled door edges and furniture sides; no added room opening found.",
+        "A applies Amy's yellow botanical wallpaper only to the console wall as an intentional option. B keeps the cabinet wall white. Amy's brass/glass console, mirror and natural cane cabinet style are recognizable."
+      ],
+      "major_topology_or_facing_failures_found": [],
+      "residual_furniture_silhouette_drift": null
+    },
+    {
+      "room": "living",
+      "decision": "PASS FOR CONCEPT VISUALIZATION",
+      "generated_images": [
+        {
+          "path": "/workspace/apartment-imagegen-v3/living-a.png",
+          "sha256": "0f3be93d63b79ed48667c6c87b4f1adf66c4cb79fcb39e2d7e29382359a54a75",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        },
+        {
+          "path": "/workspace/apartment-imagegen-v3/living-b.png",
+          "sha256": "bb35af4fb47f0e65fe16ccaeb51e3d2387b11f2c886cdd87ed6514350dfc46be",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        }
+      ],
+      "target_model_views": [
+        {
+          "path": "/workspace/apartment-v2/room-views/living-a.jpg",
+          "sha256": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        },
+        {
+          "path": "/workspace/apartment-v2/room-views/living-b.jpg",
+          "sha256": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        }
+      ],
+      "amy_board": {
+        "path": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg",
+        "sha256": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0",
+        "dimensions_px": [
+          2048,
+          1172
+        ]
+      },
+      "evidence_checks": [
+        "Black sofa remains along brick, facing the TV/media wall across the pink border rug; oval coffee table and small side table remain in their target areas.",
+        "Reverse views preserve rear office door openings and the kitchen-side gap; B preserves the Her-office pink-chair/teal-table/window glimpse.",
+        "Amy's abstract artwork, brass/white sconces, patterned pink/cream pillows, plum throw and fluted white media cabinet are recognizable."
+      ],
+      "major_topology_or_facing_failures_found": [],
+      "residual_furniture_silhouette_drift": null
+    },
+    {
+      "room": "his-office",
+      "decision": "PASS FOR CONCEPT VISUALIZATION",
+      "generated_images": [
+        {
+          "path": "/workspace/apartment-imagegen-v3/his-office-a.png",
+          "sha256": "0d1aba83f3b1b0455f2c607954243af9d4eaaf8fe824c53ebf6164ca2b0b43cc",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        },
+        {
+          "path": "/workspace/apartment-imagegen-v3/his-office-b.png",
+          "sha256": "d7ae3c98c672ffb9547717926fa26efe1b579ced008b167e91a15d7e8b4fe92b",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        }
+      ],
+      "target_model_views": [
+        {
+          "path": "/workspace/apartment-v2/room-views/his-office-a.jpg",
+          "sha256": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        },
+        {
+          "path": "/workspace/apartment-v2/room-views/his-office-b.jpg",
+          "sha256": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        }
+      ],
+      "amy_board": {
+        "path": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg",
+        "sha256": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5",
+        "dimensions_px": [
+          4035,
+          2595
+        ]
+      },
+      "evidence_checks": [
+        "Desk stays against the same white wall with chair facing its monitor; three shelf columns remain on the same wall, with correct dome lamp at window and slim LED lamp by shelving.",
+        "A retains one visible tall window and dark rear/closet door; B retains the right-side living doorway and sofa glimpse. No extra window or doorway found.",
+        "Amy's walnut worktop and shelves, black mesh chair, black lamps and distressed cream/black rug are coherent between both views."
+      ],
+      "major_topology_or_facing_failures_found": [],
+      "residual_furniture_silhouette_drift": null
+    },
+    {
+      "room": "her-office",
+      "decision": "PASS FOR CONCEPT VISUALIZATION",
+      "generated_images": [
+        {
+          "path": "/workspace/apartment-imagegen-v3/her-office-a.png",
+          "sha256": "ad5266c2d00f01d431ad9094ba519001069d6b1e8cc55619d8570a273cbe7bb0",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        },
+        {
+          "path": "/workspace/apartment-imagegen-v3/her-office-b.png",
+          "sha256": "f751ad4763ea2b3eee03035048807d3955e2581168fe6d4e3d2ffa7dd09496f4",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        }
+      ],
+      "target_model_views": [
+        {
+          "path": "/workspace/apartment-v2/room-views/her-office-a.jpg",
+          "sha256": "6655f3007fd426eb345f2e056479719db2956b7f40f9fc00e668b9814fdc4844",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        },
+        {
+          "path": "/workspace/apartment-v2/room-views/her-office-b.jpg",
+          "sha256": "bafda9797ed62e8e8c3c03dadb0b58503ea8b9dddea6707907f1f993abcbd293",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        }
+      ],
+      "amy_board": {
+        "path": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HER OFFICE.jpeg",
+        "sha256": "26a25d178de2bc029fa5de696379904ccafd0948643575a281ece790bc328185",
+        "dimensions_px": [
+          4096,
+          2548
+        ]
+      },
+      "evidence_checks": [
+        "A keeps two existing window openings on the front wall, including the cropped second window, and keeps vanity/chest on the same wall. Pink chair faces the vanity; the inward-angled cream loveseat, teal table and circular pink rug remain coherent with reverse view B.",
+        "B retains the closed white fireplace panel below the artwork on brick, correct living entry frame and its TV/media/coffee-table glimpse; it adds no office window behind the camera.",
+        "Amy's fluted natural-oak vanity, gold-edged LED mirror, fluted white chest, pink velvet/gold chair, shell-back ivory loveseat, teal table, mottled pink rug and sheers are recognizable. Her A and B remain plausible complementary views with different genuine occlusions."
+      ],
+      "major_topology_or_facing_failures_found": [],
+      "residual_furniture_silhouette_drift": "In A, vanity and mirror remain somewhat wider and shifted left from their exact target envelopes after one correction. Furniture remains on the correct wall and chair faces the vanity."
+    },
+    {
+      "room": "bedroom-flex",
+      "decision": "PASS FOR CONCEPT VISUALIZATION",
+      "generated_images": [
+        {
+          "path": "/workspace/apartment-imagegen-v3/bedroom-flex-a.png",
+          "sha256": "4d1915b87f33dffa3806ec4501760ce7d2aba8b11ea14f98fab9e6593170b328",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        },
+        {
+          "path": "/workspace/apartment-imagegen-v3/bedroom-flex-b.png",
+          "sha256": "34bdb0667891121447a4f6f503f087cc361b1298b58da21f8cecbcf4f628425d",
+          "dimensions_px": [
+            1505,
+            1045
+          ]
+        }
+      ],
+      "target_model_views": [
+        {
+          "path": "/workspace/apartment-v2/room-views/bedroom-flex-a.jpg",
+          "sha256": "4cab0fb2a5343c9ed4a851c7d0f3f9b10453f66427a23912812e134de327ff91",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        },
+        {
+          "path": "/workspace/apartment-v2/room-views/bedroom-flex-b.jpg",
+          "sha256": "32fc4e4b0fc84994c374548ec5bb6bd878c0cfec87c9160d26ab6f495b15f950",
+          "dimensions_px": [
+            1440,
+            1000
+          ]
+        }
+      ],
+      "amy_board": {
+        "path": "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben BEDROOM.jpeg",
+        "sha256": "fd8a0aebef3a07538e903f9e5949d1838e8f128b27c0ff2101702f2703b70f33",
+        "dimensions_px": [
+          3950,
+          2796
+        ]
+      },
+      "evidence_checks": [
+        "A preserves the bed axis and blank headboard wall, two tightly placed nightstands/lamps and actual gym/access doorway at right. It adds no curtain behind the headboard and no window.",
+        "B keeps the curtain divider on its original side plane, not the headboard wall, and retains the mostly cropped dresser fragment at extreme left and a visibly constrained foot passage. No enlarged opening or exterior window is introduced.",
+        "Amy's walnut-edged cane arch, oat linen, moss green throw and pillows, dark floral lumbar, natural three-drawer stands, brass/linen lamps, muted green floral rug and sepia curtains are coherent between the pair. Dark basement tile remains where visible rather than changing to hardwood.",
+        "The modeled bed-foot/dresser gap is 0.46988m. The image preserves its visibly tight character and cabinet fragment, but a photograph cannot establish that precise clearance or practical drawer use."
+      ],
+      "major_topology_or_facing_failures_found": [],
+      "residual_furniture_silhouette_drift": "Headboard arches and bedding remain somewhat fuller/taller in profile than their proxy envelopes after one correction; bed axis, headboard wall, nightstands and constrained foot passage remain coherent."
+    }
+  ],
+  "excluded_rejected_iterations": [
+    "bedroom-flex-a-first.png",
+    "bedroom-flex-b-first.png",
+    "her-office-a-first.png"
+  ]
+}

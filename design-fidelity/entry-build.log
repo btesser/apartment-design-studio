@@ -1,0 +1,265 @@
+Info: Saved "entry-design.blend"
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+23:15:33 | INFO: Starting glTF 2.0 export
+23:15:33 | INFO: Extracting primitive: asymmetric glass shelf
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: asymmetric glass shelf.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass shelf rail
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass shelf rail.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass shelf rail.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass shelf rail.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass side rail
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass side rail.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass top rail
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: brass top rail.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: glass top
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: slender brass upright
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: slender brass upright.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: slender brass upright.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: slender brass upright.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.004
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.005
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.006
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: beveled glass perimeter.007
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: Faceted glass mirror
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.004
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.005
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.006
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.007
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.008
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.009
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.010
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.011
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.012
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.013
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.014
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.015
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.016
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.017
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.018
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.019
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.020
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.021
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.022
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.023
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.024
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.025
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.026
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.027
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.028
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.029
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.030
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.031
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.032
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.033
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.034
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.035
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.036
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.037
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.038
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.039
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.040
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane horizontal strand.041
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.004
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.005
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.006
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.007
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.008
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.009
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.010
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.011
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.012
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.013
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.014
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.015
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.016
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.017
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.018
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.019
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.020
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.021
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.022
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.023
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.024
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.025
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.026
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.027
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.028
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.029
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.030
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.031
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.032
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.033
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.034
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.035
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.036
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.037
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.038
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.039
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.040
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane vertical strand.041
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: natural oak carcass
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: oak door
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: oak door handle
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: oak door handle.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: oak door.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: tapered cabinet leg
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: tapered cabinet leg.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: tapered cabinet leg.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: tapered cabinet leg.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane door capsule
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: cane door capsule.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: flatwoven rug
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: patchwork motif
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: patchwork motif.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: patchwork motif.002
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: patchwork motif.003
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: patchwork motif.004
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: patchwork motif.005
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: rug stitched edge
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Extracting primitive: rug stitched edge.001
+23:15:33 | INFO: Primitives created: 1
+23:15:33 | INFO: Finished glTF 2.0 export in 0.3426525592803955 s
+
+ENTRY_MODEL_READY 132 {'console_min_x_m': 1.2634, 'cabinet_max_x_m': 3.679898, 'cabinet_to_stair_void_y_clearance_m': 0.540021, 'console_to_cabinet_walk_width_m': 1.813502, 'doorway_y_m': 1.84, 'doorway_x_interval_m': [1.7, 2.78]}
+Blender 4.3.2
+
+Blender quit

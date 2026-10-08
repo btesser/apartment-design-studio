@@ -1,0 +1,62 @@
+{
+  "timestamp_utc": "2026-10-08T16:16:08.710777+00:00",
+  "verdict": "PASS FOR CONCEPT VISUALIZATION",
+  "method": "Independent visual comparison of untouched final generator PNGs with locked model cameras, companion views, product photographs and current geometric fit findings. No image/model edits performed by QA.",
+  "views": {
+    "a": {
+      "verdict": "PASS FOR CONCEPT VISUALIZATION",
+      "observations": [
+        "Preserves target room/window/exterior door and two desk positions with room-facing fronts, two task chairs facing the desks, left ALEX and open knee bay.",
+        "Retains window-side cat tree/lamp, selected rug and Blue Geometric above UPLIFT. Low third wicker basket can be naturally occluded by chair/crop.",
+        "Corrected open-center Honeywell head and dark amber/striped Pheasantwood appearance agree with product references."
+      ],
+      "file": "/workspace/his-office-redesign/images/concept-a.png",
+      "sha256": "bded341e31a5c3799b9a145fa405acf3c56d6547df1f4ddfa414bd35b7eff501",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "matching_model_view": "/workspace/his-office-redesign/model/renders/room-a.jpg"
+    },
+    "b": {
+      "verdict": "PASS FOR CONCEPT VISUALIZATION",
+      "observations": [
+        "Corrected artwork: only clipped Blue Geometric appears at far left near the UPLIFT position; no artwork above secondary desk and no Bold Blue on white wall.",
+        "Preserves closet/cupboard, living door, secondary desk with left ALEX, chair facing and visitor seat facing the room.",
+        "Richer Pheasantwood, black mesh chairs, teal corduroy and selected rug remain consistent across views."
+      ],
+      "residual_variations": [
+        "Small round silver tabletop spot/grommet on secondary desk is a generated hardware detail absent from modeled IKEA top."
+      ],
+      "file": "/workspace/his-office-redesign/images/concept-b.png",
+      "sha256": "cb4d975935dbfe0a50b04048ad4afafaa42c20968486ed16c217dda13ccc19c3",
+      "pixels": [
+        1506,
+        1045
+      ],
+      "matching_model_view": "/workspace/his-office-redesign/model/renders/room-b.jpg"
+    },
+    "c": {
+      "verdict": "PASS FOR CONCEPT VISUALIZATION",
+      "observations": [
+        "Preserves brick wall/chimney and closed recessed white arch, correct Bold Blue artwork, dresser bay, radiator beside exterior door and window-side cat tree.",
+        "Corrected projecting hearth to the shallow lower brick course within the modeled chimney footprint.",
+        "Removed stray cropped lamp head; retained actual window frame/sash. Task/visitor chair facing and visible quantity remain consistent with target and companions."
+      ],
+      "file": "/workspace/his-office-redesign/images/concept-c.png",
+      "sha256": "10011853ae25b018c826fcfc70e6f1e4e25b254bdd34ab610743913b4bdc9aff",
+      "pixels": [
+        1507,
+        1044
+      ],
+      "matching_model_view": "/workspace/his-office-redesign/model/renders/room-c.jpg"
+    }
+  },
+  "cross_angle_consistency": "The three final views maintain room features, desk/chair facing, left ALEX/open knee bay, visitor seat, rug orientation and opposite-wall artwork. True occlusion/cropping is allowed.",
+  "limitations": [
+    "Image QA is visual, not metric validation. The measured/modelled scene and fit proofs are the geometry authority.",
+    "Generated material grain, fine silhouettes/hardware, lighting and exterior window scenery are representative.",
+    "Cat-tree full branch reach, lamp U-base, closet interior, actual door swings and tight installation clearances retain model-report field checks."
+  ],
+  "generation_manifest_sha256": "3b37d40207fba3416d670a28bb126d81d47001dc4483927cda1e3a115cfd0c70"
+}

@@ -1,0 +1,49 @@
+Design fidelity review
+Final source/style review: Amy boards + selected shopping rows + independently registered floor-plan fragments. No measured geometry changed.
+Registered facing directions pass; high-impact source style omissions fixed.
+
+upstairs-living
+Sofa back at brick -Y wall, faces +Y; media on opposite solid wall run. Registration matches Amy.
+Present: Charcoal four-seat sofa concept, Pink/tan/terracotta graphic rug, White fluted console, Ivory oval coffee table, White/gold side tables
+Implemented: art-above-sofa — Add gold-framed multicolor pink abstract art at fixed measured wall; concept appearance should be labeled. Row19 is quantity1 while row18 board artwork is quantity0.
+Implemented: sconces — Add pair of folded/fan white shades and gold hardware beside focal art.
+Confidence: Existing sofa size is still an explicit estimate; exact selected artwork differs from board option.
+
+her-office
+Vanity/chest on +Y wall; chair faces +Y. Loveseat at +X/-Y corner faces inward. Registration matches Amy.
+Present: Natural oak vanity with gold hardware and mirror, Blush rolling vanity chair, White fluted chest, Ivory scalloped/channel loveseat with gold legs, Pink round rug, Teal side table
+Implemented: mini-chandelier — Add gold/brass branch chandelier centered over round rug; preserve measured ceiling.
+Implemented: window-drapes — Add creamy sheer panels at two +X windows, pulled aside so openings remain visible.
+Implemented: fireplace-art — Add blush/cream/gold gold-framed art above existing fireplace; spec40×30in.
+Confidence: Drape color text is incomplete in sheet; creamy sheer appearance comes from Amy board. No unselected PAX dimensions or position should be invented.
+
+his-office
+Desk on +Y wall near rear -X end; desk chair faces +Y. Registration matches Amy.
+Present: Walnut standing desk concept, Black task chair, Light-brown/black abstract rug, Three dimensioned dark-wood bookcases, Slim wood/steel console, Two floor-lamp placeholders
+Implemented: black-dome-floor-lamp — Replace generic linen cone with black dome/hemisphere shade,65in high.
+Implemented: led-rod-floor-lamp — Replace generic cone shade with thin vertical LED rod and low disk base,57in high.
+Confidence: Existing desk dimensions remain explicitly estimated; shelf quantity3 is from sheet even though board shows2.
+
+basement-living-dining
+Sofa back toward -X, lounge faces +X; orange chairs turn inward; dining lies farther +X. Registration matches Amy.
+Present: Beige boucle sofa, Two orange swivel-chair concepts, Black round nesting-table concepts, Ivory rug with charcoal organic lines, Brown six-place dining table, Six light chair concepts, Wood side table and black lamp
+Implemented: sofa-back — Use rounded arms and channel/scalloped back rather than plain box back.
+Implemented: orange-swivel-chairs — Use curved tub/wraparound back rather than rectangular backs.
+Implemented: dining-chair-color — Warm material toward camel selected in sheet.
+Confidence: Round nesting-table footprint inconsistent in retailer spec and remains flagged. Divider is the only supported dark drape position; do not invent a separate basement window wall just because board presents curtains behind sofa.
+
+bedroom-flex
+Dark walnut king headboard against -Y; bed foot toward +Y; dresser opposite. Registration matches Amy.
+Present: Arched walnut/cane bedframe, Oat bedding with moss top throw and teal lumbar, Natural nightstands, Two lamp concepts, Muted traditional green rug, Biscotti dresser, Sepia-ebony divider
+Implemented: nightstand-lamp-shades — Tall narrow cylindrical natural/linen shades rather than generic cones.
+Confidence: Moss top surface should be labeled throw, not duvet: row64 duvet cover is Oat Chambray,row72 Fresh Moss throw. Divider moved for dimensioned fit; clearance/ceiling limits remain flagged rather than concealed. Full-size118-inch dresser is separate optional/proposed layer; default furniture scene excludes it pending fit confirmation.
+
+music-gym
+Enclosed former bedroom is music/gym per revised email, not sleeping room.
+Present: 4×6ft rug concept
+Confidence: Source does not supply equipment specifications; inventing bulky equipment could falsify fit.
+
+entry
+Exact furnishing location is not shown by source plan.
+Present: Gold/glass22-inch console, 24×16-inch beveled faceted mirror, Exact-sized natural/cane shoe cabinet, 2×3ft red/sage patchwork rug concept
+Confidence: Entry staging added as separate entry-design.glb/.blend optional layer. All positions provisional because source plan has no entry placements. No final wallpaper or paint selection implied. Stairvoid clearance0.540m and console-to-cabinet passage1.814m validated.

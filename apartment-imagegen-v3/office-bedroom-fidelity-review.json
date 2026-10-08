@@ -1,0 +1,54 @@
+{
+  "rooms": [
+    {
+      "room_angle": "her-office-a",
+      "final_output": "/workspace/apartment-imagegen-v3/her-office-a.png",
+      "reviewed_against": [
+        "/workspace/apartment-v2/room-views/her-office-a.jpg",
+        "/workspace/apartment-v2/room-views/her-office-b.jpg"
+      ],
+      "observations": "Topology/orientation/count retained; residual vanity/mirror sizing/position drift remains after retry, so not dimension-certified.",
+      "final_attempt_count": 2,
+      "architecture_and_topology": "No new openings/windows, mirroring, fireplace relocation or room reassignment observed. Principal furniture axes and visible constrained zones match model.",
+      "status": "Accepted photoreal concept with residual silhouette/size drift; not dimension-certified"
+    },
+    {
+      "room_angle": "her-office-b",
+      "final_output": "/workspace/apartment-imagegen-v3/her-office-b.png",
+      "reviewed_against": [
+        "/workspace/apartment-v2/room-views/her-office-b.jpg",
+        "/workspace/apartment-v2/room-views/her-office-a.jpg"
+      ],
+      "observations": "Strong topological/camera fidelity, sealed fireplace and living sightline retained.",
+      "final_attempt_count": 1,
+      "architecture_and_topology": "No new openings/windows, mirroring, fireplace relocation or room reassignment observed. Principal furniture axes and visible constrained zones match model.",
+      "status": "Passed semantic geometry review"
+    },
+    {
+      "room_angle": "bedroom-flex-a",
+      "final_output": "/workspace/apartment-imagegen-v3/bedroom-flex-a.png",
+      "reviewed_against": [
+        "/workspace/apartment-v2/room-views/bedroom-flex-a.jpg",
+        "/workspace/apartment-v2/room-views/bedroom-flex-b.jpg"
+      ],
+      "observations": "Doorway/divider/bed axis, two stands/lamps and narrow dresser passage retained; headboard and soft furniture silhouettes remain somewhat taller/fuller than deterministic model after retry, so not dimension-certified.",
+      "final_attempt_count": 2,
+      "architecture_and_topology": "No new openings/windows, mirroring, fireplace relocation or room reassignment observed. Principal furniture axes and visible constrained zones match model.",
+      "status": "Accepted photoreal concept with residual silhouette/size drift; not dimension-certified"
+    },
+    {
+      "room_angle": "bedroom-flex-b",
+      "final_output": "/workspace/apartment-imagegen-v3/bedroom-flex-b.png",
+      "reviewed_against": [
+        "/workspace/apartment-v2/room-views/bedroom-flex-b.jpg",
+        "/workspace/apartment-v2/room-views/bedroom-flex-a.jpg"
+      ],
+      "observations": "Doorway/divider/bed axis, two stands/lamps and narrow dresser passage retained; headboard and soft furniture silhouettes remain somewhat taller/fuller than deterministic model after retry, so not dimension-certified.",
+      "final_attempt_count": 2,
+      "architecture_and_topology": "No new openings/windows, mirroring, fireplace relocation or room reassignment observed. Principal furniture axes and visible constrained zones match model.",
+      "status": "Accepted photoreal concept with residual silhouette/size drift; not dimension-certified"
+    }
+  ],
+  "limitations": "Image generation is a style visualization, not a replacement for verified geometry. Exact product envelopes and clearances remain authoritative in the unchanged 3D model.",
+  "method": "Each image generated using target model angle first, opposite modeled angle second, Amy's board third. No pixel postprocessing; PNGs copied from generator originals."
+}

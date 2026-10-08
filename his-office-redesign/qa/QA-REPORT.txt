@@ -1,0 +1,39 @@
+HIS OFFICE REDESIGN — INDEPENDENT FIT QA
+PASS FOR NOMINAL MODELED FIT; FIELD VERIFICATION REQUIRED
+
+The frozen layout preserves the measured metric room and corrected rear window, rear door, closet/cupboard, radiator and recessed fireplace. Blender [X,Y,Z] exports to GLTF [X,Z,-Y] without rescaling or mirroring. All 14 product roots match the canonical layout. All 188 furniture-layer meshes, including the provisional closet support, exist with identical world bounds in the integrated GLB. Its 270 mesh nodes exclude only the presentation sky from 271 native meshes.
+
+Actual evaluated component tests find zero unintended cross-product, wall, fixed-fixture or closed-door triangle intersections. Expected thin soft rug-pad contacts are separately documented. All 32 used image nodes have available pixel data and packed/existing backing files; exported GLB images are embedded. Four browser viewpoints agree with the frozen layout and restored materials. All four clear starts accept actual W input and move, with zero page errors. Native and exported-viewer fireplace topology each passes 13 rays: white infill lies 11.3 cm behind the brick face.
+
+The corrected Honeywell head has two narrow LED bars surrounding an empty center within unchanged product bounds. Native and current runtime tests each pass nine empty-aperture rays plus four LED/rim positive controls. One exact left-bar triangulation-edge probe misses the accelerated BVH but hits twice with unpatched THREE raycasting. Offset probes hit both bars. This numerical precision diagnostic does not indicate missing exported geometry or require a model change.
+
+Two workstations: main desk faces room (-Y), both task chairs face their work surfaces (+Y); secondary ALEX pedestal is on the left, with about 89.5 cm modeled knee bay to the right legs. Both full 70.104 cm caster circles stay on the 6×9 rug at work and after 45 cm pullback. Actual chair meshes show no unintended triangle crossings at 17 pullback steps; the only swept candidate is the main chair/keypad. A conservative 50 cm planning-person route connects entry and rear door in both states; 55 cm fails. This is a tight nominal plan, not a surveyed human-clearance or compliance claim.
+
+The clothes dresser's verified 27.62 cm drawer travel leaves about 79 cm to main caster in working position, about 34 cm with chair fully pulled back. Tuck the chair for drawer access. Nominal approach offsets include dresser/rear-door box 3.1 cm, secondary desk/closet approach 5 cm, visitor/hearth buffer 8.9 cm and visitor/entry approach 12.9 cm. These planning boxes are not measured swing envelopes. Selected STORKLINTA requires Anchor/Unlock wall fixing; its model sits about 8.7 cm forward of the corrected brick face. Approved masonry attachment/spacer or final on-site position must be verified; mounting hardware is not modeled.
+
+Owned-product checks: modeled lamp U-base clears desk steel foot by about 11 cm; low cat basket lies about 15.3 cm below seated tabletop underside (about 7.5 cm at lowest official height). Upper desk assembly/equipment swept bounds over 66.167–131.191 cm nominal top height do not overlap cat/lamp/fixed surfaces. The only swept candidate was keypad/chair; 33 evenly spaced heights plus current/mid/endpoints showed no triangle crossings. This verifies external proxy clearance, not cables, actuator internals, loading or stability.
+
+All three untouched final generated PNGs pass concept visual review against model cameras, companion angles and selected real product photos. Room features, workstation fronts/chair facing, left ALEX knee bay and opposite-wall artwork remain coherent. A has the corrected open lamp head; B retains one cosmetic secondary-tabletop spot/grommet; C preserves the shallow brick course within the chimney footprint. Generated pixels do not establish metric dimensions. Image-QA records accepted file hashes and visual limits.
+
+The final review PDF independently passes document checks: nine pages, 14 clickable source links, no draft labels or out-of-page text, and matching budget/operation qualifications. Product-card and sources-page layout were visually inspected.
+
+Limits requiring field checks: room outline is generalized by 5–12 cm; actual cat-tree branch/basket offsets and lamp U-base shape are unpublished; top basket proxy is only about 2 cm off rear wall; door hinges/swings are inferred; closet interior and hanging hems are unrecorded. Confirm these before installation and rotate/reposition the owned pieces as needed. Three GREJIG racks are provisional behind the observed closed closet. Rug compression is not simulated. Triangle-surface tests do not rule out every fully contained solid, and sampled operation candidates do not mathematically prove every intermediate state. Numerical export tolerances are not site accuracy.
+
+Authoritative proofs:
+  window-calibration-check.json
+  integrated-mesh-checks.json
+  export-parity.json
+  material-availability.json
+  routing-analysis.json
+  operation-clearances.json
+  desk-height-operation.json
+  chair-pullback-operation.json
+  fireplace-recess-check.json
+  lamp-aperture-check.json
+  viewer-independent-checks.json
+  viewer-lamp-aperture-check.json
+  image-QA.json
+  image-QA.txt
+  pdf-layout-check.json
+
+Frozen native scene SHA256: 607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a

@@ -1,0 +1,2774 @@
+{
+  "units": "metres",
+  "coordinates": {
+    "native": "Blender Z-up",
+    "gltf": "Y-up",
+    "transform": "GLTF [x,y,z] = Blender [x,z,-y]",
+    "scale": 1,
+    "units": "meters",
+    "normalization": "none"
+  },
+  "assets": {
+    "scan": "scan.glb",
+    "architecture": "architectural-shell.glb",
+    "repairs": "repair-shell.glb",
+    "furniture": "proposal-furniture.glb",
+    "fixtures": "observed-fixtures.glb",
+    "utilities": "inferred-utility-shell.glb",
+    "dresser": "proposed-dresser.glb",
+    "entry": "entry-design.glb"
+  },
+  "floorOrder": [
+    "upper",
+    "basement"
+  ],
+  "floors": {
+    "basement": {
+      "label": "Basement",
+      "height": -1.385,
+      "ceiling": 1.245,
+      "maxCeiling": 1.255,
+      "bounds": [
+        -7.9,
+        8.0,
+        -2.9,
+        2.8
+      ],
+      "eyeHeight": 1.58,
+      "walkablePolygons": [
+        [
+          [
+            -7.36,
+            2.65
+          ],
+          [
+            -3.8,
+            2.48
+          ],
+          [
+            -3.8,
+            -0.52
+          ],
+          [
+            -6.58,
+            -0.52
+          ],
+          [
+            -6.58,
+            -1.95
+          ],
+          [
+            -7.8,
+            -1.95
+          ],
+          [
+            -7.8,
+            -1.08
+          ],
+          [
+            -7.36,
+            -1.08
+          ]
+        ],
+        [
+          [
+            -3.8,
+            2.48
+          ],
+          [
+            0.35,
+            2.42
+          ],
+          [
+            0.35,
+            -0.66
+          ],
+          [
+            -3.8,
+            -0.61
+          ]
+        ],
+        [
+          [
+            -3.8,
+            2.48
+          ],
+          [
+            5.7,
+            2.34
+          ],
+          [
+            5.7,
+            2.14
+          ],
+          [
+            7.65,
+            2.03
+          ],
+          [
+            7.85,
+            1.31
+          ],
+          [
+            7.85,
+            -2.55
+          ],
+          [
+            5.6,
+            -2.67
+          ],
+          [
+            5.6,
+            -1.86
+          ],
+          [
+            2.1,
+            -1.86
+          ],
+          [
+            2.1,
+            -2.43
+          ],
+          [
+            -0.65,
+            -2.32
+          ],
+          [
+            -0.65,
+            -0.66
+          ],
+          [
+            -3.8,
+            -0.61
+          ]
+        ]
+      ],
+      "walkStart": [
+        7.0,
+        0.195,
+        0.4
+      ],
+      "walkLook": [
+        2.0,
+        0.195,
+        1.1
+      ]
+    },
+    "upper": {
+      "label": "Upstairs",
+      "height": 1.575,
+      "ceiling": 4.185,
+      "maxCeiling": 4.665,
+      "bounds": [
+        -8.1,
+        8.1,
+        -2.9,
+        3.0
+      ],
+      "eyeHeight": 1.58,
+      "walkablePolygons": [
+        [
+          [
+            -7.98,
+            2.79
+          ],
+          [
+            -3.08,
+            2.79
+          ],
+          [
+            -3.08,
+            1.35
+          ],
+          [
+            -3.78,
+            1.35
+          ],
+          [
+            -3.78,
+            -0.31
+          ],
+          [
+            -7.98,
+            -0.31
+          ]
+        ],
+        [
+          [
+            3.62,
+            -0.85
+          ],
+          [
+            7.88,
+            -0.85
+          ],
+          [
+            7.88,
+            2.77
+          ],
+          [
+            4.22,
+            2.77
+          ],
+          [
+            4.22,
+            0.98
+          ],
+          [
+            3.62,
+            0.98
+          ]
+        ],
+        [
+          [
+            -3.08,
+            2.81
+          ],
+          [
+            3.62,
+            2.77
+          ],
+          [
+            3.62,
+            -0.2
+          ],
+          [
+            3.73,
+            -0.2
+          ],
+          [
+            3.73,
+            -1.84
+          ],
+          [
+            1.28,
+            -1.84
+          ],
+          [
+            1.28,
+            -0.39
+          ],
+          [
+            -1.24,
+            -0.39
+          ],
+          [
+            -1.24,
+            -1.23
+          ],
+          [
+            -3.08,
+            -1.23
+          ]
+        ],
+        [
+          [
+            -7.98,
+            -0.31
+          ],
+          [
+            -3.8,
+            -0.31
+          ],
+          [
+            -3.8,
+            -1.12
+          ],
+          [
+            -1.6,
+            -1.12
+          ],
+          [
+            -1.6,
+            -2.13
+          ],
+          [
+            -4.2,
+            -2.13
+          ],
+          [
+            -4.5,
+            -2.4
+          ],
+          [
+            -6.25,
+            -2.4
+          ],
+          [
+            -6.25,
+            -2.67
+          ],
+          [
+            -7.98,
+            -2.67
+          ]
+        ],
+        [
+          [
+            -1.24,
+            -0.39
+          ],
+          [
+            1.2,
+            -0.39
+          ],
+          [
+            1.2,
+            -2.78
+          ],
+          [
+            -1.24,
+            -2.78
+          ]
+        ]
+      ],
+      "walkStart": [
+        2.6,
+        3.115,
+        0.15
+      ],
+      "walkLook": [
+        -0.8,
+        3.0,
+        1.3
+      ]
+    }
+  },
+  "rooms": [
+    {
+      "id": "his-office",
+      "label": "His office",
+      "shortLabel": "His office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -7.98,
+          2.79
+        ],
+        [
+          -3.08,
+          2.79
+        ],
+        [
+          -3.08,
+          1.35
+        ],
+        [
+          -3.78,
+          1.35
+        ],
+        [
+          -3.78,
+          -0.31
+        ],
+        [
+          -7.98,
+          -0.31
+        ]
+      ],
+      "center": [
+        -5.53,
+        1.575,
+        1.24
+      ],
+      "floorHeight": 1.575,
+      "rawFloorHeight": 1.575,
+      "ceilingHeight": 4.595,
+      "dimensionsLabel": "4.90 \u00d7 3.10 m \u00b7 main scan envelope",
+      "description": "Irregular measured room outline; geometry and furniture share the original metre scale.",
+      "eye": [
+        -3.6,
+        3.1550000000000002,
+        2.3
+      ],
+      "look": [
+        -6.0,
+        2.925,
+        0.25
+      ],
+      "orbit": [
+        -3.0300000000000002,
+        5.9750000000000005,
+        -2.8599999999999994
+      ]
+    },
+    {
+      "id": "her-office",
+      "label": "Her office",
+      "shortLabel": "Her office",
+      "floor": "upper",
+      "polygon": [
+        [
+          3.62,
+          -0.85
+        ],
+        [
+          7.88,
+          -0.85
+        ],
+        [
+          7.88,
+          2.77
+        ],
+        [
+          4.22,
+          2.77
+        ],
+        [
+          4.22,
+          0.98
+        ],
+        [
+          3.62,
+          0.98
+        ]
+      ],
+      "center": [
+        5.75,
+        1.585,
+        0.96
+      ],
+      "floorHeight": 1.585,
+      "rawFloorHeight": 1.585,
+      "ceilingHeight": 4.665,
+      "dimensionsLabel": "4.26 \u00d7 3.62 m \u00b7 main scan envelope",
+      "description": "Irregular measured room outline; geometry and furniture share the original metre scale.",
+      "eye": [
+        4.32,
+        3.165,
+        0.25
+      ],
+      "look": [
+        6.6,
+        2.935,
+        1.05
+      ],
+      "orbit": [
+        8.25,
+        5.985,
+        -3.1399999999999997
+      ]
+    },
+    {
+      "id": "living",
+      "label": "Living room",
+      "shortLabel": "Living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -3.08,
+          2.81
+        ],
+        [
+          3.62,
+          2.77
+        ],
+        [
+          3.62,
+          -0.2
+        ],
+        [
+          3.73,
+          -0.2
+        ],
+        [
+          3.73,
+          -1.84
+        ],
+        [
+          1.28,
+          -1.84
+        ],
+        [
+          1.28,
+          -0.39
+        ],
+        [
+          -1.24,
+          -0.39
+        ],
+        [
+          -1.24,
+          -1.23
+        ],
+        [
+          -3.08,
+          -1.23
+        ]
+      ],
+      "center": [
+        0.32499999999999996,
+        1.535,
+        0.485
+      ],
+      "floorHeight": 1.535,
+      "rawFloorHeight": 1.535,
+      "ceilingHeight": 4.185,
+      "dimensionsLabel": "6.70 \u00d7 3.20 m \u00b7 main scan envelope",
+      "description": "Irregular measured room outline; geometry and furniture share the original metre scale.",
+      "eye": [
+        2.6,
+        3.115,
+        0.15
+      ],
+      "look": [
+        -0.8,
+        2.885,
+        1.3
+      ],
+      "orbit": [
+        2.825,
+        5.9350000000000005,
+        -3.6149999999999998
+      ]
+    },
+    {
+      "id": "upper-kitchen",
+      "label": "Kitchen",
+      "shortLabel": "Kitchen",
+      "floor": "upper",
+      "polygon": [
+        [
+          -7.98,
+          -0.31
+        ],
+        [
+          -3.8,
+          -0.31
+        ],
+        [
+          -3.8,
+          -1.12
+        ],
+        [
+          -1.6,
+          -1.12
+        ],
+        [
+          -1.6,
+          -2.13
+        ],
+        [
+          -4.2,
+          -2.13
+        ],
+        [
+          -4.5,
+          -2.4
+        ],
+        [
+          -6.25,
+          -2.4
+        ],
+        [
+          -6.25,
+          -2.67
+        ],
+        [
+          -7.98,
+          -2.67
+        ]
+      ],
+      "center": [
+        -4.79,
+        1.565,
+        -1.49
+      ],
+      "floorHeight": 1.565,
+      "rawFloorHeight": 1.565,
+      "ceilingHeight": 4.515,
+      "dimensionsLabel": "6.38 \u00d7 2.36 m \u00b7 overall envelope",
+      "description": "Irregular measured room outline; geometry and furniture share the original metre scale.",
+      "eye": [
+        -2.5,
+        3.145,
+        -1.65
+      ],
+      "look": [
+        -6.3,
+        2.915,
+        -1.2
+      ],
+      "orbit": [
+        -2.29,
+        5.965,
+        -5.59
+      ]
+    },
+    {
+      "id": "bathroom-upper",
+      "label": "Upstairs bathroom",
+      "shortLabel": "Bath",
+      "floor": "upper",
+      "polygon": [
+        [
+          -1.24,
+          -0.39
+        ],
+        [
+          1.2,
+          -0.39
+        ],
+        [
+          1.2,
+          -2.78
+        ],
+        [
+          -1.24,
+          -2.78
+        ]
+      ],
+      "center": [
+        -0.020000000000000018,
+        1.575,
+        -1.585
+      ],
+      "floorHeight": 1.575,
+      "rawFloorHeight": 1.575,
+      "ceilingHeight": 4.165,
+      "dimensionsLabel": "2.44 \u00d7 2.39 m \u00b7 overall envelope",
+      "description": "Irregular measured room outline; geometry and furniture share the original metre scale.",
+      "eye": [
+        0.7,
+        3.1550000000000002,
+        -0.95
+      ],
+      "look": [
+        -0.4,
+        2.925,
+        -2.15
+      ],
+      "orbit": [
+        2.48,
+        5.9750000000000005,
+        -5.685
+      ]
+    },
+    {
+      "id": "music-gym",
+      "label": "Music / gym",
+      "shortLabel": "Music / gym",
+      "floor": "basement",
+      "polygon": [
+        [
+          -7.36,
+          2.65
+        ],
+        [
+          -3.8,
+          2.48
+        ],
+        [
+          -3.8,
+          -0.52
+        ],
+        [
+          -6.58,
+          -0.52
+        ],
+        [
+          -6.58,
+          -1.95
+        ],
+        [
+          -7.8,
+          -1.95
+        ],
+        [
+          -7.8,
+          -1.08
+        ],
+        [
+          -7.36,
+          -1.08
+        ]
+      ],
+      "center": [
+        -5.8,
+        -1.445,
+        0.35
+      ],
+      "floorHeight": -1.445,
+      "rawFloorHeight": -1.445,
+      "ceilingHeight": 1.245,
+      "dimensionsLabel": "3.56 \u00d7 3.05 m \u00b7 main scan envelope",
+      "description": "Amy\u2019s revised room use. Furniture here is a provisional functional layout.",
+      "eye": [
+        -4.08,
+        0.135,
+        1.85
+      ],
+      "look": [
+        -6.3,
+        -0.09499999999999997,
+        0.4
+      ],
+      "orbit": [
+        -3.3,
+        2.955,
+        -3.7499999999999996
+      ]
+    },
+    {
+      "id": "bedroom-flex",
+      "label": "Bedroom / flex area",
+      "shortLabel": "Bedroom",
+      "floor": "basement",
+      "polygon": [
+        [
+          -3.8,
+          2.48
+        ],
+        [
+          0.35,
+          2.42
+        ],
+        [
+          0.35,
+          -0.66
+        ],
+        [
+          -3.8,
+          -0.61
+        ]
+      ],
+      "center": [
+        -1.7249999999999999,
+        -1.385,
+        0.9099999999999999
+      ],
+      "floorHeight": -1.385,
+      "rawFloorHeight": -1.415,
+      "ceilingHeight": 1.255,
+      "dimensionsLabel": "Proposed bedroom zone \u00b7 divider inferred",
+      "description": "Amy\u2019s revised bedroom zone within the open flex space. The curtain divider location is inferred.",
+      "eye": [
+        -3.4,
+        0.19500000000000006,
+        0.25
+      ],
+      "look": [
+        -1.3,
+        -0.03499999999999992,
+        1.3
+      ],
+      "orbit": [
+        0.7750000000000001,
+        3.0150000000000006,
+        -3.1899999999999995
+      ]
+    },
+    {
+      "id": "basement-open",
+      "label": "Basement living / dining",
+      "shortLabel": "Living / dining",
+      "floor": "basement",
+      "polygon": [
+        [
+          -3.8,
+          2.48
+        ],
+        [
+          5.7,
+          2.34
+        ],
+        [
+          5.7,
+          2.14
+        ],
+        [
+          7.65,
+          2.03
+        ],
+        [
+          7.85,
+          1.31
+        ],
+        [
+          7.85,
+          -2.55
+        ],
+        [
+          5.6,
+          -2.67
+        ],
+        [
+          5.6,
+          -1.86
+        ],
+        [
+          2.1,
+          -1.86
+        ],
+        [
+          2.1,
+          -2.43
+        ],
+        [
+          -0.65,
+          -2.32
+        ],
+        [
+          -0.65,
+          -0.66
+        ],
+        [
+          -3.8,
+          -0.61
+        ]
+      ],
+      "center": [
+        2.025,
+        -1.385,
+        -0.09499999999999997
+      ],
+      "floorHeight": -1.385,
+      "rawFloorHeight": -1.385,
+      "ceilingHeight": 1.245,
+      "dimensionsLabel": "11.65 \u00d7 5.15 m \u00b7 overall envelope",
+      "description": "Irregular measured room outline; geometry and furniture share the original metre scale.",
+      "eye": [
+        7.0,
+        0.19500000000000006,
+        0.4
+      ],
+      "look": [
+        2.0,
+        -0.03499999999999992,
+        1.1
+      ],
+      "orbit": [
+        4.525,
+        3.0150000000000006,
+        -4.194999999999999
+      ]
+    },
+    {
+      "id": "entry",
+      "label": "Entry / stair landing",
+      "shortLabel": "Entry",
+      "floor": "upper",
+      "polygon": [
+        [
+          1.28,
+          -0.39
+        ],
+        [
+          3.73,
+          -0.39
+        ],
+        [
+          3.73,
+          -1.84
+        ],
+        [
+          1.28,
+          -1.84
+        ]
+      ],
+      "center": [
+        2.5,
+        1.535,
+        -1.1
+      ],
+      "floorHeight": 1.535,
+      "ceilingHeight": 4.185,
+      "eye": [
+        2.6,
+        3.115,
+        -0.8
+      ],
+      "look": [
+        1.3,
+        2.45,
+        -0.85
+      ],
+      "dimensionsLabel": "Part of the living / circulation area",
+      "description": "Amy\u2019s entry pieces use provisional placements against measured walls. The original proposal gives no positions."
+    }
+  ],
+  "collisions": [],
+  "stair": {
+    "lowerX": 5.4,
+    "upperX": 1.95,
+    "lowerY": -1.385,
+    "upperY": 1.575,
+    "zBounds": [
+      -2.76,
+      -1.86
+    ],
+    "confidence": "model_repair measured step planes; top landing connection partly inferred"
+  },
+  "notes": "Wall outlines approximately 0.05\u20130.12 m; opening positions approximate; no tape-measure validation. Raw metric scan was never stretched.",
+  "furnitureFootprints": [
+    {
+      "id": "living-sofa",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -2.15,
+          2.69
+        ],
+        [
+          1.85,
+          2.69
+        ],
+        [
+          1.85,
+          1.74
+        ],
+        [
+          -2.15,
+          1.74
+        ]
+      ],
+      "center": [
+        -0.15,
+        2.215
+      ],
+      "front": [
+        -0.15,
+        1.815
+      ],
+      "confidence": "Existing sofa: 4.00m width and .95m depth are unmeasured placeholders; not a verified SKU"
+    },
+    {
+      "id": "living-rug",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -1.9788,
+          2.6116
+        ],
+        [
+          1.6788,
+          2.6116
+        ],
+        [
+          1.6788,
+          -0.1316
+        ],
+        [
+          -1.9788,
+          -0.1316
+        ]
+      ],
+      "center": [
+        -0.15,
+        1.24
+      ],
+      "front": [
+        -0.15,
+        0.84
+      ],
+      "confidence": "Shopping list exact selected 9 x 12 feet; dimensions rotated to long room axis"
+    },
+    {
+      "id": "living-media-console",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          0.72503,
+          -0.31439
+        ],
+        [
+          -1.02503,
+          -0.31439
+        ],
+        [
+          -1.02503,
+          0.08439
+        ],
+        [
+          0.72503,
+          0.08439
+        ]
+      ],
+      "center": [
+        -0.15,
+        -0.115
+      ],
+      "front": [
+        -0.15,
+        0.28500000000000003
+      ],
+      "confidence": "Shopping list exact 68.9 W x15.7 D x21.7 H inches"
+    },
+    {
+      "id": "living-tv",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          0.565,
+          -0.3025
+        ],
+        [
+          -0.865,
+          -0.3025
+        ],
+        [
+          -0.865,
+          -0.2675
+        ],
+        [
+          0.565,
+          -0.2675
+        ]
+      ],
+      "center": [
+        -0.15,
+        -0.285
+      ],
+      "front": [
+        -0.15,
+        0.11500000000000005
+      ],
+      "confidence": "Existing TV presence/size unmeasured; concept display"
+    },
+    {
+      "id": "living-coffee-table",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -0.885,
+          1.285
+        ],
+        [
+          0.385,
+          1.285
+        ],
+        [
+          0.385,
+          0.635
+        ],
+        [
+          -0.885,
+          0.635
+        ]
+      ],
+      "center": [
+        -0.25,
+        0.96
+      ],
+      "front": [
+        -0.25,
+        0.5599999999999999
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "living-side-table-1",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -2.495,
+          1.645
+        ],
+        [
+          -2.065,
+          1.645
+        ],
+        [
+          -2.065,
+          1.215
+        ],
+        [
+          -2.495,
+          1.215
+        ]
+      ],
+      "center": [
+        -2.28,
+        1.43
+      ],
+      "front": [
+        -2.28,
+        1.0299999999999998
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "living-side-table-2",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          2.025,
+          2.395
+        ],
+        [
+          2.455,
+          2.395
+        ],
+        [
+          2.455,
+          1.965
+        ],
+        [
+          2.025,
+          1.965
+        ]
+      ],
+      "center": [
+        2.24,
+        2.18
+      ],
+      "front": [
+        2.24,
+        1.7800000000000002
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "her-vanity",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          6.0896,
+          -0.8
+        ],
+        [
+          4.8704,
+          -0.8
+        ],
+        [
+          4.8704,
+          -0.33
+        ],
+        [
+          6.0896,
+          -0.33
+        ]
+      ],
+      "center": [
+        5.48,
+        -0.565
+      ],
+      "front": [
+        5.48,
+        -0.16499999999999992
+      ],
+      "confidence": "48-inch width from selected URL; depth and height assumed"
+    },
+    {
+      "id": "her-vanity-chair",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          5.2,
+          0.4
+        ],
+        [
+          5.76,
+          0.4
+        ],
+        [
+          5.76,
+          -0.18
+        ],
+        [
+          5.2,
+          -0.18
+        ]
+      ],
+      "center": [
+        5.48,
+        0.11
+      ],
+      "front": [
+        5.48,
+        -0.29000000000000004
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "her-white-chest",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          7.7185,
+          -0.78
+        ],
+        [
+          6.3215,
+          -0.78
+        ],
+        [
+          6.3215,
+          -0.33
+        ],
+        [
+          7.7185,
+          -0.33
+        ]
+      ],
+      "center": [
+        7.02,
+        -0.555
+      ],
+      "front": [
+        7.02,
+        -0.15500000000000003
+      ],
+      "confidence": "55-inch width from selected URL; depth/height unverified"
+    },
+    {
+      "id": "her-loveseat",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          6.462028,
+          2.472479
+        ],
+        [
+          7.438796,
+          1.652874
+        ],
+        [
+          6.997972,
+          1.127521
+        ],
+        [
+          6.021204,
+          1.947126
+        ]
+      ],
+      "center": [
+        6.73,
+        1.8
+      ],
+      "front": [
+        6.4728848,
+        1.4935824
+      ],
+      "confidence": "Verified retailer 50.2 W x27 D x35 H inches"
+    },
+    {
+      "id": "her-round-rug",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          5.2529,
+          2.2071
+        ],
+        [
+          7.1071,
+          2.2071
+        ],
+        [
+          7.1071,
+          0.3529
+        ],
+        [
+          5.2529,
+          0.3529
+        ]
+      ],
+      "center": [
+        6.18,
+        1.28
+      ],
+      "front": [
+        6.18,
+        0.88
+      ],
+      "confidence": "Shopping list exact 6 feet1 inch diameter"
+    },
+    {
+      "id": "her-teal-side-table",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          7.03,
+          1.175
+        ],
+        [
+          7.39,
+          1.175
+        ],
+        [
+          7.39,
+          0.815
+        ],
+        [
+          7.03,
+          0.815
+        ]
+      ],
+      "center": [
+        7.21,
+        0.995
+      ],
+      "front": [
+        7.21,
+        0.595
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "his-standing-desk",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -6.08,
+          -0.255
+        ],
+        [
+          -7.48,
+          -0.255
+        ],
+        [
+          -7.48,
+          0.445
+        ],
+        [
+          -6.08,
+          0.445
+        ]
+      ],
+      "center": [
+        -6.78,
+        0.095
+      ],
+      "front": [
+        -6.78,
+        0.495
+      ],
+      "confidence": "Existing desk: 1.4 x .7m envelope unmeasured; standing desk set at seated height"
+    },
+    {
+      "id": "his-office-chair",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -7.115,
+          1.335
+        ],
+        [
+          -6.445,
+          1.335
+        ],
+        [
+          -6.445,
+          0.665
+        ],
+        [
+          -7.115,
+          0.665
+        ]
+      ],
+      "center": [
+        -6.78,
+        1.0
+      ],
+      "front": [
+        -6.78,
+        0.6
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "his-rug",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -7.8012,
+          2.5762
+        ],
+        [
+          -3.8388,
+          2.5762
+        ],
+        [
+          -3.8388,
+          -0.1162
+        ],
+        [
+          -7.8012,
+          -0.1162
+        ]
+      ],
+      "center": [
+        -5.82,
+        1.23
+      ],
+      "front": [
+        -5.82,
+        0.83
+      ],
+      "confidence": "Shopping list exact 8 feet10 inches x13 feet"
+    },
+    {
+      "id": "his-bookcase-1",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -5.039053,
+          -0.269456
+        ],
+        [
+          -5.460947,
+          -0.269456
+        ],
+        [
+          -5.460947,
+          -0.084544
+        ],
+        [
+          -5.039053,
+          -0.084544
+        ]
+      ],
+      "center": [
+        -5.25,
+        -0.177
+      ],
+      "front": [
+        -5.25,
+        0.22300000000000003
+      ],
+      "confidence": "Shopping list exact 16.61 W x7.28 D x43.66 H inches"
+    },
+    {
+      "id": "his-bookcase-2",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -4.604053,
+          -0.269456
+        ],
+        [
+          -5.025947,
+          -0.269456
+        ],
+        [
+          -5.025947,
+          -0.084544
+        ],
+        [
+          -4.604053,
+          -0.084544
+        ]
+      ],
+      "center": [
+        -4.815,
+        -0.177
+      ],
+      "front": [
+        -4.815,
+        0.22300000000000003
+      ],
+      "confidence": "Shopping list exact 16.61 W x7.28 D x43.66 H inches"
+    },
+    {
+      "id": "his-bookcase-3",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -4.169053,
+          -0.269456
+        ],
+        [
+          -4.590947,
+          -0.269456
+        ],
+        [
+          -4.590947,
+          -0.084544
+        ],
+        [
+          -4.169053,
+          -0.084544
+        ]
+      ],
+      "center": [
+        -4.38,
+        -0.177
+      ],
+      "front": [
+        -4.38,
+        0.22300000000000003
+      ],
+      "confidence": "Shopping list exact 16.61 W x7.28 D x43.66 H inches"
+    },
+    {
+      "id": "his-desk-floor-lamp",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -7.835,
+          0.515
+        ],
+        [
+          -7.585,
+          0.515
+        ],
+        [
+          -7.585,
+          0.265
+        ],
+        [
+          -7.835,
+          0.265
+        ]
+      ],
+      "center": [
+        -7.71,
+        0.39
+      ],
+      "front": [
+        -7.71,
+        -0.010000000000000009
+      ],
+      "confidence": "65-inch height from selected URL; diameter assumed"
+    },
+    {
+      "id": "his-bookcase-floor-lamp",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -4.08,
+          0.035
+        ],
+        [
+          -3.88,
+          0.035
+        ],
+        [
+          -3.88,
+          -0.165
+        ],
+        [
+          -4.08,
+          -0.165
+        ]
+      ],
+      "center": [
+        -3.98,
+        -0.065
+      ],
+      "front": [
+        -3.98,
+        -0.465
+      ],
+      "confidence": "57-inch height from selected URL; diameter assumed"
+    },
+    {
+      "id": "his-slim-console",
+      "room": "his-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          -7.20038,
+          2.68
+        ],
+        [
+          -6.19962,
+          2.68
+        ],
+        [
+          -6.19962,
+          2.42
+        ],
+        [
+          -7.20038,
+          2.42
+        ]
+      ],
+      "center": [
+        -6.7,
+        2.55
+      ],
+      "front": [
+        -6.7,
+        2.15
+      ],
+      "confidence": "39.4-inch width from selected URL; depth/height unverified"
+    },
+    {
+      "id": "bedroom-king-bed",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -2.525,
+          2.404
+        ],
+        [
+          -0.335,
+          2.404
+        ],
+        [
+          -0.335,
+          0.306
+        ],
+        [
+          -2.525,
+          0.306
+        ]
+      ],
+      "center": [
+        -1.43,
+        1.355
+      ],
+      "front": [
+        -1.43,
+        0.955
+      ],
+      "confidence": "King mattress1.930x2.032m; retailer King frame width2.190 and length2.098m; retailer conflicting overall block flagged"
+    },
+    {
+      "id": "bedroom-rug",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -2.954,
+          2.1738
+        ],
+        [
+          0.094,
+          2.1738
+        ],
+        [
+          0.094,
+          -0.2138
+        ],
+        [
+          -2.954,
+          -0.2138
+        ]
+      ],
+      "center": [
+        -1.43,
+        0.98
+      ],
+      "front": [
+        -1.43,
+        0.58
+      ],
+      "confidence": "Shopping list exact7 feet10 inches x10feet"
+    },
+    {
+      "id": "bedroom-nightstand-1",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -3.069,
+          2.3932
+        ],
+        [
+          -2.561,
+          2.3932
+        ],
+        [
+          -2.561,
+          1.9868
+        ],
+        [
+          -3.069,
+          1.9868
+        ]
+      ],
+      "center": [
+        -2.815,
+        2.19
+      ],
+      "front": [
+        -2.815,
+        1.79
+      ],
+      "confidence": "Verified selectedNatural retailer20 W x16 D x23.6 H inches"
+    },
+    {
+      "id": "bedroom-nightstand-lamp-1",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -2.93,
+          2.305
+        ],
+        [
+          -2.7,
+          2.305
+        ],
+        [
+          -2.7,
+          2.075
+        ],
+        [
+          -2.93,
+          2.075
+        ]
+      ],
+      "center": [
+        -2.815,
+        2.19
+      ],
+      "front": [
+        -2.815,
+        1.79
+      ],
+      "confidence": "25-inch height from chosen retailer title; shade diameter assumed"
+    },
+    {
+      "id": "bedroom-nightstand-2",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -0.299,
+          2.3932
+        ],
+        [
+          0.209,
+          2.3932
+        ],
+        [
+          0.209,
+          1.9868
+        ],
+        [
+          -0.299,
+          1.9868
+        ]
+      ],
+      "center": [
+        -0.045,
+        2.19
+      ],
+      "front": [
+        -0.045,
+        1.79
+      ],
+      "confidence": "Verified selectedNatural retailer20 W x16 D x23.6 H inches"
+    },
+    {
+      "id": "bedroom-nightstand-lamp-2",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -0.16,
+          2.305
+        ],
+        [
+          0.07,
+          2.305
+        ],
+        [
+          0.07,
+          2.075
+        ],
+        [
+          -0.16,
+          2.075
+        ]
+      ],
+      "center": [
+        -0.045,
+        2.19
+      ],
+      "front": [
+        -0.045,
+        1.79
+      ],
+      "confidence": "25-inch height from chosen retailer title; shade diameter assumed"
+    },
+    {
+      "id": "bedroom-large-dresser",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          -0.7264,
+          -0.56012
+        ],
+        [
+          -3.7236,
+          -0.56012
+        ],
+        [
+          -3.7236,
+          -0.16388
+        ],
+        [
+          -0.7264,
+          -0.16388
+        ]
+      ],
+      "center": [
+        -2.225,
+        -0.362
+      ],
+      "front": [
+        -2.225,
+        0.038000000000000034
+      ],
+      "confidence": "Verified retailer118 W x15.6 D x32.4 H inches; only0.47m foot clearance in arrangement, needs onsite verification"
+    },
+    {
+      "id": "bedroom-divider",
+      "room": "bedroom-flex",
+      "floor": "basement",
+      "polygon": [
+        [
+          0.3925,
+          2.38
+        ],
+        [
+          0.3925,
+          -0.49
+        ],
+        [
+          0.3075,
+          -0.49
+        ],
+        [
+          0.3075,
+          2.38
+        ]
+      ],
+      "center": [
+        0.35,
+        0.945
+      ],
+      "front": [
+        -0.050000000000000044,
+        0.945
+      ],
+      "confidence": "Rail selected9-12ft; modeled2.87m rail perpendicular to long apartment; height clipped to measured soffit clearance; full drape length needs alteration"
+    },
+    {
+      "id": "basement-sofa",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          0.52,
+          0.2309
+        ],
+        [
+          0.52,
+          2.3391
+        ],
+        [
+          1.44,
+          2.3391
+        ],
+        [
+          1.44,
+          0.2309
+        ]
+      ],
+      "center": [
+        0.98,
+        1.285
+      ],
+      "front": [
+        1.38,
+        1.285
+      ],
+      "confidence": "83-inch width from chosen retailer title; depth/height assumed"
+    },
+    {
+      "id": "basement-lounge-rug",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          0.9084,
+          2.2044
+        ],
+        [
+          3.6516,
+          2.2044
+        ],
+        [
+          3.6516,
+          0.3756
+        ],
+        [
+          0.9084,
+          0.3756
+        ]
+      ],
+      "center": [
+        2.28,
+        1.29
+      ],
+      "front": [
+        2.28,
+        0.89
+      ],
+      "confidence": "Shopping list exact6x9feet"
+    },
+    {
+      "id": "basement-coffee-table-large",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          1.78027,
+          1.53973
+        ],
+        [
+          2.53973,
+          1.53973
+        ],
+        [
+          2.53973,
+          0.78027
+        ],
+        [
+          1.78027,
+          0.78027
+        ]
+      ],
+      "center": [
+        2.16,
+        1.16
+      ],
+      "front": [
+        2.16,
+        0.7599999999999999
+      ],
+      "confidence": "Height17.3in verified; presumed circular29.9in diameter conflicts retailer reported depth, footprint unresolved"
+    },
+    {
+      "id": "basement-coffee-table-small",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          1.6,
+          1.86
+        ],
+        [
+          2.06,
+          1.86
+        ],
+        [
+          2.06,
+          1.4
+        ],
+        [
+          1.6,
+          1.4
+        ]
+      ],
+      "center": [
+        1.83,
+        1.63
+      ],
+      "front": [
+        1.83,
+        1.23
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "basement-orange-chair-1",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          3.439896,
+          2.341844
+        ],
+        [
+          3.797633,
+          1.669038
+        ],
+        [
+          3.100104,
+          1.298156
+        ],
+        [
+          2.742367,
+          1.970962
+        ]
+      ],
+      "center": [
+        3.27,
+        1.82
+      ],
+      "front": [
+        2.9168208,
+        1.6322112
+      ],
+      "confidence": "30-inch width from selected retailer title; depth/height assumed; faces inward toward sofa"
+    },
+    {
+      "id": "basement-orange-chair-2",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          3.797633,
+          0.780962
+        ],
+        [
+          3.439896,
+          0.108156
+        ],
+        [
+          2.742367,
+          0.479038
+        ],
+        [
+          3.100104,
+          1.151844
+        ]
+      ],
+      "center": [
+        3.27,
+        0.63
+      ],
+      "front": [
+        2.9168208,
+        0.8177888
+      ],
+      "confidence": "30-inch width from selected retailer title; depth/height assumed; faces inward toward sofa"
+    },
+    {
+      "id": "basement-lounge-side-table",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          3.585,
+          1.345
+        ],
+        [
+          3.875,
+          1.345
+        ],
+        [
+          3.875,
+          1.055
+        ],
+        [
+          3.585,
+          1.055
+        ]
+      ],
+      "center": [
+        3.73,
+        1.2
+      ],
+      "front": [
+        3.73,
+        0.7999999999999999
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "basement-lounge-table-lamp",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          3.62,
+          1.31
+        ],
+        [
+          3.84,
+          1.31
+        ],
+        [
+          3.84,
+          1.09
+        ],
+        [
+          3.62,
+          1.09
+        ]
+      ],
+      "center": [
+        3.73,
+        1.2
+      ],
+      "front": [
+        3.73,
+        0.7999999999999999
+      ],
+      "confidence": "Assumed external envelope; product proportions inferred from Amy board"
+    },
+    {
+      "id": "basement-dining-table",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          5.405,
+          1.3601
+        ],
+        [
+          5.405,
+          -0.2401
+        ],
+        [
+          4.595,
+          -0.2401
+        ],
+        [
+          4.595,
+          1.3601
+        ]
+      ],
+      "center": [
+        5.0,
+        0.56
+      ],
+      "front": [
+        4.6,
+        0.56
+      ],
+      "confidence": "63-inch length from selected URL; width/height unverified"
+    },
+    {
+      "id": "basement-dining-chair-1",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          3.965,
+          0.725
+        ],
+        [
+          3.965,
+          1.265
+        ],
+        [
+          4.535,
+          1.265
+        ],
+        [
+          4.535,
+          0.725
+        ]
+      ],
+      "center": [
+        4.25,
+        0.995
+      ],
+      "front": [
+        4.65,
+        0.995
+      ],
+      "confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified"
+    },
+    {
+      "id": "basement-dining-chair-2",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          3.965,
+          -0.145
+        ],
+        [
+          3.965,
+          0.395
+        ],
+        [
+          4.535,
+          0.395
+        ],
+        [
+          4.535,
+          -0.145
+        ]
+      ],
+      "center": [
+        4.25,
+        0.125
+      ],
+      "front": [
+        4.65,
+        0.125
+      ],
+      "confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified"
+    },
+    {
+      "id": "basement-dining-chair-3",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          6.035,
+          1.265
+        ],
+        [
+          6.035,
+          0.725
+        ],
+        [
+          5.465,
+          0.725
+        ],
+        [
+          5.465,
+          1.265
+        ]
+      ],
+      "center": [
+        5.75,
+        0.995
+      ],
+      "front": [
+        5.35,
+        0.995
+      ],
+      "confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified"
+    },
+    {
+      "id": "basement-dining-chair-4",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          6.035,
+          0.395
+        ],
+        [
+          6.035,
+          -0.145
+        ],
+        [
+          5.465,
+          -0.145
+        ],
+        [
+          5.465,
+          0.395
+        ]
+      ],
+      "center": [
+        5.75,
+        0.125
+      ],
+      "front": [
+        5.35,
+        0.125
+      ],
+      "confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified"
+    },
+    {
+      "id": "basement-dining-chair-5",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          4.73,
+          1.93
+        ],
+        [
+          5.27,
+          1.93
+        ],
+        [
+          5.27,
+          1.36
+        ],
+        [
+          4.73,
+          1.36
+        ]
+      ],
+      "center": [
+        5.0,
+        1.645
+      ],
+      "front": [
+        5.0,
+        1.245
+      ],
+      "confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified"
+    },
+    {
+      "id": "basement-dining-chair-6",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          5.27,
+          -0.81
+        ],
+        [
+          4.73,
+          -0.81
+        ],
+        [
+          4.73,
+          -0.24
+        ],
+        [
+          5.27,
+          -0.24
+        ]
+      ],
+      "center": [
+        5.0,
+        -0.525
+      ],
+      "front": [
+        5.0,
+        -0.125
+      ],
+      "confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified"
+    },
+    {
+      "id": "music-rug",
+      "room": "music-gym",
+      "floor": "basement",
+      "polygon": [
+        [
+          -6.7644,
+          2.2396
+        ],
+        [
+          -4.9356,
+          2.2396
+        ],
+        [
+          -4.9356,
+          1.0204
+        ],
+        [
+          -6.7644,
+          1.0204
+        ]
+      ],
+      "center": [
+        -5.85,
+        1.63
+      ],
+      "front": [
+        -5.85,
+        1.23
+      ],
+      "confidence": "Shopping list exact4x6feet; placement inferred from music fragment"
+    },
+    {
+      "id": "living-abstract-art",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -1.1787,
+          2.7675
+        ],
+        [
+          0.8787,
+          2.7675
+        ],
+        [
+          0.8787,
+          2.7225
+        ],
+        [
+          -1.1787,
+          2.7225
+        ]
+      ],
+      "center": [
+        -0.15,
+        2.745
+      ],
+      "front": [
+        -0.15,
+        2.345
+      ],
+      "confidence": "Shopping selected81x60in; board palette concept, not exact artwork"
+    },
+    {
+      "id": "living-sconce-1",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          -1.715,
+          2.81
+        ],
+        [
+          -1.485,
+          2.81
+        ],
+        [
+          -1.485,
+          2.63
+        ],
+        [
+          -1.715,
+          2.63
+        ]
+      ],
+      "center": [
+        -1.6,
+        2.72
+      ],
+      "front": [
+        -1.6,
+        2.3200000000000003
+      ],
+      "confidence": "Source-board fixture shape; dimensions assumed"
+    },
+    {
+      "id": "living-sconce-2",
+      "room": "living",
+      "floor": "upper",
+      "polygon": [
+        [
+          1.185,
+          2.81
+        ],
+        [
+          1.415,
+          2.81
+        ],
+        [
+          1.415,
+          2.63
+        ],
+        [
+          1.185,
+          2.63
+        ]
+      ],
+      "center": [
+        1.3,
+        2.72
+      ],
+      "front": [
+        1.3,
+        2.3200000000000003
+      ],
+      "confidence": "Source-board fixture shape; dimensions assumed"
+    },
+    {
+      "id": "her-branch-chandelier",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          5.86,
+          1.6
+        ],
+        [
+          6.5,
+          1.6
+        ],
+        [
+          6.5,
+          0.96
+        ],
+        [
+          5.86,
+          0.96
+        ]
+      ],
+      "center": [
+        6.18,
+        1.28
+      ],
+      "front": [
+        6.18,
+        0.88
+      ],
+      "confidence": "Polished brass branch form approximated from source board; dimensions assumed"
+    },
+    {
+      "id": "her-window-curtains-1",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          7.795,
+          2.61
+        ],
+        [
+          7.795,
+          1.31
+        ],
+        [
+          7.725,
+          1.31
+        ],
+        [
+          7.725,
+          2.61
+        ]
+      ],
+      "center": [
+        7.76,
+        1.96
+      ],
+      "front": [
+        7.359999999999999,
+        1.96
+      ],
+      "confidence": "Selected106-inch length; folded panel width/rod span adapted to measured window, sheer appearance approximation"
+    },
+    {
+      "id": "her-window-curtains-2",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          7.795,
+          0.74
+        ],
+        [
+          7.795,
+          -0.56
+        ],
+        [
+          7.725,
+          -0.56
+        ],
+        [
+          7.725,
+          0.74
+        ]
+      ],
+      "center": [
+        7.76,
+        0.09
+      ],
+      "front": [
+        7.359999999999999,
+        0.09
+      ],
+      "confidence": "Selected106-inch length; folded panel width/rod span adapted to measured window, sheer appearance approximation"
+    },
+    {
+      "id": "her-fireplace-blush-art",
+      "room": "her-office",
+      "floor": "upper",
+      "polygon": [
+        [
+          5.102,
+          2.7125
+        ],
+        [
+          6.118,
+          2.7125
+        ],
+        [
+          6.118,
+          2.6675
+        ],
+        [
+          5.102,
+          2.6675
+        ]
+      ],
+      "center": [
+        5.61,
+        2.69
+      ],
+      "front": [
+        5.61,
+        2.29
+      ],
+      "confidence": "Shopping40x30in; blush/gold source-board palette approximation"
+    },
+    {
+      "id": "basement-dining-orange-art",
+      "room": "basement-open",
+      "floor": "basement",
+      "polygon": [
+        [
+          4.625,
+          2.3275
+        ],
+        [
+          5.375,
+          2.3275
+        ],
+        [
+          5.375,
+          2.2825
+        ],
+        [
+          4.625,
+          2.2825
+        ]
+      ],
+      "center": [
+        5.0,
+        2.305
+      ],
+      "front": [
+        5.0,
+        1.9050000000000002
+      ],
+      "confidence": "Shopping75x100cm; source-board orange window-light approximation"
+    },
+    {
+      "id": "entry-gold-console",
+      "room": "entry",
+      "floor": "upper",
+      "layer": "entry",
+      "polygon": [
+        [
+          1.2634,
+          -1.0794
+        ],
+        [
+          1.2634,
+          -0.5206
+        ],
+        [
+          1.4666,
+          -0.5206
+        ],
+        [
+          1.4666,
+          -1.0794
+        ]
+      ],
+      "center": [
+        1.365,
+        -0.8
+      ],
+      "front": [
+        1.7650000000000001,
+        -0.8
+      ],
+      "confidence": "Provisional: source plan does not assign entry furnishing positions"
+    },
+    {
+      "id": "entry-faceted-mirror",
+      "room": "entry",
+      "floor": "upper",
+      "layer": "entry",
+      "polygon": [
+        [
+          1.2375,
+          -1.0032
+        ],
+        [
+          1.2375,
+          -0.5968
+        ],
+        [
+          1.2725,
+          -0.5968
+        ],
+        [
+          1.2725,
+          -1.0032
+        ]
+      ],
+      "center": [
+        1.255,
+        -0.8
+      ],
+      "front": [
+        1.6549999999999998,
+        -0.8
+      ],
+      "confidence": "Provisional above console"
+    },
+    {
+      "id": "entry-rattan-shoe-cabinet",
+      "room": "entry",
+      "floor": "upper",
+      "layer": "entry",
+      "polygon": [
+        [
+          3.679898,
+          -0.610021
+        ],
+        [
+          3.679898,
+          -1.289979
+        ],
+        [
+          3.280102,
+          -1.289979
+        ],
+        [
+          3.280102,
+          -0.610021
+        ]
+      ],
+      "center": [
+        3.48,
+        -0.95
+      ],
+      "front": [
+        3.08,
+        -0.95
+      ],
+      "confidence": "Provisional: solid side wall placement"
+    },
+    {
+      "id": "entry-patchwork-rug",
+      "room": "entry",
+      "floor": "upper",
+      "layer": "entry",
+      "polygon": [
+        [
+          2.2452,
+          -0.5428
+        ],
+        [
+          2.8548,
+          -0.5428
+        ],
+        [
+          2.8548,
+          -1.4572
+        ],
+        [
+          2.2452,
+          -1.4572
+        ]
+      ],
+      "center": [
+        2.55,
+        -1.0
+      ],
+      "front": [
+        2.55,
+        -1.4
+      ],
+      "confidence": "Provisional clear entry floor"
+    }
+  ],
+  "layoutNotes": [
+    "All room walls and source plan orientation registered to scan via geometry_audit, not generated design photos.",
+    "Source Amy living media centered slightly within actual solid wall run to fit selected console.",
+    "Her angled loveseat moved +Y .08m to clear observed low stone hearth lip; source40-degree inward facing retained.",
+    "Divider moved from provisional X -.7 to X +.35; King bed and selected20-inch nightstands shifted forward to preserve music-room doorway. This is proposed furniture-zone adaptation, not a measured wall.",
+    "Basement bed/dresser foot aisle narrow0.47m; renderer does not imply installation approval.",
+    "Basement 104-inch drape length exceeds observed ceiling/soffit. Modeled rod at2.32m clears soffit; purchase specification needs alteration.",
+    "No exact entry console position was given by Amy, so entry furniture withheld until layout evidence supports it."
+  ]
+}

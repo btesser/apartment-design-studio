@@ -1,0 +1,115 @@
+{
+  "tool": "image_gen__imagegen",
+  "reference_precedence": [
+    "target modeled camera",
+    "companion modeled camera",
+    "Amy design board for finishes/form only"
+  ],
+  "geometry_authority": "Completed apartment-v2 3D room model; no source model or existing delivery modified.",
+  "jobs": [
+    {
+      "key": "living_a",
+      "output_path": "/workspace/apartment-imagegen-v3/living-a.png",
+      "referenced_image_paths": [
+        "/workspace/apartment-v2/room-views/living-a.jpg",
+        "/workspace/apartment-v2/room-views/living-b.jpg",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg"
+      ],
+      "prompt": "Create ONE photorealistic interior design concept by restyling the FIRST attached modeled living-room view. Preserve its exact camera, crop, perspective, room dimensions, ceiling height, wall contours, door openings, partitions, floor plane, furniture footprints, facing directions and clearances. Image2 is the SAME measured room from the opposite camera for geometry consistency. Image3 is Amy's design board and is ONLY material, finish and furniture-form reference; never use its front-elevation composition or enlarge this room. The output must match image1 composition: long four-seat charcoal sofa and exposed brick wall on LEFT; TV and low white console on RIGHT; back doorway near center-right remains open and unchanged, with its brick wall/white radiator visible beyond. Keep every visible object in its exact modeled position and scale. Upholster the existing sofa in realistic charcoal grey leather, retaining its full long straight profile and direction toward the TV. Enrich pink pillow fabric, optionally add a folded amethyst throw draped within the sofa silhouette. Keep the pink/tan/terracotta rug at its exact modeled outline, developing Amy's natural brown/pink graphic woven design with thin black borders. Refine existing white low oval coffee table within its precise modeled footprint, ivory sculptural form; keep white/gold round end tables exactly where modeled. Refine white media console into fine vertical fluting, subtle gold pulls, black short legs, retaining modeled width/height/depth and TV position. Restyle the existing gold-framed art IN ITS CURRENT FRAME into a rich painterly multicolor abstract with blush, ochre, teal/green and cream from Amy's board; keep art frame location and dimensions. Existing paired folded white fan sconces with gold stems stay on their modeled brick-wall locations. Realistic warm natural red/brown exposed brick and mortar texture at actual brick scale, neutral warm-white plaster, existing oak floor, gentle daylight and realistic material reflections/shadows. Gray bands on white model walls are shading, not new chair rails or wainscoting. Do not insert plants, extra furniture, new ceiling fixtures, doors, windows, shelves or architectural features. Do not mirror, reframe, widen, shorten, rotate or shift furniture. Preserve the measured apartment arrangement rather than the board layout. No people, labels, borders, watermarks or collage. Same landscape framing as the first reference.",
+      "transparent_background": false,
+      "attempt_count": 1,
+      "pixel_postprocessing": false,
+      "generator_output_path": "/workspace/generated_images/exec-cd723e7e-d2d3-4fe9-8f75-03eff95f8e52.png",
+      "output_sha256": "0f3be93d63b79ed48667c6c87b4f1adf66c4cb79fcb39e2d7e29382359a54a75",
+      "output_pixel_dimensions": [
+        1505,
+        1045
+      ],
+      "reference_sha256": {
+        "/workspace/apartment-v2/room-views/living-a.jpg": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a",
+        "/workspace/apartment-v2/room-views/living-b.jpg": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0"
+      }
+    },
+    {
+      "key": "living_b",
+      "output_path": "/workspace/apartment-imagegen-v3/living-b.png",
+      "referenced_image_paths": [
+        "/workspace/apartment-v2/room-views/living-b.jpg",
+        "/workspace/apartment-v2/room-views/living-a.jpg",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg"
+      ],
+      "prompt": "Create ONE photorealistic interior concept by restyling the FIRST attached measured 3D model view. Output exactly its camera, crop, perspective, ceiling height, room proportions, door/window positions, wall contours and partitions, floor plane, every furniture footprint, facing direction and clearance. Image2 is the opposite camera of the SAME measured room and is only a geometry consistency check. Image3 is Amy's mockup and supplies textures, materials and furniture form ONLY; never copy its elevation composition or arrange a different room. All modeled objects keep exact positions and dimensions. Treat gray bands on white walls as model shading; finish is plain neutral warm-white plaster, not new wainscot/chair rails. Preserve visible adjoining rooms through all existing openings. No room widening, shrinking, mirrored layouts, shifted furniture, deleted doors, new doors/windows, new architectural features, extra furniture or plants. Natural daylight with realistic interior shadows/material response. No people, labels, watermarks, borders or collage. Same landscape composition as image1. LIVING ROOM CAMERA B: The long charcoal sofa and exposed brick wall are on the RIGHT of THIS camera; TV and console are on the LEFT; the back door remains near image center and shows the modeled HER-office pink caster chair, teal side table, window and light rug beyond, unchanged. Do not reverse this view or switch to cameraA. Keep long straight four-seat sofa size and facing toward the TV, rendered as charcoal grey leather. Refine the modeled pink cushions into blush embroidered/floral textile; a small amethyst throw may drape wholly within sofa outline, preserving visible furniture placement. Rug keeps its exact modeled pink/tan/terracotta outline with thin black graphic borders from Amy's board. Refine existing ivory low oval coffee table within exact modeled footprint and low height; existing white/gold round side tables retain fixed positions. The white media console retains its full modeled68.9-inch width/height/depth and TV location, with fine vertical fluting, subtle gold handles and short black legs. Keep current large gold picture frame size and position; make its abstract painting rich and painterly in Amy's blush, ochre, teal/green, cream palette, without text. Both folded white/gold fan sconces stay at their exact modeled brick positions (some may be cropped). Brick becomes realistic aged red/brown with proper small brick course scale; existing oak floor and white ceiling remain. No extra lights or objects.",
+      "transparent_background": false,
+      "attempt_count": 1,
+      "pixel_postprocessing": false,
+      "generator_output_path": "/workspace/generated_images/exec-99f1d51b-a242-403c-92d1-04a35fd863e2.png",
+      "output_sha256": "bb35af4fb47f0e65fe16ccaeb51e3d2387b11f2c886cdd87ed6514350dfc46be",
+      "output_pixel_dimensions": [
+        1505,
+        1045
+      ],
+      "reference_sha256": {
+        "/workspace/apartment-v2/room-views/living-b.jpg": "76b6414c1f50c84715e9a505183e08b569a77c64a48fe5a698a000a10383df55",
+        "/workspace/apartment-v2/room-views/living-a.jpg": "461bd54aa1db973148f66b1c7572a88c9e9b126c264303201c72e47bc207407a",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben LIVING ROOM.jpeg": "da721b1bf4c61ce1e4214cb2ebb7ec1c7672c7ee12c8767f19014151bd576fc0"
+      }
+    },
+    {
+      "key": "his_a",
+      "output_path": "/workspace/apartment-imagegen-v3/his-office-a.png",
+      "referenced_image_paths": [
+        "/workspace/apartment-v2/room-views/his-office-a.jpg",
+        "/workspace/apartment-v2/room-views/his-office-b.jpg",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg"
+      ],
+      "prompt": "Create ONE photorealistic interior concept by restyling the FIRST attached measured 3D model view. Output exactly its camera, crop, perspective, ceiling height, room proportions, door/window positions, wall contours and partitions, floor plane, every furniture footprint, facing direction and clearance. Image2 is the opposite camera of the SAME measured room and is only a geometry consistency check. Image3 is Amy's mockup and supplies textures, materials and furniture form ONLY; never copy its elevation composition or arrange a different room. All modeled objects keep exact positions and dimensions. Treat gray bands on white walls as model shading; finish is plain neutral warm-white plaster, not new wainscot/chair rails. Preserve visible adjoining rooms through all existing openings. No room widening, shrinking, mirrored layouts, shifted furniture, deleted doors, new doors/windows, new architectural features, extra furniture or plants. Natural daylight with realistic interior shadows/material response. No people, labels, watermarks, borders or collage. Same landscape composition as image1. HIS OFFICE CAMERA A: Keep dark rectangular exterior door at far LEFT and the tall rectangular two-pane window directly behind/left of the desk. Desk remains on the modeled right-side white wall near that window; chair remains between camera and desk, facing the monitor/desk with its back toward camera. THREE low narrow wood bookcases stay on the SAME wall to the desk's RIGHT, partly cropped by foreground right wall; count remainsTHREE even though Amy mockup showsTWO. Keep slim console at far left edge only as it is visible in model. Desktop gains rich natural walnut/amber-pine grain and black standing-desk legs, at the exact current1.4\u00d70.7m seated-height envelope. Refine the chair into a realistic black ergonomic MESH caster task chair, preserving current height/footprint/orientation. Monitor and keyboard stay precisely on desktop. Keep black slim65-inch dome lamp between window and desk and thin57-inch black LED rod beside bookcases where companion model confirms it, never add another lamp. Bookcase wood becomes darker warm amber pine/walnut, still only1.109m high with five open compartments/shelves; no taller cabinetry. The fixed8ft10\u00d713ft rug changes its flat rectangular proxy flecks into an authentic beige/light-brown/charcoal organic distressed abstract woven pattern from Amy board. Preserve rug boundary exactly; pattern is woven flat, not objects/scattered scraps. Leave exterior door dark but render it as the existing door/opening, not remove it. White wall/ceiling planes and oak floor outside rug remain exactly modeled. No new art, curtains or equipment.",
+      "transparent_background": false,
+      "attempt_count": 1,
+      "pixel_postprocessing": false,
+      "generator_output_path": "/workspace/generated_images/exec-1f011982-8f5f-4b60-b3d9-824749265345.png",
+      "output_sha256": "0d1aba83f3b1b0455f2c607954243af9d4eaaf8fe824c53ebf6164ca2b0b43cc",
+      "output_pixel_dimensions": [
+        1505,
+        1045
+      ],
+      "reference_sha256": {
+        "/workspace/apartment-v2/room-views/his-office-a.jpg": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3",
+        "/workspace/apartment-v2/room-views/his-office-b.jpg": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5"
+      }
+    },
+    {
+      "key": "his_b",
+      "output_path": "/workspace/apartment-imagegen-v3/his-office-b.png",
+      "referenced_image_paths": [
+        "/workspace/apartment-v2/room-views/his-office-b.jpg",
+        "/workspace/apartment-v2/room-views/his-office-a.jpg",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg"
+      ],
+      "prompt": "Create ONE photorealistic interior concept by restyling the FIRST attached measured 3D model view. Output exactly its camera, crop, perspective, ceiling height, room proportions, door/window positions, wall contours and partitions, floor plane, every furniture footprint, facing direction and clearance. Image2 is the opposite camera of the SAME measured room and is only a geometry consistency check. Image3 is Amy's mockup and supplies textures, materials and furniture form ONLY; never copy its elevation composition or arrange a different room. All modeled objects keep exact positions and dimensions. Treat gray bands on white walls as model shading; finish is plain neutral warm-white plaster, not new wainscot/chair rails. Preserve visible adjoining rooms through all existing openings. No room widening, shrinking, mirrored layouts, shifted furniture, deleted doors, new doors/windows, new architectural features, extra furniture or plants. Natural daylight with realistic interior shadows/material response. No people, labels, watermarks, borders or collage. Same landscape composition as image1. HIS OFFICE CAMERA B: This camera is beside the desk. Desk and monitor are partially cropped on LEFT; the black desk-chair BACK is large and cropped in near LEFT foreground. Keep this exact close perspective and all cropping. THREE low narrow wood bookcases are centered farther away on the same desk wall; thin black LED rod remains immediately to their right. Existing office doorway on RIGHT stays open, with the same visible charcoal living sofa, pink cushion, oak floor and brick/art glimpse beyond. Do not turn this into cameraA or a front-facing desk composition. Desktop gains rich natural walnut/amber-pine grain and black standing-desk legs, at its current1.4\u00d70.7m envelope. Refine chair into ergonomic black MESH caster task chair, without shifting, shortening, rotating it or revealing unseen floor space. Monitor/keyboard retain position. Keep THREE bookcases (shopping quantity3 overrides mockup2), warm dark amber pine/walnut, exact low1.109m height/width/depth and five open shelf compartments. Keep thin57-inch black LED rod; black dome lamp stays where image2 confirms it and remains out of frame in this camera. Rug's precise modeled outline stays put; replace proxy beige/green rectangles with flat woven beige/light-brown/charcoal distressed organic abstract pattern from Amy's board. Preserve exact opening and adjacent living room arrangement, no new doorway/window, art, curtains or equipment.",
+      "transparent_background": false,
+      "attempt_count": 1,
+      "pixel_postprocessing": false,
+      "generator_output_path": "/workspace/generated_images/exec-cf2d0cbb-8c5f-4302-83aa-2008930f5d4b.png",
+      "output_sha256": "d7ae3c98c672ffb9547717926fa26efe1b579ced008b167e91a15d7e8b4fe92b",
+      "output_pixel_dimensions": [
+        1505,
+        1045
+      ],
+      "reference_sha256": {
+        "/workspace/apartment-v2/room-views/his-office-b.jpg": "55721ab7e410fc0d98f9fc139b4020bc3e3bf5b77ce8fc7ddd7df8cd9701041f",
+        "/workspace/apartment-v2/room-views/his-office-a.jpg": "45004ecb1e97fe2010a8d7a9820df1dc83191c2c81cd0533c8386509811593f3",
+        "/workspace/apartment-v2/evidence/Amy-design-boards/Lana & Ben HIS OFFICE.jpeg": "ee0d3eea806ab9a9ab94cda3cf90cc4e9ad68e3e9932dc8601c5c039b0cf7ab5"
+      }
+    }
+  ],
+  "review": {
+    "geometry": "All four passed independent visual geometry/placement comparison; no retry used.",
+    "finish_caveats": [
+      "Living images retained a gray horizontal proxy wall band that reads as two-tone finish; it adds no wall geometry.",
+      "Living A painting includes a small ambiguous text-like mark from board-inspired artwork.",
+      "Furniture forms and textures are photoreal concept approximations, not exact vendor CAD."
+    ]
+  }
+}

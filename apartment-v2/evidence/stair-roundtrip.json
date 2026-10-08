@@ -1,0 +1,170 @@
+{
+  "start": {
+    "activeFloor": "basement",
+    "activeRoom": "basement-open",
+    "mode": "walk",
+    "assets": {
+      "dresser": "loaded",
+      "fixtures": "loaded",
+      "utilities": "loaded",
+      "entry": "loaded",
+      "furniture": "loaded",
+      "repairs": "loaded",
+      "architecture": "loaded",
+      "scan": "loaded"
+    },
+    "position": [
+      5.38,
+      0.195,
+      -2.31
+    ],
+    "scanBounds": [
+      [
+        -8.445853233337402,
+        -1.7979331016540527,
+        -3.3755526542663574
+      ],
+      [
+        8.485538482666016,
+        4.744903564453125,
+        3.0149011611938477
+      ]
+    ],
+    "layers": {
+      "scan": false,
+      "architecture": true,
+      "repairs": false,
+      "furniture": true,
+      "fixtures": true,
+      "dresser": true,
+      "utilities": false,
+      "entry": true
+    }
+  },
+  "ascent": {
+    "activeFloor": "upper",
+    "activeRoom": "",
+    "mode": "walk",
+    "assets": {
+      "dresser": "loaded",
+      "fixtures": "loaded",
+      "utilities": "loaded",
+      "entry": "loaded",
+      "furniture": "loaded",
+      "repairs": "loaded",
+      "architecture": "loaded",
+      "scan": "loaded"
+    },
+    "position": [
+      1.9149999999999858,
+      3.1550000000000002,
+      -2.31
+    ],
+    "scanBounds": [
+      [
+        -8.445853233337402,
+        -1.7979331016540527,
+        -3.3755526542663574
+      ],
+      [
+        8.485538482666016,
+        4.744903564453125,
+        3.0149011611938477
+      ]
+    ],
+    "layers": {
+      "scan": false,
+      "architecture": true,
+      "repairs": false,
+      "furniture": true,
+      "fixtures": true,
+      "dresser": true,
+      "utilities": false,
+      "entry": true
+    }
+  },
+  "egress": {
+    "activeFloor": "upper",
+    "activeRoom": "",
+    "mode": "walk",
+    "assets": {
+      "dresser": "loaded",
+      "fixtures": "loaded",
+      "utilities": "loaded",
+      "entry": "loaded",
+      "furniture": "loaded",
+      "repairs": "loaded",
+      "architecture": "loaded",
+      "scan": "loaded"
+    },
+    "position": [
+      1.9149999999999858,
+      3.115,
+      -1.6799999999999975
+    ],
+    "scanBounds": [
+      [
+        -8.445853233337402,
+        -1.7979331016540527,
+        -3.3755526542663574
+      ],
+      [
+        8.485538482666016,
+        4.744903564453125,
+        3.0149011611938477
+      ]
+    ],
+    "layers": {
+      "scan": false,
+      "architecture": true,
+      "repairs": false,
+      "furniture": true,
+      "fixtures": true,
+      "dresser": true,
+      "utilities": false,
+      "entry": true
+    }
+  },
+  "descent": {
+    "activeFloor": "basement",
+    "activeRoom": "",
+    "mode": "walk",
+    "assets": {
+      "dresser": "loaded",
+      "fixtures": "loaded",
+      "utilities": "loaded",
+      "entry": "loaded",
+      "furniture": "loaded",
+      "repairs": "loaded",
+      "architecture": "loaded",
+      "scan": "loaded"
+    },
+    "position": [
+      5.385000000000014,
+      0.20786956521737965,
+      -2.31
+    ],
+    "scanBounds": [
+      [
+        -8.445853233337402,
+        -1.7979331016540527,
+        -3.3755526542663574
+      ],
+      [
+        8.485538482666016,
+        4.744903564453125,
+        3.0149011611938477
+      ]
+    ],
+    "layers": {
+      "scan": false,
+      "architecture": true,
+      "repairs": false,
+      "furniture": true,
+      "fixtures": true,
+      "dresser": true,
+      "utilities": false,
+      "entry": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+HIS OFFICE — WARM MODERN STUDIO
+
+Requirements
+Keep the user's 42 × 30 inch UPLIFT Pheasantwood solid-wood standing desk: barkline front, square back, two brushed-nickel grommets and industrial V2 C-frame. Keep the exact linked white Honeywell 02E Pro floor lamp and brown MUTTROS 59-inch tree with three wicker baskets, a fleece hammock and condo. Add a second usable desk, folded-clothes drawers, shoe storage, closed office storage, a comfortable visitor chair, a graphic rug and modern art. Existing closet provides hanging clothes storage. Amy's office suggestions do not constrain this design.
+
+Room and fixed features
+Original Polycam meter scale is retained. Approximate outer bounds are 4.90 × 3.10 m, with a closet notch; usable floor is about 14.03 m² and ceiling about 3.02 m above the floor. Scan-derived architectural outlines have roughly 5–12 cm uncertainty. This redesign rechecks actual raw geometry for the rear sash window, radiator beside the exterior door, closet door/overhead cupboard, wider living entrance, built-in shelf nook and recessed arched fireplace infill. Original scan and prior delivered models remain separate.
+
+Aesthetic
+Warm modern studio: exposed brick and existing oak-toned flooring, uniform warm-white walls, sculptural Pheasantwood, clean black-brown second worktop, industrial-gray desk frame, black mesh task chairs, white office drawers and lamp. Slate-teal corduroy visitor seating and cobalt graphic art add color; the natural cat-tree branches and oak clothes chest keep the room warm. The ivory/slate-blue Inkdrop rug connects the work and visitor zones.
+
+Layout
+Both desk fronts face into the room from the long white wall, with users looking toward that wall. Window light comes from the side of the main workstation. The 42-inch main desk and 140 cm secondary desk retain distinct work areas. The second desk has one five-drawer pedestal on the left and a real knee bay on the right; it is not merely the top of a dresser. Each desk has its own ergonomic task chair. The compact lounge chair is dedicated visitor seating.
+
+The separate oak-effect three-drawer chest holds folded clothes in the brick-wall bay away from the fireplace. Its published 4.2 cu.ft capacity is distinct from the ALEX office drawers. Three stackable shoe racks live in the bottom of the existing closet, with a published nominal capacity up to 9 pairs; actual shoe sizes and existing closet internals require fitting. Hanging storage and the closet approach remain available.
+
+The Honeywell lamp and cat tree occupy the rear/window side. The tree's published base is 23.6 × 22 in and height 59 in; branch/basket projection is not published and is modeled provisionally from the product photographs. That projection needs physical checking before installation. The rug is the actual 6 × 9 ft flatwoven Inkdrop Slate Blue variant with Standard Pad, positioned to support both task-chair caster footprints in working and planned pullback positions.
+
+Dimension authority and functional checks
+The canonical layout is model/layout.json, using source-native Blender Z-up meters. The 3D model and its plan control geometry, furniture footprints, openings and orientation. Actual product photos control product form, color and finish in image generation. A generic monitor/keyboard arrangement illustrates each workspace; the user's exact equipment has not been specified. Product forms remain concept models unless supplied by manufacturer GLB.
+
+Check actual door swings, existing closet internal fittings, cat-tree branch span and standing-desk cable slack on site. The recorded doors are closed; any hidden/open viewing mode is an explanatory aid. Clothes drawers can be accessed with the task chair in its working/tucked position; do not assume simultaneously pulled-back chairs and open drawers remain unobstructed. The fireplace is recorded with a closed white infill; its operability is not known.
+
+Products and budget
+The selected product record in the delivery bundle is products/selected-products.json, with exact retailer URLs, variants, official photographs, nominal dimensions and prices checked 2026-10-08. New pieces including two proposed Branch task chairs and matching art frames total about $2,344.43 before tax/shipping. Existing desk, lamp and cat tree are excluded from that subtotal. EKENASET is a Last Chance color; local delivery/stock depends on location. This is a proposal; no purchases were made.
+
+Generation and delivery
+Generate several room angles only after the checked 3D model is rendered. Supply each target camera with companion room angles and original online product photos. Preserve the modeled room, doors, window, fireplace, placements and 42-inch desk size. The generated photographs are finish/style concepts and may still vary in furniture detail; they do not establish measurements or replace the model for purchasing/fit.

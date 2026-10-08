@@ -1,0 +1,15 @@
+HIS OFFICE — FINAL GENERATED IMAGE QA
+PASS FOR CONCEPT VISUALIZATION
+
+All three untouched final PNGs were independently compared with the matching fixed model camera, companion views and selected real product photos. Room features, two workstation positions/fronts, chair facing, left ALEX/open knee bay, visitor seat, rug rotation and opposite-wall artwork remain coherent. Occluded/cropped objects are not treated as missing.
+
+A: Open-center Honeywell head and dark amber/striped Pheasantwood corrected; target placement retained.
+B: Wrong artwork locations corrected. Only clipped Blue Geometric remains at far left; wall above secondary desk is blank. A small round tabletop spot/grommet on the secondary desk remains a cosmetic generated variation.
+C: Projecting hearth corrected to the shallow bottom brick course within the chimney footprint. Stray cropped lamp bar removed while actual window frame/sash is preserved.
+
+This is visual fidelity review, not measurement of room/product dimensions from generated pixels. The model and operation QA remain authoritative for geometry. Materials, grain, fine silhouettes/hardware, lighting and exterior scenery are representative. Owned cat-tree reach/lamp-base and unrecorded closet/site clearances remain field checks.
+
+Final image SHA256:
+  concept-a.png  bded341e31a5c3799b9a145fa405acf3c56d6547df1f4ddfa414bd35b7eff501
+  concept-b.png  cb4d975935dbfe0a50b04048ad4afafaa42c20968486ed16c217dda13ccc19c3
+  concept-c.png  10011853ae25b018c826fcfc70e6f1e4e25b254bdd34ab610743913b4bdc9aff

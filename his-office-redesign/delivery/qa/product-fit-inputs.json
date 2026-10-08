@@ -1,0 +1,66 @@
+{
+  "status": "Independent source-dimension inputs; final frozen placement and geometry review pending",
+  "units": "meters",
+  "coordinate_frame": "Native Blender XY floor plane, Z up; GLTF maps [X,Z,-Y]",
+  "keepers": {
+    "uplift": {
+      "top_width_depth_m": [1.0668, 0.762],
+      "dimension_authority": "User-owned 42x30in desktop; do not substitute catalog photo widths",
+      "official_v2_c_foot_depth_m": 0.70104,
+      "appearance": "Pheasantwood barkline front and square rear, industrial gray V2 C-frame",
+      "fit_checks_required": ["knee bay between actual legs/frame", "chair base and pullback", "desk-to-wall cable/grommet clearance", "lamp base against desk feet", "standing desktop/monitor versus lamp panel height"]
+    },
+    "honeywell": {
+      "asin": "B0C3BVYTXP",
+      "model": "02E Pro white",
+      "overall_depth_width_height_m": [0.610108, 0.288036, 1.9685],
+      "base_dimensions_separately_verified": false,
+      "fit_checks_required": ["U-base under desk clear of frame/casters", "panel projection", "desk standing travel", "supply cord route"]
+    },
+    "muttros": {
+      "asin": "B0HHRC6XBC",
+      "model": "59in brown, three wicker baskets, hammock and condo",
+      "base_width_depth_m": [0.59944, 0.5588],
+      "height_m": 1.4986,
+      "branch_projection_width_depth_measured": false,
+      "full_projection_reservation_m": [1.0, 0.8],
+      "reservation_authority": "Conservative planning assumption only; product photos clearly show basket/branch projections beyond the base. This is not a published overall dimension or measured owned assembly.",
+      "fit_checks_required": ["base footprint", "assumed upper branches separately", "exterior door approach/swing", "radiator offset", "window access", "occupied workstation head/shoulder envelope"]
+    }
+  },
+  "candidate_dimensions_from_official_product_json_ld": {
+    "lagkapten-alex-single-59432163": {
+      "width_depth_height_m": [1.400175, 0.600075, 0.73025],
+      "sources": ["/workspace/his-office-redesign/products/candidates/official-source-extracts.json"],
+      "fit_note": "One drawer pedestal leaves a substantially wider working knee bay than the two-pedestal variant; model the physical drawers/legs and check actual clear span."
+    },
+    "alex-00473546": {
+      "width_depth_height_m": [0.358775, 0.581025, 0.6985]
+    },
+    "storklinta-80559292": {
+      "width_depth_height_m": [0.6985, 0.479425, 0.7493],
+      "discrepancy_found": "This currently researched SKU is about70x48cm, not the preliminary80x47cm dresser. Root informed before layout freeze."
+    },
+    "bissa-20530206": {
+      "width_depth_height_m": [0.48895, 0.2794, 0.930275],
+      "fit_note": "Inside closet only if actual interior/hanging clear height and compartment tilt can be confirmed. Closet internal measurements are not yet in audit inputs."
+    },
+    "ekenaset-90533485": {
+      "width_depth_height_m": [0.64135, 0.78105, 0.758825],
+      "fit_note": "Account for approach in front of seat and entry-door sweep, not only chair box."
+    },
+    "branch-ergonomic-pro": {
+      "body_width_depth_m": [0.635, 0.6096],
+      "swivel_base_diameter_m": 0.70104,
+      "body_height_range_m": [0.9652, 1.04648],
+      "fit_note": "Use the27.6in base plus a translated pullback sweep;25in body width alone understates chair envelope."
+    }
+  },
+  "fixed_feature_inputs_received": "/workspace/his-office-redesign/model/fixed-feature-manifest.json",
+  "source_limits": [
+    "New closed doors, closet cupboard and radiator forms are source-calibrated review proxies, not a field survey.",
+    "Entry door hinge is only likely -Y; opening state/direction is unverified. Assess conservative plausible inward sweep and disclose assumption.",
+    "Closet shelf/cupboard interior and full cat-tree branch envelope are not measured. Do not claim exact shoe-unit or basket clearance.",
+    "Radiator envelope carries about5-8cm uncertainty; thermal/manufacturer clearance is separately unknown. A modeled distance is not a specified heat clearance."
+  ]
+}

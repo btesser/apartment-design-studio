@@ -1,0 +1,92 @@
+Warm modern studio — verified product shortlist
+US pages checked 2026-10-08; prices before tax/shipping. No purchasing or model edits performed.
+Primary palette: existing brick/light oak + Pheasantwood/gray UPLIFT + black-brown secondary desktop + white closed storage + charcoal/ivory graphic rug + actual slate-teal EKENÄSET + bold cobalt architectural art.
+
+secondary_workspace: IKEA LAGKAPTEN / ALEX desk, two 5-drawer pedestals — Black-brown top / white drawers
+  W/D/H nominal m: [1.4, 0.6, 0.73]; USD $239.99
+  https://www.ikea.com/us/en/p/lagkapten-alex-desk-black-brown-white-s09432189/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/lagkapten-alex-double.jpg
+  No verified ALEX internal drawer heights or capacity; do not depict giant clothes drawers. Room planning should include chair base and pullout space.
+
+secondary_workspace: IKEA LAGKAPTEN / ALEX desk, one 5-drawer pedestal and two legs — Black-brown top / white drawers and legs
+  W/D/H nominal m: [1.4, 0.6, 0.73]; USD $159.99
+  https://www.ikea.com/us/en/p/lagkapten-alex-desk-black-brown-white-s59432163/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/lagkapten-alex-single.jpg
+
+folded_clothes_storage: IKEA NORDLI 4-drawer low dresser — White
+  W/D/H nominal m: [0.8, 0.47, 0.53]; USD $249.99
+  https://www.ikea.com/us/en/p/nordli-4-drawer-dresser-white-50589078/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/nordli-clothes.jpg
+  Dedicated folded-clothes storage. Source calls for securing to wall. Current page rating 2.6/5 from 31 reviews, mostly mixed assembly feedback; alternate below has warmer finish and greater published capacity.
+
+folded_clothes_storage: IKEA STORKLINTA 3-drawer dresser — Oak effect
+  W/D/H nominal m: [0.7, 0.48, 0.75]; USD $149.99
+  https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function-80559292/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/storklinta-low-drawers.jpg
+  Dedicated clothes dresser, not a second desk. Anchor/unlock wall attachment is part of the product design.
+
+shoes: IKEA GREJIG stackable shoe rack — Gray
+  W/D/H nominal m: [0.58, 0.27, 0.17]; USD $4.99
+  https://www.ikea.com/us/en/p/grejig-shoe-rack-gray-20620061/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/grejig-shoes.jpg
+
+shoes: IKEA TRONES shoe/storage cabinet, 2-pack — Black
+  W/D/H nominal m: [0.52, 0.18, 0.39]; USD $39.99
+  https://www.ikea.com/us/en/p/trones-shoe-storage-cabinet-black-80397313/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/trones-shoes.jpg
+  Requires wall attachment; two vertically stacked units total about 78 cm high before mounting offset.
+
+visitor_lounge: IKEA EKENÄSET armchair — Kelinge gray-turquoise
+  W/D/H nominal m: [0.64, 0.78, 0.76]; USD $329.00
+  https://www.ikea.com/us/en/p/ekenaeset-armchair-kelinge-gray-turquoise-90533485/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/ekenaset-turquoise.jpg
+
+visitor_lounge: IKEA EKENÄSET armchair — Kilanda light beige
+  W/D/H nominal m: [0.64, 0.78, 0.76]; USD $199.00 (regular $299.00)
+  https://www.ikea.com/us/en/p/ekenaeset-armchair-kilanda-light-beige-30533493/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/ekenaset-beige.jpg
+
+task_seating: Branch Ergonomic Chair Pro, mesh / standard cylinder — Black
+  W/D/H nominal m: [0.635, 0.6096, 1.04648]; USD $499.00
+  https://www.branchfurniture.com/products/ergonomic-chair-pro
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/branch-pro-selected.jpg
+  Base is wider than the advertised body width; plan 70.1 cm rolling footprint plus movement.
+
+task_seating: Branch Verve Chair, standard — Galaxy (near charcoal / dark midnight blue)
+  W/D/H nominal m: [0.6858, 0.6858, 1.0414]; USD $599.00
+  https://www.branchfurniture.com/products/verve-chair
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/branch-verve-selected.jpg
+
+rug: Rugs USA Christie Washable Modern rug, 5×8 ft — Charcoal / ivory
+  W/D/H nominal m: [1.524, 2.4384, 0.00254]; USD $54.99 (regular $149.99)
+  https://www.rugsusa.com/products/christie-washable-modern-rug-charcoal
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/rug-christie.webp
+  Rug pad is separate; exact placement depends on circulation and fireplace keep-clear area.
+
+rug: Ruggable Jonathan Adler Inkdrop Slate Blue, Flatwoven 5×7 ft + Standard Pad — Slate blue / ivory
+  W/D/H nominal m: [1.524, 2.1336, 0.005175]; USD $299.00
+  https://ruggable.com/products/jonathan-adler-inkdrop-slate-blue-rug
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/ruggable-inkdrop.webp
+  Use selected 5×7 flatwoven Standard Pad bundle at $299. Page default $429 is for 6×9; cushioned bundle $359; cover alone $219.
+
+graphic_art: Desenio Blue Geometric Print, nominal 20×28 in — Blue / cream / warm neutral
+  W/D/H nominal m: [0.508, 0.0, 0.7112]; USD $44.07 (regular $73.45)
+  https://desenio.com/p/posters-prints/art-prints/graphical/blue-geometric-print/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/art-blue-geometric.webp
+  Print only; frame extra. Nominal US 20×28 label is rounded; companion frame description uses physical 19.7×27.6 in (about 50×70 cm). Avoid claiming sub-centimeter verified size.
+
+graphic_art: Desenio Bold Blue Print, nominal 20×28 in — Blue / cream / warm neutral
+  W/D/H nominal m: [0.508, 0.0, 0.7112]; USD $44.07 (regular $73.45)
+  https://desenio.com/p/posters-prints/art-prints/abstract-art/bold-blue-print/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/art-blue-bold.webp
+  Print only; frame extra. Nominal US 20×28 label is rounded; companion frame description uses physical 19.7×27.6 in (about 50×70 cm). Avoid claiming sub-centimeter verified size.
+
+art_frame: Desenio Black wood picture frame, nominal 20×28 in — Black
+  W/D/H nominal m: [0.5, 0.0, 0.7]; USD $59.46 (regular $69.95)
+  https://desenio.com/p/frames/wood-frames/black-wood-frames/black-picture-frame-20-x-28-in/
+  Official photo: /workspace/his-office-redesign/products/candidates/official-images/art-black-frame.jpg
+
+Storage honesty: ALEX retailer confirms 52.1 cm internal drawer depth but no interior width/height/volume. Treat as office bits/light folded items, with NORDLI/STORKLINTA as actual clothes storage.
+NORDLI is current LOW 4-drawer 80×47×53 cm ($249.99, 2.8 cu.ft), not a guessed older tall modular unit. STORKLINTA oak effect 70×48×75 cm ($149.99, 4.2 cu.ft) is a useful stronger-capacity alternative.
+Desk clear knee bay (calculated): double ALEX 140−2×36=68 cm; single pedestal opens more width. Plan rolling chair footprints and full closet approach in measured geometry.
+Source-authored downloadable IKEA 3D assets for ALEX, NORDLI and STORKLINTA also saved in official-3d-assets/ with source URLs; geometry still requires final import/bbox verification by model agent.

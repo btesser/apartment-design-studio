@@ -1,0 +1,285 @@
+{
+  "lampMeshCount": 11,
+  "rays": [
+    {
+      "originGltfM": [
+        -7.7,
+        3.8,
+        0.33999999999999997
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.7,
+        3.8,
+        0.24
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.7,
+        3.8,
+        0.13999999999999999
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.67,
+        3.8,
+        0.33999999999999997
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.67,
+        3.8,
+        0.24
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.67,
+        3.8,
+        0.13999999999999999
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.64,
+        3.8,
+        0.33999999999999997
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.64,
+        3.8,
+        0.24
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.64,
+        3.8,
+        0.13999999999999999
+      ],
+      "expected": "Open aperture",
+      "actual": null,
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.74,
+        3.8,
+        0.15999999999999998
+      ],
+      "expected": "Narrow_parallel_LED_light_bar",
+      "actual": {
+        "name": "Narrow_parallel_LED_light_bar",
+        "point": [
+          -7.74,
+          3.5264999084174633,
+          0.15999999999999998
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.59,
+        3.8,
+        0.15999999999999998
+      ],
+      "expected": "Narrow_parallel_LED_light_bar",
+      "actual": {
+        "name": "Narrow_parallel_LED_light_bar001",
+        "point": [
+          -7.59,
+          3.5264999084174633,
+          0.15999999999999998
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.805018,
+        3.8,
+        0.24
+      ],
+      "expected": "Rectangular_panel_long_rim",
+      "actual": {
+        "name": "Rectangular_panel_long_rim",
+        "point": [
+          -7.805018,
+          3.5435000797733665,
+          0.24
+        ]
+      },
+      "pass": true
+    },
+    {
+      "originGltfM": [
+        -7.534982,
+        3.8,
+        0.24
+      ],
+      "expected": "Rectangular_panel_long_rim",
+      "actual": {
+        "name": "Rectangular_panel_long_rim001",
+        "point": [
+          -7.534982,
+          3.5435000797733665,
+          0.24
+        ]
+      },
+      "pass": true
+    }
+  ],
+  "allRaysPass": true,
+  "centerDiagnostic": {
+    "originGltfM": [
+      -7.745,
+      3.8,
+      0.24
+    ],
+    "acceleratedHits": [],
+    "baselineHits": [
+      "Narrow_parallel_LED_light_bar",
+      "Narrow_parallel_LED_light_bar"
+    ],
+    "note": "Exact-center diagnostic is separate from off-diagonal LED positive controls to detect numerical triangle-edge/BVH differences."
+  },
+  "barBounds": [
+    {
+      "name": "Narrow_parallel_LED_light_bar",
+      "min": [
+        -7.763999884948134,
+        3.515499908477068,
+        -0.04455401003360748
+      ],
+      "max": [
+        -7.72599988617003,
+        3.5264999084174633,
+        0.5245539993047714
+      ],
+      "materialSide": [
+        2
+      ],
+      "vertexCount": 131,
+      "indexCount": 564,
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -7.744999885559082,
+        3.5209999084472656,
+        0.23999999463558197,
+        1
+      ]
+    },
+    {
+      "name": "Narrow_parallel_LED_light_bar001",
+      "min": [
+        -7.614000266417861,
+        3.515499908477068,
+        -0.04455401003360748
+      ],
+      "max": [
+        -7.576000267639756,
+        3.5264999084174633,
+        0.5245539993047714
+      ],
+      "materialSide": [
+        2
+      ],
+      "vertexCount": 131,
+      "indexCount": 564,
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -7.595000267028809,
+        3.5209999084472656,
+        0.23999999463558197,
+        1
+      ]
+    }
+  ],
+  "state": {
+    "mode": "orbit",
+    "selectedView": "overview",
+    "position": [
+      -1.330000000000001,
+      7.075,
+      6.640000000000001
+    ],
+    "assets": {
+      "doors": "loaded",
+      "shell": "loaded",
+      "furniture": "loaded"
+    },
+    "furniture": true,
+    "doorsHidden": false,
+    "doorMeshCount": 13,
+    "closetSuggestionMeshCount": 73,
+    "closetSuggestionVisible": false,
+    "bounds": [
+      -8.030000019818544,
+      1.5349999479949474,
+      -0.3600001867170663,
+      -3.0299999229609966,
+      4.635000050067902,
+      2.937000084668398
+    ]
+  },
+  "assetProof": {
+    "file": "/workspace/his-office-redesign/viewer-source/tests/final-asset-proof.json",
+    "sha256": "065b839f6f916f5b7445b451855ef1eef3d54c36512a41c312137ca311613f5b"
+  },
+  "currentOverviewScreenshot": "viewer-final-overview.png",
+  "errors": [],
+  "scope": "Current exported runtime lamp aperture after local product-form correction. Earlier four-camera/keyboard proof remains valid for unchanged camera/config/placement; asset hashes for current lamp are recorded here."
+}

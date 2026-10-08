@@ -1,0 +1,412 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Products",
+        "item": "https://www.ikea.com/us/en/cat/products-products/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Storage containers, organizers & baskets",
+        "item": "https://www.ikea.com/us/en/cat/storage-containers-st007/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Clothes organizers",
+        "item": "https://www.ikea.com/us/en/cat/clothes-organizers-10452/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Shoe racks & stands",
+        "item": "https://www.ikea.com/us/en/cat/shoe-racks-stands-10454/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "reviewCount": "193"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "IKEA"
+    },
+    "category": "Shoe racks & stands",
+    "color": "gray",
+    "depth": "10 5/8 \"",
+    "description": "GREJIG Shoe rack - gray 22 7/8x10 5/8x6 3/4 \". The simple and flexible GREJIG storage series is perfect for the hallway and other tight spaces. Complete this shoe rack with the wall grid and wall pocket for a practical all-in-one solution.",
+    "height": "6 3/4 \"",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1499925_pe1006838_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505589_pe1008585_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505588_pe1008583_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1505590_pe1008584_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.ikea.com/us/en/images/products/grejig-shoe-rack-gray__1420839_pe977507_s5.jpg",
+        "height": "2000px",
+        "width": "2000px"
+      }
+    ],
+    "mpn": "206.200.61",
+    "name": "GREJIG Shoe rack - gray 22 7/8x10 5/8x6 3/4 \"",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStoreOnly",
+      "itemCondition": "https://schema.org/NewCondition",
+      "price": "4.99",
+      "priceCurrency": "USD",
+      "seller": {
+        "@type": "Organization",
+        "name": "IKEA",
+        "url": "https://www.ikea.com/us/en/"
+      },
+      "url": "https://www.ikea.com/us/en/p/grejig-shoe-rack-gray-20620061/"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Rebecca"
+        },
+        "datePublished": "2026-09-23",
+        "name": "Shoe rack",
+        "reviewBody": "I use this rack to hold my laptop when I\u2019m sitting up in bed or on the floor. Folds away quickly and easy to store.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Yuki"
+        },
+        "datePublished": "2026-08-17",
+        "name": "Not as steady rack",
+        "reviewBody": "Not as steady and not as strong shoe rack",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Marcy"
+        },
+        "datePublished": "2026-08-12",
+        "name": "Too Short",
+        "reviewBody": "I'm a size 9 women's shoes. These don't fit boots. They're not tall enough. They also bow in the middle with weight when I tried to repurpose them for storage.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 1
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Luis"
+        },
+        "datePublished": "2026-07-26",
+        "name": "Great",
+        "reviewBody": "We use it on our closet to divide compartments.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Tara"
+        },
+        "datePublished": "2026-07-19",
+        "name": "Convenient",
+        "reviewBody": "Simple, stackable, affordable. Great for small spaces.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Wei-Cheng"
+        },
+        "datePublished": "2026-07-13",
+        "name": "Useful",
+        "reviewBody": "Very convenient",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Anna"
+        },
+        "datePublished": "2026-06-29",
+        "name": "Fantastic racks",
+        "reviewBody": "I have at least 6 of these racks throughout my place. They\u2019re easy to set up and I love that they\u2019re stackable.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Kim"
+        },
+        "datePublished": "2026-06-28",
+        "name": "Shoe rack",
+        "reviewBody": "Very sturdy have it in the closet and can fit twice as many shoes row on top and row under",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Nathalie Del Carmen"
+        },
+        "datePublished": "2026-06-24",
+        "name": "Perfect",
+        "reviewBody": "This \u00edtem is perfect for ahora!!",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jacqueline"
+        },
+        "datePublished": "2026-06-23",
+        "name": "shoe rack doesnt fit shoes",
+        "reviewBody": "The shelves are too short.  Athletic or medium high heels  or mens oxfords do not fit between the shelves",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 2
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Maria"
+        },
+        "datePublished": "2026-05-26",
+        "name": "Very practical",
+        "reviewBody": "Good price n very useful",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jodi"
+        },
+        "datePublished": "2026-05-22",
+        "name": "Does the job",
+        "reviewBody": "Fits the tray and holds 3 pairs of shoes.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Edwina"
+        },
+        "datePublished": "2026-05-22",
+        "name": "Practical and sturdy",
+        "reviewBody": "These shoe racks are sturdy and a practical way to store multiple shoes",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Kathryn"
+        },
+        "datePublished": "2026-05-21",
+        "name": "Great to stack my shoe trays",
+        "reviewBody": "Double the trays and keep drips off the shoes stacked below at the door.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Jacob"
+        },
+        "datePublished": "2026-04-27",
+        "name": "Great shelf for shoes",
+        "reviewBody": "Cheap and quick solution for your shoes at home. Can stuck them together as well.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Christine"
+        },
+        "datePublished": "2026-04-13",
+        "name": "perfect for smaller items, not just for shoes",
+        "reviewBody": "I take off shoes worn outside, this Ikea Rack is perfect, stack one on top to put packages while putting shoes on rack below. I keep gardening hose in a big Blue Ikea tote, put it on another Ikea rack to keep it indoors. Yep, not just for shoes.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Bridgette"
+        },
+        "datePublished": "2026-04-05",
+        "name": "Love these",
+        "reviewBody": "They're sturdy, stackable and makes organizing shoes a breeze.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Debra"
+        },
+        "datePublished": "2026-03-28",
+        "name": "More shoes less space",
+        "reviewBody": "I set the shoe rack inside the shoe tray. 2 levels for shoes. Works great.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        }
+      }
+    ],
+    "sku": "206.200.61",
+    "url": "https://www.ikea.com/us/en/p/grejig-shoe-rack-gray-20620061/",
+    "width": "22 7/8 \""
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "3DModel",
+    "encoding": [
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp3/glb_draco/f680d49f01f94e0876d775996cd93e03-20620061_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp2/glb_draco/87c3fe8525289d7e2bf0ddfb25bc0e54-20620061_PS01_S01_NV01_RQP2_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp1/glb_draco/2ace568f03e9369ccd2f7a5d80bf89c8-20620061_PS01_S01_NV01_RQP1_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/geomagical/20620061/PS01_S01_NV_01/simple/glb_draco/af15520aafa859e2378fd548d661494f-G-20620061-33d64541cc586d20e04b566fc0f32457d8adbf54-simple+draco.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp3/glb/9887362ff789076402f8188a6326cb74-20620061_PS01_S01_NV01_RQP3_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp2/glb/cfc4d18572263a355d9a2cb95f2ff68b-20620061_PS01_S01_NV01_RQP2_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp1/glb/1bc24d8c0a6d7b35578eff98edfba3c3-20620061_PS01_S01_NV01_RQP1_4.0.glb?cn=pip",
+        "encodingFormat": "model/gltf-binary"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp3/gltf/7f33ef69b341248d85562f52c038d191-20620061_PS01_S01_NV01_RQP3_4.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp2/gltf/743df0923965a50021eccf3af5f188e6-20620061_PS01_S01_NV01_RQP2_4.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      },
+      {
+        "@type": "MediaObject",
+        "contentUrl": "https://web-api.ikea.com/dimma/assets/1.2/20620061/PS01_S01_NV01/rqp1/gltf/02686cc8d6d833497d23a80447f49508-20620061_PS01_S01_NV01_RQP1_4.0.gltf?cn=pip",
+        "encodingFormat": "model/gltf"
+      }
+    ],
+    "image": "",
+    "name": "GREJIG"
+  }
+]

@@ -1,0 +1,372 @@
+{
+  "design": "Fresh His Office warm modern studio; Amy furnishing proposal excluded",
+  "layout_version": "root-QA-frozen-final-2026-10-08",
+  "coordinate_system": "Blender native metric Z-up; glTF maps[X,Z,-Y]",
+  "room_floor_z_m": 1.575,
+  "room_ceiling_z_m": 4.595,
+  "items": [
+    {
+      "id": "uplift-main-desk",
+      "kind": "kept_desk",
+      "position_blender_m": [
+        -6.95,
+        -0.131,
+        1.575
+      ],
+      "external_dimensions_m": [
+        1.0668,
+        0.762,
+        0.74
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "product_id": "uplift-pheasantwood-42x30",
+      "top_thickness_m": 0.04445,
+      "dimension_confidence": "User order confirms42x30in; modeled operating height is a seated-use assumption"
+    },
+    {
+      "id": "branch-primary",
+      "kind": "task_chair",
+      "position_blender_m": [
+        -6.82,
+        -0.85,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.635,
+        0.6096,
+        1.04648
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "branch-pro",
+      "rolling_base_diameter_m": 0.70104,
+      "desk_offset_x_m": 0.13
+    },
+    {
+      "id": "secondary-workspace",
+      "kind": "secondary_desk",
+      "position_blender_m": [
+        -5.55,
+        -0.05,
+        1.575
+      ],
+      "external_dimensions_m": [
+        1.4,
+        0.6,
+        0.73
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "product_id": "lagkapten-alex-single",
+      "ALEX_pedestal_side": "LEFT / -X",
+      "ALEX_count": 1,
+      "right_ADILS_leg_count": 2
+    },
+    {
+      "id": "branch-secondary",
+      "kind": "task_chair",
+      "position_blender_m": [
+        -5.4,
+        -0.8,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.635,
+        0.6096,
+        1.04648
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "branch-pro",
+      "rolling_base_diameter_m": 0.70104
+    },
+    {
+      "id": "honeywell-lamp",
+      "kind": "kept_lamp",
+      "position_blender_m": [
+        -7.67,
+        -0.24,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.288036,
+        0.610108,
+        1.9685
+      ],
+      "rotation_z_deg": 0,
+      "product_id": "honeywell-B0C3BVYTXP-white",
+      "major_axis": "Y",
+      "dimension_confidence": "Exact seller diagram outer dimensions; detailed joint geometry approximate"
+    },
+    {
+      "id": "muttros-cat-tree",
+      "kind": "kept_cat_tree",
+      "position_blender_m": [
+        -7.59,
+        -1.0,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.59944,
+        0.5588,
+        1.4986
+      ],
+      "rotation_z_deg": 0,
+      "product_id": "muttros-B0HHRC6XBC-brown",
+      "upper_provisional_envelope_m": [
+        0.7,
+        1.1,
+        1.4986
+      ],
+      "branch_basket_major_axis": "Y",
+      "basket_count": 3,
+      "dimension_confidence": "Seller base/height confirmed; upper basket/branch dimensions unpublished and provisional"
+    },
+    {
+      "id": "clothes-dresser",
+      "kind": "clothes_dresser",
+      "position_blender_m": [
+        -6.6,
+        -2.51,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.6985,
+        0.479425,
+        0.7493
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "storklinta-low-drawers",
+      "drawer_count": 3,
+      "drawer_pullout_m": 0.276225,
+      "dimension_confidence": "Retailer imperial nominal dimensions; official CAD proxy fitted to this stated envelope"
+    },
+    {
+      "id": "visitor-chair",
+      "kind": "lounge_chair",
+      "position_blender_m": [
+        -4.53,
+        -2.0,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.64135,
+        0.78105,
+        0.758825
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "ekenaset-turquoise",
+      "dimension_confidence": "Retailer imperial nominal external dimensions"
+    },
+    {
+      "id": "rug",
+      "kind": "rug",
+      "position_blender_m": [
+        -6.1,
+        -1.1,
+        1.575
+      ],
+      "external_dimensions_m": [
+        2.7432,
+        1.8288,
+        0.005175
+      ],
+      "rotation_z_deg": 0,
+      "product_id": "ruggable-inkdrop",
+      "nominal_size": "6x9ft flatwoven plus Standard Pad",
+      "major_axis": "X",
+      "texture_file": "/workspace/his-office-redesign/products/candidates/official-images/ruggable-inkdrop-selected.jpg"
+    },
+    {
+      "id": "grejig-1",
+      "kind": "closet_shoe_rack",
+      "position_blender_m": [
+        -3.48,
+        -0.54,
+        1.575
+      ],
+      "external_dimensions_m": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "rotation_z_deg": 90,
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "product_id": "grejig-shoes",
+      "stack_index": 1,
+      "placement_confidence": "Provisional within unrecorded closet; internal clear width/depth must be checked",
+      "hide_in_closed_door_views": true,
+      "world_axis_dimensions_m": [
+        0.27,
+        0.58,
+        0.17
+      ]
+    },
+    {
+      "id": "grejig-2",
+      "kind": "closet_shoe_rack",
+      "position_blender_m": [
+        -3.48,
+        -0.54,
+        1.7449999999999999
+      ],
+      "external_dimensions_m": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "rotation_z_deg": 90,
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "product_id": "grejig-shoes",
+      "stack_index": 2,
+      "placement_confidence": "Provisional within unrecorded closet; internal clear width/depth must be checked",
+      "hide_in_closed_door_views": true,
+      "world_axis_dimensions_m": [
+        0.27,
+        0.58,
+        0.17
+      ]
+    },
+    {
+      "id": "grejig-3",
+      "kind": "closet_shoe_rack",
+      "position_blender_m": [
+        -3.48,
+        -0.54,
+        1.915
+      ],
+      "external_dimensions_m": [
+        0.58,
+        0.27,
+        0.17
+      ],
+      "rotation_z_deg": 90,
+      "front_blender_vector": [
+        1,
+        0,
+        0
+      ],
+      "product_id": "grejig-shoes",
+      "stack_index": 3,
+      "placement_confidence": "Provisional within unrecorded closet; internal clear width/depth must be checked",
+      "hide_in_closed_door_views": true,
+      "world_axis_dimensions_m": [
+        0.27,
+        0.58,
+        0.17
+      ]
+    },
+    {
+      "id": "blue-bold-art",
+      "kind": "art",
+      "position_blender_m": [
+        -5.31,
+        -2.698,
+        3.2
+      ],
+      "external_dimensions_m": [
+        0.72,
+        0.018,
+        1.02
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        1,
+        0
+      ],
+      "product_id": "art-blue-bold",
+      "paper_size_m": [
+        0.7,
+        1.0
+      ],
+      "frame": "Assumed thin black frame; outside dimensions not verified",
+      "texture_file": "/workspace/his-office-redesign/products/candidates/official-images/art-blue-bold-selected.jpg"
+    },
+    {
+      "id": "blue-geometric-art",
+      "kind": "art",
+      "position_blender_m": [
+        -6.82,
+        0.225,
+        3.3
+      ],
+      "external_dimensions_m": [
+        0.52,
+        0.018,
+        0.72
+      ],
+      "rotation_z_deg": 0,
+      "front_blender_vector": [
+        0,
+        -1,
+        0
+      ],
+      "product_id": "art-blue-geometric",
+      "paper_size_m": [
+        0.5,
+        0.7
+      ],
+      "frame": "Assumed thin black frame; outside dimensions not verified",
+      "texture_file": "/workspace/his-office-redesign/products/candidates/official-images/art-blue-geometric-selected.jpg"
+    }
+  ],
+  "generic_functional_assumptions": [
+    "One monitor and keyboard per desk; illustrative unselected equipment dimensions",
+    "Selected black frames are assumed narrow proxies, not verified outside frame measurements"
+  ],
+  "geometry_authority": "/workspace/his-office-redesign/geometry/room-measurements.json",
+  "fixed_features_authority": "/workspace/his-office-redesign/geometry/fixed-features.json",
+  "notes": [
+    "Room scale and nominal outline are unchanged; new fixed features come from calibrated raw scan",
+    "Cat upper branch/basket envelopes are provisional; part-height collision check required",
+    "Closet interior unrecorded: racks are a provisional fit idea hidden by observed closed door",
+    "Clothes dresser exact root positionX=-6.60 clears updated rear-door approach; pullout0.276225m"
+  ],
+  "dimension_convention": "external_dimensions_m are product-local XYZ dimensions before rotation; world_axis_dimensions_m is provided where orientation swaps axes.",
+  "clearance_summary": {
+    "method": "Conservative independent 2D fit/routing check, pending actual final3D part recheck",
+    "nominal_routed_person_diameter_m": 0.5,
+    "nominal_routing_passes_default_and_simultaneous_45cm_chair_pullback": true,
+    "routed_person_diameter_55cm_fails": true,
+    "lamp_uprong_to_desk_foot_m": 0.1095,
+    "lamp_to_pipe_m": 0.075,
+    "visitor_rear_to_conservative_hearth_m": 0.0895,
+    "field_measurement_required": true
+  }
+}

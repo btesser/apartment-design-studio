@@ -1,0 +1,226 @@
+[
+  {
+    "room": "his-office",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.008859,
+      -0.004139,
+      1.617083
+    ],
+    "weighted_rms_m": 0.008,
+    "support_area_m2": 10.453,
+    "support_triangles": 5097,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "his-office",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.004656,
+      -0.014263,
+      4.602549
+    ],
+    "weighted_rms_m": 0.0075,
+    "support_area_m2": 10.669,
+    "support_triangles": 4234,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "her-office",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.010231,
+      -0.012961,
+      1.506812
+    ],
+    "weighted_rms_m": 0.0084,
+    "support_area_m2": 10.411,
+    "support_triangles": 5973,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "her-office",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.006919,
+      -0.004651,
+      4.614981
+    ],
+    "weighted_rms_m": 0.009,
+    "support_area_m2": 10.505,
+    "support_triangles": 4504,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "living",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.002771,
+      -0.006708,
+      1.529997
+    ],
+    "weighted_rms_m": 0.0077,
+    "support_area_m2": 15.298,
+    "support_triangles": 7396,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "living",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      -0.007886,
+      -0.002459,
+      4.202491
+    ],
+    "weighted_rms_m": 0.0085,
+    "support_area_m2": 15.532,
+    "support_triangles": 8162,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "upper-kitchen",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.003379,
+      0.017221,
+      1.552421
+    ],
+    "weighted_rms_m": 0.0076,
+    "support_area_m2": 6.408,
+    "support_triangles": 3121,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "upper-kitchen",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      -0.002264,
+      0.001982,
+      4.498574
+    ],
+    "weighted_rms_m": 0.0069,
+    "support_area_m2": 9.76,
+    "support_triangles": 3461,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "bathroom-upper",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.007872,
+      0.000423,
+      1.571833
+    ],
+    "weighted_rms_m": 0.0038,
+    "support_area_m2": 2.753,
+    "support_triangles": 1337,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "bathroom-upper",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.01324,
+      0.00783,
+      4.163476
+    ],
+    "weighted_rms_m": 0.007,
+    "support_area_m2": 4.067,
+    "support_triangles": 1788,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "music-gym",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      -0.004848,
+      -0.002524,
+      -1.472921
+    ],
+    "weighted_rms_m": 0.0064,
+    "support_area_m2": 9.124,
+    "support_triangles": 4052,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "music-gym",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.011144,
+      0.004066,
+      1.302046
+    ],
+    "weighted_rms_m": 0.01,
+    "support_area_m2": 6.733,
+    "support_triangles": 3012,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "bedroom-flex",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.018245,
+      0.00517,
+      -1.360919
+    ],
+    "weighted_rms_m": 0.0065,
+    "support_area_m2": 8.845,
+    "support_triangles": 3138,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "bedroom-flex",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      0.003424,
+      -0.003149,
+      1.257645
+    ],
+    "weighted_rms_m": 0.0039,
+    "support_area_m2": 6.767,
+    "support_triangles": 2388,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "basement-open",
+    "surface": "floor",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      -0.001778,
+      -0.005011,
+      -1.38574
+    ],
+    "weighted_rms_m": 0.0092,
+    "support_area_m2": 24.715,
+    "support_triangles": 9751,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  },
+  {
+    "room": "basement-open",
+    "surface": "ceiling",
+    "z_equation": "z = a*x + b*y + c",
+    "abc": [
+      -0.000476,
+      -0.000175,
+      1.252688
+    ],
+    "weighted_rms_m": 0.0092,
+    "support_area_m2": 29.612,
+    "support_triangles": 11034,
+    "warning": "Local robust fit to measured near-horizontal faces; use as evidence, not unseen room-wide plane validation."
+  }
+]

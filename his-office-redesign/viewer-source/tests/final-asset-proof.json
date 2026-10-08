@@ -1,0 +1,67 @@
+{
+  "native_frame_preserved": true,
+  "layers": {
+    "shell": {
+      "file": "his-office-shell.glb",
+      "bytes": 739764,
+      "sha256": "11ed88b2993bcf7fc1ccf1257e83e7934338b1fd5840de880071fe069ca19a9c",
+      "canonical_stamp_utc": "2026-10-08T15:31:14.559849+00:00",
+      "canonical_source_matches": true,
+      "embedded_offline_matches": true
+    },
+    "doors": {
+      "file": "his-office-door-leaves.glb",
+      "bytes": 167392,
+      "sha256": "360b7c57d4fc45a75cb74830a539392ef700648e60dad3d42f534ee39f66d3ec",
+      "canonical_stamp_utc": "2026-10-08T15:31:14.619519+00:00",
+      "canonical_source_matches": true,
+      "embedded_offline_matches": true
+    },
+    "furniture": {
+      "file": "his-office-furniture.glb",
+      "bytes": 15956032,
+      "sha256": "fe9cea9df2e569a3e727f3d4252c35649ab1eacec6c576322ac2bc1f046d96b6",
+      "canonical_stamp_utc": "2026-10-08T15:55:43.389359+00:00",
+      "canonical_source_matches": true,
+      "embedded_offline_matches": true
+    }
+  },
+  "canonical_composite": {
+    "file": "his-office-design.glb",
+    "sha256": "895550f4a29566a7e277e64cfc54eda0878ad8a00d0dc53b5fce7e62b94d059d",
+    "stamp_utc": "2026-10-08T15:55:44.581400+00:00"
+  },
+  "restored_texture_runtime_check": {
+    "uniqueLoadedTextures": 26,
+    "invalid": [],
+    "productMaps": {
+      "secondary-workspace": 1,
+      "clothes-dresser": 4,
+      "rug": 1,
+      "blue-bold-art": 1,
+      "blue-geometric-art": 1,
+      "uplift-main-desk": 1,
+      "branch-primary": 2,
+      "branch-secondary": 2
+    }
+  },
+  "standalone_html_sha256": "7ba703372595a7ceac5a6993d90ddc67c02e2a8aefa8133e7fd4b6fcf4291d38",
+  "offline_checks": [
+    "Restored dresser and both task-chair image maps load with nonzero image dimensions.",
+    "Only the new office shell, furnishings and recorded closed door leaves loaded.",
+    "Confirmed 42 \u00d7 30 inch desk and four office viewpoints present.",
+    "All four viewpoint shortcuts select eye-level walk views.",
+    "Actual W input moves the eye-level camera.",
+    "Recorded/inferred door viewing states and new furnishings visibility toggle correctly.",
+    "Save image produces a PNG download.",
+    "No browser errors or network requests."
+  ],
+  "direct_file_browser_policy": "ERR_BLOCKED_BY_ADMINISTRATOR; see file-policy-result.json",
+  "local_product_correction": {
+    "description": "Removed broad head panel and replaced it with two narrow LED bars within the same fixed perimeter, leaving central aperture empty. +1 mesh; all other lamp component bounds preserved.",
+    "frozen_poses_and_envelopes_unchanged": true,
+    "other_product_component_bounds_unchanged": true,
+    "all_other_lamp_component_bounds_unchanged": true,
+    "evidence": "assets/honeywell-open-head-validation.json"
+  }
+}

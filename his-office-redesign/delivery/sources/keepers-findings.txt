@@ -1,0 +1,9 @@
+Exact keeper research
+
+MUTTROS: B0HHRC6XBC, brown, three wicker baskets plus hammock and condo. Base23.6×22in (0.59944×0.5588m),59in tall (1.4986m). Listing23.5in length is a small rounding conflict. Total basket-to-basket branch width/depth is not published; product clearly overhangs base. Do not use base as full tree collision envelope. Best reference muttros-B0HHRC6XBC-PT04.jpg.
+
+Honeywell: B0C3BVYTXP is HWL-02E Pro, white100W10400lm, rectangular head and U-shaped base. Overall24.02×11.34×77.5in (0.610108×0.288036×1.9685m). Exact base dimensions separately unverified. Best product reference honeywell-B0C3BVYTXP-MAIN.jpg; dimensions honeywell-B0C3BVYTXP-DIMN.jpg; official matching source honeywell-official-02e-pro-01.webp.
+
+UPLIFT owned desk: user confirmed42×30in (1.0668×0.762m), Pheasantwood barkline front/square rear,2brushed nickel grommet covers, V2 two-leg industrial C-frame. Pheasantwood official thickness1.75in (0.04445m), official V2 C-frame feet27.6in (0.70104m; order rounds27in). Exact finish photos uplift-live-edge-pheasantwood-{overhead,front,side}.jpg and uplift-v2-c-frame-industrial-official.png are appearance references at catalog widths; do not resize owned model to them.
+
+Detailed dimensions, confidence, source URLs and image hashes in keepers-research.json. No model files modified.

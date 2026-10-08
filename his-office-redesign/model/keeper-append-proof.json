@@ -1,0 +1,107 @@
+{
+  "shell_images_before_append": [
+    {
+      "name": "brick-upper.png",
+      "size": [
+        1024,
+        512
+      ],
+      "has_data": true
+    },
+    {
+      "name": "wood-upper.png",
+      "size": [
+        1024,
+        512
+      ],
+      "has_data": true
+    }
+  ],
+  "branch_images_after_append": [
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_2",
+      "size": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_2.jpg"
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.001",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_4",
+      "size": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_4.jpg"
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.002",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_3",
+      "size": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_3.jpg"
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.003",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "size": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_5.png"
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_0",
+      "node": "Image Texture.004",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_5",
+      "size": [
+        2048,
+        2048
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_5.png"
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_1",
+      "node": "Image Texture",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_0",
+      "size": [
+        1024,
+        1024
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_0.png"
+    },
+    {
+      "material": "Branch selected Black \u2014 Material_1",
+      "node": "Image Texture.001",
+      "name": "Branch Ergonomic Pro official Shore source \u2014 Image_1",
+      "size": [
+        1024,
+        1024
+      ],
+      "has_data": true,
+      "packed": true,
+      "filepath": "//branch-textures/branch-pro-image_1.jpg"
+    }
+  ],
+  "passed": true
+}

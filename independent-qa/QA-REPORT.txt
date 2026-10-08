@@ -1,0 +1,78 @@
+INDEPENDENT QA — FINAL APARTMENT MODEL
+2026-10-07 UTC
+
+PASS for the finalized scan-registered spatial concept and interactive walkthrough.
+No blocking model/viewer inventory, placement, orientation, doorway, grounding,
+or layer-consistency errors remain in the checked final artifact set.
+
+VERIFIED
+- The viewer original scan is byte-for-byte the uploaded Polycam GLB. Its scale
+  was never normalized. Native Blender coordinates use meters and Z-up;
+  GLTF coordinates are (x, z, -y), Y-up. No mirroring or global stretching.
+- Amy's schematic was registered by room entrances, closets, exterior windows,
+  brick walls, and fireplaces: image right maps +Y, image down maps +X.
+  Desks/vanity chairs face their work surfaces on +Y; living sofa faces media;
+  basement sofa faces dining +X; bed headboard is on -Y; dining chairs face inward.
+- All nine area teleports load. Real Playwright keydown/keyup events reach the
+  walk controller and move each camera under controlled collision steps.
+  The revised bedroom camera uses the clean floor at -1.385m (eye 0.195m).
+  Browser reports no JavaScript errors. Separate wall-clock smoke tests also
+  confirm ordinary walking, but software-render timing is not a speed guarantee.
+- Four measured doorway approaches pass: his office/living, living/her office,
+  living/upper bathroom, and music room/bedroom. Upper stair ascent, landing
+  egress through the opening, and descent switch floors at the correct heights.
+- Final floor furniture footprints fit the measured room envelope. Dining was
+  shifted 0.37m for approximately 0.45m end-chair pullback. The living side table
+  clears the office doorway; his rug clears the closet; nightstands clear the wall.
+- His console is beside the fireplace at X=-6.70m, clear of the chimney envelope.
+  Her loveseat at [6.73,-1.80,1.585] clears the low hearth with all four actual
+  exported foot meshes. Minimum support clearance is about 2.8cm; the body
+  underside is about 7.1cm above the highest observed lip. Its coarse rectangular
+  footprint overhang is not a physical support collision.
+- Entry console/shoe cabinet and bedroom bed/nightstands/dresser are grounded
+  on the exported clean floor planes within floating-point export rounding.
+- Integrated GLB contains all 1384 expected mesh nodes: 111 architecture,
+  80 observed fixture proxies, 1044 furniture, 21 dresser, 128 entry. The dresser
+  and provisional entry are included by default. All modular mesh world bounds
+  agree with the integrated GLB within export rounding.
+- Every one of the eight viewer GLB layers matches its authoritative source and
+  embedded standalone asset byte-for-byte. Embedded configuration matches the
+  current source configuration. SHA-256 values are in layer-hashes.json.
+
+LIMITATIONS THAT REMAIN
+- This is a scan-based concept, not a surveyed installation drawing. Generalized
+  wall outlines/openings have approximately 0.05-0.12m uncertainty. Native scan
+  floor modes vary by centimeters; the clean model uses planar continuations.
+- Her office scan width is 3.62m versus approximate listing width 3.2004m, a
+  13.1% disagreement. Independent scan wall sampling corroborates approximately
+  3.65m. The scan was preserved instead of stretched to the listing label.
+  Listing music/flex dimensions refer to irregular or differently divided zones.
+- Amy supplied a dimensionless schematic. Furniture placements are registered
+  interpretations and dimensioned adaptations. Existing sofa/desk and several
+  selected product envelopes remain estimates rather than vendor CAD.
+- The selected King bed plus 118-inch dresser leaves only 0.46988m at the foot.
+  Drawer-use/comfortable circulation remains unresolved; the visible dresser
+  toggle exposes this design constraint. The tight loveseat/hearth margin also
+  warrants checking in the apartment before installation.
+- Divider position is provisional. Drapes/rail height require alteration and field
+  verification. Top two stair treads/landing are inferred gap continuations.
+  The hearth infill joins sparse observed support (0.087m2 observed; 0.430m2 hull),
+  not a surveyed full hearth outline.
+- Lower bathroom/laundry/boiler interiors were not recorded. Their optional
+  colored shells are listing-only inference. Navigation stays in recorded areas.
+  Kitchen/bath fixtures and finishes are approximate proxies; no design board
+  supported a detailed gym equipment layout. Entry positions are provisional.
+
+FINAL PROOFS TO PACKAGE
+artifact-checks.json
+source-wall-measurements.json
+final-keyboard-proof.json
+stair-roundtrip.json
+door-approaches.json
+hearth-actual-geometry.json
+vertical-grounding.json
+integrated-inventory.json
+layer-hashes.json
+
+Earlier browser-tour/real-keyboard experiments and screenshots were diagnostic
+runs before the focus/render-loop fixes; they are superseded by the proofs above.

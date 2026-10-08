@@ -1,0 +1,157 @@
+{
+  "coordinate_basis": "Original metric Polycam mesh in Blender Z-up. No global scaling.",
+  "plan_to_world": {
+    "source_image_u_positive": [
+      0,
+      1,
+      0
+    ],
+    "source_image_v_positive": [
+      1,
+      0,
+      0
+    ],
+    "mirror": false,
+    "north_from_listing": [
+      -1,
+      0,
+      0
+    ],
+    "north_status": "Listing-registered; not independently surveyed."
+  },
+  "corrected_placements": [
+    {
+      "room": "his-office",
+      "wall": "+Y",
+      "near": "rear -X end",
+      "facing": "+Y",
+      "prior_wrong_wall": "+X opposite exterior window/door"
+    },
+    {
+      "room": "her-office",
+      "wall": "+Y",
+      "facing": "+Y",
+      "prior_wrong_wall": "-X opposite window end"
+    },
+    {
+      "room": "basement-dining",
+      "long_axis": "+Y across room",
+      "source_evidence": "Amy table long edge follows source image U, which maps+Y.",
+      "prior_wrong_axis": "+X along apartment length"
+    }
+  ],
+  "dimension_findings": [
+    {
+      "room": "music-gym irregular whole room",
+      "listing_pair_XY_m": [
+        3.7846,
+        4.8514
+      ],
+      "scan_bounding_XY_m": [
+        4.0,
+        4.6
+      ],
+      "max_axis_difference_pct": 5.69,
+      "resolution": "Listing15ft11 width mapsY,12ft5 length mapsX; main carved rectangle3.56x3.05 was not whole room."
+    },
+    {
+      "room": "her-office",
+      "listing_pair_XY_m": [
+        4.1402,
+        3.2004
+      ],
+      "scan_pair_XY_m": [
+        4.26,
+        3.62
+      ],
+      "difference_pct_XY": [
+        2.89,
+        13.11
+      ],
+      "resolution": "Retain measured mesh; do not stretch it to approximate listing label."
+    }
+  ],
+  "openings": [
+    {
+      "id": "bath-upper-entry",
+      "wall_x": -1.24,
+      "y_range": [
+        0.52,
+        1.35
+      ],
+      "evidence": "multi-height observed wall gap + listing topology",
+      "corrected_from": "Y=.39 media wall, which is solid"
+    },
+    {
+      "id": "music-gym-entry",
+      "wall_x": -3.8,
+      "y_range": [
+        -2.15,
+        -1.35
+      ],
+      "clear_approach_xy": [
+        -3.8,
+        -3.1,
+        -2.25,
+        -1.25
+      ]
+    }
+  ],
+  "furniture_fit_adaptations": [
+    {
+      "id": "bedroom-divider",
+      "x_m": 0.35,
+      "reason": "Selected king frame + two20in nightstands need over3.2m acrossX; moving bed/dividerfrontwards preserves gym door approach."
+    },
+    {
+      "id": "bedroom-large-dresser",
+      "x_center_m": -2.225,
+      "dimensions_m": [
+        2.9972,
+        0.39624,
+        0.82296
+      ],
+      "reason": "Offset from bed center to fit measured solid wallX[-3.8,-.65] without floating past laundry corner.",
+      "remaining_foot_clearance_m": 0.47,
+      "status": "applied in final furniture-manifest.json"
+    },
+    {
+      "id": "her-loveseat",
+      "position_xy_m": [
+        6.73,
+        -1.8
+      ],
+      "delta_y_m": 0.08,
+      "reason": "Clears observed raw low-hearth lip atX6.31,Y-2.34; retains source facing.",
+      "status": "applied in final furniture manifest2026-10-07T23:10:02Z"
+    }
+  ],
+  "registration_precision": "Source Amy fragments are undimensioned schematics. Independent affine fits align room topology, not survey furniture centers; no numeric registration residual claimed. Furniture dimensions come from products when verified, wall coordinates from scan.",
+  "artifacts": [
+    "geometry.json",
+    "amy_affine_registration.json",
+    "amy_scan_registration.png",
+    "upper-dimensioned-plan.png",
+    "lower-dimensioned-plan.png",
+    "surface_plane_fits.json",
+    "audit-report.txt"
+  ],
+  "fireplace_anchors": {
+    "his_center_xy": [
+      -5.31,
+      -2.79
+    ],
+    "her_center_xy": [
+      5.61,
+      -2.79
+    ],
+    "evidence_file": "fireplace-anchors.json",
+    "note": "Raw metric orthographic scan renders establishcenters, independent of Amy schematic. Actual low stonehearth lip must also be kept clear."
+  },
+  "entry_staging": {
+    "source_manifest": "/workspace/design-fidelity/entry-manifest.json",
+    "status": "provisional; Amy floorplan assigns no exact entry furniture positions",
+    "plot_style": "orange dashed footprints"
+  },
+  "final_furniture_manifest": "/workspace/apartment-furniture/furniture-manifest.json"
+}

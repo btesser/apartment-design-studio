@@ -1,0 +1,3173 @@
+{
+  "items": [
+    {
+      "id": "living-sofa",
+      "room": "living",
+      "kind": "sofa",
+      "position": [
+        -0.15,
+        -2.215,
+        1.535
+      ],
+      "dimensions": [
+        4.0,
+        0.95,
+        0.93
+      ],
+      "rotation_deg": 0,
+      "shopping_row": null,
+      "dimension_confidence": "Existing sofa: 4.00m width and .95m depth are unmeasured placeholders; not a verified SKU",
+      "cushions": 4,
+      "material": "Charcoal leather",
+      "pillow_material": "Blush pink velvet",
+      "footprint_blender_xy": [
+        [
+          -2.15,
+          -2.69
+        ],
+        [
+          1.85,
+          -2.69
+        ],
+        [
+          1.85,
+          -1.74
+        ],
+        [
+          -2.15,
+          -1.74
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.15,
+        1.535,
+        2.215
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-rug",
+      "room": "living",
+      "kind": "rug",
+      "position": [
+        -0.15,
+        -1.24,
+        1.536
+      ],
+      "dimensions": [
+        3.6576,
+        2.7432,
+        0.012
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 16,
+      "dimension_confidence": "Shopping list exact selected 9 x 12 feet; dimensions rotated to long room axis",
+      "pattern": "living",
+      "material": "Rug tan",
+      "footprint_blender_xy": [
+        [
+          -1.9788,
+          -2.6116
+        ],
+        [
+          1.6788,
+          -2.6116
+        ],
+        [
+          1.6788,
+          0.1316
+        ],
+        [
+          -1.9788,
+          0.1316
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.15,
+        1.536,
+        1.24
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-media-console",
+      "room": "living",
+      "kind": "cabinet",
+      "position": [
+        -0.15,
+        0.115,
+        1.535
+      ],
+      "dimensions": [
+        1.75006,
+        0.39878,
+        0.55118
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 15,
+      "dimension_confidence": "Shopping list exact 68.9 W x15.7 D x21.7 H inches",
+      "rows": 1,
+      "cols": 4,
+      "footprint_blender_xy": [
+        [
+          0.72503,
+          0.31439
+        ],
+        [
+          -1.02503,
+          0.31439
+        ],
+        [
+          -1.02503,
+          -0.08439
+        ],
+        [
+          0.72503,
+          -0.08439
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.15,
+        1.535,
+        -0.115
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "living-tv",
+      "room": "living",
+      "kind": "tv",
+      "position": [
+        -0.15,
+        0.285,
+        2.285
+      ],
+      "dimensions": [
+        1.43,
+        0.035,
+        0.8
+      ],
+      "rotation_deg": 180,
+      "shopping_row": null,
+      "dimension_confidence": "Existing TV presence/size unmeasured; concept display",
+      "footprint_blender_xy": [
+        [
+          0.565,
+          0.3025
+        ],
+        [
+          -0.865,
+          0.3025
+        ],
+        [
+          -0.865,
+          0.2675
+        ],
+        [
+          0.565,
+          0.2675
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.15,
+        2.285,
+        -0.285
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "living-coffee-table",
+      "room": "living",
+      "kind": "table",
+      "position": [
+        -0.25,
+        -0.96,
+        1.535
+      ],
+      "dimensions": [
+        1.27,
+        0.65,
+        0.38
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 17,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "oval": true,
+      "material": "Tabletop ivory",
+      "footprint_blender_xy": [
+        [
+          -0.885,
+          -1.285
+        ],
+        [
+          0.385,
+          -1.285
+        ],
+        [
+          0.385,
+          -0.635
+        ],
+        [
+          -0.885,
+          -0.635
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.25,
+        1.535,
+        0.96
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-side-table-1",
+      "room": "living",
+      "kind": "table",
+      "position": [
+        -2.28,
+        -1.43,
+        1.535
+      ],
+      "dimensions": [
+        0.43,
+        0.43,
+        0.51
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 21,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "round": true,
+      "pedestal": false,
+      "material": "Tabletop ivory",
+      "base_material": "Gold brushed metal",
+      "footprint_blender_xy": [
+        [
+          -2.495,
+          -1.645
+        ],
+        [
+          -2.065,
+          -1.645
+        ],
+        [
+          -2.065,
+          -1.215
+        ],
+        [
+          -2.495,
+          -1.215
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -2.28,
+        1.535,
+        1.43
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-side-table-2",
+      "room": "living",
+      "kind": "table",
+      "position": [
+        2.24,
+        -2.18,
+        1.535
+      ],
+      "dimensions": [
+        0.43,
+        0.43,
+        0.51
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 21,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "round": true,
+      "pedestal": false,
+      "material": "Tabletop ivory",
+      "base_material": "Gold brushed metal",
+      "footprint_blender_xy": [
+        [
+          2.025,
+          -2.395
+        ],
+        [
+          2.455,
+          -2.395
+        ],
+        [
+          2.455,
+          -1.965
+        ],
+        [
+          2.025,
+          -1.965
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        2.24,
+        1.535,
+        2.18
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "her-vanity",
+      "room": "her-office",
+      "kind": "desk",
+      "position": [
+        5.48,
+        0.565,
+        1.585
+      ],
+      "dimensions": [
+        1.2192,
+        0.47,
+        0.76
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 26,
+      "dimension_confidence": "48-inch width from selected URL; depth and height assumed",
+      "vanity": true,
+      "material": "Natural oak",
+      "footprint_blender_xy": [
+        [
+          6.0896,
+          0.8
+        ],
+        [
+          4.8704,
+          0.8
+        ],
+        [
+          4.8704,
+          0.33
+        ],
+        [
+          6.0896,
+          0.33
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "user side of work surface; seated gaze is opposite",
+      "seated_gaze_blender_xy": [
+        0.0,
+        1.0
+      ],
+      "viewer_position": [
+        5.48,
+        1.585,
+        -0.565
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "her-vanity-chair",
+      "room": "her-office",
+      "kind": "chair",
+      "position": [
+        5.48,
+        -0.11,
+        1.585
+      ],
+      "dimensions": [
+        0.56,
+        0.58,
+        0.83
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 29,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "office": true,
+      "material": "Blush pink velvet",
+      "footprint_blender_xy": [
+        [
+          5.2,
+          -0.4
+        ],
+        [
+          5.76,
+          -0.4
+        ],
+        [
+          5.76,
+          0.18
+        ],
+        [
+          5.2,
+          0.18
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        5.48,
+        1.585,
+        0.11
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "her-white-chest",
+      "room": "her-office",
+      "kind": "cabinet",
+      "position": [
+        7.02,
+        0.555,
+        1.585
+      ],
+      "dimensions": [
+        1.397,
+        0.45,
+        1.0
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 30,
+      "dimension_confidence": "55-inch width from selected URL; depth/height unverified",
+      "rows": 4,
+      "cols": 2,
+      "footprint_blender_xy": [
+        [
+          7.7185,
+          0.78
+        ],
+        [
+          6.3215,
+          0.78
+        ],
+        [
+          6.3215,
+          0.33
+        ],
+        [
+          7.7185,
+          0.33
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        7.02,
+        1.585,
+        -0.555
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "her-loveseat",
+      "room": "her-office",
+      "kind": "sofa",
+      "position": [
+        6.73,
+        -1.8,
+        1.585
+      ],
+      "dimensions": [
+        1.27508,
+        0.6858,
+        0.889
+      ],
+      "rotation_deg": 40,
+      "shopping_row": 32,
+      "dimension_confidence": "Verified retailer 50.2 W x27 D x35 H inches",
+      "fluted": true,
+      "material": "Ivory velvet",
+      "legs": "Gold brushed metal",
+      "pillows": false,
+      "footprint_blender_xy": [
+        [
+          6.462028,
+          -2.472479
+        ],
+        [
+          7.438796,
+          -1.652874
+        ],
+        [
+          6.997972,
+          -1.127521
+        ],
+        [
+          6.021204,
+          -1.947126
+        ]
+      ],
+      "front_blender_xy": [
+        -0.642788,
+        0.766044
+      ],
+      "facing_blender_xy": [
+        -0.642788,
+        0.766044
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        6.73,
+        1.585,
+        1.8
+      ],
+      "viewer_facing": [
+        -0.6427876096865393,
+        0,
+        -0.766044443118978
+      ]
+    },
+    {
+      "id": "her-round-rug",
+      "room": "her-office",
+      "kind": "rug",
+      "position": [
+        6.18,
+        -1.28,
+        1.586
+      ],
+      "dimensions": [
+        1.8542,
+        1.8542,
+        0.012
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 36,
+      "dimension_confidence": "Shopping list exact 6 feet1 inch diameter",
+      "round": true,
+      "material": "Rug pink",
+      "footprint_blender_xy": [
+        [
+          5.2529,
+          -2.2071
+        ],
+        [
+          7.1071,
+          -2.2071
+        ],
+        [
+          7.1071,
+          -0.3529
+        ],
+        [
+          5.2529,
+          -0.3529
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        6.18,
+        1.586,
+        1.28
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "her-teal-side-table",
+      "room": "her-office",
+      "kind": "table",
+      "position": [
+        7.21,
+        -0.995,
+        1.585
+      ],
+      "dimensions": [
+        0.36,
+        0.36,
+        0.51
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 37,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "round": true,
+      "material": "Teal painted wood",
+      "footprint_blender_xy": [
+        [
+          7.03,
+          -1.175
+        ],
+        [
+          7.39,
+          -1.175
+        ],
+        [
+          7.39,
+          -0.815
+        ],
+        [
+          7.03,
+          -0.815
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        7.21,
+        1.585,
+        0.995
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "his-standing-desk",
+      "room": "his-office",
+      "kind": "desk",
+      "position": [
+        -6.78,
+        -0.095,
+        1.575
+      ],
+      "dimensions": [
+        1.4,
+        0.7,
+        0.76
+      ],
+      "rotation_deg": 180,
+      "shopping_row": null,
+      "dimension_confidence": "Existing desk: 1.4 x .7m envelope unmeasured; standing desk set at seated height",
+      "material": "Walnut",
+      "footprint_blender_xy": [
+        [
+          -6.08,
+          0.255
+        ],
+        [
+          -7.48,
+          0.255
+        ],
+        [
+          -7.48,
+          -0.445
+        ],
+        [
+          -6.08,
+          -0.445
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "user side of work surface; seated gaze is opposite",
+      "seated_gaze_blender_xy": [
+        0.0,
+        1.0
+      ],
+      "viewer_position": [
+        -6.78,
+        1.575,
+        0.095
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "his-office-chair",
+      "room": "his-office",
+      "kind": "chair",
+      "position": [
+        -6.78,
+        -1.0,
+        1.575
+      ],
+      "dimensions": [
+        0.67,
+        0.67,
+        1.12
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 42,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "office": true,
+      "material": "Black steel",
+      "footprint_blender_xy": [
+        [
+          -7.115,
+          -1.335
+        ],
+        [
+          -6.445,
+          -1.335
+        ],
+        [
+          -6.445,
+          -0.665
+        ],
+        [
+          -7.115,
+          -0.665
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        -6.78,
+        1.575,
+        1.0
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "his-rug",
+      "room": "his-office",
+      "kind": "rug",
+      "position": [
+        -5.82,
+        -1.23,
+        1.5759999999999998
+      ],
+      "dimensions": [
+        3.9624,
+        2.6924,
+        0.012
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 47,
+      "dimension_confidence": "Shopping list exact 8 feet10 inches x13 feet",
+      "pattern": "office",
+      "material": "Rug ivory",
+      "footprint_blender_xy": [
+        [
+          -7.8012,
+          -2.5762
+        ],
+        [
+          -3.8388,
+          -2.5762
+        ],
+        [
+          -3.8388,
+          0.1162
+        ],
+        [
+          -7.8012,
+          0.1162
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -5.82,
+        1.5759999999999998,
+        1.23
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "his-bookcase-1",
+      "room": "his-office",
+      "kind": "shelf",
+      "position": [
+        -5.25,
+        0.177,
+        1.575
+      ],
+      "dimensions": [
+        0.421894,
+        0.184912,
+        1.108964
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 44,
+      "dimension_confidence": "Shopping list exact 16.61 W x7.28 D x43.66 H inches",
+      "footprint_blender_xy": [
+        [
+          -5.039053,
+          0.269456
+        ],
+        [
+          -5.460947,
+          0.269456
+        ],
+        [
+          -5.460947,
+          0.084544
+        ],
+        [
+          -5.039053,
+          0.084544
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -5.25,
+        1.575,
+        -0.177
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "his-bookcase-2",
+      "room": "his-office",
+      "kind": "shelf",
+      "position": [
+        -4.815,
+        0.177,
+        1.575
+      ],
+      "dimensions": [
+        0.421894,
+        0.184912,
+        1.108964
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 44,
+      "dimension_confidence": "Shopping list exact 16.61 W x7.28 D x43.66 H inches",
+      "footprint_blender_xy": [
+        [
+          -4.604053,
+          0.269456
+        ],
+        [
+          -5.025947,
+          0.269456
+        ],
+        [
+          -5.025947,
+          0.084544
+        ],
+        [
+          -4.604053,
+          0.084544
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -4.815,
+        1.575,
+        -0.177
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "his-bookcase-3",
+      "room": "his-office",
+      "kind": "shelf",
+      "position": [
+        -4.38,
+        0.177,
+        1.575
+      ],
+      "dimensions": [
+        0.421894,
+        0.184912,
+        1.108964
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 44,
+      "dimension_confidence": "Shopping list exact 16.61 W x7.28 D x43.66 H inches",
+      "footprint_blender_xy": [
+        [
+          -4.169053,
+          0.269456
+        ],
+        [
+          -4.590947,
+          0.269456
+        ],
+        [
+          -4.590947,
+          0.084544
+        ],
+        [
+          -4.169053,
+          0.084544
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -4.38,
+        1.575,
+        -0.177
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "his-desk-floor-lamp",
+      "room": "his-office",
+      "kind": "dome_lamp",
+      "position": [
+        -7.71,
+        -0.39,
+        1.575
+      ],
+      "dimensions": [
+        0.25,
+        0.25,
+        1.651
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 43,
+      "dimension_confidence": "65-inch height from selected URL; diameter assumed",
+      "footprint_blender_xy": [
+        [
+          -7.835,
+          -0.515
+        ],
+        [
+          -7.585,
+          -0.515
+        ],
+        [
+          -7.585,
+          -0.265
+        ],
+        [
+          -7.835,
+          -0.265
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -7.71,
+        1.575,
+        0.39
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "his-bookcase-floor-lamp",
+      "room": "his-office",
+      "kind": "led_lamp",
+      "position": [
+        -3.98,
+        0.065,
+        1.575
+      ],
+      "dimensions": [
+        0.2,
+        0.2,
+        1.4478
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 45,
+      "dimension_confidence": "57-inch height from selected URL; diameter assumed",
+      "footprint_blender_xy": [
+        [
+          -4.08,
+          -0.035
+        ],
+        [
+          -3.88,
+          -0.035
+        ],
+        [
+          -3.88,
+          0.165
+        ],
+        [
+          -4.08,
+          0.165
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -3.98,
+        1.575,
+        -0.065
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "his-slim-console",
+      "room": "his-office",
+      "kind": "console",
+      "position": [
+        -6.7,
+        -2.55,
+        1.575
+      ],
+      "dimensions": [
+        1.00076,
+        0.26,
+        0.79
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 46,
+      "dimension_confidence": "39.4-inch width from selected URL; depth/height unverified",
+      "material": "Walnut",
+      "footprint_blender_xy": [
+        [
+          -7.20038,
+          -2.68
+        ],
+        [
+          -6.19962,
+          -2.68
+        ],
+        [
+          -6.19962,
+          -2.42
+        ],
+        [
+          -7.20038,
+          -2.42
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -6.7,
+        1.575,
+        2.55
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-king-bed",
+      "room": "bedroom-flex",
+      "kind": "bed",
+      "position": [
+        -1.43,
+        -1.355,
+        -1.385
+      ],
+      "dimensions": [
+        2.19,
+        2.098,
+        1.07
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 59,
+      "dimension_confidence": "King mattress1.930x2.032m; retailer King frame width2.190 and length2.098m; retailer conflicting overall block flagged",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -2.525,
+          -2.404
+        ],
+        [
+          -0.335,
+          -2.404
+        ],
+        [
+          -0.335,
+          -0.306
+        ],
+        [
+          -2.525,
+          -0.306
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -1.43,
+        -1.385,
+        1.355
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-rug",
+      "room": "bedroom-flex",
+      "kind": "rug",
+      "position": [
+        -1.43,
+        -0.98,
+        -1.384
+      ],
+      "dimensions": [
+        3.048,
+        2.3876,
+        0.012
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 68,
+      "dimension_confidence": "Shopping list exact7 feet10 inches x10feet",
+      "pattern": "bedroom",
+      "material": "Rug green",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -2.954,
+          -2.1738
+        ],
+        [
+          0.094,
+          -2.1738
+        ],
+        [
+          0.094,
+          0.2138
+        ],
+        [
+          -2.954,
+          0.2138
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -1.43,
+        -1.384,
+        0.98
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-nightstand-1",
+      "room": "bedroom-flex",
+      "kind": "cabinet",
+      "position": [
+        -2.815,
+        -2.19,
+        -1.385
+      ],
+      "dimensions": [
+        0.508,
+        0.4064,
+        0.59944
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 66,
+      "dimension_confidence": "Verified selectedNatural retailer20 W x16 D x23.6 H inches",
+      "rows": 3,
+      "cols": 1,
+      "fluted": false,
+      "material": "Natural oak",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -3.069,
+          -2.3932
+        ],
+        [
+          -2.561,
+          -2.3932
+        ],
+        [
+          -2.561,
+          -1.9868
+        ],
+        [
+          -3.069,
+          -1.9868
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -2.815,
+        -1.385,
+        2.19
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-nightstand-lamp-1",
+      "room": "bedroom-flex",
+      "kind": "cylinder_lamp",
+      "position": [
+        -2.815,
+        -2.19,
+        -0.78556
+      ],
+      "dimensions": [
+        0.23,
+        0.23,
+        0.635
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 67,
+      "dimension_confidence": "25-inch height from chosen retailer title; shade diameter assumed",
+      "material": "Gold brushed metal",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -2.93,
+          -2.305
+        ],
+        [
+          -2.7,
+          -2.305
+        ],
+        [
+          -2.7,
+          -2.075
+        ],
+        [
+          -2.93,
+          -2.075
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -2.815,
+        -0.78556,
+        2.19
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-nightstand-2",
+      "room": "bedroom-flex",
+      "kind": "cabinet",
+      "position": [
+        -0.045,
+        -2.19,
+        -1.385
+      ],
+      "dimensions": [
+        0.508,
+        0.4064,
+        0.59944
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 66,
+      "dimension_confidence": "Verified selectedNatural retailer20 W x16 D x23.6 H inches",
+      "rows": 3,
+      "cols": 1,
+      "fluted": false,
+      "material": "Natural oak",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -0.299,
+          -2.3932
+        ],
+        [
+          0.209,
+          -2.3932
+        ],
+        [
+          0.209,
+          -1.9868
+        ],
+        [
+          -0.299,
+          -1.9868
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.045,
+        -1.385,
+        2.19
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-nightstand-lamp-2",
+      "room": "bedroom-flex",
+      "kind": "cylinder_lamp",
+      "position": [
+        -0.045,
+        -2.19,
+        -0.78556
+      ],
+      "dimensions": [
+        0.23,
+        0.23,
+        0.635
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 67,
+      "dimension_confidence": "25-inch height from chosen retailer title; shade diameter assumed",
+      "material": "Gold brushed metal",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -0.16,
+          -2.305
+        ],
+        [
+          0.07,
+          -2.305
+        ],
+        [
+          0.07,
+          -2.075
+        ],
+        [
+          -0.16,
+          -2.075
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.045,
+        -0.78556,
+        2.19
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "bedroom-large-dresser",
+      "room": "bedroom-flex",
+      "kind": "cabinet",
+      "position": [
+        -2.225,
+        0.362,
+        -1.385
+      ],
+      "dimensions": [
+        2.9972,
+        0.39624,
+        0.82296
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 57,
+      "dimension_confidence": "Verified retailer118 W x15.6 D x32.4 H inches; only0.47m foot clearance in arrangement, needs onsite verification",
+      "rows": 2,
+      "cols": 4,
+      "fluted": false,
+      "material": "Natural oak",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          -0.7264,
+          0.56012
+        ],
+        [
+          -3.7236,
+          0.56012
+        ],
+        [
+          -3.7236,
+          0.16388
+        ],
+        [
+          -0.7264,
+          0.16388
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -2.225,
+        -1.385,
+        -0.362
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "bedroom-divider",
+      "room": "bedroom-flex",
+      "kind": "curtain",
+      "position": [
+        0.35,
+        -0.945,
+        -1.385
+      ],
+      "dimensions": [
+        2.87,
+        0.085,
+        2.32
+      ],
+      "rotation_deg": 90,
+      "shopping_row": 69,
+      "dimension_confidence": "Rail selected9-12ft; modeled2.87m rail perpendicular to long apartment; height clipped to measured soffit clearance; full drape length needs alteration",
+      "grounding": {
+        "raw_local_scan_floor_mode_z_m": -1.415,
+        "clean_architecture_floor_z_m": -1.385,
+        "clean_shell_grounding_delta_z_m": 0.03,
+        "note": "Vertical grounding correction only; original X/Y and product dimensions preserved."
+      },
+      "footprint_blender_xy": [
+        [
+          0.3925,
+          -2.38
+        ],
+        [
+          0.3925,
+          0.49
+        ],
+        [
+          0.3075,
+          0.49
+        ],
+        [
+          0.3075,
+          -2.38
+        ]
+      ],
+      "front_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        0.35,
+        -1.385,
+        0.945
+      ],
+      "viewer_facing": [
+        -1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-sofa",
+      "room": "basement-open",
+      "kind": "sofa",
+      "position": [
+        0.98,
+        -1.285,
+        -1.385
+      ],
+      "dimensions": [
+        2.1082,
+        0.92,
+        0.89
+      ],
+      "rotation_deg": -90,
+      "shopping_row": 48,
+      "dimension_confidence": "83-inch width from chosen retailer title; depth/height assumed",
+      "material": "Warm ivory boucle",
+      "cushions": 2,
+      "fluted": true,
+      "footprint_blender_xy": [
+        [
+          0.52,
+          -0.2309
+        ],
+        [
+          0.52,
+          -2.3391
+        ],
+        [
+          1.44,
+          -2.3391
+        ],
+        [
+          1.44,
+          -0.2309
+        ]
+      ],
+      "front_blender_xy": [
+        1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        1.0,
+        0.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        0.98,
+        -1.385,
+        1.285
+      ],
+      "viewer_facing": [
+        1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-lounge-rug",
+      "room": "basement-open",
+      "kind": "rug",
+      "position": [
+        2.28,
+        -1.29,
+        -1.3840000000000001
+      ],
+      "dimensions": [
+        2.7432,
+        1.8288,
+        0.012
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 53,
+      "dimension_confidence": "Shopping list exact6x9feet",
+      "pattern": "nazco",
+      "material": "Rug ivory",
+      "footprint_blender_xy": [
+        [
+          0.9084,
+          -2.2044
+        ],
+        [
+          3.6516,
+          -2.2044
+        ],
+        [
+          3.6516,
+          -0.3756
+        ],
+        [
+          0.9084,
+          -0.3756
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        2.28,
+        -1.3840000000000001,
+        1.29
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-coffee-table-large",
+      "room": "basement-open",
+      "kind": "table",
+      "position": [
+        2.16,
+        -1.16,
+        -1.385
+      ],
+      "dimensions": [
+        0.75946,
+        0.75946,
+        0.43942
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 49,
+      "dimension_confidence": "Height17.3in verified; presumed circular29.9in diameter conflicts retailer reported depth, footprint unresolved",
+      "round": true,
+      "material": "Black marble",
+      "footprint_blender_xy": [
+        [
+          1.78027,
+          -1.53973
+        ],
+        [
+          2.53973,
+          -1.53973
+        ],
+        [
+          2.53973,
+          -0.78027
+        ],
+        [
+          1.78027,
+          -0.78027
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        2.16,
+        -1.385,
+        1.16
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-coffee-table-small",
+      "room": "basement-open",
+      "kind": "table",
+      "position": [
+        1.83,
+        -1.63,
+        -1.385
+      ],
+      "dimensions": [
+        0.46,
+        0.46,
+        0.37
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 49,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "round": true,
+      "material": "Black marble",
+      "footprint_blender_xy": [
+        [
+          1.6,
+          -1.86
+        ],
+        [
+          2.06,
+          -1.86
+        ],
+        [
+          2.06,
+          -1.4
+        ],
+        [
+          1.6,
+          -1.4
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        1.83,
+        -1.385,
+        1.63
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-orange-chair-1",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        3.27,
+        -1.82,
+        -1.385
+      ],
+      "dimensions": [
+        0.762,
+        0.79,
+        0.79
+      ],
+      "rotation_deg": 62,
+      "shopping_row": 50,
+      "dimension_confidence": "30-inch width from selected retailer title; depth/height assumed; faces inward toward sofa",
+      "swivel": true,
+      "material": "Burnt orange chenille",
+      "footprint_blender_xy": [
+        [
+          3.439896,
+          -2.341844
+        ],
+        [
+          3.797633,
+          -1.669038
+        ],
+        [
+          3.100104,
+          -1.298156
+        ],
+        [
+          2.742367,
+          -1.970962
+        ]
+      ],
+      "front_blender_xy": [
+        -0.882948,
+        0.469472
+      ],
+      "facing_blender_xy": [
+        -0.882948,
+        0.469472
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        3.27,
+        -1.385,
+        1.82
+      ],
+      "viewer_facing": [
+        -0.8829475928589269,
+        0,
+        -0.46947156278589086
+      ]
+    },
+    {
+      "id": "basement-orange-chair-2",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        3.27,
+        -0.63,
+        -1.385
+      ],
+      "dimensions": [
+        0.762,
+        0.79,
+        0.79
+      ],
+      "rotation_deg": 118,
+      "shopping_row": 50,
+      "dimension_confidence": "30-inch width from selected retailer title; depth/height assumed; faces inward toward sofa",
+      "swivel": true,
+      "material": "Burnt orange chenille",
+      "footprint_blender_xy": [
+        [
+          3.797633,
+          -0.780962
+        ],
+        [
+          3.439896,
+          -0.108156
+        ],
+        [
+          2.742367,
+          -0.479038
+        ],
+        [
+          3.100104,
+          -1.151844
+        ]
+      ],
+      "front_blender_xy": [
+        -0.882948,
+        -0.469472
+      ],
+      "facing_blender_xy": [
+        -0.882948,
+        -0.469472
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        3.27,
+        -1.385,
+        0.63
+      ],
+      "viewer_facing": [
+        -0.8829475928589269,
+        0,
+        0.4694715627858909
+      ]
+    },
+    {
+      "id": "basement-lounge-side-table",
+      "room": "basement-open",
+      "kind": "table",
+      "position": [
+        3.73,
+        -1.2,
+        -1.385
+      ],
+      "dimensions": [
+        0.29,
+        0.29,
+        0.57
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 51,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "round": true,
+      "material": "Walnut",
+      "footprint_blender_xy": [
+        [
+          3.585,
+          -1.345
+        ],
+        [
+          3.875,
+          -1.345
+        ],
+        [
+          3.875,
+          -1.055
+        ],
+        [
+          3.585,
+          -1.055
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        3.73,
+        -1.385,
+        1.2
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-lounge-table-lamp",
+      "room": "basement-open",
+      "kind": "lamp",
+      "position": [
+        3.73,
+        -1.2,
+        -0.8150000000000001
+      ],
+      "dimensions": [
+        0.22,
+        0.22,
+        0.37
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 52,
+      "dimension_confidence": "Assumed external envelope; product proportions inferred from Amy board",
+      "material": "Black steel",
+      "footprint_blender_xy": [
+        [
+          3.62,
+          -1.31
+        ],
+        [
+          3.84,
+          -1.31
+        ],
+        [
+          3.84,
+          -1.09
+        ],
+        [
+          3.62,
+          -1.09
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        3.73,
+        -0.8150000000000001,
+        1.2
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-dining-table",
+      "room": "basement-open",
+      "kind": "table",
+      "position": [
+        5.0,
+        -0.56,
+        -1.385
+      ],
+      "dimensions": [
+        1.6002,
+        0.81,
+        0.76
+      ],
+      "rotation_deg": 90,
+      "shopping_row": 54,
+      "dimension_confidence": "63-inch length from selected URL; width/height unverified",
+      "material": "Natural oak",
+      "footprint_blender_xy": [
+        [
+          5.405,
+          -1.3601
+        ],
+        [
+          5.405,
+          0.2401
+        ],
+        [
+          4.595,
+          0.2401
+        ],
+        [
+          4.595,
+          -1.3601
+        ]
+      ],
+      "front_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        5.0,
+        -1.385,
+        0.56
+      ],
+      "viewer_facing": [
+        -1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-dining-chair-1",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        4.25,
+        -0.995,
+        -1.385
+      ],
+      "dimensions": [
+        0.54,
+        0.57,
+        0.84
+      ],
+      "rotation_deg": -90,
+      "shopping_row": 55,
+      "dimension_confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified",
+      "material": "Camel fabric",
+      "footprint_blender_xy": [
+        [
+          3.965,
+          -0.725
+        ],
+        [
+          3.965,
+          -1.265
+        ],
+        [
+          4.535,
+          -1.265
+        ],
+        [
+          4.535,
+          -0.725
+        ]
+      ],
+      "front_blender_xy": [
+        1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        1.0,
+        0.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        4.25,
+        -1.385,
+        0.995
+      ],
+      "viewer_facing": [
+        1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-dining-chair-2",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        4.25,
+        -0.125,
+        -1.385
+      ],
+      "dimensions": [
+        0.54,
+        0.57,
+        0.84
+      ],
+      "rotation_deg": -90,
+      "shopping_row": 55,
+      "dimension_confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified",
+      "material": "Camel fabric",
+      "footprint_blender_xy": [
+        [
+          3.965,
+          0.145
+        ],
+        [
+          3.965,
+          -0.395
+        ],
+        [
+          4.535,
+          -0.395
+        ],
+        [
+          4.535,
+          0.145
+        ]
+      ],
+      "front_blender_xy": [
+        1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        1.0,
+        0.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        4.25,
+        -1.385,
+        0.125
+      ],
+      "viewer_facing": [
+        1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-dining-chair-3",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        5.75,
+        -0.995,
+        -1.385
+      ],
+      "dimensions": [
+        0.54,
+        0.57,
+        0.84
+      ],
+      "rotation_deg": 90,
+      "shopping_row": 55,
+      "dimension_confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified",
+      "material": "Camel fabric",
+      "footprint_blender_xy": [
+        [
+          6.035,
+          -1.265
+        ],
+        [
+          6.035,
+          -0.725
+        ],
+        [
+          5.465,
+          -0.725
+        ],
+        [
+          5.465,
+          -1.265
+        ]
+      ],
+      "front_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        5.75,
+        -1.385,
+        0.995
+      ],
+      "viewer_facing": [
+        -1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-dining-chair-4",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        5.75,
+        -0.125,
+        -1.385
+      ],
+      "dimensions": [
+        0.54,
+        0.57,
+        0.84
+      ],
+      "rotation_deg": 90,
+      "shopping_row": 55,
+      "dimension_confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified",
+      "material": "Camel fabric",
+      "footprint_blender_xy": [
+        [
+          6.035,
+          -0.395
+        ],
+        [
+          6.035,
+          0.145
+        ],
+        [
+          5.465,
+          0.145
+        ],
+        [
+          5.465,
+          -0.395
+        ]
+      ],
+      "front_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        5.75,
+        -1.385,
+        0.125
+      ],
+      "viewer_facing": [
+        -1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "basement-dining-chair-5",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        5.0,
+        -1.645,
+        -1.385
+      ],
+      "dimensions": [
+        0.54,
+        0.57,
+        0.84
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 55,
+      "dimension_confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified",
+      "material": "Camel fabric",
+      "footprint_blender_xy": [
+        [
+          4.73,
+          -1.93
+        ],
+        [
+          5.27,
+          -1.93
+        ],
+        [
+          5.27,
+          -1.36
+        ],
+        [
+          4.73,
+          -1.36
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        5.0,
+        -1.385,
+        1.645
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-dining-chair-6",
+      "room": "basement-open",
+      "kind": "chair",
+      "position": [
+        5.0,
+        0.525,
+        -1.385
+      ],
+      "dimensions": [
+        0.54,
+        0.57,
+        0.84
+      ],
+      "rotation_deg": 180,
+      "shopping_row": 55,
+      "dimension_confidence": "Six chair footprints inferred from designer plan; chosen chairs width/depth/height unverified",
+      "material": "Camel fabric",
+      "footprint_blender_xy": [
+        [
+          5.27,
+          0.81
+        ],
+        [
+          4.73,
+          0.81
+        ],
+        [
+          4.73,
+          0.24
+        ],
+        [
+          5.27,
+          0.24
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        -1.0
+      ],
+      "front_meaning": "seat gaze",
+      "viewer_position": [
+        5.0,
+        -1.385,
+        -0.525
+      ],
+      "viewer_facing": [
+        -1.2246467991473532e-16,
+        0,
+        1.0
+      ]
+    },
+    {
+      "id": "music-rug",
+      "room": "music-gym",
+      "kind": "rug",
+      "position": [
+        -5.85,
+        -1.63,
+        -1.445
+      ],
+      "dimensions": [
+        1.8288,
+        1.2192,
+        0.012
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 58,
+      "dimension_confidence": "Shopping list exact4x6feet; placement inferred from music fragment",
+      "pattern": "office",
+      "material": "Rug ivory",
+      "footprint_blender_xy": [
+        [
+          -6.7644,
+          -2.2396
+        ],
+        [
+          -4.9356,
+          -2.2396
+        ],
+        [
+          -4.9356,
+          -1.0204
+        ],
+        [
+          -6.7644,
+          -1.0204
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -5.85,
+        -1.445,
+        1.63
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-abstract-art",
+      "room": "living",
+      "kind": "art",
+      "position": [
+        -0.15,
+        -2.745,
+        2.55
+      ],
+      "dimensions": [
+        2.0574,
+        0.045,
+        1.524
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 19,
+      "dimension_confidence": "Shopping selected81x60in; board palette concept, not exact artwork",
+      "appearance_confidence": "Procedural source-board palette approximation; exact selected artwork not reproduced",
+      "footprint_blender_xy": [
+        [
+          -1.1787,
+          -2.7675
+        ],
+        [
+          0.8787,
+          -2.7675
+        ],
+        [
+          0.8787,
+          -2.7225
+        ],
+        [
+          -1.1787,
+          -2.7225
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -0.15,
+        2.55,
+        2.745
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-sconce-1",
+      "room": "living",
+      "kind": "sconce",
+      "position": [
+        -1.6,
+        -2.72,
+        3.38
+      ],
+      "dimensions": [
+        0.23,
+        0.18,
+        0.28
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 20,
+      "dimension_confidence": "Source-board fixture shape; dimensions assumed",
+      "footprint_blender_xy": [
+        [
+          -1.715,
+          -2.81
+        ],
+        [
+          -1.485,
+          -2.81
+        ],
+        [
+          -1.485,
+          -2.63
+        ],
+        [
+          -1.715,
+          -2.63
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        -1.6,
+        3.38,
+        2.72
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "living-sconce-2",
+      "room": "living",
+      "kind": "sconce",
+      "position": [
+        1.3,
+        -2.72,
+        3.38
+      ],
+      "dimensions": [
+        0.23,
+        0.18,
+        0.28
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 20,
+      "dimension_confidence": "Source-board fixture shape; dimensions assumed",
+      "footprint_blender_xy": [
+        [
+          1.185,
+          -2.81
+        ],
+        [
+          1.415,
+          -2.81
+        ],
+        [
+          1.415,
+          -2.63
+        ],
+        [
+          1.185,
+          -2.63
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        1.3,
+        3.38,
+        2.72
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "her-branch-chandelier",
+      "room": "her-office",
+      "kind": "chandelier",
+      "position": [
+        6.18,
+        -1.28,
+        3.735
+      ],
+      "dimensions": [
+        0.64,
+        0.64,
+        0.85
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 35,
+      "dimension_confidence": "Polished brass branch form approximated from source board; dimensions assumed",
+      "footprint_blender_xy": [
+        [
+          5.86,
+          -1.6
+        ],
+        [
+          6.5,
+          -1.6
+        ],
+        [
+          6.5,
+          -0.96
+        ],
+        [
+          5.86,
+          -0.96
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        6.18,
+        3.735,
+        1.28
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "her-window-curtains-1",
+      "room": "her-office",
+      "kind": "window_curtain",
+      "position": [
+        7.76,
+        -1.96,
+        1.635
+      ],
+      "dimensions": [
+        1.3,
+        0.07,
+        2.6924
+      ],
+      "rotation_deg": 90,
+      "shopping_row": 39,
+      "dimension_confidence": "Selected106-inch length; folded panel width/rod span adapted to measured window, sheer appearance approximation",
+      "footprint_blender_xy": [
+        [
+          7.795,
+          -2.61
+        ],
+        [
+          7.795,
+          -1.31
+        ],
+        [
+          7.725,
+          -1.31
+        ],
+        [
+          7.725,
+          -2.61
+        ]
+      ],
+      "front_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        7.76,
+        1.635,
+        1.96
+      ],
+      "viewer_facing": [
+        -1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "her-window-curtains-2",
+      "room": "her-office",
+      "kind": "window_curtain",
+      "position": [
+        7.76,
+        -0.09,
+        1.635
+      ],
+      "dimensions": [
+        1.3,
+        0.07,
+        2.6924
+      ],
+      "rotation_deg": 90,
+      "shopping_row": 39,
+      "dimension_confidence": "Selected106-inch length; folded panel width/rod span adapted to measured window, sheer appearance approximation",
+      "footprint_blender_xy": [
+        [
+          7.795,
+          -0.74
+        ],
+        [
+          7.795,
+          0.56
+        ],
+        [
+          7.725,
+          0.56
+        ],
+        [
+          7.725,
+          -0.74
+        ]
+      ],
+      "front_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "facing_blender_xy": [
+        -1.0,
+        0.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        7.76,
+        1.635,
+        0.09
+      ],
+      "viewer_facing": [
+        -1.0,
+        0,
+        -6.123233995736766e-17
+      ]
+    },
+    {
+      "id": "her-fireplace-blush-art",
+      "room": "her-office",
+      "kind": "art",
+      "position": [
+        5.61,
+        -2.69,
+        3.22
+      ],
+      "dimensions": [
+        1.016,
+        0.045,
+        0.762
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 38,
+      "dimension_confidence": "Shopping40x30in; blush/gold source-board palette approximation",
+      "art_palette": "blush",
+      "appearance_confidence": "Procedural source-board palette approximation; exact selected artwork not reproduced",
+      "footprint_blender_xy": [
+        [
+          5.102,
+          -2.7125
+        ],
+        [
+          6.118,
+          -2.7125
+        ],
+        [
+          6.118,
+          -2.6675
+        ],
+        [
+          5.102,
+          -2.6675
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        5.61,
+        3.22,
+        2.69
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    },
+    {
+      "id": "basement-dining-orange-art",
+      "room": "basement-open",
+      "kind": "art",
+      "position": [
+        5.0,
+        -2.305,
+        -0.42
+      ],
+      "dimensions": [
+        0.75,
+        0.045,
+        1.0
+      ],
+      "rotation_deg": 0,
+      "shopping_row": 56,
+      "dimension_confidence": "Shopping75x100cm; source-board orange window-light approximation",
+      "art_palette": "orange-window",
+      "frame_material": "Black steel",
+      "appearance_confidence": "Procedural source-board palette approximation; exact selected artwork not reproduced",
+      "footprint_blender_xy": [
+        [
+          4.625,
+          -2.3275
+        ],
+        [
+          5.375,
+          -2.3275
+        ],
+        [
+          5.375,
+          -2.2825
+        ],
+        [
+          4.625,
+          -2.2825
+        ]
+      ],
+      "front_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "facing_blender_xy": [
+        -0.0,
+        1.0
+      ],
+      "front_meaning": "front of furniture",
+      "viewer_position": [
+        5.0,
+        -0.42,
+        2.305
+      ],
+      "viewer_facing": [
+        -0.0,
+        0,
+        -1.0
+      ]
+    }
+  ],
+  "default_variant": "faithful-proposal",
+  "default_dresser_visible": true,
+  "glb_layers": {
+    "furniture.glb": "All furniture/decor except separately toggleable dresser",
+    "proposed-dresser.glb": "Full selected118-inch dresser, visible by default in walkthrough"
+  },
+  "furniture_grounding": {
+    "bedroom-flex": {
+      "raw_local_scan_floor_mode_z_m": -1.415,
+      "clean_architecture_floor_z_m": -1.385,
+      "delta_z_m": 0.03
+    }
+  },
+  "layout_notes": [
+    "All room walls and source plan orientation registered to scan via geometry_audit, not generated design photos.",
+    "Source Amy living media centered slightly within actual solid wall run to fit selected console.",
+    "Her angled loveseat moved +Y .08m to clear observed low stone hearth lip; source40-degree inward facing retained.",
+    "Divider moved from provisional X -.7 to X +.35; King bed and selected20-inch nightstands shifted forward to preserve music-room doorway. This is proposed furniture-zone adaptation, not a measured wall.",
+    "Basement bed/dresser foot aisle narrow0.47m; renderer does not imply installation approval.",
+    "Basement 104-inch drape length exceeds observed ceiling/soffit. Modeled rod at2.32m clears soffit; purchase specification needs alteration.",
+    "No exact entry console position was given by Amy, so entry furniture withheld until layout evidence supports it."
+  ],
+  "coordinate_frame": "Meters; source Blender X/Y/Z unscaled with Z-up. GLB exporter maps (x,y,z) to (x,z,-y), Y-up.",
+  "source_plan_registration": "Every Amy floor plan fragment: image u-right -> scan +Y; image v-down -> scan +X, established by room doors, exterior windows and fireplace.",
+  "limitations": [
+    "Furniture is dimensioned concept geometry approximating the selected products, not vendor CAD. Axis dimension confidence is explicit for each item.",
+    "Existing sofa and desk external dimensions remain unmeasured. All positions are wall-relative registered interpretations of Amy's diagram.",
+    "Curtain proposal is opened at the side for access. Divider railing/drape purchase lengths and ceiling height need field verification."
+  ],
+  "proposed_bedroom_polygon": [
+    [
+      -3.8,
+      -2.48
+    ],
+    [
+      0.35,
+      -2.42
+    ],
+    [
+      0.35,
+      0.66
+    ],
+    [
+      -3.8,
+      0.61
+    ]
+  ],
+  "proposed_bedroom_polygon_status": "Movable curtain proposal adapted to King width and music doorway; not measured walls.",
+  "clearance_variants": {
+    "faithful-proposal": {
+      "included_optional": "bedroom-large-dresser",
+      "foot_clearance_m": 0.46988
+    },
+    "clearance-alternative": {
+      "withheld_item": "bedroom-large-dresser",
+      "foot_to_wall_m": 0.916,
+      "note": "Full selected dresser retained separately; placement to be decided after site measurement"
+    }
+  }
+}

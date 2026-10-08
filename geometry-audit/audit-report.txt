@@ -1,0 +1,33 @@
+GEOMETRY AND FURNITURE REGISTRATION REVIEW
+
+Evidence used
+Original Polycam 8_21_2026.glb imported into Blender scan.blend; actual world-space vertices and triangles; Amy Wu FLOOR PLAN image; dimensioned listing floorplan supplied in Gmail; final product-dimension furniture manifest. No dimensions were read from AI-generated concept images.
+
+Coordinate basis
+Meters, Z up. X increases toward street/front; negative X toward backyard/rear. Positive Y is bath/stair side, negative Y long brick/perimeter side. Native GLTF coordinates are [X,Z,-Y]. Source plan image right/U maps +Y and image down/V maps +X. This is a rotation without mirroring. Geographic north is only registered from the approximate listing arrow.
+
+Verified corrections
+Both office work surfaces belong on the +Y walls. His desk is near the rear -X end; her vanity/chest remain on +Y, with the loveseat near +X/-Y corner. Earlier statements putting either work surface opposite its windows were unsupported. Living sofa backs onto -Y brick and seats toward +Y media/bath side. Basement king headboard is on -Y and bed foot points +Y; lounge sofa faces +X toward dining/kitchen. Amy table long edge follows image U, so basement dining table long axis is world Y across room, not world X along apartment.
+
+Dimension reconciliation
+Listing dimensions are page-horizontal first, then page-vertical. For lower enclosed bedroom/music room, 15ft11 x12ft5 means world Y4.851m x world X3.785m. Whole irregular scanned room including utility/access alcove bounds are X4.00 xY4.60m, agreeing within6%. The smaller carved main rectangle X3.56 xY3.05 is not the whole listing extent. Upper rear room X4.90 xY3.10 vs listingX4.72 xY3.00 supports retaining original metric scale. Upper front room X4.26 xY3.62 vs listingX4.14 xY3.20 leaves13% short-axis disagreement; preserve observed mesh and disclose it, rather than forcing a rescale. Living/dining labels partition a connected open region differently from scan camera labels.
+
+Actual wall/opening evidence
+Three-height wall maps differentiate missing scan faces from real openings. Upper bathroom door is on rear X=-1.24 wall atY≈.52..1.35; living media wallY=.39 is solid. Music/gym entry is atX=-3.8,Y≈-2.15..-1.35, requiring clear approach X[-3.8,-3.1],Y[-2.25,-1.25]. Stair tread planes retain the scan X1.95..5.40,Y1.86..2.76 envelope and ascend toward -X. Calibrated raw orthographic wall renders place his fireplace centerX=-5.31 and hersX=5.61, both on -Y wall. Earlier generic his-hearth marker near -3.8 was corrected. Raw HER floor-level hearth lip is irregular and separately evidenced in her-hearth-polygon.json.
+
+Furniture adaptations to actual geometry
+The selected king frame and two20in nightstands need more than3.2m across X. Bed and movable curtain shift frontwards so curtain sits atX=.35, keeping music doorway clear. This is a proposed zone boundary, not architecture. The118in dresser moves off bed center toX=-2.225, fitting the measured +Y solid wall X[-3.8,-.65]; foot aisle remains only~.47m and needs onsite review. His slim console moves toX=-6.70, clearing the actual fireplace; her art follows measured hearthX5.61. Her loveseat shifts+.08mY to clear the observed low hearthlip while retaining its registered facing. Proposed entry furniture is separately dashed orange and explicitly provisional, since Amy's plan omits its positions. Actual product sizes are used where verified; unmeasured existing sofa and conceptual products remain marked assumptions.
+
+Vertical geometry and gap repairs
+Basement main floor aroundZ=-1.385, main ceilingZ=1.245, height2.63m; soffitZ≈.955. Upper local floors around1.535–1.585; rear office ceiling4.595, living4.185, front office4.665, kitchen4.515, bath4.165. Robust local plane fits capture scan tilt and variation rather than flattening all surfaces to one elevation. Unseen utility/bath/laundry internals and upper stair landing connections are inferred separately. Keep raw scan, cleaned scan and inferred shell independently toggleable.
+
+Artifacts to package
+- upper-dimensioned-plan.png and lower-dimensioned-plan.png: current exact final furniture footprints over generalized measured wall outlines; annotated dimensions, doors/windows/fireplaces, axes, facing arrows, columns/stairs and inferred utility/entry distinctions.
+- geometry.json: shared coordinate, room/zone, wall/opening, height and uncertainty records.
+- registration-findings.json: concise machine-readable corrections and remaining dimension disagreement.
+- amy_scan_registration.png and amy_affine_registration.json: independent source-to-mesh correspondence checks.
+- fireplace-anchors.json, his-brick-wall-ortho.png, her-brick-wall-ortho.png, her-hearth-polygon.json: calibrated architectural feature evidence.
+- surface_plane_fits.json and zone_horizontal_peaks.json: floor/ceiling evidence for intelligent gap repair.
+- upstairs_wallmap.png and basement_wallmap.png: observed wall maps across heights.
+
+Generalized wall coordinates are uncertain by about0.05–0.12m and are not a physical survey. Amy fragments are undimensioned schematics. The revised method fixes furniture once in measured3D coordinates and renders all views from that same scene; additional independently generated perspectives cannot enforce geometry.

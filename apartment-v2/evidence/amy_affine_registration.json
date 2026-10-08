@@ -1,0 +1,185 @@
+{
+  "living": {
+    "x_from_v": [
+      0.009782274590163936,
+      -3.7719672131147544
+    ],
+    "y_from_u": [
+      0.009440625000000001,
+      -3.373
+    ],
+    "anchors": [
+      {
+        "source_label": "sofa back",
+        "source_pixel": [
+          71.85964912280701,
+          417.6842105263158
+        ],
+        "registered_xyz": [
+          0.3139344262295083,
+          -2.6946,
+          1.535
+        ]
+      },
+      {
+        "source_label": "bath/stair indent",
+        "source_pixel": [
+          398.59649122807014,
+          490.66666666666663
+        ],
+        "registered_xyz": [
+          1.027868852459017,
+          0.3900000000000001,
+          1.535
+        ]
+      },
+      {
+        "source_label": "rear entry",
+        "source_pixel": [
+          139.22807017543857,
+          71.85964912280701
+        ],
+        "registered_xyz": [
+          -3.069016393442623,
+          -2.0586,
+          1.535
+        ]
+      },
+      {
+        "source_label": "front entry",
+        "source_pixel": [
+          327.859649122807,
+          756.7719298245613
+        ],
+        "registered_xyz": [
+          3.6309836065573773,
+          -0.2777999999999996,
+          1.535
+        ]
+      }
+    ],
+    "note": "Schematic independently fitted to observed main room boundary; affine/nonuniform scale. Graphic is correspondence check, not measured furniture placement."
+  },
+  "his-office": {
+    "x_from_v": [
+      0.009715909090909093,
+      -17.307272727272732
+    ],
+    "y_from_u": [
+      0.008935072815533981,
+      -8.408122977346277
+    ],
+    "anchors": [
+      {
+        "source_label": "exterior entry",
+        "source_pixel": [
+          719.719298245614,
+          960.0
+        ],
+        "registered_xyz": [
+          -7.98,
+          -1.9773786407766982,
+          1.575
+        ]
+      },
+      {
+        "source_label": "brick side",
+        "source_pixel": [
+          628.7719298245613,
+          1336.140350877193
+        ],
+        "registered_xyz": [
+          -4.325454545454545,
+          -2.79,
+          1.575
+        ]
+      },
+      {
+        "source_label": "closet indent",
+        "source_pixel": [
+          794.9473684210526,
+          1391.157894736842
+        ],
+        "registered_xyz": [
+          -3.790909090909091,
+          -1.3052103559870545,
+          1.575
+        ]
+      },
+      {
+        "source_label": "desk back",
+        "source_pixel": [
+          967.859649122807,
+          1058.8070175438595
+        ],
+        "registered_xyz": [
+          -7.020000000000001,
+          0.23977346278317224,
+          1.575
+        ]
+      }
+    ],
+    "note": "Schematic independently fitted to observed main room boundary; affine/nonuniform scale. Graphic is correspondence check, not measured furniture placement."
+  },
+  "her-office": {
+    "x_from_v": [
+      0.00918659200968523,
+      -5.395108958837771
+    ],
+    "y_from_u": [
+      0.009399599125364432,
+      -3.1393877551020406
+    ],
+    "anchors": [
+      {
+        "source_label": "brick fireplace",
+        "source_pixel": [
+          41.54385964912281,
+          1212.6315789473683
+        ],
+        "registered_xyz": [
+          5.744842615012106,
+          -2.7488921282798833,
+          1.585
+        ]
+      },
+      {
+        "source_label": "closet/entry",
+        "source_pixel": [
+          247.0175438596491,
+          982.4561403508771
+        ],
+        "registered_xyz": [
+          3.6303147699757874,
+          -0.8175218658892127,
+          1.585
+        ]
+      },
+      {
+        "source_label": "window end",
+        "source_pixel": [
+          227.9298245614035,
+          1445.0526315789473
+        ],
+        "registered_xyz": [
+          7.88,
+          -0.9969387755102037,
+          1.585
+        ]
+      },
+      {
+        "source_label": "vanity back",
+        "source_pixel": [
+          417.6842105263158,
+          1221.6140350877192
+        ],
+        "registered_xyz": [
+          5.827360774818402,
+          0.7866763848396503,
+          1.585
+        ]
+      }
+    ],
+    "note": "Schematic independently fitted to observed main room boundary; affine/nonuniform scale. Graphic is correspondence check, not measured furniture placement."
+  }
+}

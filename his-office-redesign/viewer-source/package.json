@@ -1,0 +1,19 @@
+{
+  "name": "his-office-new-design-viewer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 serve.py",
+    "build": "node build-standalone.mjs",
+    "test": "node tests/browser.mjs",
+    "test:lamp": "node tests/lamp-aperture.mjs --no-capture"
+  },
+  "dependencies": {
+    "three": "0.182.0",
+    "three-mesh-bvh": "0.9.15"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "playwright": "1.56.1"
+  }
+}

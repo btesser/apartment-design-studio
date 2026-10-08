@@ -1,0 +1,127 @@
+{
+  "timestamp_utc": "2026-10-08T16:26:04.264421+00:00",
+  "verdict": "PASS FOR NOMINAL MODELED FIT; FIELD VERIFICATION REQUIRED",
+  "scope": "Fresh His-office redesign, frozen canonical layout. Independent read-only geometry, operation, material/export and browser camera/keyboard checks, plus separate nonmetric visual concept and document reviews.",
+  "summary": {
+    "canonical_product_roots": 14,
+    "native_evaluated_meshes": 271,
+    "exported_integrated_mesh_nodes": 270,
+    "exported_furniture_mesh_nodes": 188,
+    "unintended_triangle_surface_intersections": 0,
+    "all_32_used_texture_nodes_available": true,
+    "gltf_images_embedded": true,
+    "route_50 cm_planning_person_pass_working_and_45cm_pullback": true,
+    "route_55cm_planning_person_fails": true,
+    "nominal_table_height_range_m": [
+      0.66167,
+      1.31191
+    ],
+    "cat_lamp_clear_of_upper_desk_swept_bounds_full_range": true,
+    "native_and_viewer_fireplace_13_rays_pass": true,
+    "four_clear_viewer_cameras_and_actual_key_W_movement_pass": true,
+    "browser_page_errors": 0,
+    "sampled_chair_45cm_pullback_intersections": 0,
+    "viewer_visual_layout_and_materials_pass": true,
+    "all_188_furniture_layer_meshes_present_with_identical_bounds_in_integrated": true,
+    "native_and_current_viewer_lamp_13_aperture_and_positive_control_rays_pass": true,
+    "lamp_exact_left_center_native_three_raycast_hits": true,
+    "lamp_exact_left_center_accelerated_BVH_precision_miss": true,
+    "all_three_final_concept_views_pass_nonmetric_visual_QA": true,
+    "final_pdf_9_pages_14_links_no_overflow_or_draft": true
+  },
+  "limits": [
+    "Generalized scan room outline has 5\u201312 cm uncertainty; fine fixture forms are review proxies, doors observed closed and swings inferred.",
+    "50 cm route uses a hypothetical person circle and nominal boxes/caster circles; it is tight and not a real site, accessibility or ergonomics guarantee.",
+    "Cat-tree basket/branch offsets and lamp U-base separate dimensions are unpublished/photo-derived; measure the owned pieces and reposition/rotate if needed.",
+    "Cat upper basket model is only ~2 cm off rear wall; dresser door-box gap ~3 cm and closet-approach desk gap 5 cm are smaller than scan uncertainty.",
+    "Closet interior and hanging garment hems are unrecorded; three shoe racks remain a conditional storage idea.",
+    "Dresser fully open drawer leaves ~79 cm to main caster working pose but ~34 cm at full chair pullback; tuck chair before sustained drawer access.",
+    "Thin rug-pad contacts are soft support; compression not simulated.",
+    "Desk tests check external upper-assembly clearance, not mechanical telescope internals, cables, actuators, load or stability.",
+    "Triangle surface intersection method does not rule out every fully contained solid, and sampled swept-box candidates do not mathematically prove all intermediate heights.",
+    "STORKLINTA Anchor/Unlock wall fixing is not modeled/verified; dresser rear is about 8.7 cm forward of corrected brick plane. Verify approved attachment/spacer or adjust on site.",
+    "Generated concepts preserve visual topology and facing, but do not validate metric dimensions; fine silhouettes, materials and lighting are representative. View B retains one cosmetic secondary-tabletop spot/grommet absent from the modeled IKEA top.",
+    "At one exact triangulation-edge LED probe the accelerated viewer BVH misses while native THREE raycasting returns two hits. Both offset LED positive controls, nine empty aperture rays and both rim controls pass; the exported bar is valid. This is documented numerical ray precision, not a product geometry gap."
+  ],
+  "proofs": [
+    {
+      "file": "window-calibration-check.json",
+      "sha256": "30097f0e87dab096caeffc827433a23b8149df4a0f4f52428b85a88082c3822c"
+    },
+    {
+      "file": "integrated-mesh-checks.json",
+      "sha256": "ae7dbfbe2092df669b8d927a270c1a5d3f98ddc412db4f4c5671da4ba5abbae3"
+    },
+    {
+      "file": "export-parity.json",
+      "sha256": "e9a4c57b1354fbb2502c38f313f2cd1c7cb63d1d2c4b4b9a1244793972229ab5"
+    },
+    {
+      "file": "material-availability.json",
+      "sha256": "4a6533084eca04315d7c62f4ff60e2e9f3bdd19af33d1939a268c96a8e335db6"
+    },
+    {
+      "file": "routing-analysis.json",
+      "sha256": "193cc5b3ed4a5952b4030d897195cfd6bdc5aa2c0635cd2ea27aaffcf88205d6"
+    },
+    {
+      "file": "operation-clearances.json",
+      "sha256": "1b0345629b00df00262324c289d8f51bd84bca8b9c86263f7162b46a823032e3"
+    },
+    {
+      "file": "desk-height-operation.json",
+      "sha256": "5dbc418ee55574b7cb9675e2427022abbb55710535165031d80cfbe3058be3c0"
+    },
+    {
+      "file": "chair-pullback-operation.json",
+      "sha256": "0a9b52ad8d3753f3930a9aebd6022f4a750889578960957b10df4415bc77a43e"
+    },
+    {
+      "file": "fireplace-recess-check.json",
+      "sha256": "eb1c8806a712769719b51a606f2e69ae97d9f17be5d737b20daed5398f9fe321"
+    },
+    {
+      "file": "lamp-aperture-check.json",
+      "sha256": "bae7a1ba4105dddc01aad5a2a374091a651d23fce002fbd9d55ba312d23e2d2f"
+    },
+    {
+      "file": "viewer-independent-checks.json",
+      "sha256": "73661b03c85b3b8df1138176d9aed68315217ad73ff6785753f6e2551b5d8988"
+    },
+    {
+      "file": "viewer-lamp-aperture-check.json",
+      "sha256": "37e8626d40b47eab207da3ec88227f3ded3c1556a07cfa8b5284319afe88432c"
+    },
+    {
+      "file": "image-QA.json",
+      "sha256": "7f834cb203892f0bb6d1da97cd95b0924f7b4a393a00ce390873e4995b985a91"
+    },
+    {
+      "file": "image-QA.txt",
+      "sha256": "d7160222a82041571f69ee0e7aa76b53b153bb60ad12c1dd5f601be8594da339"
+    },
+    {
+      "file": "pdf-layout-check.json",
+      "sha256": "ca67f3e0d8e48a1622ea69bcad104073d8ccd4f248f56178aa1d1b19aa9403c4"
+    }
+  ],
+  "source_scene_sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a",
+  "current_assets": [
+    {
+      "file": "model/his-office-design.blend",
+      "sha256": "607e11d67b8fc8813da0872b5f18278733c6a40cd9e1988c3b1cb743971ada0a"
+    },
+    {
+      "file": "model/his-office-design.glb",
+      "sha256": "895550f4a29566a7e277e64cfc54eda0878ad8a00d0dc53b5fce7e62b94d059d"
+    },
+    {
+      "file": "model/his-office-furniture.glb",
+      "sha256": "fe9cea9df2e569a3e727f3d4252c35649ab1eacec6c576322ac2bc1f046d96b6"
+    },
+    {
+      "file": "viewer-source/tests/final-asset-proof.json",
+      "sha256": "065b839f6f916f5b7445b451855ef1eef3d54c36512a41c312137ca311613f5b"
+    }
+  ]
+}

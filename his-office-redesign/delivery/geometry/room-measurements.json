@@ -1,0 +1,371 @@
+{
+  "id": "his-office",
+  "authority": "Original Polycam measured geometry. No Amy furniture placements are used in this redesign.",
+  "sources": {
+    "original_glb": "/workspace/apartment/8_21_2026.glb",
+    "original_blender": "/workspace/apartment/scan.blend",
+    "raw_triangles": "/workspace/geometry-audit/upstairs_surface.npz",
+    "listing": "/workspace/source-evidence/listing-floorplan.jpg",
+    "prior_integrated_model": "/workspace/apartment-model/integrated.blend"
+  },
+  "coordinate_system": {
+    "unit": "metres",
+    "blender_axes": "X toward street/front, -X rear/backyard; +Y white wall/kitchen side, -Y exposed brick; +Z up",
+    "to_gltf": "[X,Y,Z]_Blender -> [X,Z,-Y]_glTF",
+    "north": "Listing north arrow corresponds -X after registration; not surveyed."
+  },
+  "outline_blender_xy_m": [
+    [
+      -7.98,
+      -2.79
+    ],
+    [
+      -3.08,
+      -2.79
+    ],
+    [
+      -3.08,
+      -1.35
+    ],
+    [
+      -3.78,
+      -1.35
+    ],
+    [
+      -3.78,
+      0.31
+    ],
+    [
+      -7.98,
+      0.31
+    ]
+  ],
+  "outline_gltf_xz_m": [
+    [
+      -7.98,
+      2.79
+    ],
+    [
+      -3.08,
+      2.79
+    ],
+    [
+      -3.08,
+      1.35
+    ],
+    [
+      -3.78,
+      1.35
+    ],
+    [
+      -3.78,
+      -0.31
+    ],
+    [
+      -7.98,
+      -0.31
+    ]
+  ],
+  "outline_confidence": "Generalized floor/inside-wall outline, typical5\u201312cm uncertainty. Mesh walls are warped/slightly off-axis. Do not stretch to listing.",
+  "area_m2": 14.028,
+  "overall_bounds_blender_xyz_m": [
+    -7.98,
+    -3.08,
+    -2.79,
+    0.31,
+    1.575,
+    4.595
+  ],
+  "overall_dimensions_xy_m": [
+    4.9,
+    3.1
+  ],
+  "main_rectangle_dimensions_xy_m": [
+    4.2,
+    3.1
+  ],
+  "closet_carveout_bounds_xy_m": [
+    -3.78,
+    -3.08,
+    -1.35,
+    0.31
+  ],
+  "closet_note": "Hanging closet interior not recorded. Existing door and overhead cupboard observed. .70\u00d71.66m carveout describes generalized external architectural mass, not validated closet interior capacity.",
+  "floor": {
+    "nominal_z_m": 1.575,
+    "plane": "z=.008859*x-.004139*y+1.617083",
+    "fit_rms_m": 0.008,
+    "observed_support_area_m2": 10.453
+  },
+  "ceiling": {
+    "nominal_z_m": 4.595,
+    "plane": "z=.004656*x-.014263*y+4.602549",
+    "fit_rms_m": 0.0075,
+    "observed_support_area_m2": 10.669,
+    "nominal_room_height_m": 3.02,
+    "note": "Local height varies several cm; planes summarize scan, not surveyed leveling."
+  },
+  "listing_dimensions_m": {
+    "x": 4.7244,
+    "y": 2.9972,
+    "printed_label": "rear bedroom9ft10in\u00d715ft6in",
+    "comparison": "scan overall about3.7% longerX and3.4% widerY; listing says approximate."
+  },
+  "features": [
+    {
+      "id": "closet-door",
+      "label": "Existing hanging closet door",
+      "bounds_blender_xyz_m": [
+        -3.9,
+        -3.72,
+        -0.88,
+        -0.16,
+        1.6,
+        3.65
+      ],
+      "evidence_status": "observed scan frame and partly missing leaf",
+      "confidence": "high placement; medium depth/leaf details",
+      "notes": "Nominal closet face X=-3.78 is generalized. Raw face/trim locally ranges X\u2248-3.90..-3.72. Actual leaf approxY[-.83,-.21],Z[1.61,3.64]. White plain panel, metal knob at -Y/right edge in face-on view; hinge at +Y edge is inferred from knob, not directly seen.",
+      "nominal_plane_x": -3.78,
+      "opening_yz": [
+        -0.83,
+        -0.21,
+        1.61,
+        3.64
+      ],
+      "observed_state": "closed, scan leaf has large holes",
+      "hinge": {
+        "y": -0.21,
+        "status": "inferred from knob side"
+      },
+      "swing": "Toward room plausible, not directly observed. Reserve approach regardless."
+    },
+    {
+      "id": "upper-cupboard",
+      "label": "Existing overhead cupboard",
+      "bounds_blender_xyz_m": [
+        -3.9,
+        -3.84,
+        -0.83,
+        -0.21,
+        3.7,
+        4.56
+      ],
+      "evidence_status": "observed scan",
+      "confidence": "high placement; medium trim details",
+      "notes": "White plain panel above closet; small metal latch at -Y edge. Plane sits about8\u201310cm forward of nominal wall face; do not omit it.",
+      "opening_yz": [
+        -0.83,
+        -0.21,
+        3.7,
+        4.56
+      ]
+    },
+    {
+      "id": "living-entry",
+      "label": "Door to living room",
+      "bounds_blender_xyz_m": [
+        -3.18,
+        -2.97,
+        -2.73,
+        -1.65,
+        1.6,
+        3.65
+      ],
+      "evidence_status": "observed scan frame and partly missing leaf",
+      "confidence": "high frame placement; medium plane/depth; low swing",
+      "notes": "White plain panel, silver lever at +Y side; substantial human occlusion. Frame width1.08m, actual clear opening likely~1.00m. Previously used0.80m was incomplete. Observed door appears closed. Separate open leaf in a viewer is an inferred viewing state.",
+      "nominal_plane_x": -3.08,
+      "frame_yz": [
+        -2.73,
+        -1.65,
+        1.6,
+        3.65
+      ],
+      "clear_width_approx_m": 1.0,
+      "observed_state": "closed, partly occluded",
+      "hinge": {
+        "y": -2.73,
+        "status": "inferred from visible handle opposite side"
+      }
+    },
+    {
+      "id": "rear-exterior-door",
+      "label": "Rear exterior door",
+      "bounds_blender_xyz_m": [
+        -8.15,
+        -7.91,
+        -2.55,
+        -1.64,
+        1.61,
+        3.64
+      ],
+      "evidence_status": "observed scan plus listing door",
+      "confidence": "high placement; medium depth/swing",
+      "notes": "White six-panel door with brass knob and deadbolt at +Y/right edge in rear face-on view. Frame width~.91m, clear leaf~.80m. Knob side implies hinge at -Y edge; swing not directly observed. Do not replace with solid black rectangle.",
+      "nominal_plane_x": -7.98,
+      "frame_yz": [
+        -2.55,
+        -1.64,
+        1.61,
+        3.64
+      ],
+      "clear_width_approx_m": 0.8,
+      "observed_state": "closed",
+      "hinge": {
+        "y": -2.55,
+        "status": "inferred from knob side"
+      }
+    },
+    {
+      "id": "rear-window",
+      "label": "Single rear sash window",
+      "bounds_blender_xyz_m": [
+        -8.24,
+        -7.93,
+        -1.01,
+        -0.11,
+        2.46,
+        4.37
+      ],
+      "evidence_status": "observed calibrated raw ortho and scan vertices",
+      "confidence": "high Y/Z position; medium recess depth",
+      "notes": "Outer vertical/header trim~.82m wide\u00d71.84m high; clear glass~.72m wide. Sill board wider Y[-1.01,-.11]. White double-hung sash, upper roller blind, exterior bars. Sill~.95m above scan floor. Prior integrated proxy Y[-.98,.03],Z[2.38,4.23] was too wide and too low.",
+      "nominal_wall_x": -7.98,
+      "outer_trim_yz": [
+        -0.96,
+        -0.14,
+        2.53,
+        4.37
+      ],
+      "clear_glass_y": [
+        -0.92,
+        -0.2
+      ],
+      "sill_y": [
+        -1.01,
+        -0.11
+      ],
+      "sill_and_apron_z": [
+        2.46,
+        2.56
+      ],
+      "sill_height_above_floor_m": 0.955,
+      "measured_tolerance_m": 0.04
+    },
+    {
+      "id": "rear-radiator",
+      "label": "Existing small rear radiator",
+      "bounds_blender_xyz_m": [
+        -7.96,
+        -7.43,
+        -2.79,
+        -2.47,
+        1.61,
+        2.3
+      ],
+      "evidence_status": "observed scan in two orthos plus local geometry",
+      "confidence": "high location; medium envelope\u00b1.05\u2013.08m",
+      "notes": "Dark cast-iron vertical fins in rear brick corner beside exterior door, not beneath window. Actual surface front modeY\u2248-2.60; envelope includes irregular fins/projection. Radiator function not tested.",
+      "nominal_envelope_m": [
+        0.53,
+        0.32,
+        0.69
+      ]
+    },
+    {
+      "id": "rear-pipe",
+      "label": "Existing vertical white pipe",
+      "bounds_blender_xyz_m": [
+        -8.0,
+        -7.72,
+        0.14,
+        0.31,
+        1.6,
+        4.6
+      ],
+      "evidence_status": "observed scan",
+      "confidence": "medium: warped mesh and ceiling merge",
+      "notes": "Vertical white pipe in rear white-wall corner; protrudes into room near X\u2248-7.91. Keep this feature instead of flattening corner.",
+      "approx_center_xy": [
+        -7.91,
+        0.24
+      ],
+      "diameter_approx_m": 0.1
+    },
+    {
+      "id": "closed-fireplace",
+      "label": "Existing infilled fireplace/chimney",
+      "bounds_blender_xyz_m": [
+        -6.1,
+        -4.48,
+        -2.85,
+        -2.71,
+        1.59,
+        4.6
+      ],
+      "evidence_status": "observed textured brick, white infill and prior calibrated anchor",
+      "confidence": "high center; medium broad envelope",
+      "notes": "Opening center X=-5.31; opening X[-5.65,-4.98]~.67m. White closed arched infill is recessed at median Y=-2.835. Full-height brick chimney face at median Y=-2.722, about .115m forward of adjacent brick Y=-2.837. Broad span~1.62m; edges taper/warp. Raw arch has brick voussoirs, without a big rectangular white mantel/trim. Closed appearance does not establish operability.",
+      "opening_center_x": -5.31,
+      "opening_bounds_approx": [
+        -5.65,
+        -4.98,
+        -2.85,
+        -2.82,
+        1.62,
+        2.48
+      ],
+      "chimney_face_y": -2.722,
+      "adjacent_brick_face_y": -2.837,
+      "infill_face_y": -2.835,
+      "old_proxy_trim_status": "Old forward white trim Y=-2.63 is not observed and must not be treated as measured.",
+      "hearth_keepout_xy": [
+        -6.1,
+        -4.48,
+        -2.94,
+        -2.48
+      ],
+      "hearth_keepout_status": "conservative architectural footprint including uncertain low lip, not an exact measured raised hearth polygon"
+    },
+    {
+      "id": "front-shelf-nook",
+      "label": "Existing built-in shelf nook near entry",
+      "bounds_blender_xyz_m": [
+        -3.95,
+        -3.08,
+        -2.9,
+        -2.55,
+        1.6,
+        4.15
+      ],
+      "evidence_status": "observed raw angle4 and horizontal triangle peaks",
+      "confidence": "medium topology; low individual shelf detail",
+      "notes": "White boards/brackets sit in brick-side front recess. Approx shelf surface modesZ2.33,2.61,2.80,3.05,3.24,3.60; holes/occlusion prevent reliable count. Do not turn scan fragments into arbitrary tall cabinet. Visible shelf fronts project to roughlyY-2.58.",
+      "approx_shelf_surface_z": [
+        2.33,
+        2.61,
+        2.8,
+        3.05,
+        3.24,
+        3.6
+      ]
+    },
+    {
+      "id": "entry-controls",
+      "label": "Thermostat and small control near entry",
+      "bounds_blender_xyz_m": [
+        -3.18,
+        -2.97,
+        -1.56,
+        -1.35,
+        2.7,
+        3.29
+      ],
+      "evidence_status": "observed raw closet/entry ortho",
+      "confidence": "medium placement",
+      "notes": "Two small wall controls plus switch near +Y jamb of living door; preserve as approximate visual details if modeled."
+    }
+  ],
+  "scope": "Feature positions/architecture only. Furniture zones are feasibility guidance, not final layout authority or measured installation clearance."
+}

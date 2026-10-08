@@ -1,0 +1,26 @@
+Furniture geometry: 54 proposed items in original unscaled scan coordinates, meters (Blender Z-up). GLB maps x,y,z to x,z,-y, Y-up.
+
+Placement authority: Amy Wu FLOOR PLAN fragments registered by real exterior doors, windows, fireplaces, bathroom and closet arrangement. Image u-right maps to scan +Y; image v-down maps to scan +X. Each schematic fragment needs its own dimensional fit; generative room images are not placement evidence.
+
+Key orientation corrections:
+* His standing desk and her vanity are on +Y walls. Work surfaces and drawer/mirror fronts face -Y; seated chair gaze faces +Y into the work surface.
+* Living gray sofa faces +Y from the -Y brick wall. The media console fronts -Y toward the sofa.
+* Flex-zone King headboard is against -Y; feet point +Y. Basement sofa back is -X and seats face +X toward the lounge/dining sequence. Orange chairs face inward toward the sofa.
+
+Measured architecture is not resized. The curtain divider is a furnishing and is proposed at X +.35m instead of the preliminary schematic X -.70m. The bed and selected nightstands move toward +X so the actual music-room doorway stays clear. This is a proposed fitting adjustment, not evidence of a room wall.
+
+Vertical grounding: raw local bedroom-flex floor mode is Z -1.415m; clean architecture uses the basement-open floor at Z -1.385m. Every bedroom-flex furnishing/decor base is raised exactly .03m for the clean model, with X/Y and dimensions preserved. This is a grounding correction, not a layout change.
+
+Selected products are kept at sourced dimensions where available. The 118-inch dresser is 2.9972m wide, .39624m deep, .82296m high, at X -2.225 on the actual short +Y wall. It leaves .46988m at the foot of the King bed: a genuine tight clearance. The viewer shows it by default and can hide it to inspect the clearance alternative. furniture.glb excludes this item; proposed-dresser.glb supplies it independently. furniture.blend includes it.
+
+Known dimension uncertainty:
+* The existing gray sofa (4.00 x .95m placeholder) and standing desk (1.40 x .70m placeholder) are unmeasured. No SKU CAD was supplied.
+* The selected King page reports conflicting overall properties. Model conservatively uses the King-specific 2.190m width and 2.098m length with a nominal 1.9304 x 2.032m mattress. Confirm actual frame envelope onsite.
+* Selected basement nesting coffee-table report has internally inconsistent depth. Large table uses .75946m diameter and verified .43942m height. The smaller tabletop nests below the larger; footprint overlap is intentional and surfaces do not intersect.
+* Other unspecified depths/heights use explicitly labelled concept envelopes. Appearance is a source-board approximation, not an exact vendor asset.
+* Selected 104-inch divider drape needs alteration to clear the observed low soffit at the modeled rail height. The modeled curtain does not validate that purchase length.
+* Entry furniture and gym equipment were not assigned precise positions by supported evidence, and are not invented here. Kitchens/baths belong to architecture fixtures, not this furniture collection.
+
+Validation checks: all structural furniture footprints contained by generalized measured floor outlines; no non-nesting solid overlaps, no column intersections, and no evidenced doorway approach intersections. Her diagonal loveseat moved +Y .08m to clear observed low hearth lip. Its floor supports clear the repaired hull by at least .028m and its elevated body clears the highest measured lip by .071m; conservative rectangular footprint overlap is elevated overhang, not a mesh collision; His rug moved off closet footprint; slim office console moved adjacent to the measured rear fireplace, not over its opening; living side table moved forward to clear his-office approach; dining table and all chairs shifted +Y .37m to retain .45m of chair back space. These checks validate geometry at the current approximate scan fidelity, not final installation dimensions.
+
+Artifacts: furniture.blend, furniture.glb, proposed-dresser.glb, furniture-manifest.json, validation.json, editable make_placements.py/build_furniture.py/decor_helpers.py.

@@ -1,0 +1,340 @@
+Blender 4.3.2
+Read blend: "/workspace/his-office-redesign/model/his-office-design.blend"
+Fra:1 Mem:57.94M (Peak 57.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | architecture_ceiling — his-office
+Fra:1 Mem:57.94M (Peak 57.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | architecture_floor — his-office
+Fra:1 Mem:57.94M (Peak 57.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall0 segment
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall2 segment
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall4 segment
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected solid 0
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected bottom 1
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected head 1
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected solid 2
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected bottom 3
+Fra:1 Mem:57.95M (Peak 57.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected head 3
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall5 corrected solid 4
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall3 — lower-Y side
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall3 — upper-Y side
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall3 — below floor continuation
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall1 — lower-Y side
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall1 — upper-Y side
+Fra:1 Mem:57.96M (Peak 57.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall1 — head continuation
+Fra:1 Mem:57.97M (Peak 57.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | his-office wall1 — below floor continuation
+Fra:1 Mem:57.97M (Peak 57.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed brick chimney projection
+Fra:1 Mem:57.99M (Peak 57.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Local floor continuation to observed brick face
+Fra:1 Mem:57.99M (Peak 57.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window glazing
+Fra:1 Mem:57.98M (Peak 57.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window vertical trim
+Fra:1 Mem:58.00M (Peak 58.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window vertical trim.001
+Fra:1 Mem:58.02M (Peak 58.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window horizontal trim
+Fra:1 Mem:58.03M (Peak 58.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window horizontal trim.001
+Fra:1 Mem:58.05M (Peak 58.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window horizontal trim.002
+Fra:1 Mem:58.05M (Peak 58.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window projecting sill
+Fra:1 Mem:58.06M (Peak 58.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed single-window sill apron
+Fra:1 Mem:58.10M (Peak 58.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing closet frame jamb.001
+Fra:1 Mem:58.13M (Peak 58.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing closet frame header
+Fra:1 Mem:58.13M (Peak 58.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing closet transom
+Fra:1 Mem:58.16M (Peak 58.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing overhead cupboard frame jamb
+Fra:1 Mem:58.16M (Peak 58.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing overhead cupboard frame jamb.001
+Fra:1 Mem:58.18M (Peak 58.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing overhead cupboard frame header
+Fra:1 Mem:58.20M (Peak 58.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing overhead cupboard panel
+Fra:1 Mem:58.20M (Peak 58.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cupboard metal latch
+Fra:1 Mem:58.23M (Peak 58.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing living-entry frame jamb
+Fra:1 Mem:58.25M (Peak 58.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing living-entry frame jamb.001
+Fra:1 Mem:58.25M (Peak 58.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door frame jamb
+Fra:1 Mem:58.28M (Peak 58.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door frame jamb.001
+Fra:1 Mem:58.31M (Peak 58.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door frame header
+Fra:1 Mem:58.31M (Peak 58.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section
+Fra:1 Mem:58.32M (Peak 58.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.001
+Fra:1 Mem:58.35M (Peak 58.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.002
+Fra:1 Mem:58.35M (Peak 58.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.003
+Fra:1 Mem:58.38M (Peak 58.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.004
+Fra:1 Mem:58.38M (Peak 58.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.005
+Fra:1 Mem:58.41M (Peak 58.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.006
+Fra:1 Mem:58.41M (Peak 58.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.007
+Fra:1 Mem:58.43M (Peak 58.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing cast-iron radiator section.008
+Fra:1 Mem:58.45M (Peak 58.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing radiator foot
+Fra:1 Mem:58.46M (Peak 58.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing radiator foot.001
+Fra:1 Mem:58.48M (Peak 58.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing radiator horizontal connection
+Fra:1 Mem:58.48M (Peak 58.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing radiator horizontal connection.001
+Fra:1 Mem:58.50M (Peak 58.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf white back
+Fra:1 Mem:58.52M (Peak 58.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf board
+Fra:1 Mem:58.54M (Peak 58.54M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf board.001
+Fra:1 Mem:58.55M (Peak 58.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf board.002
+Fra:1 Mem:58.57M (Peak 58.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf board.003
+Fra:1 Mem:58.57M (Peak 58.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf board.004
+Fra:1 Mem:58.57M (Peak 58.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing built-in shelf board.005
+Fra:1 Mem:58.60M (Peak 58.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing rear vertical white pipe
+Fra:1 Mem:58.60M (Peak 58.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Observed recessed white arched fireplace infill
+Fra:1 Mem:58.63M (Peak 58.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing entry thermostat
+Fra:1 Mem:58.64M (Peak 58.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing entry small wall control
+Fra:1 Mem:58.66M (Peak 58.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Sky outside window
+Fra:1 Mem:58.66M (Peak 58.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::official alex-drawers part0
+Fra:1 Mem:58.66M (Peak 58.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::black-brown tabletop
+Fra:1 Mem:59.70M (Peak 59.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::right white ADILS leg
+Fra:1 Mem:59.72M (Peak 59.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::black adjustment foot
+Fra:1 Mem:60.74M (Peak 60.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::right white ADILS leg.001
+Fra:1 Mem:60.75M (Peak 60.75M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::black adjustment foot.001
+Fra:1 Mem:60.76M (Peak 60.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | clothes-dresser::official storklinta-low-drawers part0
+Fra:1 Mem:60.77M (Peak 60.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | clothes-dresser::official storklinta-low-drawers part1
+Fra:1 Mem:60.79M (Peak 60.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | branch-pro-task-chair-1::Back | Plane001
+Fra:1 Mem:61.67M (Peak 61.67M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | clothes-dresser::official storklinta-low-drawers part2
+Fra:1 Mem:61.66M (Peak 61.67M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::padded seat
+Fra:1 Mem:61.77M (Peak 61.77M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::sloping padded back
+Fra:1 Mem:61.76M (Peak 61.77M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | branch-pro-task-chair-1::Mesh_0
+Fra:1 Mem:61.92M (Peak 61.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::sloping front wooden leg
+Fra:1 Mem:61.98M (Peak 61.98M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::sloping rear wooden leg
+Fra:1 Mem:61.99M (Peak 61.99M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::rounded wooden arm
+Fra:1 Mem:62.48M (Peak 62.48M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::lower side seat support
+Fra:1 Mem:62.49M (Peak 62.49M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::sloping front wooden leg.001
+Fra:1 Mem:62.50M (Peak 62.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::sloping rear wooden leg.001
+Fra:1 Mem:62.51M (Peak 62.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::rounded wooden arm.001
+Fra:1 Mem:62.52M (Peak 62.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::lower side seat support.001
+Fra:1 Mem:64.81M (Peak 64.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | visitor-chair::front timber stretcher
+Fra:1 Mem:64.81M (Peak 64.81M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rug::Standard Pad support
+Fra:1 Mem:64.87M (Peak 64.87M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rug::official6x9 flatwoven textile
+Fra:1 Mem:64.87M (Peak 64.87M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blue-bold-art::assumed slim black frame
+Fra:1 Mem:64.87M (Peak 64.87M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blue-bold-art::actual selected print
+Fra:1 Mem:64.88M (Peak 64.88M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blue-geometric-art::assumed slim black frame
+Fra:1 Mem:64.92M (Peak 64.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blue-geometric-art::actual selected print
+Fra:1 Mem:64.92M (Peak 64.92M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | uplift-main-desk::generic equipment assumption::monitor stand
+Fra:1 Mem:65.31M (Peak 65.31M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | uplift-main-desk::generic equipment assumption::monitor stem
+Fra:1 Mem:65.32M (Peak 65.32M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | uplift-main-desk::generic equipment assumption::monitor frame
+Fra:1 Mem:67.51M (Peak 67.51M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | uplift-main-desk::generic equipment assumption::dark display
+Fra:1 Mem:67.52M (Peak 67.52M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | uplift-main-desk::generic equipment assumption::keyboard
+Fra:1 Mem:67.53M (Peak 67.53M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::generic equipment assumption::monitor stan
+Fra:1 Mem:67.44M (Peak 67.53M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::generic equipment assumption::monitor stem
+Fra:1 Mem:67.99M (Peak 67.99M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::generic equipment assumption::monitor fram
+Fra:1 Mem:68.00M (Peak 68.00M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::generic equipment assumption::dark display
+Fra:1 Mem:68.00M (Peak 68.00M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | secondary-workspace::generic equipment assumption::keyboard
+Fra:1 Mem:68.02M (Peak 68.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing full-height closet leaf
+Fra:1 Mem:68.02M (Peak 68.02M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing closet metal knob
+Fra:1 Mem:68.04M (Peak 68.04M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing living-entry flat white leaf
+Fra:1 Mem:68.06M (Peak 68.06M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing living-entry silver lever
+Fra:1 Mem:68.06M (Peak 68.06M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door six-panel leaf
+Fra:1 Mem:68.09M (Peak 68.09M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door raised panel
+Fra:1 Mem:68.09M (Peak 68.09M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door raised panel.001
+Fra:1 Mem:68.11M (Peak 68.11M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door raised panel.002
+Fra:1 Mem:68.13M (Peak 68.13M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door raised panel.003
+Fra:1 Mem:68.14M (Peak 68.14M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door raised panel.004
+Fra:1 Mem:68.15M (Peak 68.15M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door raised panel.005
+Fra:1 Mem:68.17M (Peak 68.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door brass knob
+Fra:1 Mem:68.18M (Peak 68.18M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Existing exterior-door brass deadbolt
+Fra:1 Mem:68.20M (Peak 68.20M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::folded steel leg
+Fra:1 Mem:68.20M (Peak 68.20M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::folded steel leg.001
+Fra:1 Mem:68.21M (Peak 68.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::folded steel leg.002
+Fra:1 Mem:68.21M (Peak 68.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::folded steel leg.003
+Fra:1 Mem:68.21M (Peak 68.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::top long rim
+Fra:1 Mem:68.22M (Peak 68.22M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::top long rim.001
+Fra:1 Mem:68.25M (Peak 68.25M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::top end rim
+Fra:1 Mem:68.25M (Peak 68.25M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::top end rim.001
+Fra:1 Mem:68.26M (Peak 68.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across
+Fra:1 Mem:68.26M (Peak 68.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.001
+Fra:1 Mem:68.26M (Peak 68.26M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.002
+Fra:1 Mem:68.37M (Peak 68.37M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.003
+Fra:1 Mem:68.37M (Peak 68.37M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.004
+Fra:1 Mem:68.38M (Peak 68.38M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.005
+Fra:1 Mem:68.38M (Peak 68.38M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.006
+Fra:1 Mem:68.38M (Peak 68.38M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.007
+Fra:1 Mem:68.52M (Peak 68.52M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.008
+Fra:1 Mem:68.52M (Peak 68.52M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.009
+Fra:1 Mem:68.53M (Peak 68.53M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice across.010
+Fra:1 Mem:68.53M (Peak 68.53M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice lengthwise
+Fra:1 Mem:68.71M (Peak 68.71M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice lengthwise.001
+Fra:1 Mem:68.71M (Peak 68.71M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice lengthwise.002
+Fra:1 Mem:68.71M (Peak 68.71M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice lengthwise.003
+Fra:1 Mem:68.73M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-1::wire lattice lengthwise.004
+Fra:1 Mem:68.72M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::folded steel leg
+Fra:1 Mem:68.72M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::folded steel leg.001
+Fra:1 Mem:68.72M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::folded steel leg.002
+Fra:1 Mem:68.73M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::folded steel leg.003
+Fra:1 Mem:68.73M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::top long rim
+Fra:1 Mem:68.73M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::top long rim.001
+Fra:1 Mem:68.73M (Peak 68.73M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::top end rim
+Fra:1 Mem:68.74M (Peak 68.74M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::top end rim.001
+Fra:1 Mem:68.76M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across
+Fra:1 Mem:68.75M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.001
+Fra:1 Mem:68.75M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.002
+Fra:1 Mem:68.75M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.003
+Fra:1 Mem:68.75M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.004
+Fra:1 Mem:68.75M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.005
+Fra:1 Mem:68.75M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.006
+Fra:1 Mem:68.76M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.007
+Fra:1 Mem:68.76M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.008
+Fra:1 Mem:68.76M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.009
+Fra:1 Mem:68.76M (Peak 68.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice across.010
+Fra:1 Mem:68.77M (Peak 68.77M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice lengthwise
+Fra:1 Mem:68.77M (Peak 68.77M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice lengthwise.001
+Fra:1 Mem:68.77M (Peak 68.77M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice lengthwise.002
+Fra:1 Mem:68.79M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice lengthwise.003
+Fra:1 Mem:68.78M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-2::wire lattice lengthwise.004
+Fra:1 Mem:68.79M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::folded steel leg
+Fra:1 Mem:68.78M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::folded steel leg.001
+Fra:1 Mem:68.78M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::folded steel leg.002
+Fra:1 Mem:68.78M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::folded steel leg.003
+Fra:1 Mem:68.79M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::top long rim
+Fra:1 Mem:68.79M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::top long rim.001
+Fra:1 Mem:68.79M (Peak 68.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::top end rim
+Fra:1 Mem:68.80M (Peak 68.80M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::top end rim.001
+Fra:1 Mem:68.80M (Peak 68.80M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across
+Fra:1 Mem:68.80M (Peak 68.80M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.001
+Fra:1 Mem:68.82M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.002
+Fra:1 Mem:68.81M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.003
+Fra:1 Mem:68.81M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.004
+Fra:1 Mem:68.81M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.005
+Fra:1 Mem:68.82M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.006
+Fra:1 Mem:68.82M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.007
+Fra:1 Mem:68.82M (Peak 68.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.008
+Fra:1 Mem:68.83M (Peak 68.83M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.009
+Fra:1 Mem:68.89M (Peak 68.89M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice across.010
+Fra:1 Mem:68.89M (Peak 68.89M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice lengthwise
+Fra:1 Mem:68.89M (Peak 68.89M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice lengthwise.001
+Fra:1 Mem:68.89M (Peak 68.89M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice lengthwise.002
+Fra:1 Mem:68.89M (Peak 68.89M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice lengthwise.003
+Fra:1 Mem:68.90M (Peak 68.90M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | grejig-3::wire lattice lengthwise.004
+Fra:1 Mem:68.90M (Peak 68.90M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Provisional rack floor support — closet unrecorded
+Fra:1 Mem:68.90M (Peak 68.90M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-uplift-desk::solid wood barkline top
+Fra:1 Mem:68.92M (Peak 68.92M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | C-frame steel foot
+Fra:1 Mem:68.95M (Peak 68.95M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Foot glide
+Fra:1 Mem:68.96M (Peak 68.96M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Foot glide.001
+Fra:1 Mem:68.97M (Peak 68.97M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 lower slim stage
+Fra:1 Mem:69.00M (Peak 69.00M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 middle stage
+Fra:1 Mem:69.01M (Peak 69.01M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 upper stage
+Fra:1 Mem:69.02M (Peak 69.02M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Underside side bracket
+Fra:1 Mem:69.02M (Peak 69.02M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 triangular stability brace
+Fra:1 Mem:69.02M (Peak 69.02M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | C-frame steel foot.001
+Fra:1 Mem:69.05M (Peak 69.05M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Foot glide.002
+Fra:1 Mem:69.06M (Peak 69.06M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Foot glide.003
+Fra:1 Mem:69.08M (Peak 69.08M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 lower slim stage.001
+Fra:1 Mem:69.08M (Peak 69.08M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 middle stage.001
+Fra:1 Mem:69.10M (Peak 69.10M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 upper stage.001
+Fra:1 Mem:69.12M (Peak 69.12M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Underside side bracket.001
+Fra:1 Mem:69.12M (Peak 69.12M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | V2 triangular stability brace.001
+Fra:1 Mem:69.14M (Peak 69.14M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Hidden upper crossbar
+Fra:1 Mem:69.16M (Peak 69.16M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Two brushed nickel grommet covers
+Fra:1 Mem:69.17M (Peak 69.17M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Two brushed nickel grommet covers.001
+Fra:1 Mem:69.74M (Peak 69.74M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Height keypad
+Fra:1 Mem:69.75M (Peak 69.75M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U-base closed crossbar
+Fra:1 Mem:69.77M (Peak 69.77M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U-base open prong
+Fra:1 Mem:69.79M (Peak 69.79M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U-base open prong.001
+Fra:1 Mem:69.80M (Peak 69.80M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Slim rectangular upright
+Fra:1 Mem:70.63M (Peak 70.63M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rotary dimming knob
+Fra:1 Mem:70.65M (Peak 70.65M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rectangular panel long rim
+Fra:1 Mem:70.66M (Peak 70.66M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rectangular panel long rim.001
+Fra:1 Mem:70.67M (Peak 70.67M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rectangular panel end rim
+Fra:1 Mem:70.69M (Peak 70.69M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rectangular panel end rim.001
+Fra:1 Mem:70.71M (Peak 70.71M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Upper and lower light panel
+Fra:1 Mem:70.71M (Peak 70.71M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Triple thickness brown fleece base
+Fra:1 Mem:70.74M (Peak 70.74M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::arched hollow condo wall
+Fra:1 Mem:71.12M (Peak 71.12M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Condo top plush cushion
+Fra:1 Mem:71.35M (Peak 71.35M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Condo dark floor
+Fra:1 Mem:71.36M (Peak 71.36M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch0-0
+Fra:1 Mem:71.37M (Peak 71.37M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch0-1
+Fra:1 Mem:71.37M (Peak 71.37M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch0-2
+Fra:1 Mem:71.48M (Peak 71.48M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch0-3
+Fra:1 Mem:71.50M (Peak 71.50M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction
+Fra:1 Mem:73.98M (Peak 73.98M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction.001
+Fra:1 Mem:74.06M (Peak 74.06M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction.002
+Fra:1 Mem:74.64M (Peak 74.64M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch1-0
+Fra:1 Mem:74.64M (Peak 74.64M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch1-1
+Fra:1 Mem:74.76M (Peak 74.76M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch1-2
+Fra:1 Mem:74.84M (Peak 74.84M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction.003
+Fra:1 Mem:74.91M (Peak 74.91M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction.004
+Fra:1 Mem:75.15M (Peak 75.15M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch2-0
+Fra:1 Mem:75.16M (Peak 75.16M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch2-1
+Fra:1 Mem:75.16M (Peak 75.16M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction.005
+Fra:1 Mem:75.24M (Peak 75.24M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch3-0
+Fra:1 Mem:75.24M (Peak 75.24M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Natural wood branch3-1
+Fra:1 Mem:75.25M (Peak 75.25M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Organic branch junction.006
+Fra:1 Mem:75.49M (Peak 75.49M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Top wicker basket woven horizontal cours
+Fra:1 Mem:75.69M (Peak 75.69M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Top wicker basket crossing wicker strand
+Fra:1 Mem:77.85M (Peak 77.85M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Top wicker basket brown fleece cushion
+Fra:1 Mem:77.92M (Peak 77.92M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::High side wicker basket woven horizontal
+Fra:1 Mem:78.97M (Peak 78.97M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::High side wicker basket crossing wicker 
+Fra:1 Mem:78.10M (Peak 78.97M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | High side wicker basket brown fleece cushion
+Fra:1 Mem:78.35M (Peak 78.97M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Low side wicker basket woven horizontal 
+Fra:1 Mem:79.41M (Peak 79.41M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Low side wicker basket crossing wicker s
+Fra:1 Mem:80.43M (Peak 80.43M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Low side wicker basket brown fleece cushion
+Fra:1 Mem:80.68M (Peak 80.68M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Brown fleece suspended bowl hammock
+Fra:1 Mem:80.72M (Peak 80.72M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Thick fleece hammock rim
+Fra:1 Mem:80.99M (Peak 80.99M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Sisal rope winding
+Fra:1 Mem:81.09M (Peak 81.09M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Sisal rope winding.001
+Fra:1 Mem:81.22M (Peak 81.22M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Sisal rope winding.002
+Fra:1 Mem:81.47M (Peak 81.47M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Hanging pom-pom cord
+Fra:1 Mem:81.49M (Peak 81.49M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Brown play ball
+Fra:1 Mem:81.55M (Peak 81.55M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Hanging pom-pom cord.001
+Fra:1 Mem:81.56M (Peak 81.56M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Brown play ball.001
+Fra:1 Mem:81.64M (Peak 81.64M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | kept-muttros-cat-tree::Hanging pom-pom cord.002
+Fra:1 Mem:81.65M (Peak 81.65M) | Time:00:00.06 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Brown play ball.002
+Fra:1 Mem:84.95M (Peak 87.19M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:82.57M (Peak 87.19M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading Branch Ergonomic Pro official Shore source — Image_1
+Fra:1 Mem:82.57M (Peak 87.19M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading brick-upper.png
+Fra:1 Mem:82.57M (Peak 87.19M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading 00473546_PS01_S01_NV01_RQP1_3.0_Basecolor_0
+Fra:1 Mem:98.40M (Peak 106.40M) | Time:00:00.11 | Mem:4.00M, Peak:4.00M | Scene, ViewLayer | Updating Images | Loading Branch Ergonomic Pro official Shore source — Image_0
+Fra:1 Mem:105.21M (Peak 110.42M) | Time:00:00.11 | Mem:6.60M, Peak:6.60M | Scene, ViewLayer | Updating Images | Loading 00473546_PS01_S01_NV01_RQP1_3.0_OcclusionRoughnessMetallic_0
+Fra:1 Mem:103.80M (Peak 110.42M) | Time:00:00.12 | Mem:8.60M, Peak:8.60M | Scene, ViewLayer | Updating Images | Loading Basecolor_0_62
+Fra:1 Mem:100.98M (Peak 110.42M) | Time:00:00.12 | Mem:10.60M, Peak:10.60M | Scene, ViewLayer | Updating Images | Loading Metalness_0_65
+Fra:1 Mem:102.17M (Peak 110.42M) | Time:00:00.12 | Mem:11.79M, Peak:11.79M | Scene, ViewLayer | Updating Images | Loading Normals_0_63
+Fra:1 Mem:103.35M (Peak 110.42M) | Time:00:00.12 | Mem:12.98M, Peak:12.98M | Scene, ViewLayer | Updating Images | Loading Basecolor_0
+Fra:1 Mem:106.93M (Peak 110.42M) | Time:00:00.12 | Mem:14.17M, Peak:14.17M | Scene, ViewLayer | Updating Images | Loading Metalness_0
+Fra:1 Mem:105.73M (Peak 110.42M) | Time:00:00.12 | Mem:15.35M, Peak:15.35M | Scene, ViewLayer | Updating Images | Loading Normals_0
+Fra:1 Mem:106.92M (Peak 110.42M) | Time:00:00.13 | Mem:16.54M, Peak:16.54M | Scene, ViewLayer | Updating Images | Loading Basecolor_0_57
+Fra:1 Mem:108.11M (Peak 110.49M) | Time:00:00.13 | Mem:17.73M, Peak:17.73M | Scene, ViewLayer | Updating Images | Loading Metalness_0_60
+Fra:1 Mem:116.89M (Peak 119.28M) | Time:00:00.13 | Mem:18.92M, Peak:18.92M | Scene, ViewLayer | Updating Images | Loading Normals_0_58
+Fra:1 Mem:115.69M (Peak 119.28M) | Time:00:00.13 | Mem:20.10M, Peak:20.10M | Scene, ViewLayer | Updating Images | Loading Basecolor_0_67
+Fra:1 Mem:112.45M (Peak 119.28M) | Time:00:00.13 | Mem:22.71M, Peak:22.71M | Scene, ViewLayer | Updating Images | Loading Metalness_0_70
+Fra:1 Mem:114.43M (Peak 122.44M) | Time:00:00.13 | Mem:26.71M, Peak:26.71M | Scene, ViewLayer | Updating Images | Loading Branch Ergonomic Pro official Shore source — Image_5
+Fra:1 Mem:132.81M (Peak 136.76M) | Time:00:00.13 | Mem:28.68M, Peak:28.68M | Scene, ViewLayer | Updating Images | Loading Normals_0_68
+Fra:1 Mem:136.35M (Peak 138.73M) | Time:00:00.14 | Mem:29.87M, Peak:29.87M | Scene, ViewLayer | Updating Images | Loading ruggable-inkdrop-selected.jpg
+Fra:1 Mem:136.35M (Peak 140.30M) | Time:00:00.14 | Mem:31.84M, Peak:31.84M | Scene, ViewLayer | Updating Images | Loading art-blue-bold-selected.jpg
+Fra:1 Mem:154.19M (Peak 158.15M) | Time:00:00.14 | Mem:33.81M, Peak:33.81M | Scene, ViewLayer | Updating Images | Loading art-blue-geometric-selected.jpg
+Fra:1 Mem:203.02M (Peak 235.03M) | Time:00:00.21 | Mem:49.81M, Peak:49.81M | Scene, ViewLayer | Updating Images | Loading Branch Ergonomic Pro official Shore source — Image_3
+Fra:1 Mem:348.70M (Peak 392.31M) | Time:00:00.25 | Mem:71.61M, Peak:71.61M | Scene, ViewLayer | Updating Images | Loading uplift-live-edge-pheasantwood-front.jpg
+Fra:1 Mem:349.68M (Peak 392.31M) | Time:00:00.25 | Mem:72.58M, Peak:72.58M | Scene, ViewLayer | Updating Images | Loading Branch Ergonomic Pro official Shore source — Image_2
+Fra:1 Mem:333.67M (Peak 392.31M) | Time:00:00.26 | Mem:88.58M, Peak:88.58M | Scene, ViewLayer | Updating Images | Loading Branch Ergonomic Pro official Shore source — Image_4
+Fra:1 Mem:242.22M (Peak 392.31M) | Time:00:00.33 | Mem:169.41M, Peak:169.41M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:242.22M (Peak 392.31M) | Time:00:00.33 | Mem:169.41M, Peak:169.41M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:242.22M (Peak 392.31M) | Time:00:00.33 | Mem:169.41M, Peak:169.41M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:242.22M (Peak 392.31M) | Time:00:00.33 | Mem:169.41M, Peak:169.41M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:242.33M (Peak 392.31M) | Time:00:00.33 | Mem:169.44M, Peak:169.44M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:242.33M (Peak 392.31M) | Time:00:00.33 | Mem:169.44M, Peak:169.44M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:242.33M (Peak 392.31M) | Time:00:00.33 | Mem:169.44M, Peak:169.44M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:242.33M (Peak 392.31M) | Time:00:00.33 | Mem:169.44M, Peak:169.44M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:242.33M (Peak 392.31M) | Time:00:00.33 | Mem:169.44M, Peak:169.44M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:242.33M (Peak 392.31M) | Time:00:00.33 | Mem:169.44M, Peak:169.44M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:242.39M (Peak 392.31M) | Time:00:00.33 | Mem:169.50M, Peak:169.50M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:242.39M (Peak 392.31M) | Time:00:00.33 | Mem:169.50M, Peak:169.50M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:242.39M (Peak 392.31M) | Time:00:00.33 | Mem:169.50M, Peak:169.50M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:242.39M (Peak 392.31M) | Time:00:00.33 | Mem:169.50M, Peak:169.50M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:245.26M (Peak 392.31M) | Time:00:00.33 | Mem:169.50M, Peak:169.50M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:250.90M (Peak 392.31M) | Time:00:00.33 | Mem:169.52M, Peak:169.52M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:250.85M (Peak 392.31M) | Time:00:00.33 | Mem:175.10M, Peak:175.10M | Scene, ViewLayer | Updating Geometry BVH Mesh_1.001 2/2 | Building BVH
+Fra:1 Mem:250.85M (Peak 392.31M) | Time:00:00.33 | Mem:175.13M, Peak:175.13M | Scene, ViewLayer | Updating Geometry BVH Mesh_1.001 2/2 | Building BVH 0%
+Fra:1 Mem:250.85M (Peak 392.31M) | Time:00:00.33 | Mem:175.19M, Peak:175.19M | Scene, ViewLayer | Updating Geometry BVH Mesh_0.001 1/2 | Building BVH
+Fra:1 Mem:250.85M (Peak 392.31M) | Time:00:00.34 | Mem:178.45M, Peak:179.94M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:250.86M (Peak 392.31M) | Time:00:00.34 | Mem:178.45M, Peak:179.94M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:250.86M (Peak 392.31M) | Time:00:00.36 | Mem:187.23M, Peak:191.44M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:250.86M (Peak 392.31M) | Time:00:00.36 | Mem:187.23M, Peak:191.44M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:187.23M, Peak:191.44M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.66M, Peak:195.66M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.66M, Peak:195.66M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.66M, Peak:195.66M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.66M, Peak:195.66M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.66M, Peak:195.66M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.74M, Peak:195.74M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:259.28M (Peak 392.31M) | Time:00:00.36 | Mem:195.74M, Peak:195.74M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:259.32M (Peak 392.31M) | Time:00:00.37 | Mem:195.78M, Peak:195.78M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:259.32M (Peak 392.31M) | Time:00:00.37 | Mem:195.78M, Peak:195.78M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:259.32M (Peak 392.31M) | Time:00:00.37 | Mem:195.69M, Peak:195.78M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:259.32M (Peak 392.31M) | Time:00:00.37 | Mem:195.78M, Peak:195.78M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:259.32M (Peak 392.31M) | Time:00:00.37 | Mem:195.78M, Peak:195.78M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:259.33M (Peak 392.31M) | Time:00:00.37 | Mem:195.78M, Peak:195.78M | Scene, ViewLayer | Sample 0/24
+Fra:1 Mem:283.17M (Peak 392.31M) | Time:00:02.42 | Remaining:00:47.25 | Mem:219.62M, Peak:219.62M | Scene, ViewLayer | Sample 1/24
+Fra:1 Mem:283.17M (Peak 392.31M) | Time:00:31.05 | Remaining:00:12.63 | Mem:219.62M, Peak:219.62M | Scene, ViewLayer | Sample 17/24
+Fra:1 Mem:293.76M (Peak 392.31M) | Time:00:42.34 | Mem:219.62M, Peak:219.62M | Scene, ViewLayer | Sample 24/24
+Fra:1 Mem:293.76M (Peak 392.31M) | Time:00:42.34 | Mem:219.62M, Peak:219.62M | Scene, ViewLayer | Finished
+Saved: '/workspace/his-office-redesign/model/previews/room-c.jpg'
+Time: 00:42.61 (Saving: 00:00.26)
+
+VIEW_DONE room-c
+DESIGN_RENDER_DONE
+
+Blender quit

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rear-door-window",
+    "eye": [
+      -6,
+      -1.24,
+      3.05
+    ],
+    "target": [
+      -8.5,
+      -1.24,
+      3.05
+    ],
+    "ortho_width_m": 3.5,
+    "image_width_px": 1600,
+    "image_height_px": 1500
+  },
+  {
+    "id": "closet-entry",
+    "eye": [
+      -6,
+      -1.24,
+      3.05
+    ],
+    "target": [
+      -2.7,
+      -1.24,
+      3.05
+    ],
+    "ortho_width_m": 3.5,
+    "image_width_px": 1600,
+    "image_height_px": 1500
+  },
+  {
+    "id": "white-wall",
+    "eye": [
+      -5.55,
+      -1.8,
+      3.05
+    ],
+    "target": [
+      -5.55,
+      0.5,
+      3.05
+    ],
+    "ortho_width_m": 5.4,
+    "image_width_px": 1600,
+    "image_height_px": 900
+  },
+  {
+    "id": "brick-wall",
+    "eye": [
+      -5.55,
+      -0.7,
+      3.05
+    ],
+    "target": [
+      -5.55,
+      -3.5,
+      3.05
+    ],
+    "ortho_width_m": 5.4,
+    "image_width_px": 1600,
+    "image_height_px": 900
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "coordinate_frame": "Source Blender Z-up meters",
+  "items": 54,
+  "outside_wall": [],
+  "solid_overlaps": [],
+  "columns": [],
+  "door_envelopes": [],
+  "clearances": [
+    {
+      "location": "King bed foot to selected118inch dresser",
+      "m": 0.46988,
+      "status": "Tight; viewer shows full selected dresser by default; toggle dresser off for clearance alternative"
+    },
+    {
+      "location": "Dining end chair rear to -Y wall",
+      "m": 0.45,
+      "status": "Chair pullback possible after+Y.37m adaptation; clear front room circulation still needs field check"
+    }
+  ],
+  "grounding": {
+    "bedroom-flex": {
+      "raw_local_scan_floor_mode_z_m": -1.415,
+      "clean_architecture_floor_z_m": -1.385,
+      "canonical_delta_z_m": 0.03,
+      "status": "All eight bedroom furnishing/decor parent bases raised consistently; X/Y and product dimensions unchanged"
+    }
+  },
+  "raised_obstacles": [
+    {
+      "furniture": "her-loveseat",
+      "obstacle": "her low stone hearth conservative hull",
+      "bounding_footprint_intersection_m2": 0.00703156,
+      "support_checks": [
+        {
+          "id": "her-loveseat::foot",
+          "distance_m": 0.027993,
+          "intersection_m2": 0.0
+        },
+        {
+          "id": "her-loveseat::foot.001",
+          "distance_m": 0.345514,
+          "intersection_m2": 0.0
+        },
+        {
+          "id": "her-loveseat::foot.002",
+          "distance_m": 1.031342,
+          "intersection_m2": 0.0
+        },
+        {
+          "id": "her-loveseat::foot.003",
+          "distance_m": 1.108847,
+          "intersection_m2": 0.0
+        }
+      ],
+      "minimum_body_z_m": 1.74502,
+      "hearth_top_max_z_m": 1.6736126343409221,
+      "body_vertical_clearance_m": 0.071407,
+      "interpretation": "Elevated overhang of the conservative rectangular footprint; all four floor supports clear and sofa body above highest measured lip. Independent actual triangle verification confirms minimum support margin about2.8cm."
+    }
+  ]
+}

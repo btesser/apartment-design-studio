@@ -1,0 +1,93 @@
+{
+  "reviewed_utc": "2026-10-08T15:52:48.743233+00:00",
+  "reviewer": "furniture_scene independent product review",
+  "method": "Viewed all concept angles, paired native model guides, both full source-photo boards and individual exact keeper/Branch photographs. Read selected product records and keeper build. Visual review does not establish physical dimensions from image pixels. No images or models modified.",
+  "input_sha256": {
+    "images/concept-a.png": "383623930942503de2ac114ae6c05e3d4fbd320a9c9d51de333d80b55ec125df",
+    "images/concept-b.png": "f8666fe8414cbbf36f87a900521de897fba1ee136f16dc7122ef1deb3f7f80b9",
+    "images/concept-c.png": "ca558a8dededf98a96d55423768f776e155b5ade325cd34486fbc851ac773d75",
+    "model/generation-guides/room-a.jpg": "1fbd5f08fc36ad4c92a121552619f71099092c63b9b05f5e8258aa8964e8b8d2",
+    "model/generation-guides/room-b.jpg": "ecc8b1a5eb8066e23e46a5093878c59a213967c6f1788fac98e99ff7ffe099f0",
+    "model/generation-guides/room-c.jpg": "b405672869792cc0b7936b49862526e246a410191a5c5ab128740756a9ea3211",
+    "images/product-board-1.png": "f83dc8e709a6eb3eeb4b63ef28f95e518ab8571154f97cd07be02bc96972ee77",
+    "images/product-board-2.png": "eae83f128cf8ffafde8d00fd4f3cab0c22ea42a209b6462496efb6c5232e2d4b",
+    "products/keepers/honeywell-B0C3BVYTXP-MAIN.jpg": "7f191277b590371d2912dd16d28cdd21104f6a2eee93dd7c1219f40879af75a8",
+    "products/keepers/muttros-B0HHRC6XBC-PT04.jpg": "e34a20b0f167cdadc41a18a97900bf6d0a2793f23996c2d68ddd063abe498506",
+    "products/keepers/uplift-live-edge-pheasantwood-front.jpg": "53212e4e524c11dc4d9a4171282ef2f0d0f2e4fc93664f749d28cc3fd32e36ab",
+    "products/keepers/uplift-v2-c-frame-industrial-official.png": "dba396056a6cd97ef1a613f3eabc3be91c7b4c3a40b0f640e9ad1cd48c8199e4",
+    "products/candidates/official-images/branch-pro-selected.jpg": "4998c1152afd03dc1a2fd908f2c53e5275759f835117feedef62891f60c0e0b7"
+  },
+  "actionable_findings": [
+    {
+      "id": "honeywell-head",
+      "angles": [
+        "a"
+      ],
+      "severity": "material product-form mismatch",
+      "finding": "Visible white lamp head reads as a solid glowing slab; exact ASIN B0C3BVYTXP photograph has an open rectangular central aperture with narrow parallel LED bars.",
+      "source_guide_conflict": "The current proxy has broad full-width mesh Upper and lower light panel across its rim, so guide reinforces this mismatch.",
+      "correction": "Keep modeled position, overall head envelope and orientation; represent the actual open rectangular aperture/LED bars from source photo. Do not enlarge or move lamp.",
+      "limits": "U-shaped floor base and rotary knob are substantially occluded in A, off-camera B, mostly cropped C; do not claim those parts are missing."
+    },
+    {
+      "id": "pheasantwood-finish",
+      "angles": [
+        "a",
+        "b"
+      ],
+      "severity": "visible material drift",
+      "finding": "UPLIFT desktop is rendered much paler golden/blond than the official dark amber/brown highly contrasted longitudinal striped Pheasantwood source. Barkline front, thick top, nickel grommets and industrial gray C-frame are otherwise recognizable where visible.",
+      "correction": "Deepen warm brown/amber wood and strong striped grain, retaining every modeled footprint, thickness, frame geometry and camera.",
+      "limits": "B shows only a cropped desktop; no independent assertion of exact dimensions from images."
+    },
+    {
+      "id": "wicker-density",
+      "angles": [
+        "a",
+        "c"
+      ],
+      "severity": "minor visible product-detail drift",
+      "finding": "Visible upper baskets use airy thin radial strands compared with source chunky densely braided natural wicker.",
+      "correction": "Favor thicker densely braided wicker using source photo, preserving basket coordinates and all branch allocations.",
+      "limits": "Only two upper wicker baskets plus brown fleece hammock/condo are visible. Lower third wicker basket is occluded by desk/chair; not recorded as absent."
+    },
+    {
+      "id": "art-placement-b",
+      "angles": [
+        "b"
+      ],
+      "severity": "geometry mismatch also identified by root",
+      "finding": "The Blue Geometric print is above the secondary workstation rather than remaining near the owned UPLIFT anchor; Bold Blue appears on the desk-side white wall edge. Source designs themselves are recognizable.",
+      "correction": "Keep Blue Geometric above modeled UPLIFT anchor; Bold Blue stays on brick wall over sealed fireplace, therefore should be off-camera in this B view."
+    },
+    {
+      "id": "fireplace-surround-c",
+      "angles": [
+        "c"
+      ],
+      "severity": "geometry/detail drift",
+      "finding": "Generated C elaborates the sealed white fireplace with a conspicuous brick arched surround and larger projecting brick hearth/plinth than the model guide.",
+      "correction": "Preserve observed sealed panel and only the model guide's shallow sill. Do not invent a deep hearth or rebuilt arch."
+    }
+  ],
+  "passes": {
+    "task_chairs": "Two black Branch-like mesh task chairs with upholstered black seats, detailed lumbar/casters and no headrests; orientations consistent with model where visible. A shows both fully, B/C show one partly cropped.",
+    "secondary_workstation": "One white five-drawer ALEX on LEFT / x-negative end, black-brown top, right-end white legs; no second pedestal introduced.",
+    "visitor_chair": "Gray-turquoise corduroy upholstery and brown wooden arm/frame form recognizable as selected IKEA EKENASET. Partly cropped A/C, more complete B.",
+    "clothes_chest": "C shows one oak-effect three-flush-drawer STORKLINTA-style chest; A has cropped left edge. No added dresser count claim for hidden surfaces.",
+    "rug": "Ivory field with slate-blue stepped ink lines recognizable as selected Inkdrop. Low profile consistent with Flatwoven Standard Pad appearance; no pixel-derived size/thickness validation.",
+    "cat_tree": "Natural branched wood, two visible upper wicker bowls, brown fleece hammock, brown condo/base and arched condo entrance recognizable. Lower basket count remains occluded, not failed.",
+    "artwork_content": "Both blue designs recognizable, thin black framing; B placement must be corrected."
+  },
+  "no_visible_count_error": true,
+  "occluded_items_not_certified": [
+    "MUTTROS lower third wicker basket",
+    "Honeywell U-base and knob",
+    "closet GREJIG racks behind closed closet door"
+  ],
+  "recommended_retry_priority": [
+    "B artwork topology already flagged by root",
+    "C fireplace/hearth reconstruction",
+    "A lamp open-head form and darker Pheasantwood if a retry is scheduled"
+  ]
+}

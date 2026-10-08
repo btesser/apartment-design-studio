@@ -1,0 +1,230 @@
+{
+  "room-a": {
+    "Rectangular panel end rim": {
+      "normalized_x": [
+        0.3591,
+        0.3773
+      ],
+      "normalized_y": [
+        0.7183,
+        0.7294
+      ],
+      "overlaps_image_rectangle": true
+    },
+    "Rectangular panel end rim.001": {
+      "normalized_x": [
+        0.4365,
+        0.4566
+      ],
+      "normalized_y": [
+        0.7126,
+        0.7227
+      ],
+      "overlaps_image_rectangle": true
+    },
+    "Rectangular panel long rim": {
+      "normalized_x": [
+        0.3582,
+        0.4388
+      ],
+      "normalized_y": [
+        0.7124,
+        0.725
+      ],
+      "overlaps_image_rectangle": true
+    },
+    "Rectangular panel long rim.001": {
+      "normalized_x": [
+        0.3745,
+        0.4578
+      ],
+      "normalized_y": [
+        0.7161,
+        0.7297
+      ],
+      "overlaps_image_rectangle": true
+    },
+    "Upper and lower light panel": {
+      "normalized_x": [
+        0.3622,
+        0.4538
+      ],
+      "normalized_y": [
+        0.7132,
+        0.7252
+      ],
+      "overlaps_image_rectangle": true
+    }
+  },
+  "room-b": {
+    "Rectangular panel end rim": {
+      "normalized_x": [
+        -1.1566,
+        -0.6303
+      ],
+      "normalized_y": [
+        1.0825,
+        1.2783
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel end rim.001": {
+      "normalized_x": [
+        -0.9265,
+        -0.5887
+      ],
+      "normalized_y": [
+        0.9621,
+        1.0639
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel long rim": {
+      "normalized_x": [
+        -1.2003,
+        -0.9123
+      ],
+      "normalized_y": [
+        1.0277,
+        1.2913
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel long rim.001": {
+      "normalized_x": [
+        -0.6412,
+        -0.572
+      ],
+      "normalized_y": [
+        0.9587,
+        1.125
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Upper and lower light panel": {
+      "normalized_x": [
+        -1.1304,
+        -0.5932
+      ],
+      "normalized_y": [
+        0.9676,
+        1.2376
+      ],
+      "overlaps_image_rectangle": false
+    }
+  },
+  "room-c": {
+    "Rectangular panel end rim": {
+      "normalized_x": [
+        1.0968,
+        1.1079
+      ],
+      "normalized_y": [
+        0.8132,
+        0.837
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel end rim.001": {
+      "normalized_x": [
+        1.3374,
+        1.3655
+      ],
+      "normalized_y": [
+        0.8393,
+        0.8704
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel long rim": {
+      "normalized_x": [
+        1.1006,
+        1.3481
+      ],
+      "normalized_y": [
+        0.8125,
+        0.854
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel long rim.001": {
+      "normalized_x": [
+        1.0965,
+        1.3667
+      ],
+      "normalized_y": [
+        0.8237,
+        0.8716
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Upper and lower light panel": {
+      "normalized_x": [
+        1.1044,
+        1.3533
+      ],
+      "normalized_y": [
+        0.8148,
+        0.8605
+      ],
+      "overlaps_image_rectangle": false
+    }
+  },
+  "room-d": {
+    "Rectangular panel end rim": {
+      "normalized_x": [
+        2.91,
+        8.7081
+      ],
+      "normalized_y": [
+        -3.1628,
+        -0.4152
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel end rim.001": {
+      "normalized_x": [
+        -68.8044,
+        6.2066
+      ],
+      "normalized_y": [
+        -1.1499,
+        24.0199
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel long rim": {
+      "normalized_x": [
+        2.8165,
+        6.2556
+      ],
+      "normalized_y": [
+        -1.1655,
+        -0.3702
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Rectangular panel long rim.001": {
+      "normalized_x": [
+        -62.4115,
+        9.6008
+      ],
+      "normalized_y": [
+        -3.6258,
+        21.6563
+      ],
+      "overlaps_image_rectangle": false
+    },
+    "Upper and lower light panel": {
+      "normalized_x": [
+        -71.5302,
+        8.5163
+      ],
+      "normalized_y": [
+        -3.0215,
+        23.9753
+      ],
+      "overlaps_image_rectangle": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "alex-drawers",
+    "source_url": "https://www.ikea.com/us/en/p/alex-drawer-unit-white-00473546/",
+    "asset_url": "https://web-api.ikea.com/dimma/assets/1.2/00473546/PS01_S01_NV01/rqp1/glb/35610944155741e8afae4ab338b9a6c0-00473546_PS01_S01_NV01_RQP1_3.0.glb?cn=pip",
+    "file": "/workspace/his-office-redesign/products/candidates/official-3d-assets/alex-drawers.glb",
+    "bytes": 780368,
+    "glb_header_valid": true
+  },
+  {
+    "id": "storklinta-low-drawers",
+    "source_url": "https://www.ikea.com/us/en/p/storklinta-3-drawer-dresser-oak-effect-anchor-unlock-function-80559292/",
+    "asset_url": "https://web-api.ikea.com/dimma/assets/1.2/80559292/LPT_S01_NV01/rqp1/glb/0df080d8797c61160f5be3c03b81b8af-80559292_LPT_S01_NV01_RQP1_4.0.glb?cn=pip",
+    "file": "/workspace/his-office-redesign/products/candidates/official-3d-assets/storklinta-low-drawers.glb",
+    "bytes": 458520,
+    "glb_header_valid": true
+  },
+  {
+    "id": "nordli-clothes",
+    "source_url": "https://www.ikea.com/us/en/p/nordli-4-drawer-dresser-white-50589078/",
+    "asset_url": "https://web-api.ikea.com/dimma/assets/1.2/50589078/LPT_S01_NV01/rqp1/glb/37a1b40a230b904c80e08093ee2b5867-50589078_LPT_S01_NV01_RQP1_4.0.glb?cn=pip",
+    "file": "/workspace/his-office-redesign/products/candidates/official-3d-assets/nordli-clothes.glb",
+    "bytes": 1034000,
+    "glb_header_valid": true
+  }
+]

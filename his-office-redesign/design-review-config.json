@@ -1,0 +1,28 @@
+{
+  "plan": "model/dimensioned-plan.png",
+  "model_views": {
+    "a": "model/renders/room-a.jpg",
+    "b": "model/renders/room-b.jpg",
+    "c": "model/renders/room-c.jpg"
+  },
+  "concept_views": {
+    "a": "images/concept-a.png",
+    "b": "images/concept-b.png",
+    "c": "images/concept-c.png"
+  },
+  "view_titles": {
+    "a": "View A",
+    "b": "View B",
+    "c": "View C"
+  },
+  "operation_notes": [
+    "Both desks face the white wall. The owned UPLIFT top stays 42\u00d730 in; the 140\u00d760 cm secondary desktop has one ALEX pedestal on the left.",
+    "A nominal 50 cm body route connects entry and rear door in the working and simultaneous 45 cm chair-pullback poses. The 55 cm route test does not pass.",
+    "Use the clothes dresser with the main chair tucked toward its desk: about 79 cm remains in front of fully open drawers in the working pose, versus 34 cm with 45 cm pullback.",
+    "Three GREJIG racks are a provisional shoe-storage idea inside the existing closet. Its interior and hanging clearance were not recorded; the door and cupboard remain accessible.",
+    "The revised lamp location leaves a nominal 11 cm gap to the desk foot. Its exact U-base and the full cat-tree branch span remain unverified; check actual tight fits on site."
+  ],
+  "fit_review_note": "These are indicative model checks, with typical 5\u201312 cm scan-outline uncertainty. Review tight fits on site; this is not an accessibility certification.",
+  "qa_source": "qa/QA-REPORT.txt",
+  "append_vector_plan": "model/dimensioned-plan.pdf"
+}

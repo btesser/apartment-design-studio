@@ -1,0 +1,97 @@
+{
+  "layers": [
+    {
+      "layer": "scan",
+      "viewer_asset": "scan.glb",
+      "bytes": 20677392,
+      "sha256": "7bb2e44e58f40e3369e7dab316bb5f4a6cfdf3dfc6e7b2c9c0fbdca5ae9cfcb5",
+      "source_path": "/workspace/apartment/8_21_2026.glb",
+      "source_sha256": "7bb2e44e58f40e3369e7dab316bb5f4a6cfdf3dfc6e7b2c9c0fbdca5ae9cfcb5",
+      "embedded_sha256": "7bb2e44e58f40e3369e7dab316bb5f4a6cfdf3dfc6e7b2c9c0fbdca5ae9cfcb5",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "architecture",
+      "viewer_asset": "architectural-shell.glb",
+      "bytes": 292392,
+      "sha256": "ede184238d4dc9d473d9882c264dba276ffe52314dcba1be871ca1e8b922c91c",
+      "source_path": "/workspace/apartment-model/architectural-shell.glb",
+      "source_sha256": "ede184238d4dc9d473d9882c264dba276ffe52314dcba1be871ca1e8b922c91c",
+      "embedded_sha256": "ede184238d4dc9d473d9882c264dba276ffe52314dcba1be871ca1e8b922c91c",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "repairs",
+      "viewer_asset": "repair-shell.glb",
+      "bytes": 291508,
+      "sha256": "bdbf73d5ce02f71c2c1874d29f0756892b4f889891d603aa51f89b9b8267249e",
+      "source_path": "/workspace/apartment-model/repair-shell.glb",
+      "source_sha256": "bdbf73d5ce02f71c2c1874d29f0756892b4f889891d603aa51f89b9b8267249e",
+      "embedded_sha256": "bdbf73d5ce02f71c2c1874d29f0756892b4f889891d603aa51f89b9b8267249e",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "furniture",
+      "viewer_asset": "proposal-furniture.glb",
+      "bytes": 4667700,
+      "sha256": "9e3fbacc9d81562fcb0cd44d20dd15ab3aa2616b1185e18a8e34b1e75a126a36",
+      "source_path": "/workspace/apartment-furniture/furniture.glb",
+      "source_sha256": "9e3fbacc9d81562fcb0cd44d20dd15ab3aa2616b1185e18a8e34b1e75a126a36",
+      "embedded_sha256": "9e3fbacc9d81562fcb0cd44d20dd15ab3aa2616b1185e18a8e34b1e75a126a36",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "fixtures",
+      "viewer_asset": "observed-fixtures.glb",
+      "bytes": 695492,
+      "sha256": "a700c77b1f32aced0a32801e394737769368752a10a87c80956fb951d42496e8",
+      "source_path": "/workspace/apartment-model/observed-fixtures.glb",
+      "source_sha256": "a700c77b1f32aced0a32801e394737769368752a10a87c80956fb951d42496e8",
+      "embedded_sha256": "a700c77b1f32aced0a32801e394737769368752a10a87c80956fb951d42496e8",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "utilities",
+      "viewer_asset": "inferred-utility-shell.glb",
+      "bytes": 63044,
+      "sha256": "8bf2c3a6d522fe71c399a1718ed0845f91d9a87c43910e02cdcdecd93e51f44b",
+      "source_path": "/workspace/apartment-model/inferred-utility-shell.glb",
+      "source_sha256": "8bf2c3a6d522fe71c399a1718ed0845f91d9a87c43910e02cdcdecd93e51f44b",
+      "embedded_sha256": "8bf2c3a6d522fe71c399a1718ed0845f91d9a87c43910e02cdcdecd93e51f44b",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "dresser",
+      "viewer_asset": "proposed-dresser.glb",
+      "bytes": 157220,
+      "sha256": "57fe8032aab9ebff81a40f0ccc36d1a1503d49a09a550892d60ae3c0c7215a9c",
+      "source_path": "/workspace/apartment-furniture/proposed-dresser.glb",
+      "source_sha256": "57fe8032aab9ebff81a40f0ccc36d1a1503d49a09a550892d60ae3c0c7215a9c",
+      "embedded_sha256": "57fe8032aab9ebff81a40f0ccc36d1a1503d49a09a550892d60ae3c0c7215a9c",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    },
+    {
+      "layer": "entry",
+      "viewer_asset": "entry-design.glb",
+      "bytes": 498332,
+      "sha256": "89f511a3a4c22ba9174848b86d300d16c0cae7411123910e6cbf127f02dc1399",
+      "source_path": "/workspace/design-fidelity/entry-design.glb",
+      "source_sha256": "89f511a3a4c22ba9174848b86d300d16c0cae7411123910e6cbf127f02dc1399",
+      "embedded_sha256": "89f511a3a4c22ba9174848b86d300d16c0cae7411123910e6cbf127f02dc1399",
+      "byte_equal_source": true,
+      "byte_equal_embedded": true
+    }
+  ],
+  "all_source_and_embedded_match": true,
+  "embedded_config_matches_current": true,
+  "integrated_glb_sha256": "a657a0238afa2500e6c882533f76642bd8cc9677ec8e710bf1f3949a432a8950",
+  "standalone_html_sha256": "f05e2f1c8958673cd1c5fcc33b00f8dc4eac0d20ca0a54c0a0d7e581cbe86752",
+  "current_app_js_sha256": "73a07e785a926f5805dce56f7e51921193859ef02ed61ab4990cdb16829fb151"
+}

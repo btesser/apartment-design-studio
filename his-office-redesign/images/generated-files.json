@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a",
+    "generator_file": "/workspace/generated_images/exec-048c634f-f174-4d83-8158-950ea280e9b3.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-048c634f-f174-4d83-8158-950ea280e9b3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "b",
+    "generator_file": "/workspace/generated_images/exec-c1dbd9fd-7f20-4d4b-a7d1-191ebb1e6bc2.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-c1dbd9fd-7f20-4d4b-a7d1-191ebb1e6bc2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "c",
+    "generator_file": "/workspace/generated_images/exec-7250c6d0-3c59-4daa-8b1a-1a2a712ac980.png",
+    "output_hint": "Generated images are saved to /workspace/generated_images as /workspace/generated_images/exec-7250c6d0-3c59-4daa-8b1a-1a2a712ac980.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

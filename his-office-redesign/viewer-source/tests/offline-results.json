@@ -1,0 +1,150 @@
+{
+  "source": "Embedded standalone, network blocked",
+  "errors": [],
+  "requests": [],
+  "checks": [
+    "Restored dresser and both task-chair image maps load with nonzero image dimensions.",
+    "Only the new office shell, furnishings and recorded closed door leaves loaded.",
+    "Confirmed 42 × 30 inch desk and four office viewpoints present.",
+    "All four viewpoint shortcuts select eye-level walk views.",
+    "Actual W input moves the eye-level camera.",
+    "Recorded/inferred door viewing states and new furnishings visibility toggle correctly.",
+    "Save image produces a PNG download.",
+    "No browser errors or network requests."
+  ],
+  "views": [
+    {
+      "mode": "walk",
+      "selectedView": "room-a",
+      "position": [
+        -3.46,
+        3.125,
+        2.34
+      ],
+      "assets": {
+        "doors": "loaded",
+        "shell": "loaded",
+        "furniture": "loaded"
+      },
+      "furniture": true,
+      "doorsHidden": false,
+      "doorMeshCount": 13,
+      "closetSuggestionMeshCount": 73,
+      "closetSuggestionVisible": false,
+      "bounds": [
+        -8.030000019818544,
+        1.5349999479949474,
+        -0.3600001867170663,
+        -3.0299999229609966,
+        4.635000050067902,
+        2.937000084668398
+      ],
+      "clearStart": true
+    },
+    {
+      "mode": "walk",
+      "selectedView": "room-b",
+      "position": [
+        -7.48,
+        3.125,
+        2.27
+      ],
+      "assets": {
+        "doors": "loaded",
+        "shell": "loaded",
+        "furniture": "loaded"
+      },
+      "furniture": true,
+      "doorsHidden": false,
+      "doorMeshCount": 13,
+      "closetSuggestionMeshCount": 73,
+      "closetSuggestionVisible": false,
+      "bounds": [
+        -8.030000019818544,
+        1.5349999479949474,
+        -0.3600001867170663,
+        -3.0299999229609966,
+        4.635000050067902,
+        2.937000084668398
+      ],
+      "clearStart": true
+    },
+    {
+      "mode": "walk",
+      "selectedView": "room-c",
+      "position": [
+        -4.18,
+        3.125,
+        0.35
+      ],
+      "assets": {
+        "doors": "loaded",
+        "shell": "loaded",
+        "furniture": "loaded"
+      },
+      "furniture": true,
+      "doorsHidden": false,
+      "doorMeshCount": 13,
+      "closetSuggestionMeshCount": 73,
+      "closetSuggestionVisible": false,
+      "bounds": [
+        -8.030000019818544,
+        1.5349999479949474,
+        -0.3600001867170663,
+        -3.0299999229609966,
+        4.635000050067902,
+        2.937000084668398
+      ],
+      "clearStart": true
+    },
+    {
+      "mode": "walk",
+      "selectedView": "room-d",
+      "position": [
+        -7.23,
+        3.125,
+        1.74
+      ],
+      "assets": {
+        "doors": "loaded",
+        "shell": "loaded",
+        "furniture": "loaded"
+      },
+      "furniture": true,
+      "doorsHidden": false,
+      "doorMeshCount": 13,
+      "closetSuggestionMeshCount": 73,
+      "closetSuggestionVisible": false,
+      "bounds": [
+        -8.030000019818544,
+        1.5349999479949474,
+        -0.3600001867170663,
+        -3.0299999229609966,
+        4.635000050067902,
+        2.937000084668398
+      ],
+      "clearStart": true
+    }
+  ],
+  "textureCheck": {
+    "uniqueLoadedTextures": 26,
+    "invalid": [],
+    "productMaps": {
+      "secondary-workspace": 1,
+      "clothes-dresser": 4,
+      "rug": 1,
+      "blue-bold-art": 1,
+      "blue-geometric-art": 1,
+      "uplift-main-desk": 1,
+      "branch-primary": 2,
+      "branch-secondary": 2
+    }
+  },
+  "assetHashes": {
+    "shell": "11ed88b2993bcf7fc1ccf1257e83e7934338b1fd5840de880071fe069ca19a9c",
+    "doors": "360b7c57d4fc45a75cb74830a539392ef700648e60dad3d42f534ee39f66d3ec",
+    "furniture": "fe9cea9df2e569a3e727f3d4252c35649ab1eacec6c576322ac2bc1f046d96b6"
+  },
+  "walkDistanceMetres": 0.3953000000044718,
+  "exportPngBytes": 338673
+}

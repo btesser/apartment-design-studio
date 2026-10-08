@@ -1,0 +1,43 @@
+{
+  "support_meshes": [
+    {
+      "mesh": "her-loveseat::foot",
+      "source": "actual exported GLB support vertices",
+      "clearance_m": 0.027824842658418888,
+      "intersection_m2": 0.0,
+      "lowest_z_m": 1.5850000381469727,
+      "highest_z_m": 1.7539100348949432
+    },
+    {
+      "mesh": "her-loveseat::foot.001",
+      "source": "actual exported GLB support vertices",
+      "clearance_m": 0.3457815239265816,
+      "intersection_m2": 0.0,
+      "lowest_z_m": 1.5850000381469727,
+      "highest_z_m": 1.7539100348949432
+    },
+    {
+      "mesh": "her-loveseat::foot.002",
+      "source": "actual exported GLB support vertices",
+      "clearance_m": 1.0310721106863163,
+      "intersection_m2": 0.0,
+      "lowest_z_m": 1.5850000381469727,
+      "highest_z_m": 1.7539100348949432
+    },
+    {
+      "mesh": "her-loveseat::foot.003",
+      "source": "actual exported GLB support vertices",
+      "clearance_m": 1.1086625402389239,
+      "intersection_m2": 0.0,
+      "lowest_z_m": 1.5850000381469727,
+      "highest_z_m": 1.7539100348949432
+    }
+  ],
+  "all_supports_clear": true,
+  "min_support_clearance_m": 0.027824842658418888,
+  "body_lowest_z_m": 1.7450200319290161,
+  "maximum_observed_hearth_z_m": 1.6736126343409221,
+  "body_vertical_clearance_above_hearth_m": 0.071407397588094,
+  "hearth_hull_observed_area_m2": 0.08716994177769878,
+  "hearth_hull_filled_area_m2": 0.4296349675885267
+}

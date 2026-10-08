@@ -1,0 +1,54 @@
+{
+  "id": "her-measured-hearth-top",
+  "coordinates_blender_xy": [
+    [
+      5.4039,
+      -2.9342
+    ],
+    [
+      5.2693,
+      -2.9209
+    ],
+    [
+      5.2222,
+      -2.8504
+    ],
+    [
+      5.2048,
+      -2.7734
+    ],
+    [
+      5.2344,
+      -2.6756
+    ],
+    [
+      6.3704,
+      -2.29
+    ],
+    [
+      6.4188,
+      -2.3023
+    ],
+    [
+      6.4385,
+      -2.5449
+    ],
+    [
+      6.3966,
+      -2.666
+    ],
+    [
+      5.7589,
+      -2.8824
+    ]
+  ],
+  "z_top_median": 1.6588,
+  "z_top_range": [
+    1.6267512639363606,
+    1.6736126343409221
+  ],
+  "observed_area_m2": 0.08716994177769878,
+  "conservative_hull_area_m2": 0.4296349675885267,
+  "source_selection": "Raw scan near-horizontal faces X4.9..6.4,Y-3.1..-2.3,Z1.61..1.675 with height>local fitted floor+.025m. Convex hull of actual raised patch support; simplify2cm. This includes only measured raised floor-level patch, not extrapolated entire hearth rectangle.",
+  "confidence": "Raw scan uncertain/missing left support; use shallow separate inferred infill over measured footprint, not enlarge to full chimney width."
+}

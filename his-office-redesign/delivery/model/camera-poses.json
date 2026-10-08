@@ -1,0 +1,146 @@
+[
+  {
+    "id": "room-a",
+    "label": "room-a",
+    "filename": "renders/room-a.jpg",
+    "room": "his-office",
+    "eye_blender_m": [
+      -3.46,
+      -2.34,
+      3.125
+    ],
+    "target_blender_m": [
+      -6.32,
+      -0.4,
+      2.64
+    ],
+    "eye": [
+      -3.46,
+      3.125,
+      2.34
+    ],
+    "target": [
+      -6.32,
+      2.64,
+      0.4
+    ],
+    "lens_mm": 24,
+    "sensor_width_mm": 36,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+    "render_resolution": [
+      1440,
+      1000
+    ],
+    "source_scene": "his-office-design.blend",
+    "view_state": "Observed door leaves closed; fourth view is additional model reference"
+  },
+  {
+    "id": "room-b",
+    "label": "room-b",
+    "filename": "renders/room-b.jpg",
+    "room": "his-office",
+    "eye_blender_m": [
+      -7.48,
+      -2.27,
+      3.125
+    ],
+    "target_blender_m": [
+      -4.88,
+      -0.48,
+      2.64
+    ],
+    "eye": [
+      -7.48,
+      3.125,
+      2.27
+    ],
+    "target": [
+      -4.88,
+      2.64,
+      0.48
+    ],
+    "lens_mm": 24,
+    "sensor_width_mm": 36,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+    "render_resolution": [
+      1440,
+      1000
+    ],
+    "source_scene": "his-office-design.blend",
+    "view_state": "Observed door leaves closed; fourth view is additional model reference"
+  },
+  {
+    "id": "room-c",
+    "label": "room-c",
+    "filename": "renders/room-c.jpg",
+    "room": "his-office",
+    "eye_blender_m": [
+      -4.18,
+      -0.35,
+      3.125
+    ],
+    "target_blender_m": [
+      -6.12,
+      -2.22,
+      2.65
+    ],
+    "eye": [
+      -4.18,
+      3.125,
+      0.35
+    ],
+    "target": [
+      -6.12,
+      2.65,
+      2.22
+    ],
+    "lens_mm": 24,
+    "sensor_width_mm": 36,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+    "render_resolution": [
+      1440,
+      1000
+    ],
+    "source_scene": "his-office-design.blend",
+    "view_state": "Observed door leaves closed; fourth view is additional model reference"
+  },
+  {
+    "id": "room-d",
+    "label": "room-d",
+    "filename": "renders/room-d.jpg",
+    "room": "his-office",
+    "eye_blender_m": [
+      -7.23,
+      -1.74,
+      3.125
+    ],
+    "target_blender_m": [
+      -4.6,
+      -1.15,
+      2.68
+    ],
+    "eye": [
+      -7.23,
+      3.125,
+      1.74
+    ],
+    "target": [
+      -4.6,
+      2.68,
+      1.15
+    ],
+    "lens_mm": 24,
+    "sensor_width_mm": 36,
+    "horizontal_FOV_deg": 73.73979529168804,
+    "coordinate_units": "metres; eye/target GLTF Y-up; explicit native Blender values provided",
+    "render_resolution": [
+      1440,
+      1000
+    ],
+    "source_scene": "his-office-design.blend",
+    "view_state": "Observed door leaves closed; fourth view is additional model reference"
+  }
+]

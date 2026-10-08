@@ -1,0 +1,56 @@
+{
+  "chimney_upper_face": {
+    "bounds_filter_x": [
+      -5.9,
+      -4.7
+    ],
+    "bounds_filter_z": [
+      2.6,
+      4.4
+    ],
+    "normal_abs_y_min": 0.8,
+    "support_area_m2": 2.1255349707065854,
+    "triangle_count": 212,
+    "y_quantiles_5_50_95": [
+      -2.7265512188275656,
+      -2.7216986815134683,
+      -2.7170363346735633
+    ]
+  },
+  "white_infill_face": {
+    "bounds_filter_x": [
+      -5.6,
+      -5.05
+    ],
+    "bounds_filter_z": [
+      1.8,
+      2.35
+    ],
+    "normal_abs_y_min": 0.8,
+    "support_area_m2": 0.321755091112705,
+    "triangle_count": 50,
+    "y_quantiles_5_50_95": [
+      -2.8464520732561747,
+      -2.8350738286972046,
+      -2.826061578591665
+    ]
+  },
+  "adjacent_rear_brick_face": {
+    "bounds_filter_x": [
+      -7.35,
+      -6.2
+    ],
+    "bounds_filter_z": [
+      2.6,
+      4.2
+    ],
+    "normal_abs_y_min": 0.8,
+    "support_area_m2": 1.8487948805659362,
+    "triangle_count": 207,
+    "y_quantiles_5_50_95": [
+      -2.851320743560791,
+      -2.8373905022939048,
+      -2.8204821666081745
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "review_basis": [
+    "Amy Wu original room design boards",
+    "Your Shopping List source rows4\u201372",
+    "Independently registered Amy floor-plan fragments; u-right\u2192+scanY,v-down\u2192+scanX, no mirroring",
+    "Current build_furniture.py and placements.json"
+  ],
+  "scope": "Final source/style review against furniture-manifest.json23:00:34 and entry-manifest.json23:04:28; not metric geometry QA or vendor CAD equivalence.",
+  "rooms": [
+    {
+      "room": "upstairs-living",
+      "orientation": "Sofa back at brick -Y wall, faces +Y; media on opposite solid wall run. Registration matches Amy.",
+      "present": [
+        "Charcoal four-seat sofa concept",
+        "Pink/tan/terracotta graphic rug",
+        "White fluted console",
+        "Ivory oval coffee table",
+        "White/gold side tables"
+      ],
+      "priority_fixes": [
+        {
+          "item": "art-above-sofa",
+          "rows": [
+            18,
+            19
+          ],
+          "request": "Add gold-framed multicolor pink abstract art at fixed measured wall; concept appearance should be labeled. Row19 is quantity1 while row18 board artwork is quantity0.",
+          "impact": "high",
+          "status": "implemented in dimensioned concept model"
+        },
+        {
+          "item": "sconces",
+          "rows": [
+            20
+          ],
+          "request": "Add pair of folded/fan white shades and gold hardware beside focal art.",
+          "impact": "high",
+          "status": "implemented in dimensioned concept model"
+        }
+      ],
+      "optional": [
+        "Pink embroidered/floral paired pillow styles rather than two identical pillows",
+        "Amethyst throw blanket",
+        "Plant/side-table accessories"
+      ],
+      "confidence_note": "Existing sofa size is still an explicit estimate; exact selected artwork differs from board option."
+    },
+    {
+      "room": "her-office",
+      "orientation": "Vanity/chest on +Y wall; chair faces +Y. Loveseat at +X/-Y corner faces inward. Registration matches Amy.",
+      "present": [
+        "Natural oak vanity with gold hardware and mirror",
+        "Blush rolling vanity chair",
+        "White fluted chest",
+        "Ivory scalloped/channel loveseat with gold legs",
+        "Pink round rug",
+        "Teal side table"
+      ],
+      "priority_fixes": [
+        {
+          "item": "mini-chandelier",
+          "rows": [
+            35
+          ],
+          "request": "Add gold/brass branch chandelier centered over round rug; preserve measured ceiling.",
+          "impact": "high",
+          "status": "implemented in dimensioned concept model"
+        },
+        {
+          "item": "window-drapes",
+          "rows": [
+            39
+          ],
+          "request": "Add creamy sheer panels at two +X windows, pulled aside so openings remain visible.",
+          "impact": "high",
+          "status": "implemented in dimensioned concept model"
+        },
+        {
+          "item": "fireplace-art",
+          "rows": [
+            38
+          ],
+          "request": "Add blush/cream/gold gold-framed art above existing fireplace; spec40\u00d730in.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        }
+      ],
+      "optional": [
+        "Vanity front fluting",
+        "Pink chair rounded/open back silhouette",
+        "Fine rug texture"
+      ],
+      "confidence_note": "Drape color text is incomplete in sheet; creamy sheer appearance comes from Amy board. No unselected PAX dimensions or position should be invented."
+    },
+    {
+      "room": "his-office",
+      "orientation": "Desk on +Y wall near rear -X end; desk chair faces +Y. Registration matches Amy.",
+      "present": [
+        "Walnut standing desk concept",
+        "Black task chair",
+        "Light-brown/black abstract rug",
+        "Three dimensioned dark-wood bookcases",
+        "Slim wood/steel console",
+        "Two floor-lamp placeholders"
+      ],
+      "priority_fixes": [
+        {
+          "item": "black-dome-floor-lamp",
+          "rows": [
+            43
+          ],
+          "request": "Replace generic linen cone with black dome/hemisphere shade,65in high.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        },
+        {
+          "item": "led-rod-floor-lamp",
+          "rows": [
+            45
+          ],
+          "request": "Replace generic cone shade with thin vertical LED rod and low disk base,57in high.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        }
+      ],
+      "optional": [
+        "Broad irregular rug motifs rather than scattered flecks",
+        "Mesh chair back readability"
+      ],
+      "confidence_note": "Existing desk dimensions remain explicitly estimated; shelf quantity3 is from sheet even though board shows2."
+    },
+    {
+      "room": "basement-living-dining",
+      "orientation": "Sofa back toward -X, lounge faces +X; orange chairs turn inward; dining lies farther +X. Registration matches Amy.",
+      "present": [
+        "Beige boucle sofa",
+        "Two orange swivel-chair concepts",
+        "Black round nesting-table concepts",
+        "Ivory rug with charcoal organic lines",
+        "Brown six-place dining table",
+        "Six light chair concepts",
+        "Wood side table and black lamp"
+      ],
+      "priority_fixes": [
+        {
+          "item": "sofa-back",
+          "rows": [
+            48
+          ],
+          "request": "Use rounded arms and channel/scalloped back rather than plain box back.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        },
+        {
+          "item": "orange-swivel-chairs",
+          "rows": [
+            50
+          ],
+          "request": "Use curved tub/wraparound back rather than rectangular backs.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        },
+        {
+          "item": "dining-chair-color",
+          "rows": [
+            55
+          ],
+          "request": "Warm material toward camel selected in sheet.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        }
+      ],
+      "optional": [
+        "Black-framed orange window-light dining art row56,0.75\u00d71m; exact wall provisional",
+        "Subtle marble veins"
+      ],
+      "confidence_note": "Round nesting-table footprint inconsistent in retailer spec and remains flagged. Divider is the only supported dark drape position; do not invent a separate basement window wall just because board presents curtains behind sofa."
+    },
+    {
+      "room": "bedroom-flex",
+      "orientation": "Dark walnut king headboard against -Y; bed foot toward +Y; dresser opposite. Registration matches Amy.",
+      "present": [
+        "Arched walnut/cane bedframe",
+        "Oat bedding with moss top throw and teal lumbar",
+        "Natural nightstands",
+        "Two lamp concepts",
+        "Muted traditional green rug",
+        "Biscotti dresser",
+        "Sepia-ebony divider"
+      ],
+      "priority_fixes": [
+        {
+          "item": "nightstand-lamp-shades",
+          "rows": [
+            67
+          ],
+          "request": "Tall narrow cylindrical natural/linen shades rather than generic cones.",
+          "impact": "medium",
+          "status": "implemented in dimensioned concept model"
+        }
+      ],
+      "optional": [
+        "Muted teal/gold floral lumbar texture",
+        "Traditional rug motifs",
+        "Moss textile woven surface"
+      ],
+      "confidence_note": "Moss top surface should be labeled throw, not duvet: row64 duvet cover is Oat Chambray,row72 Fresh Moss throw. Divider moved for dimensioned fit; clearance/ceiling limits remain flagged rather than concealed. Full-size118-inch dresser is separate optional/proposed layer; default furniture scene excludes it pending fit confirmation."
+    },
+    {
+      "room": "music-gym",
+      "orientation": "Enclosed former bedroom is music/gym per revised email, not sleeping room.",
+      "present": [
+        "4\u00d76ft rug concept"
+      ],
+      "priority_fixes": [],
+      "optional": [
+        "Gym/instrument equipment only if actual user equipment evidence is available"
+      ],
+      "confidence_note": "Source does not supply equipment specifications; inventing bulky equipment could falsify fit."
+    },
+    {
+      "room": "entry",
+      "orientation": "Exact furnishing location is not shown by source plan.",
+      "present": [
+        "Gold/glass22-inch console",
+        "24\u00d716-inch beveled faceted mirror",
+        "Exact-sized natural/cane shoe cabinet",
+        "2\u00d73ft red/sage patchwork rug concept"
+      ],
+      "priority_fixes": [],
+      "optional": [
+        "Gold22in console",
+        "24\u00d716in faceted mirror",
+        "Natural cane shoe cabinet",
+        "2\u00d73ft patchwork boho red rug"
+      ],
+      "confidence_note": "Entry staging added as separate entry-design.glb/.blend optional layer. All positions provisional because source plan has no entry placements. No final wallpaper or paint selection implied. Stairvoid clearance0.540m and console-to-cabinet passage1.814m validated."
+    }
+  ],
+  "overall": "Key registered facing directions and high-impact source style details now agree with Amy. Living artwork/sconces, her-office chandelier/window sheers/fireplace art, distinctive lamp shapes, rounded/channel lounge furnishings and camel dining chairs are implemented. Exact vendor shapes/textures remain simplified; unmeasured existing furniture and provisional entry/divider/dresser statuses stay explicit.",
+  "implemented_artifacts": [
+    "/workspace/apartment-furniture/furniture.glb",
+    "/workspace/apartment-furniture/furniture-manifest.json",
+    "/workspace/apartment-furniture/proposed-dresser.glb",
+    "/workspace/design-fidelity/entry-design.glb",
+    "/workspace/design-fidelity/entry-manifest.json"
+  ],
+  "entry_grounding_verified": {
+    "entry_floor_z_m": 1.535,
+    "uniform_parent_correction_m": -0.04,
+    "asset_stamp": "2026-10-07 23:15:33 UTC",
+    "source": "plate-geometry.json living architecture_floor"
+  }
+}

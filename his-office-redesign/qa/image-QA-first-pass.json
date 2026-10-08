@@ -1,0 +1,45 @@
+{
+  "method": "Independent visual comparison of each untouched generated original against its target model camera plus two companion model references. Selected product photos and canonical fit checks provide context. No image modified and no metric image validation claimed.",
+  "views": {
+    "a": {
+      "verdict": "PASS FOR CONCEPT VISUALIZATION",
+      "findings": [
+        "Room openings, window, two desk positions and inward fronts, chair facing, left ALEX and selected rug/art remain coherent with the target.",
+        "Honeywell head is flatter/thinner than modeled; low third wicker basket may be occluded by main chair. These remain appearance/occlusion qualifications, not metric validation."
+      ],
+      "original_output_sha256": "383623930942503de2ac114ae6c05e3d4fbd320a9c9d51de333d80b55ec125df",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "target_reference": "/workspace/his-office-redesign/model/renders/room-a.jpg"
+    },
+    "b": {
+      "verdict": "RETRY REQUIRED",
+      "findings": [
+        "Blue Geometric relocated above secondary desk rather than its modeled UPLIFT location.",
+        "Bold Blue added on white wall at left even though it belongs on opposite brick wall and is outside this camera crop.",
+        "These wall/position errors conflict with companion A/C."
+      ],
+      "original_output_sha256": "f8666fe8414cbbf36f87a900521de897fba1ee136f16dc7122ef1deb3f7f80b9",
+      "pixels": [
+        1505,
+        1045
+      ],
+      "target_reference": "/workspace/his-office-redesign/model/renders/room-b.jpg"
+    },
+    "c": {
+      "verdict": "CORRECT PROJECTING SILL DETAIL",
+      "findings": [
+        "Room wall/door/radiator/dresser/chair placement and closed arch remain coherent.",
+        "Generated brick sill below arch appears more pronounced/projecting beyond modeled front. Model already has a legitimate ~45mm bottom course under white infill; correction should retain that rim without a new raised hearth."
+      ],
+      "original_output_sha256": "ca558a8dededf98a96d55423768f776e155b5ade325cd34486fbc851ac773d75",
+      "pixels": [
+        1506,
+        1044
+      ],
+      "target_reference": "/workspace/his-office-redesign/model/generation-guides/room-c.jpg"
+    }
+  }
+}

@@ -1,0 +1,3940 @@
+{
+  "collections": [
+    {
+      "name": "01 Retained Scan \u2014 original scale",
+      "n_objects": 22,
+      "children": []
+    },
+    {
+      "name": "02 Conservative Architecture Repairs",
+      "n_objects": 104,
+      "children": []
+    },
+    {
+      "name": "03 Clean Measured Shell \u2014 inferred finishes",
+      "n_objects": 111,
+      "children": []
+    },
+    {
+      "name": "04 Preview Lights and Cameras",
+      "n_objects": 46,
+      "children": []
+    },
+    {
+      "name": "05 Observed Fixed Fixture Proxies",
+      "n_objects": 80,
+      "children": []
+    },
+    {
+      "name": "06 Unrecorded Utility Interiors \u2014 Listing Inference",
+      "n_objects": 15,
+      "children": []
+    },
+    {
+      "name": "08 Optional Large Dresser \u2014 clearance conflict",
+      "n_objects": 22,
+      "children": []
+    },
+    {
+      "name": "09 Presentation Window Backgrounds",
+      "n_objects": 4,
+      "children": []
+    },
+    {
+      "name": "Amy proposed furniture \u2014 registered placement",
+      "n_objects": 1097,
+      "children": []
+    },
+    {
+      "name": "Entry design \u2014 provisional placement",
+      "n_objects": 132,
+      "children": []
+    }
+  ],
+  "objects": [
+    {
+      "name": "architecture_ceiling \u2014 his-office",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -7.980000019073486,
+        -2.7899999618530273,
+        4.59499979019165
+      ],
+      "max": [
+        -3.0799999237060547,
+        0.3100000023841858,
+        4.59499979019165
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "architecture_ceiling \u2014 living",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.0799999237060547,
+        -2.809999942779541,
+        4.184999942779541
+      ],
+      "max": [
+        3.7300000190734863,
+        1.840000033378601,
+        4.184999942779541
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "architecture_ceiling \u2014 upper-kitchen",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -7.980000019073486,
+        0.3100000023841858,
+        4.514999866485596
+      ],
+      "max": [
+        -1.600000023841858,
+        2.6700000762939453,
+        4.514999866485596
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "architecture_floor \u2014 his-office",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -7.980000019073486,
+        -2.7899999618530273,
+        1.5750000476837158
+      ],
+      "max": [
+        -3.0799999237060547,
+        0.3100000023841858,
+        1.5750000476837158
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "architecture_floor \u2014 living",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.0799999237060547,
+        -2.809999942779541,
+        1.534999966621399
+      ],
+      "max": [
+        3.7300000190734863,
+        1.840000033378601,
+        1.534999966621399
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "architecture_floor \u2014 upper-kitchen",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -7.980000019073486,
+        0.3100000023841858,
+        1.565000057220459
+      ],
+      "max": [
+        -1.600000023841858,
+        2.6700000762939453,
+        1.565000057220459
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "basement-open wall0 segment.001",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -4.750515937805176,
+        -0.03999999910593033,
+        -1.3550000190734863
+      ],
+      "max": [
+        4.750515937805176,
+        0.03999999910593033,
+        1.3550000190734863
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "ceiling_underlay \u2014 basement-open",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -3.799999952316284,
+        -2.4800000190734863,
+        1.3250000476837158
+      ],
+      "max": [
+        7.849999904632568,
+        2.6700000762939453,
+        1.3250000476837158
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "ceiling_underlay \u2014 his-office",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -7.980000019073486,
+        -2.7899999618530273,
+        4.675000190734863
+      ],
+      "max": [
+        -3.0799999237060547,
+        0.3100000023841858,
+        4.675000190734863
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "ceiling_underlay \u2014 living",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -3.0799999237060547,
+        -2.809999942779541,
+        4.264999866485596
+      ],
+      "max": [
+        3.7300000190734863,
+        1.840000033378601,
+        4.264999866485596
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "ceiling_underlay \u2014 music-gym",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -7.800000190734863,
+        -2.6500000953674316,
+        1.3250000476837158
+      ],
+      "max": [
+        -3.799999952316284,
+        1.9500000476837158,
+        1.3250000476837158
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "ceiling_underlay \u2014 upper-kitchen",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -7.980000019073486,
+        0.3100000023841858,
+        4.59499979019165
+      ],
+      "max": [
+        -1.600000023841858,
+        2.6700000762939453,
+        4.59499979019165
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "floor_underlay \u2014 scan-floor-upper",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -8.130818367004395,
+        -3.028550863265991,
+        1.4900000095367432
+      ],
+      "max": [
+        7.906055450439453,
+        2.876805067062378,
+        1.4900000095367432
+      ],
+      "props": {
+        "evidence": "observed architectural extent with planar missing-surface continuation",
+        "confidence": "medium: local plane and extent estimated from scan"
+      }
+    },
+    {
+      "name": "HIS existing fireplace closed panel",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.619999885559082,
+        -2.7649998664855957,
+        1.5750000476837158
+      ],
+      "max": [
+        -5.0,
+        -2.7049999237060547,
+        2.3550000190734863
+      ],
+      "props": {
+        "confidence": "Center/opening width measured from raw scan wall orthographic; closed white panel form approximate"
+      }
+    },
+    {
+      "name": "HIS fireplace trim side",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.672500133514404,
+        -2.7300000190734863,
+        1.5550000667572021
+      ],
+      "max": [
+        -5.617499828338623,
+        -2.630000114440918,
+        2.4149999618530273
+      ],
+      "props": {}
+    },
+    {
+      "name": "HIS fireplace trim side.001",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.002500057220459,
+        -2.7300000190734863,
+        1.5550000667572021
+      ],
+      "max": [
+        -4.947499752044678,
+        -2.630000114440918,
+        2.4149999618530273
+      ],
+      "props": {}
+    },
+    {
+      "name": "HIS fireplace trim top",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.670000076293945,
+        -2.7300000190734863,
+        2.367500066757202
+      ],
+      "max": [
+        -4.949999809265137,
+        -2.630000114440918,
+        2.442499876022339
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::back",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.25395599007606506,
+        1.5750000476837158
+      ],
+      "max": [
+        -5.039052963256836,
+        0.2689560353755951,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::shelf",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        1.5789999961853027
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        1.5950000286102295
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::shelf.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        1.795792818069458
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        1.8117928504943848
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::shelf.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        2.0125856399536133
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        2.028585433959961
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::shelf.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        2.2293784618377686
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        2.245378255844116
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::shelf.004",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        2.446171283721924
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        2.4621710777282715
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::shelf.005",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        2.662964105606079
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        2.6789638996124268
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::side",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.05305290222168,
+        0.08454401791095734,
+        1.5750000476837158
+      ],
+      "max": [
+        -5.039052963256836,
+        0.26945602893829346,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-1::side.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.460947036743164,
+        0.08454398810863495,
+        1.5750000476837158
+      ],
+      "max": [
+        -5.44694709777832,
+        0.26945599913597107,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::back",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.25395599007606506,
+        1.5750000476837158
+      ],
+      "max": [
+        -4.604053020477295,
+        0.2689560353755951,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::shelf",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        1.5789999961853027
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        1.5950000286102295
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::shelf.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        1.795792818069458
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        1.8117928504943848
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::shelf.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        2.0125856399536133
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        2.028585433959961
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::shelf.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        2.2293784618377686
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        2.245378255844116
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::shelf.004",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        2.446171283721924
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        2.4621710777282715
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::shelf.005",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        2.662964105606079
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        2.6789638996124268
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::side",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.618052959442139,
+        0.08454401791095734,
+        1.5750000476837158
+      ],
+      "max": [
+        -4.604053020477295,
+        0.26945602893829346,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-2::side.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.025947093963623,
+        0.08454398810863495,
+        1.5750000476837158
+      ],
+      "max": [
+        -5.011947154998779,
+        0.26945599913597107,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::back",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.25395599007606506,
+        1.5750000476837158
+      ],
+      "max": [
+        -4.169053077697754,
+        0.2689560353755951,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::shelf",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        1.5789999961853027
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        1.5950000286102295
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::shelf.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        1.795792818069458
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        1.8117928504943848
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::shelf.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        2.0125856399536133
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        2.028585433959961
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::shelf.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        2.2293784618377686
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        2.245378255844116
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::shelf.004",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        2.446171283721924
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        2.4621710777282715
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::shelf.005",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        2.662964105606079
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        2.6789638996124268
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::side",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.183053016662598,
+        0.08454401791095734,
+        1.5750000476837158
+      ],
+      "max": [
+        -4.169053077697754,
+        0.26945602893829346,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-3::side.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.590947151184082,
+        0.08454398810863495,
+        1.5750000476837158
+      ],
+      "max": [
+        -4.576947212219238,
+        0.26945599913597107,
+        2.6839640140533447
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-floor-lamp::low black disk base",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.059999942779541,
+        -0.015000000596046448,
+        1.5750000476837158
+      ],
+      "max": [
+        -3.9000000953674316,
+        0.14499999582767487,
+        1.6050000190734863
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-floor-lamp::slim LED upright",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -3.989000082015991,
+        0.05549999698996544,
+        1.6150001287460327
+      ],
+      "max": [
+        -3.9709999561309814,
+        0.07449999451637268,
+        3.0227999687194824
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-bookcase-floor-lamp::warm LED strip",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -3.9839999675750732,
+        0.07449999451637268,
+        1.627500057220459
+      ],
+      "max": [
+        -3.9760000705718994,
+        0.07750000059604645,
+        3.0202999114990234
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-desk-floor-lamp::black dome shade",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.835000038146973,
+        -0.5149999856948853,
+        3.138500213623047
+      ],
+      "max": [
+        -7.585000038146973,
+        -0.26499998569488525,
+        3.2260000705718994
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-desk-floor-lamp::black weighted disk base",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.789999961853027,
+        -0.4699999690055847,
+        1.5750000476837158
+      ],
+      "max": [
+        -7.630000114440918,
+        -0.3100000023841858,
+        1.623000144958496
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-desk-floor-lamp::gold dome underside",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.824999809265137,
+        -0.5049999952316284,
+        3.140500068664551
+      ],
+      "max": [
+        -7.595000267028809,
+        -0.2749999761581421,
+        3.1484999656677246
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-desk-floor-lamp::slim black floor-lamp stem",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.718999862670898,
+        -0.39899998903274536,
+        1.6150000095367432
+      ],
+      "max": [
+        -7.701000213623047,
+        -0.38099998235702515,
+        3.188500165939331
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-desk-floor-lamp::warm concealed bulb",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.730000019073486,
+        -0.4099999964237213,
+        3.0985000133514404
+      ],
+      "max": [
+        -7.690000057220459,
+        -0.3699999749660492,
+        3.1545002460479736
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office wall0 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -7.9800004959106445,
+        -2.8399999141693115,
+        1.5350000858306885
+      ],
+      "max": [
+        -3.080000162124634,
+        -2.740000009536743,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall1 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.129999876022339,
+        -2.7899999618530273,
+        1.5350000858306885
+      ],
+      "max": [
+        -3.0299999713897705,
+        -2.6999998092651367,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall1 segment.001",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.129999876022339,
+        -2.700000047683716,
+        1.534999966621399
+      ],
+      "max": [
+        -3.0299999713897705,
+        -1.899999976158142,
+        1.5549999475479126
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": true
+      }
+    },
+    {
+      "name": "his-office wall1 segment.002",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.129999876022339,
+        -2.700000047683716,
+        3.7749998569488525
+      ],
+      "max": [
+        -3.0299999713897705,
+        -1.899999976158142,
+        4.634999752044678
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": true
+      }
+    },
+    {
+      "name": "his-office wall1 segment.003",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.129999876022339,
+        -1.899999976158142,
+        1.5350000858306885
+      ],
+      "max": [
+        -3.0299999713897705,
+        -1.350000023841858,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall2 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.7799999713897705,
+        -1.4000000953674316,
+        1.5350000858306885
+      ],
+      "max": [
+        -3.080000162124634,
+        -1.2999999523162842,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall3 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.8299999237060547,
+        -1.350000023841858,
+        1.5350000858306885
+      ],
+      "max": [
+        -3.7300000190734863,
+        0.3100000023841858,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall4 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -7.980000019073486,
+        0.2599998116493225,
+        1.5350000858306885
+      ],
+      "max": [
+        -3.7800002098083496,
+        0.3600001931190491,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall5 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        0.029999999329447746,
+        1.5350000858306885
+      ],
+      "max": [
+        -7.929999828338623,
+        0.3100000023841858,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall5 segment.001",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        -0.9800000190734863,
+        1.5350000858306885
+      ],
+      "max": [
+        -7.929999828338623,
+        0.030000003054738045,
+        2.375
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": true
+      }
+    },
+    {
+      "name": "his-office wall5 segment.002",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        -0.9800000190734863,
+        4.224999904632568
+      ],
+      "max": [
+        -7.929999828338623,
+        0.030000003054738045,
+        4.634999752044678
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": true
+      }
+    },
+    {
+      "name": "his-office wall5 segment.003",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        -1.6299999952316284,
+        1.5350000858306885
+      ],
+      "max": [
+        -7.929999828338623,
+        -0.9799999594688416,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office wall5 segment.004",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        -2.549999952316284,
+        1.534999966621399
+      ],
+      "max": [
+        -7.929999828338623,
+        -1.6299998760223389,
+        1.5549999475479126
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": true
+      }
+    },
+    {
+      "name": "his-office wall5 segment.005",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        -2.549999952316284,
+        3.7749998569488525
+      ],
+      "max": [
+        -7.929999828338623,
+        -1.6299998760223389,
+        4.634999752044678
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": true
+      }
+    },
+    {
+      "name": "his-office wall5 segment.006",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        -2.7899999618530273,
+        1.5350000858306885
+      ],
+      "max": [
+        -7.929999828338623,
+        -2.5500001907348633,
+        4.635000228881836
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "his-office-chair::arm",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.132299900054932,
+        -1.267899990081787,
+        2.080000162124634
+      ],
+      "max": [
+        -7.017300128936768,
+        -0.7720999717712402,
+        2.3500001430511475
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::arm.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.542700290679932,
+        -1.267899990081787,
+        2.080000162124634
+      ],
+      "max": [
+        -6.427700519561768,
+        -0.7720999717712402,
+        2.3500001430511475
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::back",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.094900131225586,
+        -1.3078999519348145,
+        2.0399999618530273
+      ],
+      "max": [
+        -6.465100288391113,
+        -1.1879000663757324,
+        2.7100000381469727
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.526200294494629,
+        -1.0410000085830688,
+        1.5889999866485596
+      ],
+      "max": [
+        -6.44420051574707,
+        -0.9589999914169312,
+        1.6710000038146973
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster arm",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.7816572189331055,
+        -1.0160000324249268,
+        1.6490861177444458
+      ],
+      "max": [
+        -6.490242958068848,
+        -0.9839999675750732,
+        1.7109140157699585
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster arm.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.795729637145996,
+        -1.0065202713012695,
+        1.6490861177444458
+      ],
+      "max": [
+        -6.675243377685547,
+        -0.7194802761077881,
+        1.7109140157699585
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster arm.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.023823261260986,
+        -1.0139182806015015,
+        1.6490861177444458
+      ],
+      "max": [
+        -6.7692551612854,
+        -0.8167407512664795,
+        1.7109140157699585
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster arm.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.023823261260986,
+        -1.1832592487335205,
+        1.6490861177444458
+      ],
+      "max": [
+        -6.7692551612854,
+        -0.9860816597938538,
+        1.7109140157699585
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster arm.004",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.795729160308838,
+        -1.280519723892212,
+        1.6490861177444458
+      ],
+      "max": [
+        -6.675243854522705,
+        -0.9934797286987305,
+        1.7109140157699585
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.7299017906188965,
+        -0.7606285810470581,
+        1.5889999866485596
+      ],
+      "max": [
+        -6.647902011871338,
+        -0.6786285638809204,
+        1.6710000038146973
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.059498310089111,
+        -0.867720901966095,
+        1.5889999866485596
+      ],
+      "max": [
+        -6.977498531341553,
+        -0.7857208847999573,
+        1.6710000038146973
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.059498310089111,
+        -1.214279055595398,
+        1.5889999866485596
+      ],
+      "max": [
+        -6.977498531341553,
+        -1.1322790384292603,
+        1.6710000038146973
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::caster.004",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.7299017906188965,
+        -1.3213714361190796,
+        1.5889999866485596
+      ],
+      "max": [
+        -6.647902011871338,
+        -1.239371418952942,
+        1.6710000038146973
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::mesh lumbar",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.021200180053711,
+        -1.2051000595092773,
+        2.190000057220459
+      ],
+      "max": [
+        -6.538800239562988,
+        -1.1700999736785889,
+        2.440000057220459
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::pedestal",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.805000305175781,
+        -1.024999976158142,
+        1.6000001430511475
+      ],
+      "max": [
+        -6.755000114440918,
+        -0.9750000238418579,
+        1.9500000476837158
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-office-chair::seat",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.081500053405762,
+        -1.2798000574111938,
+        1.965000033378601
+      ],
+      "max": [
+        -6.4785003662109375,
+        -0.6901999711990356,
+        2.1050000190734863
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.8745036125183105,
+        -1.3794996738433838,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.724069118499756,
+        -1.3018665313720703,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.101275444030762,
+        -1.4031225442886353,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.913948059082031,
+        -1.2922085523605347,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.609286785125732,
+        -1.586620569229126,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.5044331550598145,
+        -1.5467848777770996,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.929015636444092,
+        -0.6887790560722351,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.721476078033447,
+        -0.5849207043647766,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.004",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.149791240692139,
+        -0.608647882938385,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.0402045249938965,
+        -0.5310612320899963,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.005",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.383537292480469,
+        -1.36344313621521,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.208101272583008,
+        -1.3407647609710693,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.006",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.448631286621094,
+        -1.6409595012664795,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.24204158782959,
+        -1.5331838130950928,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.007",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.079192161560059,
+        -0.18923167884349823,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.909745216369629,
+        -0.03807444870471954,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.008",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.3899078369140625,
+        -1.9074347019195557,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.3218488693237305,
+        -1.8591034412384033,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.009",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.4895100593566895,
+        -1.7204864025115967,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.286365985870361,
+        -1.6950485706329346,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.010",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.798396110534668,
+        -2.1381280422210693,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.595574378967285,
+        -2.0609400272369385,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.011",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.547023296356201,
+        -1.646740436553955,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.3297247886657715,
+        -1.5233237743377686,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.012",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.448781967163086,
+        -1.4989289045333862,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.381450653076172,
+        -1.3392430543899536,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.013",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.102869987487793,
+        -2.0162103176116943,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.048069000244141,
+        -1.8848061561584473,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.014",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.203986167907715,
+        -1.6305538415908813,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.102254867553711,
+        -1.5243240594863892,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.015",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.982694625854492,
+        -1.2656605243682861,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.8627214431762695,
+        -1.1223008632659912,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.016",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.7051215171813965,
+        -0.18070653080940247,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.508800983428955,
+        -0.10007473081350327,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.017",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.1583571434021,
+        -0.6121795773506165,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.97191858291626,
+        -0.5707935690879822,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.018",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.787569999694824,
+        -2.091459274291992,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.724020957946777,
+        -1.9483976364135742,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.019",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.442378997802734,
+        -0.6162790060043335,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.299959182739258,
+        -0.5720747709274292,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.020",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.079809665679932,
+        -2.2877373695373535,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.85060453414917,
+        -2.2078871726989746,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.021",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.2783074378967285,
+        -0.3301701545715332,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.049026012420654,
+        -0.2759324312210083,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.022",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.06450080871582,
+        -0.6721808314323425,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.994962692260742,
+        -0.5947230458259583,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.023",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.881448745727539,
+        -1.4121581315994263,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.819489479064941,
+        -1.368900179862976,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.024",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.198922157287598,
+        -1.2024056911468506,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.029533386230469,
+        -1.162506341934204,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.025",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.4742631912231445,
+        -0.7160327434539795,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.269835472106934,
+        -0.6601033210754395,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.026",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.2644758224487305,
+        -0.819279670715332,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.126572608947754,
+        -0.7927649021148682,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.027",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.046762943267822,
+        -1.5562435388565063,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.919610500335693,
+        -1.4698785543441772,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.028",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.132391929626465,
+        -0.3556344509124756,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.9475202560424805,
+        -0.2672233581542969,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.029",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.751533508300781,
+        -1.7173784971237183,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.602252960205078,
+        -1.6438020467758179,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.030",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.543243885040283,
+        -0.9844430685043335,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.462188243865967,
+        -0.8209613561630249,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.031",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.661202430725098,
+        -1.68146550655365,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.451519012451172,
+        -1.626552700996399,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.032",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.831020355224609,
+        -1.2744390964508057,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.7657060623168945,
+        -1.1583735942840576,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.033",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.686290264129639,
+        -2.430544853210449,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.574489116668701,
+        -2.3707656860351562,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.034",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.532261371612549,
+        -1.2964253425598145,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.321178913116455,
+        -1.1775271892547607,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.035",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.901721954345703,
+        -1.6659767627716064,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.799200057983398,
+        -1.5480055809020996,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.036",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.400742530822754,
+        -2.2278695106506348,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.327428817749023,
+        -2.1326804161071777,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.037",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.357973575592041,
+        -1.2779834270477295,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.2350945472717285,
+        -1.1320099830627441,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.038",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.551797389984131,
+        -2.4349400997161865,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.497284412384033,
+        -2.392085313796997,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.039",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.147645950317383,
+        -1.1089415550231934,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.92465877532959,
+        -0.9811434745788574,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.040",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.602357864379883,
+        -0.11243116110563278,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.52897834777832,
+        -0.03370893746614456,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.041",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.2084269523620605,
+        -0.7863147854804993,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.108520984649658,
+        -0.638094961643219,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.042",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.565614700317383,
+        -0.7054821848869324,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.368070602416992,
+        -0.5568922162055969,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.043",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.799797534942627,
+        -0.08100193738937378,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.625392436981201,
+        -0.05621367320418358,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.044",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.53680419921875,
+        -1.224448800086975,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.337636947631836,
+        -1.0596917867660522,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.045",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.249038219451904,
+        -2.107102394104004,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.078938007354736,
+        -2.018592357635498,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.046",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.939939975738525,
+        -0.08036977797746658,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.781623363494873,
+        -0.055089645087718964,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.047",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.103518009185791,
+        -0.7116832733154297,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.926564693450928,
+        -0.5784279108047485,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.048",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.044132709503174,
+        -1.633484125137329,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.8943095207214355,
+        -1.5954978466033936,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.049",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.690075874328613,
+        -1.4932758808135986,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.6245012283325195,
+        -1.391392707824707,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.050",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.505073547363281,
+        -2.295295238494873,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.395171165466309,
+        -2.2355637550354004,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.051",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.255796909332275,
+        -0.9405618906021118,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.139587879180908,
+        -0.8050112724304199,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.052",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.21201229095459,
+        -0.5537183880805969,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.062572479248047,
+        -0.4448609948158264,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.053",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.353117942810059,
+        -1.7957404851913452,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.275107383728027,
+        -1.7470570802688599,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.054",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.824479103088379,
+        -0.31134021282196045,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.673736572265625,
+        -0.23787343502044678,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.055",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.346700668334961,
+        -0.4707340896129608,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.170389175415039,
+        -0.3036980926990509,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.056",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.043826580047607,
+        -2.2893190383911133,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.8702569007873535,
+        -2.265937328338623,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.057",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.524084091186523,
+        -1.0947765111923218,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.362642288208008,
+        -1.033617615699768,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.058",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.311944961547852,
+        -2.110823392868042,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.15172004699707,
+        -1.9808298349380493,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.059",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.808461666107178,
+        -1.5429234504699707,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.672266483306885,
+        -1.3929550647735596,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.060",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.386042594909668,
+        -1.0040078163146973,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.165831565856934,
+        -0.9022440910339355,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.061",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.2665629386901855,
+        -1.9998003244400024,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.086153507232666,
+        -1.9378877878189087,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.062",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.205543518066406,
+        -0.6082139611244202,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.143068313598633,
+        -0.5733186602592468,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.063",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.560363292694092,
+        -2.350055694580078,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.406620502471924,
+        -2.190561294555664,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.064",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.026367664337158,
+        -0.9870097041130066,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.926783084869385,
+        -0.8593596816062927,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.065",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.692465782165527,
+        -1.0448366403579712,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.544245719909668,
+        -0.9298542141914368,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.066",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.341948986053467,
+        -1.3852399587631226,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.21669340133667,
+        -1.2465115785598755,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.067",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.609539031982422,
+        -2.418588161468506,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.512375831604004,
+        -2.3410491943359375,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.068",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.666075706481934,
+        -1.8089138269424438,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.451848030090332,
+        -1.7853807210922241,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.069",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.862280368804932,
+        -0.3348046839237213,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.803048610687256,
+        -0.23790571093559265,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.070",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -5.125758171081543,
+        -0.31123870611190796,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.0045576095581055,
+        -0.22585110366344452,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.071",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.458854675292969,
+        -2.307562828063965,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.262075424194336,
+        -2.231978416442871,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.072",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.223799705505371,
+        -1.4871448278427124,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.034189224243164,
+        -1.338006854057312,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.073",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.177264213562012,
+        -0.4026205539703369,
+        1.5864999294281006
+      ],
+      "max": [
+        -5.948234558105469,
+        -0.23895682394504547,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.074",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.276539325714111,
+        -1.5823078155517578,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.192859172821045,
+        -1.5476088523864746,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.075",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.80753755569458,
+        -2.378307819366455,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.617370128631592,
+        -2.3352179527282715,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.076",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.880886554718018,
+        -2.32741641998291,
+        1.5864999294281006
+      ],
+      "max": [
+        -6.687406063079834,
+        -2.274834156036377,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.077",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.906899929046631,
+        -1.9828581809997559,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.708909511566162,
+        -1.9029686450958252,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.078",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -4.611669063568115,
+        -1.025390625,
+        1.5864999294281006
+      ],
+      "max": [
+        -4.426431179046631,
+        -0.9793884754180908,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::abstract fleck.079",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.574711322784424,
+        -1.7177963256835938,
+        1.5864999294281006
+      ],
+      "max": [
+        -7.357772350311279,
+        -1.6186509132385254,
+        1.5915000438690186
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-rug::woven rug",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.801199913024902,
+        -2.576200008392334,
+        1.5759999752044678
+      ],
+      "max": [
+        -3.8388001918792725,
+        0.11619997024536133,
+        1.5859999656677246
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-slim-console::lower shelf",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.200379848480225,
+        -2.679999828338623,
+        1.9225000143051147
+      ],
+      "max": [
+        -6.199619770050049,
+        -2.4200000762939453,
+        1.9475001096725464
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-slim-console::steel frame",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.180857181549072,
+        -2.659299850463867,
+        1.5750000476837158
+      ],
+      "max": [
+        -7.159857273101807,
+        -2.6382999420166016,
+        2.365000009536743
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-slim-console::steel frame.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.180857181549072,
+        -2.461699962615967,
+        1.5750000476837158
+      ],
+      "max": [
+        -7.159857273101807,
+        -2.440700054168701,
+        2.365000009536743
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-slim-console::steel frame.002",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.240142345428467,
+        -2.659299850463867,
+        1.5750000476837158
+      ],
+      "max": [
+        -6.219142436981201,
+        -2.6382999420166016,
+        2.365000009536743
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-slim-console::steel frame.003",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.240142345428467,
+        -2.461699962615967,
+        1.5750000476837158
+      ],
+      "max": [
+        -6.219142436981201,
+        -2.440700054168701,
+        2.365000009536743
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-slim-console::top",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.200379848480225,
+        -2.679999828338623,
+        2.325000047683716
+      ],
+      "max": [
+        -6.199619770050049,
+        -2.4200000762939453,
+        2.365000009536743
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::keyboard",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.990000247955322,
+        -0.26500001549720764,
+        2.3414998054504395
+      ],
+      "max": [
+        -6.570000171661377,
+        -0.13499997556209564,
+        2.3585000038146973
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::monitor",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.140000343322754,
+        0.11699997633695602,
+        2.434999942779541
+      ],
+      "max": [
+        -6.420000076293945,
+        0.15500003099441528,
+        2.8350000381469727
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::monitor stand",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.795000076293945,
+        0.1210000067949295,
+        2.3350000381469727
+      ],
+      "max": [
+        -6.765000343322754,
+        0.1510000079870224,
+        2.4749999046325684
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::screen",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.125,
+        0.10649996995925903,
+        2.4514999389648438
+      ],
+      "max": [
+        -6.435000419616699,
+        0.11550003290176392,
+        2.81850004196167
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::standing desk column",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.266499996185303,
+        -0.13999995589256287,
+        1.600000023841858
+      ],
+      "max": [
+        -6.201500415802002,
+        -0.04999994859099388,
+        2.309999942779541
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::standing desk column.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.358500003814697,
+        -0.14000004529953003,
+        1.600000023841858
+      ],
+      "max": [
+        -7.2935004234313965,
+        -0.050000037997961044,
+        2.309999942779541
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::standing desk foot",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -6.266499996185303,
+        -0.39249998331069946,
+        1.587499976158142
+      ],
+      "max": [
+        -6.201500415802002,
+        0.20250006020069122,
+        1.6325000524520874
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::standing desk foot.001",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.358500003814697,
+        -0.3925000727176666,
+        1.587499976158142
+      ],
+      "max": [
+        -7.2935004234313965,
+        0.20249997079372406,
+        1.6325000524520874
+      ],
+      "props": {}
+    },
+    {
+      "name": "his-standing-desk::top",
+      "collections": [
+        "Amy proposed furniture \u2014 registered placement"
+      ],
+      "min": [
+        -7.480000019073486,
+        -0.4450000524520874,
+        2.2849998474121094
+      ],
+      "max": [
+        -6.080000400543213,
+        0.2550000548362732,
+        2.3350000381469727
+      ],
+      "props": {}
+    },
+    {
+      "name": "living wall0 segment",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -3.080298662185669,
+        -2.859999179840088,
+        1.494999885559082
+      ],
+      "max": [
+        3.6202986240386963,
+        -2.720000743865967,
+        4.224999904632568
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "living wall0 segment.001",
+      "collections": [
+        "02 Conservative Architecture Repairs"
+      ],
+      "min": [
+        -3.350059747695923,
+        -0.03999999910593033,
+        -1.3650000095367432
+      ],
+      "max": [
+        3.350059747695923,
+        0.03999999910593033,
+        1.3650000095367432
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "Mesh_0",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.903974533081055,
+        -2.9236435890197754,
+        -1.7979331016540527
+      ],
+      "max": [
+        8.378616333007812,
+        2.8555140495300293,
+        1.419952392578125
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_1",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.464596748352051,
+        -2.665548086166382,
+        -1.6031413078308105
+      ],
+      "max": [
+        8.467211723327637,
+        2.8834004402160645,
+        1.433436393737793
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_10",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -3.8118906021118164,
+        -2.2173705101013184,
+        -1.5669913291931152
+      ],
+      "max": [
+        8.485538482666016,
+        2.7895846366882324,
+        1.5538184642791748
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_11",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.377690315246582,
+        -2.9582366943359375,
+        1.3606419563293457
+      ],
+      "max": [
+        8.335460662841797,
+        2.8756370544433594,
+        4.62144136428833
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_12",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.418842315673828,
+        -3.0149011611938477,
+        1.4400711059570312
+      ],
+      "max": [
+        7.594943046569824,
+        2.8358006477355957,
+        4.6395978927612305
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_13",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.445853233337402,
+        -2.923144817352295,
+        1.3251078128814697
+      ],
+      "max": [
+        7.080487251281738,
+        2.7580766677856445,
+        4.720808029174805
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_14",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.408592224121094,
+        -2.925753116607666,
+        1.5178767442703247
+      ],
+      "max": [
+        7.968050003051758,
+        2.886261463165283,
+        4.737013816833496
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_15",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.42730712890625,
+        -2.9407830238342285,
+        1.3823530673980713
+      ],
+      "max": [
+        5.800161361694336,
+        2.886256217956543,
+        4.66312313079834
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_16",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.419723510742188,
+        -2.9993414878845215,
+        1.4486513137817383
+      ],
+      "max": [
+        6.709043502807617,
+        2.875028610229492,
+        4.73054313659668
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_17",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.988380432128906,
+        -2.937866687774658,
+        1.3196073770523071
+      ],
+      "max": [
+        8.173124313354492,
+        2.8710899353027344,
+        4.735881805419922
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_18",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.423561096191406,
+        -2.938560724258423,
+        1.4582948684692383
+      ],
+      "max": [
+        8.335460662841797,
+        2.8476881980895996,
+        4.725129127502441
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_19",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.368127822875977,
+        -2.8627431392669678,
+        1.3351508378982544
+      ],
+      "max": [
+        8.07374382019043,
+        2.844242572784424,
+        4.652649879455566
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_2",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.419783592224121,
+        -2.698105812072754,
+        -1.6660041809082031
+      ],
+      "max": [
+        8.485538482666016,
+        3.3755526542663574,
+        1.5311781167984009
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_20",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.427045822143555,
+        -2.9250731468200684,
+        1.3048754930496216
+      ],
+      "max": [
+        7.986014366149902,
+        2.886261463165283,
+        4.699419975280762
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_21",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -8.427570343017578,
+        -2.949352264404297,
+        1.4988842010498047
+      ],
+      "max": [
+        8.184900283813477,
+        2.883389472961426,
+        4.744903564453125
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_3",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.359094619750977,
+        -2.7067718505859375,
+        -1.5463676452636719
+      ],
+      "max": [
+        8.159381866455078,
+        2.5356545448303223,
+        1.3809318542480469
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_4",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.477156639099121,
+        -2.621300458908081,
+        -1.4591472148895264
+      ],
+      "max": [
+        7.982421875,
+        2.675410270690918,
+        1.3823530673980713
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_6",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.543474197387695,
+        -2.699411153793335,
+        -1.4649672508239746
+      ],
+      "max": [
+        8.00789737701416,
+        2.8752546310424805,
+        1.559200644493103
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_8",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.846538066864014,
+        -2.5026535987854004,
+        -1.4663796424865723
+      ],
+      "max": [
+        8.368474006652832,
+        3.3755526542663574,
+        1.3823531866073608
+      ],
+      "props": {}
+    },
+    {
+      "name": "Mesh_9",
+      "collections": [
+        "01 Retained Scan \u2014 original scale"
+      ],
+      "min": [
+        -7.884030818939209,
+        -2.600132703781128,
+        -1.4947420358657837
+      ],
+      "max": [
+        8.099043846130371,
+        2.841756820678711,
+        1.3823531866073608
+      ],
+      "props": {}
+    },
+    {
+      "name": "Sky outside window",
+      "collections": [
+        "09 Presentation Window Backgrounds"
+      ],
+      "min": [
+        -8.245999336242676,
+        -1.0499999523162842,
+        2.3499999046325684
+      ],
+      "max": [
+        -8.234000205993652,
+        0.09999999403953552,
+        4.25
+      ],
+      "props": {}
+    },
+    {
+      "name": "Upper burner",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.720000267028809,
+        0.5199999809265137,
+        2.5160000324249268
+      ],
+      "max": [
+        -5.579999923706055,
+        0.6599999666213989,
+        2.5340001583099365
+      ],
+      "props": {}
+    },
+    {
+      "name": "Upper burner.002",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.390000343322754,
+        0.5199999809265137,
+        2.5160000324249268
+      ],
+      "max": [
+        -5.25,
+        0.6599999666213989,
+        2.5340001583099365
+      ],
+      "props": {}
+    },
+    {
+      "name": "Upper cabinet box",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -7.150000095367432,
+        0.3500000238418579,
+        2.9700000286102295
+      ],
+      "max": [
+        -6.549999713897705,
+        0.7699999809265137,
+        3.6000001430511475
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper cabinet box.001",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -6.5,
+        0.3500000238418579,
+        2.9700000286102295
+      ],
+      "max": [
+        -5.899999618530273,
+        0.7699999809265137,
+        3.6000001430511475
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper cabinet box.002",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.300000190734863,
+        0.3500000238418579,
+        2.9700000286102295
+      ],
+      "max": [
+        -4.699999809265137,
+        0.7699999809265137,
+        3.6000001430511475
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper cabinet box.003",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -4.650000095367432,
+        0.3500000238418579,
+        2.9700000286102295
+      ],
+      "max": [
+        -4.049999713897705,
+        0.7699999809265137,
+        3.6000001430511475
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "upper connected hall and closet floor infill",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.130818367004395,
+        -3.028550863265991,
+        1.534999966621399
+      ],
+      "max": [
+        7.906055450439453,
+        2.876805067062378,
+        1.534999966621399
+      ],
+      "props": {
+        "confidence": "Floor extent observed in original mesh; flattened continuation inferred"
+      }
+    },
+    {
+      "name": "Upper cooking range",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.804999828338623,
+        0.41999998688697815,
+        1.565000057220459
+      ],
+      "max": [
+        -5.15500020980835,
+        1.100000023841858,
+        2.4650001525878906
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper cooking surface",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -5.809999942779541,
+        0.41499999165534973,
+        2.4700000286102295
+      ],
+      "max": [
+        -5.150000095367432,
+        1.1050000190734863,
+        2.509999990463257
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper kitchen lower run cabinet",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -7.300000190734863,
+        0.4099999964237213,
+        1.565000057220459
+      ],
+      "max": [
+        -3.8999998569488525,
+        1.0700000524520874,
+        2.424999952316284
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper kitchen lower run countertop",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -7.315000057220459,
+        0.39500001072883606,
+        2.424999952316284
+      ],
+      "max": [
+        -3.8849997520446777,
+        1.0850000381469727,
+        2.4750001430511475
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Upper kitchen refrigerator",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -3.1600000858306885,
+        0.4000000059604645,
+        1.5649998188018799
+      ],
+      "max": [
+        -2.140000104904175,
+        1.0800000429153442,
+        3.424999952316284
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "upper-kitchen wall9 segment.003",
+      "collections": [
+        "03 Clean Measured Shell \u2014 inferred finishes"
+      ],
+      "min": [
+        -8.029999732971191,
+        0.3099999725818634,
+        1.524999976158142
+      ],
+      "max": [
+        -7.929999828338623,
+        1.2300000190734863,
+        4.554999828338623
+      ],
+      "props": {
+        "confidence": "medium; measured wall with approximate opening trim",
+        "opening_preserved": false
+      }
+    },
+    {
+      "name": "Window glazing",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -7.986000061035156,
+        -0.9800000190734863,
+        2.380000114440918
+      ],
+      "max": [
+        -7.973999977111816,
+        0.030000001192092896,
+        4.230000019073486
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Window horizontal trim",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -8.020000457763672,
+        -1.024999976158142,
+        2.3575000762939453
+      ],
+      "max": [
+        -7.940000057220459,
+        0.07500001788139343,
+        2.4025001525878906
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Window horizontal trim.001",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -8.020000457763672,
+        -1.024999976158142,
+        3.2825000286102295
+      ],
+      "max": [
+        -7.940000057220459,
+        0.07500001788139343,
+        3.327500104904175
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Window horizontal trim.002",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -8.020000457763672,
+        -1.024999976158142,
+        4.207499980926514
+      ],
+      "max": [
+        -7.940000057220459,
+        0.07500001788139343,
+        4.252500057220459
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Window vertical trim",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -8.020000457763672,
+        -1.002500057220459,
+        2.3350000381469727
+      ],
+      "max": [
+        -7.940000057220459,
+        -0.9575000405311584,
+        4.275000095367432
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    },
+    {
+      "name": "Window vertical trim.001",
+      "collections": [
+        "05 Observed Fixed Fixture Proxies"
+      ],
+      "min": [
+        -8.020000457763672,
+        0.007499998435378075,
+        2.3350000381469727
+      ],
+      "max": [
+        -7.940000057220459,
+        0.05250000208616257,
+        4.275000095367432
+      ],
+      "props": {
+        "confidence": "fixture location observed; exact product shape approximated"
+      }
+    }
+  ]
+}
