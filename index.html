@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#182c27">
+  <link rel="icon" href="data:,">
+  <title>Apartment design studio</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #eef0e9; color: #182c27; font: 18px/1.6 system-ui, sans-serif; }
+    main { max-width: 960px; margin: auto; padding: 72px 24px; }
+    .eyebrow { text-transform: uppercase; letter-spacing: .16em; font-size: 13px; }
+    h1 { font-size: clamp(36px, 6vw, 64px); line-height: 1.1; margin: 16px 0; }
+    .intro { max-width: 620px; color: #50615b; }
+    nav { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin: 40px 0; }
+    a { color: inherit; }
+    .card { display: block; background: #fff; border: 1px solid #cad3ca; border-radius: 16px; padding: 28px; text-decoration: none; }
+    .card:hover { border-color: #326b55; }
+    a:focus-visible { outline: 3px solid #326b55; outline-offset: 5px; }
+    h2 { margin: 0 0 12px; font-size: 26px; }
+    .card p { color: #50615b; }
+    .open { font-weight: 650; }
+    footer { color: #50615b; font-size: 15px; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">Apartment design studio</p>
+    <h1>Explore the space.</h1>
+    <p class="intro">Walk through the measured apartment and explore the new office layout in interactive 3D.</p>
+    <nav aria-label="3D viewers">
+      <a class="card" href="./apartment-walkthrough/">
+        <h2>Whole apartment</h2>
+        <p>Explore both floors, jump between rooms, and compare the recorded scan with the proposed furniture layout.</p>
+        <span class="open">Open apartment viewer →</span>
+      </a>
+      <a class="card" href="./his-office-redesign/viewer-source/">
+        <h2>His office</h2>
+        <p>Inspect the new furnishings inside the measured room, choose a viewpoint, and walk through the design.</p>
+        <span class="open">Open office viewer →</span>
+      </a>
+    </nav>
+    <footer>Use a browser with WebGL enabled. Models may take a moment to load. Drag to orbit, scroll to zoom, or switch to Walk and use W A S D.</footer>
+  </main>
+</body>
+</html>

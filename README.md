@@ -59,6 +59,48 @@ orientation. Generated images illustrate appearance. Tight fits, door swings,
 closet internals, cat-tree reach and dresser wall fixing require field checks;
 the delivered review documents record the practical limits and assumptions.
 
+## View online with GitHub Pages
+
+The hosted viewer hub is [Apartment design studio](https://btesser.github.io/apartment-design-studio/).
+It provides the [whole-apartment viewer](https://btesser.github.io/apartment-design-studio/apartment-walkthrough/)
+and [office viewer](https://btesser.github.io/apartment-design-studio/his-office-redesign/viewer-source/).
+
+To enable deployment, select **Settings → Pages → Build and deployment → Source → GitHub Actions**
+in this repository. Push these changes to `main` (or run **Deploy viewers to GitHub Pages**
+from the Actions tab). After the workflow succeeds, the links above will be live.
+The workflow follows [GitHub's custom Pages workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+The build downloads only the viewers' Git LFS models and publishes the landing page,
+viewer code, vendored libraries and configured models to `_site/` (about 47 MiB).
+It fails if models are missing or still LFS pointers. Models and textures load from
+the same site; no CDN, Node install or application server is required.
+The original standalone HTML paths redirect to the hosted viewers on Pages;
+the archived offline HTML files remain available in the repository.
+
+To build and check the deployment locally with Python 3 and Git LFS:
+
+```sh
+git lfs pull --include="apartment-walkthrough/assets/**,his-office-redesign/viewer-source/assets/**" --exclude=""
+python3 scripts/test-pages.py
+python3 scripts/build-pages.py
+python3 -m http.server 8000 --directory _site
+```
+
+Open `http://localhost:8000/`. All links and viewer resources use relative paths,
+so the site also works under the repository prefix used by GitHub Pages.
+
+Optional browser smoke test (Node and the existing viewer's Playwright dependency):
+
+```sh
+npm install --prefix apartment-walkthrough
+./apartment-walkthrough/node_modules/.bin/playwright install chromium
+PLAYWRIGHT_MODULE=../apartment-walkthrough/node_modules/playwright/index.mjs node scripts/test-pages-browser.mjs
+```
+
+This serves `_site/` under `/apartment-design-studio/` and verifies both viewers,
+all 11 model layers, controls, legacy redirects and failed browser requests.
+Set `CHROMIUM_PATH` to use an existing Chrome/Chromium installation.
+
 ## Get the actual model and image files
 
 Large and binary design files use [Git LFS](https://git-lfs.com/). Install Git LFS
