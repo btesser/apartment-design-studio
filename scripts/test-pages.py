@@ -41,7 +41,7 @@ class PagesTests(unittest.TestCase):
                     self.assertTrue(target.is_file(), str(target))
             for viewer in pages.VIEWERS:
                 config = json.loads((site / viewer / "assets/config.json").read_text())
-                for asset in config["assets"].values():
+                for asset in pages.asset_names(config):
                     if asset:
                         self.assertEqual((site / viewer / "assets" / asset).read_bytes()[:4], b"glTF")
             self.assertTrue((site / ".nojekyll").exists())

@@ -44,10 +44,19 @@ try {
   for (const [label, api, expected, modeButton] of [
     ['Whole apartment', 'apartmentViewer', 8, '#walk-mode'],
     ['His office', 'officeViewer', 3, '#walk'],
+    ['Office alternatives', 'officeViewer', 3, '#walk'],
   ]) {
     await page.goto(base);
     await page.getByRole('link', { name: new RegExp(label) }).click();
     await page.waitForFunction(api => window[api]?.ready(), api, { timeout: 120000 });
+    if (label === 'Office alternatives') {
+      await page.locator('#overview').click();
+      assert.equal(await page.evaluate(() => window.officeViewer.state().variant), 'b-charcoal-slat');
+      assert.ok(Object.values(await page.evaluate(() => window.officeViewer.state().assets)).every(value => value === 'loaded'));
+      await page.selectOption('#variant', 'c-ink-studio');
+      await page.waitForFunction(() => window.officeViewer.ready() && window.officeViewer.state().variant === 'c-ink-studio', null, { timeout: 120000 });
+      assert.match(await page.locator('#model-source').getAttribute('href'), /^https:\/\/github.com\/btesser\/apartment-design-studio\/blob\/main\//);
+    }
     const state = await page.evaluate(api => window[api].state(), api);
     assert.equal(Object.keys(state.assets).length, expected);
     assert.ok(Object.values(state.assets).every(value => value === 'loaded'));
@@ -66,6 +75,8 @@ try {
     console.log(`${label}: all ${expected} model layers loaded; controls work under ${prefix}`);
   }
   for (const [from, to] of [
+    ['his-office-pinterest/his-office-viewer.html', 'his-office-pinterest/viewer-source/'],
+    ['his-office-pinterest/delivery/his-office-viewer.html', 'his-office-pinterest/viewer-source/'],
     ['apartment-walkthrough.html', 'apartment-walkthrough/'],
     ['apartment-v2/apartment-walkthrough.html', 'apartment-walkthrough/'],
     ['his-office-redesign/his-office-viewer.html', 'his-office-redesign/viewer-source/'],
@@ -79,7 +90,7 @@ try {
     await redirectPage.close();
   }
   assert.deepEqual(failures, []);
-  console.log('All four legacy redirects passed; no failed requests or browser errors.');
+  console.log('All six legacy redirects passed; no failed requests or browser errors.');
 } finally {
   await browser?.close();
   await new Promise(done => server.close(done));

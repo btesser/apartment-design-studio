@@ -20,7 +20,7 @@ jobs:
         with:
           lfs: false
       - name: Download viewer models from Git LFS
-        run: git lfs pull --include="apartment-walkthrough/assets/**,his-office-redesign/viewer-source/assets/**" --exclude=""
+        run: git lfs pull --include="apartment-walkthrough/assets/**,his-office-redesign/viewer-source/assets/**,his-office-pinterest/viewer-source/assets/**" --exclude=""
       - name: Check Pages packaging
         run: python3 scripts/test-pages.py
       - name: Build static site

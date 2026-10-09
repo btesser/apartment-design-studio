@@ -152,7 +152,7 @@ function updateVariantUI(){
   $('desk-note').textContent=config.desk.confidence+'; seated height in this model is '+Math.round(config.desk.operatingHeight*100)+' cm.';
   $('model-note').textContent=config.notes;
   $('inspect-product').replaceChildren(...(config.products||[]).map(item=>new Option(item.name,item.id)));updateProductInspection();
-  $('model-source').href=(window.OFFICE_EMBED?'':'../')+variant.model_source;$('model-source').textContent='Download '+variant.label+' Blender model';
+  $('model-source').href=new URL(variant.model_source,new URL(window.OFFICE_EMBED?'./':'../',location.href)).href;$('model-source').textContent='Download '+variant.label+' Blender model';
   $('model-hash').textContent='SHA-256: '+variant.model_sha256;
   $('desk-height-panel').hidden=!deskLift?.enabled;
   if(deskLift?.enabled){const[min,max]=deskLift.specification.heightRange_m;$('desk-height').min=String(min);$('desk-height').max=String(max);resetDeskHeight();}

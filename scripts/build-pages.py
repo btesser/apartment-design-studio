@@ -7,14 +7,21 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "_site"
-VIEWERS = ("apartment-walkthrough", "his-office-redesign/viewer-source")
+VIEWERS = ("apartment-walkthrough", "his-office-redesign/viewer-source", "his-office-pinterest/viewer-source")
 REDIRECTS = {
+    "his-office-pinterest/his-office-viewer.html": "./viewer-source/",
+    "his-office-pinterest/delivery/his-office-viewer.html": "../viewer-source/",
     "apartment-walkthrough.html": "./apartment-walkthrough/",
     "apartment-v2/apartment-walkthrough.html": "../apartment-walkthrough/",
     "his-office-redesign/his-office-viewer.html": "./viewer-source/",
     "his-office-redesign/delivery/his-office-viewer.html": "../viewer-source/",
 }
 LFS_HEADER = b"version https://git-lfs.github.com/spec/v1"
+
+
+def asset_names(config):
+    configs = [variant["config"] for variant in config["variants"]] if "variants" in config else [config]
+    return sorted({name for item in configs for name in item["assets"].values() if name})
 
 
 def runtime_files(root):
@@ -24,7 +31,7 @@ def runtime_files(root):
         paths.extend(base / name for name in ("index.html", "app.js", "style.css", "assets/config.json"))
         paths.extend(p.relative_to(root) for p in sorted((root / base / "vendor").rglob("*")) if p.is_file())
         config = json.loads((root / base / "assets/config.json").read_text())
-        for name in config["assets"].values():
+        for name in asset_names(config):
             if not name:
                 continue
             asset = Path(name)
@@ -57,6 +64,12 @@ def build(root=ROOT, output=OUTPUT):
         target = output / path
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(root / path, target)
+    # Link large editable source models to the repository, keeping Pages compact.
+    catalog_path = output / "his-office-pinterest/viewer-source/assets/config.json"
+    catalog = json.loads(catalog_path.read_text())
+    for variant in catalog["variants"]:
+        variant["model_source"] = "https://github.com/btesser/apartment-design-studio/blob/main/his-office-pinterest/" + variant["model_source"]
+    catalog_path.write_text(json.dumps(catalog, indent=2) + "\n")
     for path, destination in REDIRECTS.items():
         target = output / path
         target.parent.mkdir(parents=True, exist_ok=True)
